@@ -4,9 +4,7 @@ __pycache__/
 *$py.class
 
 #dont add 
-AllCESSeries.txt
-Series.txt
-Industries.txt
+resources/*.txt
 
 # C extensions
 *.so
