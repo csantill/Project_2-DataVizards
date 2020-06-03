@@ -1,25 +1,22 @@
 # US Unemployment Dashboard
 
 ## Team
-Zen Acar
-Gina Cameras
-Harini Rao
-Carlos Santillan
+Zen Acar, Gina Cameras, Harini Rao, Carlos Santillan
 
 ## Topic
 Our team will create a dashboard to visualize US unemployment trends to understand how COVID has affected unemployment for the following dimensions
-State
-Age
-Gender
-Industry
+* State
+* Age
+* Gender
+* Industry
 
 ## Datasets
 * State level - Unemployment Insurance Weekly Claims (2015 - Present)
-https://oui.doleta.gov/unemploy/claims.asp
+- https://oui.doleta.gov/unemploy/claims.asp
 * Industry level unemployment data
-https://download.bls.gov/pub/time.series/ce/
+- https://download.bls.gov/pub/time.series/ce/
 * Demographic level unemployment data
-https://download.bls.gov/pub/time.series/ln/
+- https://download.bls.gov/pub/time.series/ln/
 
 ## Inspiring Visualizations/links
 * https://coronavirus-resources.esri.com/datasets/esribizteam::us-weekly-unemployment-data
