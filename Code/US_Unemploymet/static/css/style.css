@@ -1,0 +1,14 @@
+.navbar-brand {
+    font-weight: bold;
+    padding: inherit;
+    margin-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: #4aaaa5;
+}
+
+.nav-item {
+    font-weight: bold;
+    font-size: 16;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
