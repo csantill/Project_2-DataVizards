@@ -1,0 +1,63 @@
+series_id,short_title
+CES0000000001,All employees
+CES0000000010,Women employees
+CES0500000001,All employees private
+CES0500000010,Women employees private
+CES0600000001,All employees goods-producing
+CES0600000010,Women employees goods-producing
+CES0700000001,All employees service-providing
+CES0700000010,Women employees service-providing
+CES0800000001,All employees private service-providing
+CES0800000010,Women employees private service-providing
+CES1000000001,All employees mining and logging
+CES1000000010,Women employees mining and logging
+CES2000000001,All employees construction
+CES2000000010,Women employees construction
+CES3000000001,All employees manufacturing
+CES3000000010,Women employees manufacturing
+CES3100000001,All employees durable goods
+CES3100000010,Women employees durable goods
+CES3200000001,All employees nondurable goods
+CES3200000010,Women employees nondurable goods
+CES4000000001,All employees trade transportation and utilities
+CES4000000010,Women employees trade transportation and utilities
+CES4200000001,All employees retail trade
+CES4200000010,Women employees retail trade
+CES4300000001,All employees transportation and warehousing
+CES4300000010,Women employees transportation and warehousing
+CES5000000001,All employees information
+CES5000000010,Women employees information
+CES5500000001,All employees financial activities
+CES5500000010,Women employees financial activities
+CES5552000001,All employees finance and insurance
+CES5553000001,All employees real estate and rental and leasing
+CES6000000001,All employees professional and business services
+CES6000000010,Women employees professional and business services
+CES6054000001,All employees professional and technical services
+CES6054000010,Women employees professional and technical services
+CES6055000001,All employees management of companies and enterprises
+CES6055000010,Women employees management of companies and enterprises
+CES6056000001,All employees administrative and waste services
+CES6056000010,Women employees administrative and waste services
+CES6500000001,All employees education and health services
+CES6500000010,Women employees education and health services
+CES6561000001,All employees educational services
+CES6561000010,Women employees educational services
+CES6562000001,All employees health care and social assistance
+CES6562000010,Women employees health care and social assistance
+CES7000000001,All employees leisure and hospitality
+CES7000000010,Women employees leisure and hospitality
+CES7071000001,All employees arts entertainment and recreation
+CES7071000010,Women employees arts entertainment and recreation
+CES7072000001,All employees accommodation and food services
+CES7072000010,Women employees accommodation and food services
+CES8000000001,All employees other services
+CES8000000010,Women employees other services
+CES9000000001,All employees government
+CES9000000010,Women employees government
+CES9091000001,All employees federal
+CES9091000010,Women employees federal
+CES9092000001,All employees state government
+CES9092000010,Women employees state government
+CES9093000001,All employees local government
+CES9093000010,Women employees local government
