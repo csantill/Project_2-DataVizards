@@ -17,7 +17,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.js"></script>
 
     <!--CSS Link-->
-    <!-- <link rel="stylesheet" href="/Users/zennureozbekacar/Desktop/proje-2-study/Code/US_Unemploymet/static/css/style.css"> -->
+    <script src="{{ url_for('static', filename='css/style.css') }}"></script>
+    <!-- <link rel="stylesheet" href="static/css/style.css"> -->
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
@@ -27,7 +29,6 @@
 </head>
 
 <body>
-
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #4aaaa5">
         <a class="navbar-brand" href="index.html"><i class="fa fa-fw fa-home"></i>US Unemployment</a>
@@ -50,14 +51,6 @@
     </nav>
 
 
-    <!-- <div class="navbar">
-        <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
-        <a href="#"><i class="fa fa-fw fa-search"></i> Search</a>
-        <a href="#"><i class="fa fa-fw fa-envelope"></i> Contact</a>
-        <a href="#"><i class="fa fa-fw fa-user"></i> Login</a>
-    </div> -->
-
-
     <div class="container">
         <div class="jumbotron">
             <div class="row">
@@ -66,10 +59,14 @@
                         <h5>State:</h5>
                         <select id="selDataset" onchange="optionChanged(this.value)"></select>
                     </div>
-                </div>
-                <div id="map"></div>
-            </div>
-
+                </div>            
+                <!-- <div class="col-md-2">
+                    <div class="well">
+                        <h5>State:</h5>
+                        <select id="selDataset" onchange="optionChanged(this.value)"></select>
+                    </div>
+                </div> -->
+                 <div id="map" style="height: 610px; width:100%"></div>
         </div>
 
         <div class="col-md-8">
@@ -82,22 +79,33 @@
 <!-- Footer -->
 <footer class="footer navbar-expand-lg navbar-dark text-center" style="background-color: #4aaaa5">
     <div class="footer-copyright">
-        <div class="top"> <span> © Copyright Data Vizards 2020</span>
+        <div class="top"> <span> © Copyright Data Vizards 2020?</span>
         </div>
     </div>
 </footer>
 
+<!-- Leaflet plotly -->
+<!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
+<!-- Leaflet JavaScript -->
+<script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.js"></script>
 
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<!-- Our JavaScript -->
-<script src="{{ url_for('static', filename='js/config.js') }}"></script>
-<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+<!-- <script src="{{ url_for('static', filename='js/us-states.js') }}"></script> -->
 
-  <!-- <script type="text/javascript" src="static/js/config.js"></script>
+  <!-- 
+    <script type="text/javascript" src="static/js/config.js"></script>
   <script type="text/javascript" src="static/js/logic.js"></script> -->
 <!-- Bootstrap JS -->
+
+
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+<!-- Our JavaScript -->
+<script src="{{ url_for('static', filename='js/config.js') }}"></script>
+<script src="{{ url_for('static', filename='js/us-states.js') }}"></script>
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+
 
 </html>
