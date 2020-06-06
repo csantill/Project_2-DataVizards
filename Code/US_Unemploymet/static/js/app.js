@@ -60,10 +60,44 @@ function createMap(stategeojson) {
     }).addTo(myMap);
 }
 
+
+function loadDropDown(dropPick,columns,defaultOptionName) {
+    let selectOpt = d3.select(dropPick);
+    let options = selectOpt.selectAll("option")
+    .data(columns)
+    .enter()
+    .append("option")
+    .attr("value", function(d) {
+      return d;
+    })
+    .text(function(d) {
+      return d;
+    });
+    options.property("selected", function(d){return d === defaultOptionName})
+       
+}
+
+function loadStates(data){
+
+    columns = []
+    data.forEach(element => {
+        columns.push(element.properties.NAME)
+    });
+    loadDropDown('#selState',columns,columns[0])
+}
+
+function loadYears(){
+    columns = ['2015','2016','2017','2018','2019','2020']
+    loadDropDown('#selYear',columns,columns[0])
+}
+
+
  function init(){
     // const queryUrl = "/api/states";
     // const data = await d3.json(queryUrl);
     //createMap();
+     loadStates(statesData.features);
+     loadYears();
      createFeatures(statesData.features);
 }
 

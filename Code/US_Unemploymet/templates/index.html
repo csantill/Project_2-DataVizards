@@ -31,7 +31,7 @@
 <body>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #4aaaa5">
-        <a class="navbar-brand" href="index.html"><i class="fa fa-fw fa-home"></i>US Unemployment</a>
+        <a class="navbar-brand" href="/"><i class="fa fa-fw fa-home"></i>US Unemployment</a>
         <button class="navbar-toggler border border-white" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -41,10 +41,10 @@
 
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="demographics.html">Demographics<span class="sr-only"></span></a>
+                    <a class="nav-link" href="/demographics/">Demographics<span class="sr-only"></span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="industry_stats.html">Industry</a>
+                    <a class="nav-link" href="/industry_stats/">Industry</a>
                 </li>
             </ul>
         </div>
@@ -55,10 +55,14 @@
         <div class="jumbotron">
             <div class="row">
                 <div class="col-md-2">
-                    <div class="well">
+                    <div class="states">
                         <h5>State:</h5>
-                        <select id="selDataset" onchange="optionChanged(this.value)"></select>
+                        <select id="selState" ></select>
                     </div>
+                    <div class="years">
+                        <h5>Year:</h5>
+                        <select id="selYear"></select>
+                    </div>                    
                 </div>            
                 <!-- <div class="col-md-2">
                     <div class="well">

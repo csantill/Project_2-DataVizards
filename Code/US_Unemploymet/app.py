@@ -30,10 +30,19 @@ app = Flask(__name__)
 def home():
     return render_template("index.html")
 
-@app.route("/api/states")
-def states_json():
-    print("hello")
-    return send_file('/static/js/us-states.geojson',mimetype='application/json')    
+@app.route("/demographics/")
+def demographics():
+    return render_template("demographics.html")
+
+@app.route("/industry_stats/")
+def industry_stats():
+    return render_template("industry_stats.html")
+
+
+# @app.route("/api/states")
+# def states_json():
+#     print("hello")
+#     return send_file('/static/js/us-states.geojson',mimetype='application/json')    
 
 if __name__ == "__main__":
     app.jinja_env.auto_reload = True
