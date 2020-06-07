@@ -12,11 +12,11 @@ Our team will create a dashboard to visualize US unemployment trends to understa
 
 ## Datasets
 * State level unemployment data (2015 - Present)
-https://oui.doleta.gov/unemploy/claims.asp (weekly | # of claims)
+  - https://oui.doleta.gov/unemploy/claims.asp (weekly | # of claims)
 * Industry level unemployment data
-https://download.bls.gov/pub/time.series/ce/ (monthly | number of people unemployed)
+   - https://download.bls.gov/pub/time.series/ce/ (monthly | # of people unemployed)
 * Demographic level unemployment data
-https://download.bls.gov/pub/time.series/ln/ (monthly | number of people unemployed)
+   - https://download.bls.gov/pub/time.series/ln/ (monthly | # of people unemployed)
 
 ## Inspiring Visualizations/links
 * https://coronavirus-resources.esri.com/datasets/esribizteam::us-weekly-unemployment-data
