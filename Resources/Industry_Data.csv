@@ -1,4 +1,4 @@
-date,year,month,industry,claims
+date,year,month,industry,number_of_persons
 2015-1,2015,1,all_employees,140568.0
 2015-2,2015,2,all_employees,140839.0
 2015-3,2015,3,all_employees,140910.0
