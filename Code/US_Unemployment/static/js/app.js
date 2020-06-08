@@ -117,6 +117,14 @@ function loadYears(){
     loadDropDown('#selYear',columns,columns[columns.length-1])
 }
 
+function UpdateDisplay()
+{
+    // reload the map tool tip data
+    reloadlayers();
+    
+}
+
+
 function reloadlayers()
 {
     let map = mapsPlaceholder.pop();
@@ -128,7 +136,6 @@ function reloadlayers()
         // console.log(element.properties)
         // console.log("in here")
     });
-
 }
 
 async function init(){
@@ -144,6 +151,6 @@ async function init(){
 
 init();
 
-d3.selectAll("#selYear").on("change", reloadlayers)
+d3.selectAll("#selYear").on("change", UpdateDisplay)
 
 
