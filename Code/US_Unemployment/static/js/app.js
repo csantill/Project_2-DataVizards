@@ -1,5 +1,6 @@
 
 var censusdata;
+var claimsdata;
 var mapsPlaceholder = [];
 var layerReference = [];
 
@@ -133,6 +134,8 @@ function reloadlayers()
 async function init(){
     const url = "/census_data/"
     censusdata = await d3.json(url);
+    const url2 = "/unemployment_claims/"
+    claimsdata = await d3.json(url2);
     // load_census_data();
     loadStates(statesData.features);
     loadYears();

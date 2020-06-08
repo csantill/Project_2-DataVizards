@@ -27,6 +27,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "s
 
 db = SQLAlchemy(app)
 
+# from .models import census
 from models import *
 
 
@@ -46,7 +47,6 @@ def industry_stats():
 def census_data():
     results = db.session.query(census.state, census.variable, census.value).order_by(census.state,census.variable).all()
     census_data = []
-
     for result in results:
         census_data.append({
             'state': result[0],
@@ -56,6 +56,21 @@ def census_data():
    
     # print(jsonify(census_data))
     return jsonify(census_data)
+
+@app.route("/unemployment_claims/")
+def unemploymentClaimsdata():
+    results = db.session.query(claims.state, claims.year_month, claims.year, claims.initial_claim).order_by(claims.state,claims.year_month).all()
+    claims_data = []
+    for result in results:
+        claims_data.append({
+            'state':result[0],
+            'year_month': result[1],
+            'year':result[2],
+            'initial_claim':result[3]
+        })
+   
+    # print(jsonify(census_data))
+    return jsonify(claims_data)
 
 
 
