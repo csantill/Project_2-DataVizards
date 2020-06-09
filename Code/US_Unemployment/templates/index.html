@@ -57,33 +57,34 @@
                 <div class="col-md-2">
                     <div class="states">
                         <h5>State:</h5>
-                        <select id="selState" ></select>
+                        <select id="selState"></select>
                     </div>
                     <div class="years">
                         <h5>Year:</h5>
                         <select id="selYear"></select>
-                    </div>                    
-                </div>            
+                    </div>
+                </div>
                 <!-- <div class="col-md-2">
                     <div class="well">
                         <h5>State:</h5>
                         <select id="selDataset" onchange="optionChanged(this.value)"></select>
                     </div>
                 </div> -->
-                 <div id="map" style="height: 610px; width:100%"></div>
+                <div id="map" style="height: 610px; width:100%"></div>
+            </div>
+            <br>
+
+            <div class="col-md-8">
+                <div id="bar"></div>
+            </div>
+
         </div>
 
-        <div class="col-md-8">
-            <div id="bar"></div>
+
+        <div>
+            <!-- RSS feed -->
+            <script type='text/javascript' charset='utf-8' src='https://scripts.hashemian.com/jss/feed.js?print=yes&numlinks=10&summarylen=50&seedate=yes&popwin=no&url=https:%2F%2Fwww.bls.gov%2Ffeed%2Flaus.rss'></script>
         </div>
-
-    </div>
-
-
-<div>
-    <!-- RSS feed -->
-    <script type='text/javascript' charset='utf-8' src='https://scripts.hashemian.com/jss/feed.js?print=yes&numlinks=10&summarylen=50&seedate=yes&popwin=no&url=https:%2F%2Fwww.bls.gov%2Ffeed%2Flaus.rss'></script>
-</div>
 </body>
 
 <!-- Footer -->
@@ -95,14 +96,14 @@
 </footer>
 
 <!-- Leaflet plotly -->
-<!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <!-- Leaflet JavaScript -->
 <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.js"></script>
 
 <!-- <script src="{{ url_for('static', filename='js/us-states.js') }}"></script> -->
 
-  <!-- 
+<!-- 
     <script type="text/javascript" src="static/js/config.js"></script>
   <script type="text/javascript" src="static/js/logic.js"></script> -->
 <!-- Bootstrap JS -->
