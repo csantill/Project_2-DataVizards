@@ -121,6 +121,9 @@ function UpdateDisplay()
 {
     // reload the map tool tip data
     reloadlayers();
+    selectedYear = d3.select("#selYear").node().value;
+    selectedState = d3.select("#selState").node().value;
+//    selectedState = feature.properties.name;
     
 }
 
@@ -138,6 +141,20 @@ function reloadlayers()
     });
 }
 
+function createChart() {
+   let trace = {
+    type: "bar",
+    x: claimsdata.map(val => val.year_month),
+    y: claimsdata.map(val => val.initial_claim)
+}
+    var data = [trace];
+    var layout = {
+        title: "claims"
+    }
+    Plotly.newPlot("bar", data, layout);
+}
+    
+
 async function init(){
     const url = "/census_data/"
     censusdata = await d3.json(url);
@@ -147,6 +164,7 @@ async function init(){
     loadStates(statesData.features);
     loadYears();
     createFeatures(statesData.features);
+    createChart()
 }
 
 init();
