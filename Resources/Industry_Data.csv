@@ -1,2081 +1,2081 @@
 date,year,month,industry,number_of_persons
-2015-1,2015,1,all_employees,140568.0
-2015-2,2015,2,all_employees,140839.0
-2015-3,2015,3,all_employees,140910.0
-2015-4,2015,4,all_employees,141194.0
-2015-5,2015,5,all_employees,141525.0
-2015-6,2015,6,all_employees,141699.0
-2015-7,2015,7,all_employees,142001.0
-2015-8,2015,8,all_employees,142126.0
-2015-9,2015,9,all_employees,142281.0
-2015-10,2015,10,all_employees,142587.0
-2015-11,2015,11,all_employees,142824.0
-2015-12,2015,12,all_employees,143097.0
-2016-1,2016,1,all_employees,143170.0
-2016-2,2016,2,all_employees,143433.0
-2016-3,2016,3,all_employees,143662.0
-2016-4,2016,4,all_employees,143849.0
-2016-5,2016,5,all_employees,143891.0
-2016-6,2016,6,all_employees,144158.0
-2016-7,2016,7,all_employees,144512.0
-2016-8,2016,8,all_employees,144647.0
-2016-9,2016,9,all_employees,144916.0
-2016-10,2016,10,all_employees,145061.0
-2016-11,2016,11,all_employees,145212.0
-2016-12,2016,12,all_employees,145442.0
-2017-1,2017,1,all_employees,145627.0
-2017-2,2017,2,all_employees,145815.0
-2017-3,2017,3,all_employees,145944.0
-2017-4,2017,4,all_employees,146141.0
-2017-5,2017,5,all_employees,146296.0
-2017-6,2017,6,all_employees,146512.0
-2017-7,2017,7,all_employees,146727.0
-2017-8,2017,8,all_employees,146911.0
-2017-9,2017,9,all_employees,146929.0
-2017-10,2017,10,all_employees,147196.0
-2017-11,2017,11,all_employees,147421.0
-2017-12,2017,12,all_employees,147551.0
-2018-1,2018,1,all_employees,147672.0
-2018-2,2018,2,all_employees,148078.0
-2018-3,2018,3,all_employees,148254.0
-2018-4,2018,4,all_employees,148391.0
-2018-5,2018,5,all_employees,148669.0
-2018-6,2018,6,all_employees,148888.0
-2018-7,2018,7,all_employees,149024.0
-2018-8,2018,8,all_employees,149268.0
-2018-9,2018,9,all_employees,149348.0
-2018-10,2018,10,all_employees,149549.0
-2018-11,2018,11,all_employees,149683.0
-2018-12,2018,12,all_employees,149865.0
-2019-1,2019,1,all_employees,150134.0
-2019-2,2019,2,all_employees,150135.0
-2019-3,2019,3,all_employees,150282.0
-2019-4,2019,4,all_employees,150492.0
-2019-5,2019,5,all_employees,150577.0
-2019-6,2019,6,all_employees,150759.0
-2019-7,2019,7,all_employees,150953.0
-2019-8,2019,8,all_employees,151160.0
-2019-9,2019,9,all_employees,151368.0
-2019-10,2019,10,all_employees,151553.0
-2019-11,2019,11,all_employees,151814.0
-2019-12,2019,12,all_employees,151998.0
-2020-1,2020,1,all_employees,152212.0
-2020-2,2020,2,all_employees,152463.0
-2020-3,2020,3,all_employees,151090.0
-2020-4,2020,4,all_employees,130403.0
-2020-5,2020,5,all_employees,132912.0
-2015-1,2015,1,private,118608.0
-2015-2,2015,2,private,118861.0
-2015-3,2015,3,private,118940.0
-2015-4,2015,4,private,119189.0
-2015-5,2015,5,private,119513.0
-2015-6,2015,6,private,119684.0
-2015-7,2015,7,private,119951.0
-2015-8,2015,8,private,120066.0
-2015-9,2015,9,private,120241.0
-2015-10,2015,10,private,120531.0
-2015-11,2015,11,private,120743.0
-2015-12,2015,12,private,121000.0
-2016-1,2016,1,private,121052.0
-2016-2,2016,2,private,121289.0
-2016-3,2016,3,private,121482.0
-2016-4,2016,4,private,121663.0
-2016-5,2016,5,private,121694.0
-2016-6,2016,6,private,121974.0
-2016-7,2016,7,private,122227.0
-2016-8,2016,8,private,122379.0
-2016-9,2016,9,private,122613.0
-2016-10,2016,10,private,122769.0
-2016-11,2016,11,private,122922.0
-2016-12,2016,12,private,123134.0
-2017-1,2017,1,private,123325.0
-2017-2,2017,2,private,123496.0
-2017-3,2017,3,private,123619.0
-2017-4,2017,4,private,123811.0
-2017-5,2017,5,private,123964.0
-2017-6,2017,6,private,124166.0
-2017-7,2017,7,private,124368.0
-2017-8,2017,8,private,124554.0
-2017-9,2017,9,private,124563.0
-2017-10,2017,10,private,124827.0
-2017-11,2017,11,private,125028.0
-2017-12,2017,12,private,125170.0
-2018-1,2018,1,private,125317.0
-2018-2,2018,2,private,125672.0
-2018-3,2018,3,private,125850.0
-2018-4,2018,4,private,125977.0
-2018-5,2018,5,private,126238.0
-2018-6,2018,6,private,126429.0
-2018-7,2018,7,private,126562.0
-2018-8,2018,8,private,126778.0
-2018-9,2018,9,private,126859.0
-2018-10,2018,10,private,127064.0
-2018-11,2018,11,private,127197.0
-2018-12,2018,12,private,127370.0
-2019-1,2019,1,private,127628.0
-2019-2,2019,2,private,127622.0
-2019-3,2019,3,private,127754.0
-2019-4,2019,4,private,127939.0
-2019-5,2019,5,private,128026.0
-2019-6,2019,6,private,128206.0
-2019-7,2019,7,private,128366.0
-2019-8,2019,8,private,128523.0
-2019-9,2019,9,private,128718.0
-2019-10,2019,10,private,128908.0
-2019-11,2019,11,private,129155.0
-2019-12,2019,12,private,129319.0
-2020-1,2020,1,private,129498.0
-2020-2,2020,2,private,129718.0
-2020-3,2020,3,private,128362.0
-2020-4,2020,4,private,108638.0
-2020-5,2020,5,private,111732.0
-2015-1,2015,1,goods_producing,19500.0
-2015-2,2015,2,goods_producing,19537.0
-2015-3,2015,3,goods_producing,19505.0
-2015-4,2015,4,goods_producing,19553.0
-2015-5,2015,5,goods_producing,19580.0
-2015-6,2015,6,goods_producing,19591.0
-2015-7,2015,7,goods_producing,19626.0
-2015-8,2015,8,goods_producing,19629.0
-2015-9,2015,9,goods_producing,19641.0
-2015-10,2015,10,goods_producing,19680.0
-2015-11,2015,11,goods_producing,19711.0
-2015-12,2015,12,goods_producing,19738.0
-2016-1,2016,1,goods_producing,19730.0
-2016-2,2016,2,goods_producing,19728.0
-2016-3,2016,3,goods_producing,19716.0
-2016-4,2016,4,goods_producing,19728.0
-2016-5,2016,5,goods_producing,19689.0
-2016-6,2016,6,goods_producing,19709.0
-2016-7,2016,7,goods_producing,19757.0
-2016-8,2016,8,goods_producing,19732.0
-2016-9,2016,9,goods_producing,19762.0
-2016-10,2016,10,goods_producing,19789.0
-2016-11,2016,11,goods_producing,19808.0
-2016-12,2016,12,goods_producing,19825.0
-2017-1,2017,1,goods_producing,19865.0
-2017-2,2017,2,goods_producing,19928.0
-2017-3,2017,3,goods_producing,19964.0
-2017-4,2017,4,goods_producing,19985.0
-2017-5,2017,5,goods_producing,20007.0
-2017-6,2017,6,goods_producing,20050.0
-2017-7,2017,7,goods_producing,20056.0
-2017-8,2017,8,goods_producing,20135.0
-2017-9,2017,9,goods_producing,20161.0
-2017-10,2017,10,goods_producing,20206.0
-2017-11,2017,11,goods_producing,20273.0
-2017-12,2017,12,goods_producing,20326.0
-2018-1,2018,1,goods_producing,20371.0
-2018-2,2018,2,goods_producing,20494.0
-2018-3,2018,3,goods_producing,20530.0
-2018-4,2018,4,goods_producing,20577.0
-2018-5,2018,5,goods_producing,20648.0
-2018-6,2018,6,goods_producing,20698.0
-2018-7,2018,7,goods_producing,20739.0
-2018-8,2018,8,goods_producing,20791.0
-2018-9,2018,9,goods_producing,20834.0
-2018-10,2018,10,goods_producing,20884.0
-2018-11,2018,11,goods_producing,20897.0
-2018-12,2018,12,goods_producing,20948.0
-2019-1,2019,1,goods_producing,21023.0
-2019-2,2019,2,goods_producing,20994.0
-2019-3,2019,3,goods_producing,21011.0
-2019-4,2019,4,goods_producing,21039.0
-2019-5,2019,5,goods_producing,21050.0
-2019-6,2019,6,goods_producing,21076.0
-2019-7,2019,7,goods_producing,21085.0
-2019-8,2019,8,goods_producing,21087.0
-2019-9,2019,9,goods_producing,21106.0
-2019-10,2019,10,goods_producing,21086.0
-2019-11,2019,11,goods_producing,21131.0
-2019-12,2019,12,goods_producing,21136.0
-2020-1,2020,1,goods_producing,21149.0
-2020-2,2020,2,goods_producing,21205.0
-2020-3,2020,3,goods_producing,21086.0
-2020-4,2020,4,goods_producing,18713.0
-2020-5,2020,5,goods_producing,19382.0
-2015-1,2015,1,service-providing,121068.0
-2015-2,2015,2,service-providing,121302.0
-2015-3,2015,3,service-providing,121405.0
-2015-4,2015,4,service-providing,121641.0
-2015-5,2015,5,service-providing,121945.0
-2015-6,2015,6,service-providing,122108.0
-2015-7,2015,7,service-providing,122375.0
-2015-8,2015,8,service-providing,122497.0
-2015-9,2015,9,service-providing,122640.0
-2015-10,2015,10,service-providing,122907.0
-2015-11,2015,11,service-providing,123113.0
-2015-12,2015,12,service-providing,123359.0
-2016-1,2016,1,service-providing,123440.0
-2016-2,2016,2,service-providing,123705.0
-2016-3,2016,3,service-providing,123946.0
-2016-4,2016,4,service-providing,124121.0
-2016-5,2016,5,service-providing,124202.0
-2016-6,2016,6,service-providing,124449.0
-2016-7,2016,7,service-providing,124755.0
-2016-8,2016,8,service-providing,124915.0
-2016-9,2016,9,service-providing,125154.0
-2016-10,2016,10,service-providing,125272.0
-2016-11,2016,11,service-providing,125404.0
-2016-12,2016,12,service-providing,125617.0
-2017-1,2017,1,service-providing,125762.0
-2017-2,2017,2,service-providing,125887.0
-2017-3,2017,3,service-providing,125980.0
-2017-4,2017,4,service-providing,126156.0
-2017-5,2017,5,service-providing,126289.0
-2017-6,2017,6,service-providing,126462.0
-2017-7,2017,7,service-providing,126671.0
-2017-8,2017,8,service-providing,126776.0
-2017-9,2017,9,service-providing,126768.0
-2017-10,2017,10,service-providing,126990.0
-2017-11,2017,11,service-providing,127148.0
-2017-12,2017,12,service-providing,127225.0
-2018-1,2018,1,service-providing,127301.0
-2018-2,2018,2,service-providing,127584.0
-2018-3,2018,3,service-providing,127724.0
-2018-4,2018,4,service-providing,127814.0
-2018-5,2018,5,service-providing,128021.0
-2018-6,2018,6,service-providing,128190.0
-2018-7,2018,7,service-providing,128285.0
-2018-8,2018,8,service-providing,128477.0
-2018-9,2018,9,service-providing,128514.0
-2018-10,2018,10,service-providing,128665.0
-2018-11,2018,11,service-providing,128786.0
-2018-12,2018,12,service-providing,128917.0
-2019-1,2019,1,service-providing,129111.0
-2019-2,2019,2,service-providing,129141.0
-2019-3,2019,3,service-providing,129271.0
-2019-4,2019,4,service-providing,129453.0
-2019-5,2019,5,service-providing,129527.0
-2019-6,2019,6,service-providing,129683.0
-2019-7,2019,7,service-providing,129868.0
-2019-8,2019,8,service-providing,130073.0
-2019-9,2019,9,service-providing,130262.0
-2019-10,2019,10,service-providing,130467.0
-2019-11,2019,11,service-providing,130683.0
-2019-12,2019,12,service-providing,130862.0
-2020-1,2020,1,service-providing,131063.0
-2020-2,2020,2,service-providing,131258.0
-2020-3,2020,3,service-providing,130004.0
-2020-4,2020,4,service-providing,111690.0
-2020-5,2020,5,service-providing,113530.0
-2015-1,2015,1,private_service_providing,99108.0
-2015-2,2015,2,private_service_providing,99324.0
-2015-3,2015,3,private_service_providing,99435.0
-2015-4,2015,4,private_service_providing,99636.0
-2015-5,2015,5,private_service_providing,99933.0
-2015-6,2015,6,private_service_providing,100093.0
-2015-7,2015,7,private_service_providing,100325.0
-2015-8,2015,8,private_service_providing,100437.0
-2015-9,2015,9,private_service_providing,100600.0
-2015-10,2015,10,private_service_providing,100851.0
-2015-11,2015,11,private_service_providing,101032.0
-2015-12,2015,12,private_service_providing,101262.0
-2016-1,2016,1,private_service_providing,101322.0
-2016-2,2016,2,private_service_providing,101561.0
-2016-3,2016,3,private_service_providing,101766.0
-2016-4,2016,4,private_service_providing,101935.0
-2016-5,2016,5,private_service_providing,102005.0
-2016-6,2016,6,private_service_providing,102265.0
-2016-7,2016,7,private_service_providing,102470.0
-2016-8,2016,8,private_service_providing,102647.0
-2016-9,2016,9,private_service_providing,102851.0
-2016-10,2016,10,private_service_providing,102980.0
-2016-11,2016,11,private_service_providing,103114.0
-2016-12,2016,12,private_service_providing,103309.0
-2017-1,2017,1,private_service_providing,103460.0
-2017-2,2017,2,private_service_providing,103568.0
-2017-3,2017,3,private_service_providing,103655.0
-2017-4,2017,4,private_service_providing,103826.0
-2017-5,2017,5,private_service_providing,103957.0
-2017-6,2017,6,private_service_providing,104116.0
-2017-7,2017,7,private_service_providing,104312.0
-2017-8,2017,8,private_service_providing,104419.0
-2017-9,2017,9,private_service_providing,104402.0
-2017-10,2017,10,private_service_providing,104621.0
-2017-11,2017,11,private_service_providing,104755.0
-2017-12,2017,12,private_service_providing,104844.0
-2018-1,2018,1,private_service_providing,104946.0
-2018-2,2018,2,private_service_providing,105178.0
-2018-3,2018,3,private_service_providing,105320.0
-2018-4,2018,4,private_service_providing,105400.0
-2018-5,2018,5,private_service_providing,105590.0
-2018-6,2018,6,private_service_providing,105731.0
-2018-7,2018,7,private_service_providing,105823.0
-2018-8,2018,8,private_service_providing,105987.0
-2018-9,2018,9,private_service_providing,106025.0
-2018-10,2018,10,private_service_providing,106180.0
-2018-11,2018,11,private_service_providing,106300.0
-2018-12,2018,12,private_service_providing,106422.0
-2019-1,2019,1,private_service_providing,106605.0
-2019-2,2019,2,private_service_providing,106628.0
-2019-3,2019,3,private_service_providing,106743.0
-2019-4,2019,4,private_service_providing,106900.0
-2019-5,2019,5,private_service_providing,106976.0
-2019-6,2019,6,private_service_providing,107130.0
-2019-7,2019,7,private_service_providing,107281.0
-2019-8,2019,8,private_service_providing,107436.0
-2019-9,2019,9,private_service_providing,107612.0
-2019-10,2019,10,private_service_providing,107822.0
-2019-11,2019,11,private_service_providing,108024.0
-2019-12,2019,12,private_service_providing,108183.0
-2020-1,2020,1,private_service_providing,108349.0
-2020-2,2020,2,private_service_providing,108513.0
-2020-3,2020,3,private_service_providing,107276.0
-2020-4,2020,4,private_service_providing,89925.0
-2020-5,2020,5,private_service_providing,92350.0
-2015-1,2015,1,mining_and_logging,888.0
-2015-2,2015,2,mining_and_logging,875.0
-2015-3,2015,3,mining_and_logging,859.0
-2015-4,2015,4,mining_and_logging,843.0
-2015-5,2015,5,mining_and_logging,820.0
-2015-6,2015,6,mining_and_logging,816.0
-2015-7,2015,7,mining_and_logging,805.0
-2015-8,2015,8,mining_and_logging,794.0
-2015-9,2015,9,mining_and_logging,779.0
-2015-10,2015,10,mining_and_logging,771.0
-2015-11,2015,11,mining_and_logging,756.0
-2015-12,2015,12,mining_and_logging,746.0
-2016-1,2016,1,mining_and_logging,731.0
-2016-2,2016,2,mining_and_logging,711.0
-2016-3,2016,3,mining_and_logging,691.0
-2016-4,2016,4,mining_and_logging,678.0
-2016-5,2016,5,mining_and_logging,666.0
-2016-6,2016,6,mining_and_logging,656.0
-2016-7,2016,7,mining_and_logging,652.0
-2016-8,2016,8,mining_and_logging,647.0
-2016-9,2016,9,mining_and_logging,647.0
-2016-10,2016,10,mining_and_logging,644.0
-2016-11,2016,11,mining_and_logging,647.0
-2016-12,2016,12,mining_and_logging,648.0
-2017-1,2017,1,mining_and_logging,649.0
-2017-2,2017,2,mining_and_logging,655.0
-2017-3,2017,3,mining_and_logging,660.0
-2017-4,2017,4,mining_and_logging,669.0
-2017-5,2017,5,mining_and_logging,673.0
-2017-6,2017,6,mining_and_logging,677.0
-2017-7,2017,7,mining_and_logging,679.0
-2017-8,2017,8,mining_and_logging,684.0
-2017-9,2017,9,mining_and_logging,687.0
-2017-10,2017,10,mining_and_logging,687.0
-2017-11,2017,11,mining_and_logging,693.0
-2017-12,2017,12,mining_and_logging,692.0
-2018-1,2018,1,mining_and_logging,699.0
-2018-2,2018,2,mining_and_logging,706.0
-2018-3,2018,3,mining_and_logging,714.0
-2018-4,2018,4,mining_and_logging,722.0
-2018-5,2018,5,mining_and_logging,724.0
-2018-6,2018,6,mining_and_logging,729.0
-2018-7,2018,7,mining_and_logging,729.0
-2018-8,2018,8,mining_and_logging,737.0
-2018-9,2018,9,mining_and_logging,739.0
-2018-10,2018,10,mining_and_logging,742.0
-2018-11,2018,11,mining_and_logging,737.0
-2018-12,2018,12,mining_and_logging,741.0
-2019-1,2019,1,mining_and_logging,746.0
-2019-2,2019,2,mining_and_logging,741.0
-2019-3,2019,3,mining_and_logging,741.0
-2019-4,2019,4,mining_and_logging,741.0
-2019-5,2019,5,mining_and_logging,743.0
-2019-6,2019,6,mining_and_logging,741.0
-2019-7,2019,7,mining_and_logging,736.0
-2019-8,2019,8,mining_and_logging,731.0
-2019-9,2019,9,mining_and_logging,731.0
-2019-10,2019,10,mining_and_logging,735.0
-2019-11,2019,11,mining_and_logging,724.0
-2019-12,2019,12,mining_and_logging,715.0
-2020-1,2020,1,mining_and_logging,712.0
-2020-2,2020,2,mining_and_logging,714.0
-2020-3,2020,3,mining_and_logging,706.0
-2020-4,2020,4,mining_and_logging,652.0
-2020-5,2020,5,mining_and_logging,632.0
-2015-1,2015,1,construction,6320.0
-2015-2,2015,2,construction,6361.0
-2015-3,2015,3,construction,6334.0
-2015-4,2015,4,construction,6392.0
-2015-5,2015,5,construction,6427.0
-2015-6,2015,6,construction,6441.0
-2015-7,2015,7,construction,6472.0
-2015-8,2015,8,construction,6490.0
-2015-9,2015,9,construction,6508.0
-2015-10,2015,10,construction,6547.0
-2015-11,2015,11,construction,6598.0
-2015-12,2015,12,construction,6630.0
-2016-1,2016,1,construction,6620.0
-2016-2,2016,2,construction,6650.0
-2016-3,2016,3,construction,6680.0
-2016-4,2016,4,construction,6701.0
-2016-5,2016,5,construction,6691.0
-2016-6,2016,6,construction,6702.0
-2016-7,2016,7,construction,6736.0
-2016-8,2016,8,construction,6737.0
-2016-9,2016,9,construction,6768.0
-2016-10,2016,10,construction,6798.0
-2016-11,2016,11,construction,6819.0
-2016-12,2016,12,construction,6821.0
-2017-1,2017,1,construction,6847.0
-2017-2,2017,2,construction,6889.0
-2017-3,2017,3,construction,6909.0
-2017-4,2017,4,construction,6916.0
-2017-5,2017,5,construction,6928.0
-2017-6,2017,6,construction,6955.0
-2017-7,2017,7,construction,6960.0
-2017-8,2017,8,construction,6990.0
-2017-9,2017,9,construction,7004.0
-2017-10,2017,10,construction,7027.0
-2017-11,2017,11,construction,7066.0
-2017-12,2017,12,construction,7093.0
-2018-1,2018,1,construction,7114.0
-2018-2,2018,2,construction,7200.0
-2018-3,2018,3,construction,7205.0
-2018-4,2018,4,construction,7223.0
-2018-5,2018,5,construction,7266.0
-2018-6,2018,6,construction,7282.0
-2018-7,2018,7,construction,7304.0
-2018-8,2018,8,construction,7335.0
-2018-9,2018,9,construction,7355.0
-2018-10,2018,10,construction,7378.0
-2018-11,2018,11,construction,7376.0
-2018-12,2018,12,construction,7402.0
-2019-1,2019,1,construction,7452.0
-2019-2,2019,2,construction,7423.0
-2019-3,2019,3,construction,7443.0
-2019-4,2019,4,construction,7469.0
-2019-5,2019,5,construction,7478.0
-2019-6,2019,6,construction,7497.0
-2019-7,2019,7,construction,7504.0
-2019-8,2019,8,construction,7508.0
-2019-9,2019,9,construction,7524.0
-2019-10,2019,10,construction,7541.0
-2019-11,2019,11,construction,7539.0
-2019-12,2019,12,construction,7555.0
-2020-1,2020,1,construction,7593.0
-2020-2,2020,2,construction,7639.0
-2020-3,2020,3,construction,7574.0
-2020-4,2020,4,construction,6579.0
-2020-5,2020,5,construction,7043.0
-2015-1,2015,1,manufacturing,12292.0
-2015-2,2015,2,manufacturing,12301.0
-2015-3,2015,3,manufacturing,12312.0
-2015-4,2015,4,manufacturing,12318.0
-2015-5,2015,5,manufacturing,12333.0
-2015-6,2015,6,manufacturing,12334.0
-2015-7,2015,7,manufacturing,12349.0
-2015-8,2015,8,manufacturing,12345.0
-2015-9,2015,9,manufacturing,12354.0
-2015-10,2015,10,manufacturing,12362.0
-2015-11,2015,11,manufacturing,12357.0
-2015-12,2015,12,manufacturing,12362.0
-2016-1,2016,1,manufacturing,12379.0
-2016-2,2016,2,manufacturing,12367.0
-2016-3,2016,3,manufacturing,12345.0
-2016-4,2016,4,manufacturing,12349.0
-2016-5,2016,5,manufacturing,12332.0
-2016-6,2016,6,manufacturing,12351.0
-2016-7,2016,7,manufacturing,12369.0
-2016-8,2016,8,manufacturing,12348.0
-2016-9,2016,9,manufacturing,12347.0
-2016-10,2016,10,manufacturing,12347.0
-2016-11,2016,11,manufacturing,12342.0
-2016-12,2016,12,manufacturing,12356.0
-2017-1,2017,1,manufacturing,12369.0
-2017-2,2017,2,manufacturing,12384.0
-2017-3,2017,3,manufacturing,12395.0
-2017-4,2017,4,manufacturing,12400.0
-2017-5,2017,5,manufacturing,12406.0
-2017-6,2017,6,manufacturing,12418.0
-2017-7,2017,7,manufacturing,12417.0
-2017-8,2017,8,manufacturing,12461.0
-2017-9,2017,9,manufacturing,12470.0
-2017-10,2017,10,manufacturing,12492.0
-2017-11,2017,11,manufacturing,12514.0
-2017-12,2017,12,manufacturing,12541.0
-2018-1,2018,1,manufacturing,12558.0
-2018-2,2018,2,manufacturing,12588.0
-2018-3,2018,3,manufacturing,12611.0
-2018-4,2018,4,manufacturing,12632.0
-2018-5,2018,5,manufacturing,12658.0
-2018-6,2018,6,manufacturing,12687.0
-2018-7,2018,7,manufacturing,12706.0
-2018-8,2018,8,manufacturing,12719.0
-2018-9,2018,9,manufacturing,12740.0
-2018-10,2018,10,manufacturing,12764.0
-2018-11,2018,11,manufacturing,12784.0
-2018-12,2018,12,manufacturing,12805.0
-2019-1,2019,1,manufacturing,12825.0
-2019-2,2019,2,manufacturing,12830.0
-2019-3,2019,3,manufacturing,12827.0
-2019-4,2019,4,manufacturing,12829.0
-2019-5,2019,5,manufacturing,12829.0
-2019-6,2019,6,manufacturing,12838.0
-2019-7,2019,7,manufacturing,12845.0
-2019-8,2019,8,manufacturing,12848.0
-2019-9,2019,9,manufacturing,12851.0
-2019-10,2019,10,manufacturing,12810.0
-2019-11,2019,11,manufacturing,12868.0
-2019-12,2019,12,manufacturing,12866.0
-2020-1,2020,1,manufacturing,12844.0
-2020-2,2020,2,manufacturing,12852.0
-2020-3,2020,3,manufacturing,12806.0
-2020-4,2020,4,manufacturing,11482.0
-2020-5,2020,5,manufacturing,11707.0
-2015-1,2015,1,durable_goods,7752.0
-2015-2,2015,2,durable_goods,7760.0
-2015-3,2015,3,durable_goods,7764.0
-2015-4,2015,4,durable_goods,7763.0
-2015-5,2015,5,durable_goods,7773.0
-2015-6,2015,6,durable_goods,7772.0
-2015-7,2015,7,durable_goods,7774.0
-2015-8,2015,8,durable_goods,7774.0
-2015-9,2015,9,durable_goods,7773.0
-2015-10,2015,10,durable_goods,7770.0
-2015-11,2015,11,durable_goods,7756.0
-2015-12,2015,12,durable_goods,7750.0
-2016-1,2016,1,durable_goods,7761.0
-2016-2,2016,2,durable_goods,7749.0
-2016-3,2016,3,durable_goods,7729.0
-2016-4,2016,4,durable_goods,7729.0
-2016-5,2016,5,durable_goods,7707.0
-2016-6,2016,6,durable_goods,7704.0
-2016-7,2016,7,durable_goods,7719.0
-2016-8,2016,8,durable_goods,7695.0
-2016-9,2016,9,durable_goods,7691.0
-2016-10,2016,10,durable_goods,7693.0
-2016-11,2016,11,durable_goods,7686.0
-2016-12,2016,12,durable_goods,7695.0
-2017-1,2017,1,durable_goods,7701.0
-2017-2,2017,2,durable_goods,7698.0
-2017-3,2017,3,durable_goods,7704.0
-2017-4,2017,4,durable_goods,7706.0
-2017-5,2017,5,durable_goods,7715.0
-2017-6,2017,6,durable_goods,7726.0
-2017-7,2017,7,durable_goods,7718.0
-2017-8,2017,8,durable_goods,7750.0
-2017-9,2017,9,durable_goods,7761.0
-2017-10,2017,10,durable_goods,7777.0
-2017-11,2017,11,durable_goods,7799.0
-2017-12,2017,12,durable_goods,7822.0
-2018-1,2018,1,durable_goods,7835.0
-2018-2,2018,2,durable_goods,7861.0
-2018-3,2018,3,durable_goods,7886.0
-2018-4,2018,4,durable_goods,7904.0
-2018-5,2018,5,durable_goods,7920.0
-2018-6,2018,6,durable_goods,7944.0
-2018-7,2018,7,durable_goods,7961.0
-2018-8,2018,8,durable_goods,7972.0
-2018-9,2018,9,durable_goods,7991.0
-2018-10,2018,10,durable_goods,8011.0
-2018-11,2018,11,durable_goods,8022.0
-2018-12,2018,12,durable_goods,8038.0
-2019-1,2019,1,durable_goods,8059.0
-2019-2,2019,2,durable_goods,8062.0
-2019-3,2019,3,durable_goods,8056.0
-2019-4,2019,4,durable_goods,8056.0
-2019-5,2019,5,durable_goods,8056.0
-2019-6,2019,6,durable_goods,8064.0
-2019-7,2019,7,durable_goods,8067.0
-2019-8,2019,8,durable_goods,8066.0
-2019-9,2019,9,durable_goods,8066.0
-2019-10,2019,10,durable_goods,8019.0
-2019-11,2019,11,durable_goods,8064.0
-2019-12,2019,12,durable_goods,8064.0
-2020-1,2020,1,durable_goods,8052.0
-2020-2,2020,2,durable_goods,8058.0
-2020-3,2020,3,durable_goods,8031.0
-2020-4,2020,4,durable_goods,7124.0
-2020-5,2020,5,durable_goods,7243.0
-2015-1,2015,1,nondurable_goods,4540.0
-2015-2,2015,2,nondurable_goods,4541.0
-2015-3,2015,3,nondurable_goods,4548.0
-2015-4,2015,4,nondurable_goods,4555.0
-2015-5,2015,5,nondurable_goods,4560.0
-2015-6,2015,6,nondurable_goods,4562.0
-2015-7,2015,7,nondurable_goods,4575.0
-2015-8,2015,8,nondurable_goods,4571.0
-2015-9,2015,9,nondurable_goods,4581.0
-2015-10,2015,10,nondurable_goods,4592.0
-2015-11,2015,11,nondurable_goods,4601.0
-2015-12,2015,12,nondurable_goods,4612.0
-2016-1,2016,1,nondurable_goods,4618.0
-2016-2,2016,2,nondurable_goods,4618.0
-2016-3,2016,3,nondurable_goods,4616.0
-2016-4,2016,4,nondurable_goods,4620.0
-2016-5,2016,5,nondurable_goods,4625.0
-2016-6,2016,6,nondurable_goods,4647.0
-2016-7,2016,7,nondurable_goods,4650.0
-2016-8,2016,8,nondurable_goods,4653.0
-2016-9,2016,9,nondurable_goods,4656.0
-2016-10,2016,10,nondurable_goods,4654.0
-2016-11,2016,11,nondurable_goods,4656.0
-2016-12,2016,12,nondurable_goods,4661.0
-2017-1,2017,1,nondurable_goods,4668.0
-2017-2,2017,2,nondurable_goods,4686.0
-2017-3,2017,3,nondurable_goods,4691.0
-2017-4,2017,4,nondurable_goods,4694.0
-2017-5,2017,5,nondurable_goods,4691.0
-2017-6,2017,6,nondurable_goods,4692.0
-2017-7,2017,7,nondurable_goods,4699.0
-2017-8,2017,8,nondurable_goods,4711.0
-2017-9,2017,9,nondurable_goods,4709.0
-2017-10,2017,10,nondurable_goods,4715.0
-2017-11,2017,11,nondurable_goods,4715.0
-2017-12,2017,12,nondurable_goods,4719.0
-2018-1,2018,1,nondurable_goods,4723.0
-2018-2,2018,2,nondurable_goods,4727.0
-2018-3,2018,3,nondurable_goods,4725.0
-2018-4,2018,4,nondurable_goods,4728.0
-2018-5,2018,5,nondurable_goods,4738.0
-2018-6,2018,6,nondurable_goods,4743.0
-2018-7,2018,7,nondurable_goods,4745.0
-2018-8,2018,8,nondurable_goods,4747.0
-2018-9,2018,9,nondurable_goods,4749.0
-2018-10,2018,10,nondurable_goods,4753.0
-2018-11,2018,11,nondurable_goods,4762.0
-2018-12,2018,12,nondurable_goods,4767.0
-2019-1,2019,1,nondurable_goods,4766.0
-2019-2,2019,2,nondurable_goods,4768.0
-2019-3,2019,3,nondurable_goods,4771.0
-2019-4,2019,4,nondurable_goods,4773.0
-2019-5,2019,5,nondurable_goods,4773.0
-2019-6,2019,6,nondurable_goods,4774.0
-2019-7,2019,7,nondurable_goods,4778.0
-2019-8,2019,8,nondurable_goods,4782.0
-2019-9,2019,9,nondurable_goods,4785.0
-2019-10,2019,10,nondurable_goods,4791.0
-2019-11,2019,11,nondurable_goods,4804.0
-2019-12,2019,12,nondurable_goods,4802.0
-2020-1,2020,1,nondurable_goods,4792.0
-2020-2,2020,2,nondurable_goods,4794.0
-2020-3,2020,3,nondurable_goods,4775.0
-2020-4,2020,4,nondurable_goods,4358.0
-2020-5,2020,5,nondurable_goods,4464.0
-2015-1,2015,1,trade_transportation_and_utilities,26613.0
-2015-2,2015,2,trade_transportation_and_utilities,26657.0
-2015-3,2015,3,trade_transportation_and_utilities,26684.0
-2015-4,2015,4,trade_transportation_and_utilities,26707.0
-2015-5,2015,5,trade_transportation_and_utilities,26767.0
-2015-6,2015,6,trade_transportation_and_utilities,26814.0
-2015-7,2015,7,trade_transportation_and_utilities,26859.0
-2015-8,2015,8,trade_transportation_and_utilities,26870.0
-2015-9,2015,9,trade_transportation_and_utilities,26874.0
-2015-10,2015,10,trade_transportation_and_utilities,26908.0
-2015-11,2015,11,trade_transportation_and_utilities,26945.0
-2015-12,2015,12,trade_transportation_and_utilities,26978.0
-2016-1,2016,1,trade_transportation_and_utilities,26976.0
-2016-2,2016,2,trade_transportation_and_utilities,27036.0
-2016-3,2016,3,trade_transportation_and_utilities,27093.0
-2016-4,2016,4,trade_transportation_and_utilities,27118.0
-2016-5,2016,5,trade_transportation_and_utilities,27132.0
-2016-6,2016,6,trade_transportation_and_utilities,27164.0
-2016-7,2016,7,trade_transportation_and_utilities,27205.0
-2016-8,2016,8,trade_transportation_and_utilities,27254.0
-2016-9,2016,9,trade_transportation_and_utilities,27269.0
-2016-10,2016,10,trade_transportation_and_utilities,27288.0
-2016-11,2016,11,trade_transportation_and_utilities,27284.0
-2016-12,2016,12,trade_transportation_and_utilities,27350.0
-2017-1,2017,1,trade_transportation_and_utilities,27357.0
-2017-2,2017,2,trade_transportation_and_utilities,27342.0
-2017-3,2017,3,trade_transportation_and_utilities,27339.0
-2017-4,2017,4,trade_transportation_and_utilities,27352.0
-2017-5,2017,5,trade_transportation_and_utilities,27339.0
-2017-6,2017,6,trade_transportation_and_utilities,27366.0
-2017-7,2017,7,trade_transportation_and_utilities,27368.0
-2017-8,2017,8,trade_transportation_and_utilities,27385.0
-2017-9,2017,9,trade_transportation_and_utilities,27410.0
-2017-10,2017,10,trade_transportation_and_utilities,27435.0
-2017-11,2017,11,trade_transportation_and_utilities,27449.0
-2017-12,2017,12,trade_transportation_and_utilities,27465.0
-2018-1,2018,1,trade_transportation_and_utilities,27448.0
-2018-2,2018,2,trade_transportation_and_utilities,27525.0
-2018-3,2018,3,trade_transportation_and_utilities,27578.0
-2018-4,2018,4,trade_transportation_and_utilities,27574.0
-2018-5,2018,5,trade_transportation_and_utilities,27602.0
-2018-6,2018,6,trade_transportation_and_utilities,27589.0
-2018-7,2018,7,trade_transportation_and_utilities,27598.0
-2018-8,2018,8,trade_transportation_and_utilities,27657.0
-2018-9,2018,9,trade_transportation_and_utilities,27636.0
-2018-10,2018,10,trade_transportation_and_utilities,27633.0
-2018-11,2018,11,trade_transportation_and_utilities,27691.0
-2018-12,2018,12,trade_transportation_and_utilities,27666.0
-2019-1,2019,1,trade_transportation_and_utilities,27711.0
-2019-2,2019,2,trade_transportation_and_utilities,27688.0
-2019-3,2019,3,trade_transportation_and_utilities,27665.0
-2019-4,2019,4,trade_transportation_and_utilities,27671.0
-2019-5,2019,5,trade_transportation_and_utilities,27667.0
-2019-6,2019,6,trade_transportation_and_utilities,27686.0
-2019-7,2019,7,trade_transportation_and_utilities,27692.0
-2019-8,2019,8,trade_transportation_and_utilities,27688.0
-2019-9,2019,9,trade_transportation_and_utilities,27712.0
-2019-10,2019,10,trade_transportation_and_utilities,27750.0
-2019-11,2019,11,trade_transportation_and_utilities,27762.0
-2019-12,2019,12,trade_transportation_and_utilities,27809.0
-2020-1,2020,1,trade_transportation_and_utilities,27832.0
-2020-2,2020,2,trade_transportation_and_utilities,27830.0
-2020-3,2020,3,trade_transportation_and_utilities,27723.0
-2020-4,2020,4,trade_transportation_and_utilities,24498.0
-2020-5,2020,5,trade_transportation_and_utilities,24866.0
-2015-1,2015,1,retail_trade,15520.2
-2015-2,2015,2,retail_trade,15535.1
-2015-3,2015,3,retail_trade,15547.7
-2015-4,2015,4,retail_trade,15566.9
-2015-5,2015,5,retail_trade,15595.9
-2015-6,2015,6,retail_trade,15618.7
-2015-7,2015,7,retail_trade,15639.0
-2015-8,2015,8,retail_trade,15637.7
-2015-9,2015,9,retail_trade,15642.9
-2015-10,2015,10,retail_trade,15675.4
-2015-11,2015,11,retail_trade,15695.0
-2015-12,2015,12,retail_trade,15699.0
-2016-1,2016,1,retail_trade,15724.7
-2016-2,2016,2,retail_trade,15771.9
-2016-3,2016,3,retail_trade,15810.0
-2016-4,2016,4,retail_trade,15813.6
-2016-5,2016,5,retail_trade,15813.1
-2016-6,2016,6,retail_trade,15843.6
-2016-7,2016,7,retail_trade,15859.2
-2016-8,2016,8,retail_trade,15876.6
-2016-9,2016,9,retail_trade,15885.4
-2016-10,2016,10,retail_trade,15887.8
-2016-11,2016,11,retail_trade,15862.3
-2016-12,2016,12,retail_trade,15892.4
-2017-1,2017,1,retail_trade,15920.4
-2017-2,2017,2,retail_trade,15880.4
-2017-3,2017,3,retail_trade,15862.2
-2017-4,2017,4,retail_trade,15854.1
-2017-5,2017,5,retail_trade,15824.8
-2017-6,2017,6,retail_trade,15831.4
-2017-7,2017,7,retail_trade,15823.1
-2017-8,2017,8,retail_trade,15822.9
-2017-9,2017,9,retail_trade,15815.2
-2017-10,2017,10,retail_trade,15810.9
-2017-11,2017,11,retail_trade,15816.1
-2017-12,2017,12,retail_trade,15802.2
-2018-1,2018,1,retail_trade,15785.5
-2018-2,2018,2,retail_trade,15821.0
-2018-3,2018,3,retail_trade,15833.0
-2018-4,2018,4,retail_trade,15832.1
-2018-5,2018,5,retail_trade,15836.4
-2018-6,2018,6,retail_trade,15797.5
-2018-7,2018,7,retail_trade,15785.4
-2018-8,2018,8,retail_trade,15788.1
-2018-9,2018,9,retail_trade,15741.6
-2018-10,2018,10,retail_trade,15702.5
-2018-11,2018,11,retail_trade,15729.6
-2018-12,2018,12,retail_trade,15704.4
-2019-1,2019,1,retail_trade,15696.5
-2019-2,2019,2,retail_trade,15667.2
-2019-3,2019,3,retail_trade,15642.9
-2019-4,2019,4,retail_trade,15631.1
-2019-5,2019,5,retail_trade,15618.8
-2019-6,2019,6,retail_trade,15613.4
-2019-7,2019,7,retail_trade,15614.4
-2019-8,2019,8,retail_trade,15613.8
-2019-9,2019,9,retail_trade,15622.8
-2019-10,2019,10,retail_trade,15644.7
-2019-11,2019,11,retail_trade,15630.8
-2019-12,2019,12,retail_trade,15672.2
-2020-1,2020,1,retail_trade,15669.0
-2020-2,2020,2,retail_trade,15672.0
-2020-3,2020,3,retail_trade,15586.6
-2020-4,2020,4,retail_trade,13300.8
-2020-5,2020,5,retail_trade,13668.6
-2015-1,2015,1,transportation_and_warehousing,4769.8
-2015-2,2015,2,transportation_and_warehousing,4786.0
-2015-3,2015,3,transportation_and_warehousing,4799.0
-2015-4,2015,4,transportation_and_warehousing,4805.9
-2015-5,2015,5,transportation_and_warehousing,4828.1
-2015-6,2015,6,transportation_and_warehousing,4855.2
-2015-7,2015,7,transportation_and_warehousing,4878.6
-2015-8,2015,8,transportation_and_warehousing,4889.4
-2015-9,2015,9,transportation_and_warehousing,4898.4
-2015-10,2015,10,transportation_and_warehousing,4898.8
-2015-11,2015,11,transportation_and_warehousing,4914.7
-2015-12,2015,12,transportation_and_warehousing,4946.0
-2016-1,2016,1,transportation_and_warehousing,4918.3
-2016-2,2016,2,transportation_and_warehousing,4931.8
-2016-3,2016,3,transportation_and_warehousing,4948.3
-2016-4,2016,4,transportation_and_warehousing,4963.7
-2016-5,2016,5,transportation_and_warehousing,4980.6
-2016-6,2016,6,transportation_and_warehousing,4984.1
-2016-7,2016,7,transportation_and_warehousing,5008.0
-2016-8,2016,8,transportation_and_warehousing,5036.0
-2016-9,2016,9,transportation_and_warehousing,5030.5
-2016-10,2016,10,transportation_and_warehousing,5046.4
-2016-11,2016,11,transportation_and_warehousing,5064.4
-2016-12,2016,12,transportation_and_warehousing,5103.8
-2017-1,2017,1,transportation_and_warehousing,5078.0
-2017-2,2017,2,transportation_and_warehousing,5101.7
-2017-3,2017,3,transportation_and_warehousing,5114.7
-2017-4,2017,4,transportation_and_warehousing,5130.7
-2017-5,2017,5,transportation_and_warehousing,5153.3
-2017-6,2017,6,transportation_and_warehousing,5166.2
-2017-7,2017,7,transportation_and_warehousing,5175.9
-2017-8,2017,8,transportation_and_warehousing,5193.3
-2017-9,2017,9,transportation_and_warehousing,5223.0
-2017-10,2017,10,transportation_and_warehousing,5247.3
-2017-11,2017,11,transportation_and_warehousing,5256.5
-2017-12,2017,12,transportation_and_warehousing,5280.7
-2018-1,2018,1,transportation_and_warehousing,5286.1
-2018-2,2018,2,transportation_and_warehousing,5323.8
-2018-3,2018,3,transportation_and_warehousing,5353.0
-2018-4,2018,4,transportation_and_warehousing,5367.4
-2018-5,2018,5,transportation_and_warehousing,5390.7
-2018-6,2018,6,transportation_and_warehousing,5411.5
-2018-7,2018,7,transportation_and_warehousing,5424.0
-2018-8,2018,8,transportation_and_warehousing,5460.6
-2018-9,2018,9,transportation_and_warehousing,5489.2
-2018-10,2018,10,transportation_and_warehousing,5521.7
-2018-11,2018,11,transportation_and_warehousing,5545.2
-2018-12,2018,12,transportation_and_warehousing,5537.5
-2019-1,2019,1,transportation_and_warehousing,5584.3
-2019-2,2019,2,transportation_and_warehousing,5585.9
-2019-3,2019,3,transportation_and_warehousing,5591.6
-2019-4,2019,4,transportation_and_warehousing,5598.6
-2019-5,2019,5,transportation_and_warehousing,5601.6
-2019-6,2019,6,transportation_and_warehousing,5622.7
-2019-7,2019,7,transportation_and_warehousing,5622.2
-2019-8,2019,8,transportation_and_warehousing,5618.1
-2019-9,2019,9,transportation_and_warehousing,5628.6
-2019-10,2019,10,transportation_and_warehousing,5635.4
-2019-11,2019,11,transportation_and_warehousing,5658.0
-2019-12,2019,12,transportation_and_warehousing,5655.9
-2020-1,2020,1,transportation_and_warehousing,5678.5
-2020-2,2020,2,transportation_and_warehousing,5678.1
-2020-3,2020,3,transportation_and_warehousing,5668.2
-2020-4,2020,4,transportation_and_warehousing,5114.9
-2020-5,2020,5,transportation_and_warehousing,5095.9
-2015-1,2015,1,information,2738.0
-2015-2,2015,2,information,2742.0
-2015-3,2015,3,information,2737.0
-2015-4,2015,4,information,2741.0
-2015-5,2015,5,information,2749.0
-2015-6,2015,6,information,2750.0
-2015-7,2015,7,information,2753.0
-2015-8,2015,8,information,2754.0
-2015-9,2015,9,information,2764.0
-2015-10,2015,10,information,2763.0
-2015-11,2015,11,information,2750.0
-2015-12,2015,12,information,2759.0
-2016-1,2016,1,information,2763.0
-2016-2,2016,2,information,2778.0
-2016-3,2016,3,information,2785.0
-2016-4,2016,4,information,2789.0
-2016-5,2016,5,information,2753.0
-2016-6,2016,6,information,2798.0
-2016-7,2016,7,information,2799.0
-2016-8,2016,8,information,2805.0
-2016-9,2016,9,information,2812.0
-2016-10,2016,10,information,2814.0
-2016-11,2016,11,information,2809.0
-2016-12,2016,12,information,2812.0
-2017-1,2017,1,information,2819.0
-2017-2,2017,2,information,2814.0
-2017-3,2017,3,information,2813.0
-2017-4,2017,4,information,2809.0
-2017-5,2017,5,information,2804.0
-2017-6,2017,6,information,2807.0
-2017-7,2017,7,information,2809.0
-2017-8,2017,8,information,2815.0
-2017-9,2017,9,information,2811.0
-2017-10,2017,10,information,2812.0
-2017-11,2017,11,information,2813.0
-2017-12,2017,12,information,2819.0
-2018-1,2018,1,information,2815.0
-2018-2,2018,2,information,2815.0
-2018-3,2018,3,information,2826.0
-2018-4,2018,4,information,2839.0
-2018-5,2018,5,information,2837.0
-2018-6,2018,6,information,2837.0
-2018-7,2018,7,information,2841.0
-2018-8,2018,8,information,2841.0
-2018-9,2018,9,information,2839.0
-2018-10,2018,10,information,2851.0
-2018-11,2018,11,information,2850.0
-2018-12,2018,12,information,2854.0
-2019-1,2019,1,information,2843.0
-2019-2,2019,2,information,2841.0
-2019-3,2019,3,information,2851.0
-2019-4,2019,4,information,2845.0
-2019-5,2019,5,information,2853.0
-2019-6,2019,6,information,2865.0
-2019-7,2019,7,information,2862.0
-2019-8,2019,8,information,2861.0
-2019-9,2019,9,information,2866.0
-2019-10,2019,10,information,2865.0
-2019-11,2019,11,information,2874.0
-2019-12,2019,12,information,2883.0
-2020-1,2020,1,information,2894.0
-2020-2,2020,2,information,2894.0
-2020-3,2020,3,information,2888.0
-2020-4,2020,4,information,2616.0
-2020-5,2020,5,information,2578.0
-2015-1,2015,1,financial_activities,8059.0
-2015-2,2015,2,financial_activities,8072.0
-2015-3,2015,3,financial_activities,8081.0
-2015-4,2015,4,financial_activities,8088.0
-2015-5,2015,5,financial_activities,8095.0
-2015-6,2015,6,financial_activities,8117.0
-2015-7,2015,7,financial_activities,8137.0
-2015-8,2015,8,financial_activities,8143.0
-2015-9,2015,9,financial_activities,8153.0
-2015-10,2015,10,financial_activities,8168.0
-2015-11,2015,11,financial_activities,8180.0
-2015-12,2015,12,financial_activities,8188.0
-2016-1,2016,1,financial_activities,8203.0
-2016-2,2016,2,financial_activities,8211.0
-2016-3,2016,3,financial_activities,8226.0
-2016-4,2016,4,financial_activities,8249.0
-2016-5,2016,5,financial_activities,8263.0
-2016-6,2016,6,financial_activities,8280.0
-2016-7,2016,7,financial_activities,8302.0
-2016-8,2016,8,financial_activities,8317.0
-2016-9,2016,9,financial_activities,8325.0
-2016-10,2016,10,financial_activities,8331.0
-2016-11,2016,11,financial_activities,8342.0
-2016-12,2016,12,financial_activities,8369.0
-2017-1,2017,1,financial_activities,8399.0
-2017-2,2017,2,financial_activities,8401.0
-2017-3,2017,3,financial_activities,8409.0
-2017-4,2017,4,financial_activities,8424.0
-2017-5,2017,5,financial_activities,8432.0
-2017-6,2017,6,financial_activities,8448.0
-2017-7,2017,7,financial_activities,8460.0
-2017-8,2017,8,financial_activities,8469.0
-2017-9,2017,9,financial_activities,8477.0
-2017-10,2017,10,financial_activities,8482.0
-2017-11,2017,11,financial_activities,8494.0
-2017-12,2017,12,financial_activities,8498.0
-2018-1,2018,1,financial_activities,8504.0
-2018-2,2018,2,financial_activities,8533.0
-2018-3,2018,3,financial_activities,8538.0
-2018-4,2018,4,financial_activities,8545.0
-2018-5,2018,5,financial_activities,8567.0
-2018-6,2018,6,financial_activities,8586.0
-2018-7,2018,7,financial_activities,8594.0
-2018-8,2018,8,financial_activities,8607.0
-2018-9,2018,9,financial_activities,8629.0
-2018-10,2018,10,financial_activities,8647.0
-2018-11,2018,11,financial_activities,8657.0
-2018-12,2018,12,financial_activities,8665.0
-2019-1,2019,1,financial_activities,8676.0
-2019-2,2019,2,financial_activities,8690.0
-2019-3,2019,3,financial_activities,8707.0
-2019-4,2019,4,financial_activities,8721.0
-2019-5,2019,5,financial_activities,8727.0
-2019-6,2019,6,financial_activities,8732.0
-2019-7,2019,7,financial_activities,8753.0
-2019-8,2019,8,financial_activities,8768.0
-2019-9,2019,9,financial_activities,8771.0
-2019-10,2019,10,financial_activities,8792.0
-2019-11,2019,11,financial_activities,8804.0
-2019-12,2019,12,financial_activities,8814.0
-2020-1,2020,1,financial_activities,8823.0
-2020-2,2020,2,financial_activities,8845.0
-2020-3,2020,3,financial_activities,8827.0
-2020-4,2020,4,financial_activities,8563.0
-2020-5,2020,5,financial_activities,8596.0
-2015-1,2015,1,finance_and_insurance,5990.9
-2015-2,2015,2,finance_and_insurance,5998.8
-2015-3,2015,3,finance_and_insurance,6004.7
-2015-4,2015,4,finance_and_insurance,6010.9
-2015-5,2015,5,finance_and_insurance,6017.5
-2015-6,2015,6,finance_and_insurance,6033.7
-2015-7,2015,7,finance_and_insurance,6046.0
-2015-8,2015,8,finance_and_insurance,6047.1
-2015-9,2015,9,finance_and_insurance,6054.1
-2015-10,2015,10,finance_and_insurance,6067.0
-2015-11,2015,11,finance_and_insurance,6075.2
-2015-12,2015,12,finance_and_insurance,6079.1
-2016-1,2016,1,finance_and_insurance,6089.1
-2016-2,2016,2,finance_and_insurance,6096.1
-2016-3,2016,3,finance_and_insurance,6110.2
-2016-4,2016,4,finance_and_insurance,6125.9
-2016-5,2016,5,finance_and_insurance,6131.5
-2016-6,2016,6,finance_and_insurance,6139.4
-2016-7,2016,7,finance_and_insurance,6152.1
-2016-8,2016,8,finance_and_insurance,6167.2
-2016-9,2016,9,finance_and_insurance,6172.2
-2016-10,2016,10,finance_and_insurance,6180.9
-2016-11,2016,11,finance_and_insurance,6186.3
-2016-12,2016,12,finance_and_insurance,6210.1
-2017-1,2017,1,finance_and_insurance,6231.8
-2017-2,2017,2,finance_and_insurance,6232.4
-2017-3,2017,3,finance_and_insurance,6240.8
-2017-4,2017,4,finance_and_insurance,6250.4
-2017-5,2017,5,finance_and_insurance,6254.3
-2017-6,2017,6,finance_and_insurance,6260.5
-2017-7,2017,7,finance_and_insurance,6272.0
-2017-8,2017,8,finance_and_insurance,6276.7
-2017-9,2017,9,finance_and_insurance,6279.6
-2017-10,2017,10,finance_and_insurance,6275.7
-2017-11,2017,11,finance_and_insurance,6273.9
-2017-12,2017,12,finance_and_insurance,6277.1
-2018-1,2018,1,finance_and_insurance,6282.7
-2018-2,2018,2,finance_and_insurance,6302.9
-2018-3,2018,3,finance_and_insurance,6302.3
-2018-4,2018,4,finance_and_insurance,6308.5
-2018-5,2018,5,finance_and_insurance,6325.1
-2018-6,2018,6,finance_and_insurance,6337.3
-2018-7,2018,7,finance_and_insurance,6339.2
-2018-8,2018,8,finance_and_insurance,6346.8
-2018-9,2018,9,finance_and_insurance,6357.7
-2018-10,2018,10,finance_and_insurance,6368.6
-2018-11,2018,11,finance_and_insurance,6380.2
-2018-12,2018,12,finance_and_insurance,6381.8
-2019-1,2019,1,finance_and_insurance,6383.2
-2019-2,2019,2,finance_and_insurance,6393.5
-2019-3,2019,3,finance_and_insurance,6403.7
-2019-4,2019,4,finance_and_insurance,6408.6
-2019-5,2019,5,finance_and_insurance,6411.8
-2019-6,2019,6,finance_and_insurance,6415.3
-2019-7,2019,7,finance_and_insurance,6431.5
-2019-8,2019,8,finance_and_insurance,6439.5
-2019-9,2019,9,finance_and_insurance,6442.1
-2019-10,2019,10,finance_and_insurance,6452.6
-2019-11,2019,11,finance_and_insurance,6457.9
-2019-12,2019,12,finance_and_insurance,6464.4
-2020-1,2020,1,finance_and_insurance,6475.5
-2020-2,2020,2,finance_and_insurance,6486.4
-2020-3,2020,3,finance_and_insurance,6484.0
-2020-4,2020,4,finance_and_insurance,6440.3
-2020-5,2020,5,finance_and_insurance,6448.7
-2015-1,2015,1,real_estate_and_rental_leasing,2067.7
-2015-2,2015,2,real_estate_and_rental_leasing,2072.7
-2015-3,2015,3,real_estate_and_rental_leasing,2076.2
-2015-4,2015,4,real_estate_and_rental_leasing,2077.1
-2015-5,2015,5,real_estate_and_rental_leasing,2077.9
-2015-6,2015,6,real_estate_and_rental_leasing,2083.0
-2015-7,2015,7,real_estate_and_rental_leasing,2091.4
-2015-8,2015,8,real_estate_and_rental_leasing,2096.0
-2015-9,2015,9,real_estate_and_rental_leasing,2098.9
-2015-10,2015,10,real_estate_and_rental_leasing,2101.3
-2015-11,2015,11,real_estate_and_rental_leasing,2105.2
-2015-12,2015,12,real_estate_and_rental_leasing,2109.1
-2016-1,2016,1,real_estate_and_rental_leasing,2113.4
-2016-2,2016,2,real_estate_and_rental_leasing,2115.2
-2016-3,2016,3,real_estate_and_rental_leasing,2115.8
-2016-4,2016,4,real_estate_and_rental_leasing,2123.5
-2016-5,2016,5,real_estate_and_rental_leasing,2131.8
-2016-6,2016,6,real_estate_and_rental_leasing,2140.7
-2016-7,2016,7,real_estate_and_rental_leasing,2150.0
-2016-8,2016,8,real_estate_and_rental_leasing,2149.8
-2016-9,2016,9,real_estate_and_rental_leasing,2152.4
-2016-10,2016,10,real_estate_and_rental_leasing,2150.4
-2016-11,2016,11,real_estate_and_rental_leasing,2155.6
-2016-12,2016,12,real_estate_and_rental_leasing,2159.0
-2017-1,2017,1,real_estate_and_rental_leasing,2167.2
-2017-2,2017,2,real_estate_and_rental_leasing,2168.6
-2017-3,2017,3,real_estate_and_rental_leasing,2167.7
-2017-4,2017,4,real_estate_and_rental_leasing,2173.8
-2017-5,2017,5,real_estate_and_rental_leasing,2177.7
-2017-6,2017,6,real_estate_and_rental_leasing,2187.6
-2017-7,2017,7,real_estate_and_rental_leasing,2187.6
-2017-8,2017,8,real_estate_and_rental_leasing,2192.2
-2017-9,2017,9,real_estate_and_rental_leasing,2197.0
-2017-10,2017,10,real_estate_and_rental_leasing,2206.6
-2017-11,2017,11,real_estate_and_rental_leasing,2219.8
-2017-12,2017,12,real_estate_and_rental_leasing,2221.1
-2018-1,2018,1,real_estate_and_rental_leasing,2220.9
-2018-2,2018,2,real_estate_and_rental_leasing,2230.1
-2018-3,2018,3,real_estate_and_rental_leasing,2236.0
-2018-4,2018,4,real_estate_and_rental_leasing,2236.0
-2018-5,2018,5,real_estate_and_rental_leasing,2242.3
-2018-6,2018,6,real_estate_and_rental_leasing,2249.0
-2018-7,2018,7,real_estate_and_rental_leasing,2255.0
-2018-8,2018,8,real_estate_and_rental_leasing,2259.7
-2018-9,2018,9,real_estate_and_rental_leasing,2271.2
-2018-10,2018,10,real_estate_and_rental_leasing,2278.0
-2018-11,2018,11,real_estate_and_rental_leasing,2276.9
-2018-12,2018,12,real_estate_and_rental_leasing,2283.0
-2019-1,2019,1,real_estate_and_rental_leasing,2292.5
-2019-2,2019,2,real_estate_and_rental_leasing,2296.8
-2019-3,2019,3,real_estate_and_rental_leasing,2303.0
-2019-4,2019,4,real_estate_and_rental_leasing,2312.0
-2019-5,2019,5,real_estate_and_rental_leasing,2315.0
-2019-6,2019,6,real_estate_and_rental_leasing,2317.1
-2019-7,2019,7,real_estate_and_rental_leasing,2321.6
-2019-8,2019,8,real_estate_and_rental_leasing,2328.3
-2019-9,2019,9,real_estate_and_rental_leasing,2328.9
-2019-10,2019,10,real_estate_and_rental_leasing,2339.3
-2019-11,2019,11,real_estate_and_rental_leasing,2345.6
-2019-12,2019,12,real_estate_and_rental_leasing,2349.1
-2020-1,2020,1,real_estate_and_rental_leasing,2347.4
-2020-2,2020,2,real_estate_and_rental_leasing,2358.5
-2020-3,2020,3,real_estate_and_rental_leasing,2342.8
-2020-4,2020,4,real_estate_and_rental_leasing,2123.0
-2020-5,2020,5,real_estate_and_rental_leasing,2147.1
-2015-1,2015,1,professional_and_business_services,19442.0
-2015-2,2015,2,professional_and_business_services,19487.0
-2015-3,2015,3,professional_and_business_services,19513.0
-2015-4,2015,4,professional_and_business_services,19557.0
-2015-5,2015,5,professional_and_business_services,19638.0
-2015-6,2015,6,professional_and_business_services,19689.0
-2015-7,2015,7,professional_and_business_services,19726.0
-2015-8,2015,8,professional_and_business_services,19755.0
-2015-9,2015,9,professional_and_business_services,19778.0
-2015-10,2015,10,professional_and_business_services,19851.0
-2015-11,2015,11,professional_and_business_services,19885.0
-2015-12,2015,12,professional_and_business_services,19955.0
-2016-1,2016,1,professional_and_business_services,19953.0
-2016-2,2016,2,professional_and_business_services,19968.0
-2016-3,2016,3,professional_and_business_services,19998.0
-2016-4,2016,4,professional_and_business_services,20030.0
-2016-5,2016,5,professional_and_business_services,20038.0
-2016-6,2016,6,professional_and_business_services,20081.0
-2016-7,2016,7,professional_and_business_services,20125.0
-2016-8,2016,8,professional_and_business_services,20131.0
-2016-9,2016,9,professional_and_business_services,20198.0
-2016-10,2016,10,professional_and_business_services,20216.0
-2016-11,2016,11,professional_and_business_services,20253.0
-2016-12,2016,12,professional_and_business_services,20288.0
-2017-1,2017,1,professional_and_business_services,20338.0
-2017-2,2017,2,professional_and_business_services,20347.0
-2017-3,2017,3,professional_and_business_services,20376.0
-2017-4,2017,4,professional_and_business_services,20406.0
-2017-5,2017,5,professional_and_business_services,20463.0
-2017-6,2017,6,professional_and_business_services,20498.0
-2017-7,2017,7,professional_and_business_services,20540.0
-2017-8,2017,8,professional_and_business_services,20568.0
-2017-9,2017,9,professional_and_business_services,20571.0
-2017-10,2017,10,professional_and_business_services,20619.0
-2017-11,2017,11,professional_and_business_services,20649.0
-2017-12,2017,12,professional_and_business_services,20683.0
-2018-1,2018,1,professional_and_business_services,20738.0
-2018-2,2018,2,professional_and_business_services,20781.0
-2018-3,2018,3,professional_and_business_services,20823.0
-2018-4,2018,4,professional_and_business_services,20868.0
-2018-5,2018,5,professional_and_business_services,20914.0
-2018-6,2018,6,professional_and_business_services,20948.0
-2018-7,2018,7,professional_and_business_services,20968.0
-2018-8,2018,8,professional_and_business_services,21009.0
-2018-9,2018,9,professional_and_business_services,21042.0
-2018-10,2018,10,professional_and_business_services,21079.0
-2018-11,2018,11,professional_and_business_services,21102.0
-2018-12,2018,12,professional_and_business_services,21128.0
-2019-1,2019,1,professional_and_business_services,21126.0
-2019-2,2019,2,professional_and_business_services,21164.0
-2019-3,2019,3,professional_and_business_services,21176.0
-2019-4,2019,4,professional_and_business_services,21226.0
-2019-5,2019,5,professional_and_business_services,21253.0
-2019-6,2019,6,professional_and_business_services,21294.0
-2019-7,2019,7,professional_and_business_services,21337.0
-2019-8,2019,8,professional_and_business_services,21377.0
-2019-9,2019,9,professional_and_business_services,21402.0
-2019-10,2019,10,professional_and_business_services,21444.0
-2019-11,2019,11,professional_and_business_services,21481.0
-2019-12,2019,12,professional_and_business_services,21503.0
-2020-1,2020,1,professional_and_business_services,21523.0
-2020-2,2020,2,professional_and_business_services,21550.0
-2020-3,2020,3,professional_and_business_services,21456.0
-2020-4,2020,4,professional_and_business_services,19267.0
-2020-5,2020,5,professional_and_business_services,19394.0
-2015-1,2015,1,professional_and_technical_services,8526.7
-2015-2,2015,2,professional_and_technical_services,8555.9
-2015-3,2015,3,professional_and_technical_services,8584.1
-2015-4,2015,4,professional_and_technical_services,8610.7
-2015-5,2015,5,professional_and_technical_services,8627.1
-2015-6,2015,6,professional_and_technical_services,8653.9
-2015-7,2015,7,professional_and_technical_services,8678.0
-2015-8,2015,8,professional_and_technical_services,8690.9
-2015-9,2015,9,professional_and_technical_services,8704.5
-2015-10,2015,10,professional_and_technical_services,8733.2
-2015-11,2015,11,professional_and_technical_services,8755.5
-2015-12,2015,12,professional_and_technical_services,8765.3
-2016-1,2016,1,professional_and_technical_services,8803.3
-2016-2,2016,2,professional_and_technical_services,8810.7
-2016-3,2016,3,professional_and_technical_services,8823.5
-2016-4,2016,4,professional_and_technical_services,8839.8
-2016-5,2016,5,professional_and_technical_services,8860.3
-2016-6,2016,6,professional_and_technical_services,8870.0
-2016-7,2016,7,professional_and_technical_services,8888.4
-2016-8,2016,8,professional_and_technical_services,8896.9
-2016-9,2016,9,professional_and_technical_services,8918.6
-2016-10,2016,10,professional_and_technical_services,8933.4
-2016-11,2016,11,professional_and_technical_services,8939.9
-2016-12,2016,12,professional_and_technical_services,8957.4
-2017-1,2017,1,professional_and_technical_services,8981.6
-2017-2,2017,2,professional_and_technical_services,8988.0
-2017-3,2017,3,professional_and_technical_services,8987.3
-2017-4,2017,4,professional_and_technical_services,9019.5
-2017-5,2017,5,professional_and_technical_services,9031.0
-2017-6,2017,6,professional_and_technical_services,9046.7
-2017-7,2017,7,professional_and_technical_services,9063.4
-2017-8,2017,8,professional_and_technical_services,9080.4
-2017-9,2017,9,professional_and_technical_services,9090.8
-2017-10,2017,10,professional_and_technical_services,9108.2
-2017-11,2017,11,professional_and_technical_services,9125.4
-2017-12,2017,12,professional_and_technical_services,9138.6
-2018-1,2018,1,professional_and_technical_services,9170.9
-2018-2,2018,2,professional_and_technical_services,9190.9
-2018-3,2018,3,professional_and_technical_services,9206.8
-2018-4,2018,4,professional_and_technical_services,9228.2
-2018-5,2018,5,professional_and_technical_services,9256.3
-2018-6,2018,6,professional_and_technical_services,9271.0
-2018-7,2018,7,professional_and_technical_services,9287.7
-2018-8,2018,8,professional_and_technical_services,9314.0
-2018-9,2018,9,professional_and_technical_services,9329.1
-2018-10,2018,10,professional_and_technical_services,9352.5
-2018-11,2018,11,professional_and_technical_services,9376.1
-2018-12,2018,12,professional_and_technical_services,9388.7
-2019-1,2019,1,professional_and_technical_services,9410.6
-2019-2,2019,2,professional_and_technical_services,9431.9
-2019-3,2019,3,professional_and_technical_services,9457.0
-2019-4,2019,4,professional_and_technical_services,9477.7
-2019-5,2019,5,professional_and_technical_services,9502.2
-2019-6,2019,6,professional_and_technical_services,9534.1
-2019-7,2019,7,professional_and_technical_services,9566.7
-2019-8,2019,8,professional_and_technical_services,9587.0
-2019-9,2019,9,professional_and_technical_services,9603.0
-2019-10,2019,10,professional_and_technical_services,9624.0
-2019-11,2019,11,professional_and_technical_services,9649.9
-2019-12,2019,12,professional_and_technical_services,9667.4
-2020-1,2020,1,professional_and_technical_services,9678.8
-2020-2,2020,2,professional_and_technical_services,9707.6
-2020-3,2020,3,professional_and_technical_services,9698.5
-2020-4,2020,4,professional_and_technical_services,9159.0
-2020-5,2020,5,professional_and_technical_services,9198.8
-2015-1,2015,1,mgmt_of_companies_and_enterprises,2195.4
-2015-2,2015,2,mgmt_of_companies_and_enterprises,2198.2
-2015-3,2015,3,mgmt_of_companies_and_enterprises,2204.3
-2015-4,2015,4,mgmt_of_companies_and_enterprises,2203.9
-2015-5,2015,5,mgmt_of_companies_and_enterprises,2208.8
-2015-6,2015,6,mgmt_of_companies_and_enterprises,2211.0
-2015-7,2015,7,mgmt_of_companies_and_enterprises,2217.8
-2015-8,2015,8,mgmt_of_companies_and_enterprises,2219.1
-2015-9,2015,9,mgmt_of_companies_and_enterprises,2220.8
-2015-10,2015,10,mgmt_of_companies_and_enterprises,2226.7
-2015-11,2015,11,mgmt_of_companies_and_enterprises,2231.1
-2015-12,2015,12,mgmt_of_companies_and_enterprises,2230.5
-2016-1,2016,1,mgmt_of_companies_and_enterprises,2232.4
-2016-2,2016,2,mgmt_of_companies_and_enterprises,2236.2
-2016-3,2016,3,mgmt_of_companies_and_enterprises,2236.8
-2016-4,2016,4,mgmt_of_companies_and_enterprises,2242.3
-2016-5,2016,5,mgmt_of_companies_and_enterprises,2239.5
-2016-6,2016,6,mgmt_of_companies_and_enterprises,2244.3
-2016-7,2016,7,mgmt_of_companies_and_enterprises,2252.9
-2016-8,2016,8,mgmt_of_companies_and_enterprises,2255.9
-2016-9,2016,9,mgmt_of_companies_and_enterprises,2262.0
-2016-10,2016,10,mgmt_of_companies_and_enterprises,2264.7
-2016-11,2016,11,mgmt_of_companies_and_enterprises,2270.0
-2016-12,2016,12,mgmt_of_companies_and_enterprises,2277.4
-2017-1,2017,1,mgmt_of_companies_and_enterprises,2284.1
-2017-2,2017,2,mgmt_of_companies_and_enterprises,2289.4
-2017-3,2017,3,mgmt_of_companies_and_enterprises,2292.1
-2017-4,2017,4,mgmt_of_companies_and_enterprises,2294.7
-2017-5,2017,5,mgmt_of_companies_and_enterprises,2299.9
-2017-6,2017,6,mgmt_of_companies_and_enterprises,2305.8
-2017-7,2017,7,mgmt_of_companies_and_enterprises,2311.2
-2017-8,2017,8,mgmt_of_companies_and_enterprises,2314.3
-2017-9,2017,9,mgmt_of_companies_and_enterprises,2316.6
-2017-10,2017,10,mgmt_of_companies_and_enterprises,2322.3
-2017-11,2017,11,mgmt_of_companies_and_enterprises,2328.0
-2017-12,2017,12,mgmt_of_companies_and_enterprises,2334.0
-2018-1,2018,1,mgmt_of_companies_and_enterprises,2339.1
-2018-2,2018,2,mgmt_of_companies_and_enterprises,2342.9
-2018-3,2018,3,mgmt_of_companies_and_enterprises,2350.1
-2018-4,2018,4,mgmt_of_companies_and_enterprises,2360.4
-2018-5,2018,5,mgmt_of_companies_and_enterprises,2371.3
-2018-6,2018,6,mgmt_of_companies_and_enterprises,2380.4
-2018-7,2018,7,mgmt_of_companies_and_enterprises,2379.4
-2018-8,2018,8,mgmt_of_companies_and_enterprises,2384.1
-2018-9,2018,9,mgmt_of_companies_and_enterprises,2389.9
-2018-10,2018,10,mgmt_of_companies_and_enterprises,2394.4
-2018-11,2018,11,mgmt_of_companies_and_enterprises,2396.8
-2018-12,2018,12,mgmt_of_companies_and_enterprises,2400.6
-2019-1,2019,1,mgmt_of_companies_and_enterprises,2404.0
-2019-2,2019,2,mgmt_of_companies_and_enterprises,2411.2
-2019-3,2019,3,mgmt_of_companies_and_enterprises,2413.6
-2019-4,2019,4,mgmt_of_companies_and_enterprises,2417.0
-2019-5,2019,5,mgmt_of_companies_and_enterprises,2420.6
-2019-6,2019,6,mgmt_of_companies_and_enterprises,2425.0
-2019-7,2019,7,mgmt_of_companies_and_enterprises,2428.8
-2019-8,2019,8,mgmt_of_companies_and_enterprises,2434.5
-2019-9,2019,9,mgmt_of_companies_and_enterprises,2438.3
-2019-10,2019,10,mgmt_of_companies_and_enterprises,2442.8
-2019-11,2019,11,mgmt_of_companies_and_enterprises,2445.0
-2019-12,2019,12,mgmt_of_companies_and_enterprises,2447.7
-2020-1,2020,1,mgmt_of_companies_and_enterprises,2451.0
-2020-2,2020,2,mgmt_of_companies_and_enterprises,2447.3
-2020-3,2020,3,mgmt_of_companies_and_enterprises,2445.1
-2020-4,2020,4,mgmt_of_companies_and_enterprises,2353.8
-2020-5,2020,5,mgmt_of_companies_and_enterprises,2332.0
-2015-1,2015,1,admin_and_waste_services,8719.9
-2015-2,2015,2,admin_and_waste_services,8732.4
-2015-3,2015,3,admin_and_waste_services,8724.8
-2015-4,2015,4,admin_and_waste_services,8742.7
-2015-5,2015,5,admin_and_waste_services,8802.0
-2015-6,2015,6,admin_and_waste_services,8824.0
-2015-7,2015,7,admin_and_waste_services,8830.1
-2015-8,2015,8,admin_and_waste_services,8844.6
-2015-9,2015,9,admin_and_waste_services,8852.6
-2015-10,2015,10,admin_and_waste_services,8891.2
-2015-11,2015,11,admin_and_waste_services,8898.2
-2015-12,2015,12,admin_and_waste_services,8959.1
-2016-1,2016,1,admin_and_waste_services,8917.1
-2016-2,2016,2,admin_and_waste_services,8920.8
-2016-3,2016,3,admin_and_waste_services,8937.5
-2016-4,2016,4,admin_and_waste_services,8947.5
-2016-5,2016,5,admin_and_waste_services,8937.9
-2016-6,2016,6,admin_and_waste_services,8966.7
-2016-7,2016,7,admin_and_waste_services,8983.9
-2016-8,2016,8,admin_and_waste_services,8978.1
-2016-9,2016,9,admin_and_waste_services,9017.8
-2016-10,2016,10,admin_and_waste_services,9017.9
-2016-11,2016,11,admin_and_waste_services,9043.1
-2016-12,2016,12,admin_and_waste_services,9053.4
-2017-1,2017,1,admin_and_waste_services,9071.9
-2017-2,2017,2,admin_and_waste_services,9069.5
-2017-3,2017,3,admin_and_waste_services,9096.6
-2017-4,2017,4,admin_and_waste_services,9091.5
-2017-5,2017,5,admin_and_waste_services,9131.7
-2017-6,2017,6,admin_and_waste_services,9145.3
-2017-7,2017,7,admin_and_waste_services,9165.2
-2017-8,2017,8,admin_and_waste_services,9173.1
-2017-9,2017,9,admin_and_waste_services,9163.1
-2017-10,2017,10,admin_and_waste_services,9188.7
-2017-11,2017,11,admin_and_waste_services,9195.3
-2017-12,2017,12,admin_and_waste_services,9210.0
-2018-1,2018,1,admin_and_waste_services,9228.4
-2018-2,2018,2,admin_and_waste_services,9247.2
-2018-3,2018,3,admin_and_waste_services,9265.8
-2018-4,2018,4,admin_and_waste_services,9279.1
-2018-5,2018,5,admin_and_waste_services,9286.4
-2018-6,2018,6,admin_and_waste_services,9296.9
-2018-7,2018,7,admin_and_waste_services,9300.5
-2018-8,2018,8,admin_and_waste_services,9311.0
-2018-9,2018,9,admin_and_waste_services,9323.1
-2018-10,2018,10,admin_and_waste_services,9331.8
-2018-11,2018,11,admin_and_waste_services,9329.2
-2018-12,2018,12,admin_and_waste_services,9338.6
-2019-1,2019,1,admin_and_waste_services,9311.5
-2019-2,2019,2,admin_and_waste_services,9321.1
-2019-3,2019,3,admin_and_waste_services,9305.4
-2019-4,2019,4,admin_and_waste_services,9331.4
-2019-5,2019,5,admin_and_waste_services,9329.7
-2019-6,2019,6,admin_and_waste_services,9334.9
-2019-7,2019,7,admin_and_waste_services,9341.7
-2019-8,2019,8,admin_and_waste_services,9355.0
-2019-9,2019,9,admin_and_waste_services,9360.2
-2019-10,2019,10,admin_and_waste_services,9377.5
-2019-11,2019,11,admin_and_waste_services,9385.7
-2019-12,2019,12,admin_and_waste_services,9387.4
-2020-1,2020,1,admin_and_waste_services,9393.0
-2020-2,2020,2,admin_and_waste_services,9395.0
-2020-3,2020,3,admin_and_waste_services,9312.3
-2020-4,2020,4,admin_and_waste_services,7754.2
-2020-5,2020,5,admin_and_waste_services,7863.5
-2015-1,2015,1,edu_and_health_services,21741.0
-2015-2,2015,2,edu_and_health_services,21789.0
-2015-3,2015,3,edu_and_health_services,21832.0
-2015-4,2015,4,edu_and_health_services,21906.0
-2015-5,2015,5,edu_and_health_services,21958.0
-2015-6,2015,6,edu_and_health_services,21998.0
-2015-7,2015,7,edu_and_health_services,22053.0
-2015-8,2015,8,edu_and_health_services,22094.0
-2015-9,2015,9,edu_and_health_services,22131.0
-2015-10,2015,10,edu_and_health_services,22215.0
-2015-11,2015,11,edu_and_health_services,22260.0
-2015-12,2015,12,edu_and_health_services,22323.0
-2016-1,2016,1,edu_and_health_services,22337.0
-2016-2,2016,2,edu_and_health_services,22405.0
-2016-3,2016,3,edu_and_health_services,22452.0
-2016-4,2016,4,edu_and_health_services,22510.0
-2016-5,2016,5,edu_and_health_services,22567.0
-2016-6,2016,6,edu_and_health_services,22624.0
-2016-7,2016,7,edu_and_health_services,22668.0
-2016-8,2016,8,edu_and_health_services,22714.0
-2016-9,2016,9,edu_and_health_services,22773.0
-2016-10,2016,10,edu_and_health_services,22834.0
-2016-11,2016,11,edu_and_health_services,22868.0
-2016-12,2016,12,edu_and_health_services,22929.0
-2017-1,2017,1,edu_and_health_services,22938.0
-2017-2,2017,2,edu_and_health_services,23012.0
-2017-3,2017,3,edu_and_health_services,23051.0
-2017-4,2017,4,edu_and_health_services,23101.0
-2017-5,2017,5,edu_and_health_services,23139.0
-2017-6,2017,6,edu_and_health_services,23167.0
-2017-7,2017,7,edu_and_health_services,23227.0
-2017-8,2017,8,edu_and_health_services,23264.0
-2017-9,2017,9,edu_and_health_services,23295.0
-2017-10,2017,10,edu_and_health_services,23322.0
-2017-11,2017,11,edu_and_health_services,23374.0
-2017-12,2017,12,edu_and_health_services,23383.0
-2018-1,2018,1,edu_and_health_services,23437.0
-2018-2,2018,2,edu_and_health_services,23491.0
-2018-3,2018,3,edu_and_health_services,23523.0
-2018-4,2018,4,edu_and_health_services,23538.0
-2018-5,2018,5,edu_and_health_services,23576.0
-2018-6,2018,6,edu_and_health_services,23617.0
-2018-7,2018,7,edu_and_health_services,23644.0
-2018-8,2018,8,edu_and_health_services,23691.0
-2018-9,2018,9,edu_and_health_services,23716.0
-2018-10,2018,10,edu_and_health_services,23767.0
-2018-11,2018,11,edu_and_health_services,23790.0
-2018-12,2018,12,edu_and_health_services,23844.0
-2019-1,2019,1,edu_and_health_services,23900.0
-2019-2,2019,2,edu_and_health_services,23918.0
-2019-3,2019,3,edu_and_health_services,23981.0
-2019-4,2019,4,edu_and_health_services,24046.0
-2019-5,2019,5,edu_and_health_services,24076.0
-2019-6,2019,6,edu_and_health_services,24131.0
-2019-7,2019,7,edu_and_health_services,24204.0
-2019-8,2019,8,edu_and_health_services,24262.0
-2019-9,2019,9,edu_and_health_services,24323.0
-2019-10,2019,10,edu_and_health_services,24363.0
-2019-11,2019,11,edu_and_health_services,24436.0
-2019-12,2019,12,edu_and_health_services,24465.0
-2020-1,2020,1,edu_and_health_services,24534.0
-2020-2,2020,2,edu_and_health_services,24586.0
-2020-3,2020,3,edu_and_health_services,24408.0
-2020-4,2020,4,edu_and_health_services,21818.0
-2020-5,2020,5,edu_and_health_services,22242.0
-2015-1,2015,1,educational_services,3439.1
-2015-2,2015,2,educational_services,3448.4
-2015-3,2015,3,educational_services,3454.1
-2015-4,2015,4,educational_services,3453.3
-2015-5,2015,5,educational_services,3453.6
-2015-6,2015,6,educational_services,3460.0
-2015-7,2015,7,educational_services,3470.8
-2015-8,2015,8,educational_services,3474.2
-2015-9,2015,9,educational_services,3464.4
-2015-10,2015,10,educational_services,3490.3
-2015-11,2015,11,educational_services,3502.0
-2015-12,2015,12,educational_services,3526.3
-2016-1,2016,1,educational_services,3506.5
-2016-2,2016,2,educational_services,3520.9
-2016-3,2016,3,educational_services,3536.8
-2016-4,2016,4,educational_services,3555.9
-2016-5,2016,5,educational_services,3567.5
-2016-6,2016,6,educational_services,3573.1
-2016-7,2016,7,educational_services,3567.3
-2016-8,2016,8,educational_services,3571.0
-2016-9,2016,9,educational_services,3589.3
-2016-10,2016,10,educational_services,3612.6
-2016-11,2016,11,educational_services,3615.5
-2016-12,2016,12,educational_services,3622.8
-2017-1,2017,1,educational_services,3611.2
-2017-2,2017,2,educational_services,3650.4
-2017-3,2017,3,educational_services,3660.9
-2017-4,2017,4,educational_services,3662.1
-2017-5,2017,5,educational_services,3670.5
-2017-6,2017,6,educational_services,3645.6
-2017-7,2017,7,educational_services,3658.4
-2017-8,2017,8,educational_services,3678.7
-2017-9,2017,9,educational_services,3694.6
-2017-10,2017,10,educational_services,3693.1
-2017-11,2017,11,educational_services,3707.5
-2017-12,2017,12,educational_services,3702.5
-2018-1,2018,1,educational_services,3705.6
-2018-2,2018,2,educational_services,3712.3
-2018-3,2018,3,educational_services,3710.0
-2018-4,2018,4,educational_services,3706.8
-2018-5,2018,5,educational_services,3707.1
-2018-6,2018,6,educational_services,3723.8
-2018-7,2018,7,educational_services,3724.4
-2018-8,2018,8,educational_services,3728.1
-2018-9,2018,9,educational_services,3716.3
-2018-10,2018,10,educational_services,3717.3
-2018-11,2018,11,educational_services,3709.3
-2018-12,2018,12,educational_services,3718.6
-2019-1,2019,1,educational_services,3737.0
-2019-2,2019,2,educational_services,3723.5
-2019-3,2019,3,educational_services,3725.0
-2019-4,2019,4,educational_services,3740.1
-2019-5,2019,5,educational_services,3743.4
-2019-6,2019,6,educational_services,3750.6
-2019-7,2019,7,educational_services,3777.8
-2019-8,2019,8,educational_services,3779.5
-2019-9,2019,9,educational_services,3791.6
-2019-10,2019,10,educational_services,3791.1
-2019-11,2019,11,educational_services,3806.7
-2019-12,2019,12,educational_services,3810.3
-2020-1,2020,1,educational_services,3839.2
-2020-2,2020,2,educational_services,3828.5
-2020-3,2020,3,educational_services,3784.8
-2020-4,2020,4,educational_services,3323.4
-2020-5,2020,5,educational_services,3356.8
-2015-1,2015,1,healthcare_and_social assistance,18301.4
-2015-2,2015,2,healthcare_and_social assistance,18340.8
-2015-3,2015,3,healthcare_and_social assistance,18377.5
-2015-4,2015,4,healthcare_and_social assistance,18452.7
-2015-5,2015,5,healthcare_and_social assistance,18504.0
-2015-6,2015,6,healthcare_and_social assistance,18538.4
-2015-7,2015,7,healthcare_and_social assistance,18582.0
-2015-8,2015,8,healthcare_and_social assistance,18620.0
-2015-9,2015,9,healthcare_and_social assistance,18666.9
-2015-10,2015,10,healthcare_and_social assistance,18724.6
-2015-11,2015,11,healthcare_and_social assistance,18758.3
-2015-12,2015,12,healthcare_and_social assistance,18797.0
-2016-1,2016,1,healthcare_and_social assistance,18830.2
-2016-2,2016,2,healthcare_and_social assistance,18884.4
-2016-3,2016,3,healthcare_and_social assistance,18915.4
-2016-4,2016,4,healthcare_and_social assistance,18953.7
-2016-5,2016,5,healthcare_and_social assistance,18999.3
-2016-6,2016,6,healthcare_and_social assistance,19051.1
-2016-7,2016,7,healthcare_and_social assistance,19100.7
-2016-8,2016,8,healthcare_and_social assistance,19142.5
-2016-9,2016,9,healthcare_and_social assistance,19184.1
-2016-10,2016,10,healthcare_and_social assistance,19221.8
-2016-11,2016,11,healthcare_and_social assistance,19252.4
-2016-12,2016,12,healthcare_and_social assistance,19306.2
-2017-1,2017,1,healthcare_and_social assistance,19327.1
-2017-2,2017,2,healthcare_and_social assistance,19361.1
-2017-3,2017,3,healthcare_and_social assistance,19389.7
-2017-4,2017,4,healthcare_and_social assistance,19439.0
-2017-5,2017,5,healthcare_and_social assistance,19468.2
-2017-6,2017,6,healthcare_and_social assistance,19521.2
-2017-7,2017,7,healthcare_and_social assistance,19568.8
-2017-8,2017,8,healthcare_and_social assistance,19584.9
-2017-9,2017,9,healthcare_and_social assistance,19600.2
-2017-10,2017,10,healthcare_and_social assistance,19629.0
-2017-11,2017,11,healthcare_and_social assistance,19666.1
-2017-12,2017,12,healthcare_and_social assistance,19680.5
-2018-1,2018,1,healthcare_and_social assistance,19730.9
-2018-2,2018,2,healthcare_and_social assistance,19779.1
-2018-3,2018,3,healthcare_and_social assistance,19813.4
-2018-4,2018,4,healthcare_and_social assistance,19831.2
-2018-5,2018,5,healthcare_and_social assistance,19869.3
-2018-6,2018,6,healthcare_and_social assistance,19893.4
-2018-7,2018,7,healthcare_and_social assistance,19920.0
-2018-8,2018,8,healthcare_and_social assistance,19962.7
-2018-9,2018,9,healthcare_and_social assistance,20000.1
-2018-10,2018,10,healthcare_and_social assistance,20049.2
-2018-11,2018,11,healthcare_and_social assistance,20080.8
-2018-12,2018,12,healthcare_and_social assistance,20125.1
-2019-1,2019,1,healthcare_and_social assistance,20162.7
-2019-2,2019,2,healthcare_and_social assistance,20194.6
-2019-3,2019,3,healthcare_and_social assistance,20256.1
-2019-4,2019,4,healthcare_and_social assistance,20306.0
-2019-5,2019,5,healthcare_and_social assistance,20332.1
-2019-6,2019,6,healthcare_and_social assistance,20380.0
-2019-7,2019,7,healthcare_and_social assistance,20425.9
-2019-8,2019,8,healthcare_and_social assistance,20482.4
-2019-9,2019,9,healthcare_and_social assistance,20531.1
-2019-10,2019,10,healthcare_and_social assistance,20572.2
-2019-11,2019,11,healthcare_and_social assistance,20628.9
-2019-12,2019,12,healthcare_and_social assistance,20654.2
-2020-1,2020,1,healthcare_and_social assistance,20695.2
-2020-2,2020,2,healthcare_and_social assistance,20757.7
-2020-3,2020,3,healthcare_and_social assistance,20623.2
-2020-4,2020,4,healthcare_and_social assistance,18494.7
-2020-5,2020,5,healthcare_and_social assistance,18885.4
-2015-1,2015,1,leisure_and_hospitality,14915.0
-2015-2,2015,2,leisure_and_hospitality,14972.0
-2015-3,2015,3,leisure_and_hospitality,14981.0
-2015-4,2015,4,leisure_and_hospitality,15023.0
-2015-5,2015,5,leisure_and_hospitality,15103.0
-2015-6,2015,6,leisure_and_hospitality,15108.0
-2015-7,2015,7,leisure_and_hospitality,15168.0
-2015-8,2015,8,leisure_and_hospitality,15201.0
-2015-9,2015,9,leisure_and_hospitality,15279.0
-2015-10,2015,10,leisure_and_hospitality,15316.0
-2015-11,2015,11,leisure_and_hospitality,15374.0
-2015-12,2015,12,leisure_and_hospitality,15406.0
-2016-1,2016,1,leisure_and_hospitality,15441.0
-2016-2,2016,2,leisure_and_hospitality,15497.0
-2016-3,2016,3,leisure_and_hospitality,15538.0
-2016-4,2016,4,leisure_and_hospitality,15561.0
-2016-5,2016,5,leisure_and_hospitality,15582.0
-2016-6,2016,6,leisure_and_hospitality,15637.0
-2016-7,2016,7,leisure_and_hospitality,15684.0
-2016-8,2016,8,leisure_and_hospitality,15724.0
-2016-9,2016,9,leisure_and_hospitality,15761.0
-2016-10,2016,10,leisure_and_hospitality,15779.0
-2016-11,2016,11,leisure_and_hospitality,15829.0
-2016-12,2016,12,leisure_and_hospitality,15846.0
-2017-1,2017,1,leisure_and_hospitality,15878.0
-2017-2,2017,2,leisure_and_hospitality,15910.0
-2017-3,2017,3,leisure_and_hospitality,15922.0
-2017-4,2017,4,leisure_and_hospitality,15986.0
-2017-5,2017,5,leisure_and_hospitality,16021.0
-2017-6,2017,6,leisure_and_hospitality,16063.0
-2017-7,2017,7,leisure_and_hospitality,16134.0
-2017-8,2017,8,leisure_and_hospitality,16138.0
-2017-9,2017,9,leisure_and_hospitality,16065.0
-2017-10,2017,10,leisure_and_hospitality,16156.0
-2017-11,2017,11,leisure_and_hospitality,16170.0
-2017-12,2017,12,leisure_and_hospitality,16190.0
-2018-1,2018,1,leisure_and_hospitality,16193.0
-2018-2,2018,2,leisure_and_hospitality,16218.0
-2018-3,2018,3,leisure_and_hospitality,16220.0
-2018-4,2018,4,leisure_and_hospitality,16217.0
-2018-5,2018,5,leisure_and_hospitality,16263.0
-2018-6,2018,6,leisure_and_hospitality,16310.0
-2018-7,2018,7,leisure_and_hospitality,16349.0
-2018-8,2018,8,leisure_and_hospitality,16350.0
-2018-9,2018,9,leisure_and_hospitality,16326.0
-2018-10,2018,10,leisure_and_hospitality,16358.0
-2018-11,2018,11,leisure_and_hospitality,16368.0
-2018-12,2018,12,leisure_and_hospitality,16415.0
-2019-1,2019,1,leisure_and_hospitality,16496.0
-2019-2,2019,2,leisure_and_hospitality,16473.0
-2019-3,2019,3,leisure_and_hospitality,16494.0
-2019-4,2019,4,leisure_and_hospitality,16507.0
-2019-5,2019,5,leisure_and_hospitality,16519.0
-2019-6,2019,6,leisure_and_hospitality,16526.0
-2019-7,2019,7,leisure_and_hospitality,16528.0
-2019-8,2019,8,leisure_and_hospitality,16570.0
-2019-9,2019,9,leisure_and_hospitality,16631.0
-2019-10,2019,10,leisure_and_hospitality,16701.0
-2019-11,2019,11,leisure_and_hospitality,16744.0
-2019-12,2019,12,leisure_and_hospitality,16784.0
-2020-1,2020,1,leisure_and_hospitality,16808.0
-2020-2,2020,2,leisure_and_hospitality,16867.0
-2020-3,2020,3,leisure_and_hospitality,16124.0
-2020-4,2020,4,leisure_and_hospitality,8585.0
-2020-5,2020,5,leisure_and_hospitality,9824.0
-2015-1,2015,1,arts_entertainment_and_recreation,2124.7
-2015-2,2015,2,arts_entertainment_and_recreation,2129.2
-2015-3,2015,3,arts_entertainment_and_recreation,2132.4
-2015-4,2015,4,arts_entertainment_and_recreation,2142.1
-2015-5,2015,5,arts_entertainment_and_recreation,2178.3
-2015-6,2015,6,arts_entertainment_and_recreation,2160.8
-2015-7,2015,7,arts_entertainment_and_recreation,2164.5
-2015-8,2015,8,arts_entertainment_and_recreation,2168.9
-2015-9,2015,9,arts_entertainment_and_recreation,2192.7
-2015-10,2015,10,arts_entertainment_and_recreation,2182.6
-2015-11,2015,11,arts_entertainment_and_recreation,2198.6
-2015-12,2015,12,arts_entertainment_and_recreation,2194.9
-2016-1,2016,1,arts_entertainment_and_recreation,2192.3
-2016-2,2016,2,arts_entertainment_and_recreation,2206.7
-2016-3,2016,3,arts_entertainment_and_recreation,2225.2
-2016-4,2016,4,arts_entertainment_and_recreation,2234.1
-2016-5,2016,5,arts_entertainment_and_recreation,2228.0
-2016-6,2016,6,arts_entertainment_and_recreation,2253.2
-2016-7,2016,7,arts_entertainment_and_recreation,2272.3
-2016-8,2016,8,arts_entertainment_and_recreation,2274.5
-2016-9,2016,9,arts_entertainment_and_recreation,2267.7
-2016-10,2016,10,arts_entertainment_and_recreation,2272.2
-2016-11,2016,11,arts_entertainment_and_recreation,2294.5
-2016-12,2016,12,arts_entertainment_and_recreation,2284.9
-2017-1,2017,1,arts_entertainment_and_recreation,2290.3
-2017-2,2017,2,arts_entertainment_and_recreation,2296.9
-2017-3,2017,3,arts_entertainment_and_recreation,2279.6
-2017-4,2017,4,arts_entertainment_and_recreation,2318.6
-2017-5,2017,5,arts_entertainment_and_recreation,2324.1
-2017-6,2017,6,arts_entertainment_and_recreation,2346.7
-2017-7,2017,7,arts_entertainment_and_recreation,2352.6
-2017-8,2017,8,arts_entertainment_and_recreation,2357.9
-2017-9,2017,9,arts_entertainment_and_recreation,2336.7
-2017-10,2017,10,arts_entertainment_and_recreation,2360.7
-2017-11,2017,11,arts_entertainment_and_recreation,2357.5
-2017-12,2017,12,arts_entertainment_and_recreation,2366.9
-2018-1,2018,1,arts_entertainment_and_recreation,2360.9
-2018-2,2018,2,arts_entertainment_and_recreation,2361.2
-2018-3,2018,3,arts_entertainment_and_recreation,2357.2
-2018-4,2018,4,arts_entertainment_and_recreation,2357.7
-2018-5,2018,5,arts_entertainment_and_recreation,2371.7
-2018-6,2018,6,arts_entertainment_and_recreation,2386.5
-2018-7,2018,7,arts_entertainment_and_recreation,2387.9
-2018-8,2018,8,arts_entertainment_and_recreation,2390.4
-2018-9,2018,9,arts_entertainment_and_recreation,2389.7
-2018-10,2018,10,arts_entertainment_and_recreation,2413.4
-2018-11,2018,11,arts_entertainment_and_recreation,2406.0
-2018-12,2018,12,arts_entertainment_and_recreation,2410.4
-2019-1,2019,1,arts_entertainment_and_recreation,2430.1
-2019-2,2019,2,arts_entertainment_and_recreation,2424.5
-2019-3,2019,3,arts_entertainment_and_recreation,2427.3
-2019-4,2019,4,arts_entertainment_and_recreation,2421.3
-2019-5,2019,5,arts_entertainment_and_recreation,2418.7
-2019-6,2019,6,arts_entertainment_and_recreation,2415.4
-2019-7,2019,7,arts_entertainment_and_recreation,2418.3
-2019-8,2019,8,arts_entertainment_and_recreation,2421.0
-2019-9,2019,9,arts_entertainment_and_recreation,2440.7
-2019-10,2019,10,arts_entertainment_and_recreation,2451.3
-2019-11,2019,11,arts_entertainment_and_recreation,2469.3
-2019-12,2019,12,arts_entertainment_and_recreation,2481.5
-2020-1,2020,1,arts_entertainment_and_recreation,2480.7
-2020-2,2020,2,arts_entertainment_and_recreation,2472.4
-2020-3,2020,3,arts_entertainment_and_recreation,2420.3
-2020-4,2020,4,arts_entertainment_and_recreation,1154.7
-2020-5,2020,5,arts_entertainment_and_recreation,1172.2
-2015-1,2015,1,accom_food_services,12790.7
-2015-2,2015,2,accom_food_services,12843.2
-2015-3,2015,3,accom_food_services,12848.4
-2015-4,2015,4,accom_food_services,12880.4
-2015-5,2015,5,accom_food_services,12924.4
-2015-6,2015,6,accom_food_services,12947.6
-2015-7,2015,7,accom_food_services,13003.6
-2015-8,2015,8,accom_food_services,13031.9
-2015-9,2015,9,accom_food_services,13086.0
-2015-10,2015,10,accom_food_services,13133.2
-2015-11,2015,11,accom_food_services,13174.9
-2015-12,2015,12,accom_food_services,13210.7
-2016-1,2016,1,accom_food_services,13248.2
-2016-2,2016,2,accom_food_services,13290.2
-2016-3,2016,3,accom_food_services,13312.6
-2016-4,2016,4,accom_food_services,13327.1
-2016-5,2016,5,accom_food_services,13354.4
-2016-6,2016,6,accom_food_services,13383.4
-2016-7,2016,7,accom_food_services,13411.4
-2016-8,2016,8,accom_food_services,13449.4
-2016-9,2016,9,accom_food_services,13493.3
-2016-10,2016,10,accom_food_services,13506.7
-2016-11,2016,11,accom_food_services,13534.5
-2016-12,2016,12,accom_food_services,13561.0
-2017-1,2017,1,accom_food_services,13588.0
-2017-2,2017,2,accom_food_services,13612.9
-2017-3,2017,3,accom_food_services,13642.4
-2017-4,2017,4,accom_food_services,13667.3
-2017-5,2017,5,accom_food_services,13696.9
-2017-6,2017,6,accom_food_services,13715.8
-2017-7,2017,7,accom_food_services,13781.3
-2017-8,2017,8,accom_food_services,13780.1
-2017-9,2017,9,accom_food_services,13728.5
-2017-10,2017,10,accom_food_services,13795.2
-2017-11,2017,11,accom_food_services,13812.9
-2017-12,2017,12,accom_food_services,13822.6
-2018-1,2018,1,accom_food_services,13832.4
-2018-2,2018,2,accom_food_services,13856.6
-2018-3,2018,3,accom_food_services,13862.6
-2018-4,2018,4,accom_food_services,13859.4
-2018-5,2018,5,accom_food_services,13891.2
-2018-6,2018,6,accom_food_services,13923.0
-2018-7,2018,7,accom_food_services,13960.7
-2018-8,2018,8,accom_food_services,13959.7
-2018-9,2018,9,accom_food_services,13936.6
-2018-10,2018,10,accom_food_services,13944.6
-2018-11,2018,11,accom_food_services,13961.9
-2018-12,2018,12,accom_food_services,14004.9
-2019-1,2019,1,accom_food_services,14065.9
-2019-2,2019,2,accom_food_services,14048.7
-2019-3,2019,3,accom_food_services,14066.7
-2019-4,2019,4,accom_food_services,14085.6
-2019-5,2019,5,accom_food_services,14100.3
-2019-6,2019,6,accom_food_services,14110.8
-2019-7,2019,7,accom_food_services,14109.8
-2019-8,2019,8,accom_food_services,14148.5
-2019-9,2019,9,accom_food_services,14189.8
-2019-10,2019,10,accom_food_services,14249.9
-2019-11,2019,11,accom_food_services,14274.6
-2019-12,2019,12,accom_food_services,14302.9
-2020-1,2020,1,accom_food_services,14327.7
-2020-2,2020,2,accom_food_services,14394.1
-2020-3,2020,3,accom_food_services,13703.9
-2020-4,2020,4,accom_food_services,7429.8
-2020-5,2020,5,accom_food_services,8652.2
-2015-1,2015,1,other_services,5600.0
-2015-2,2015,2,other_services,5605.0
-2015-3,2015,3,other_services,5607.0
-2015-4,2015,4,other_services,5614.0
-2015-5,2015,5,other_services,5623.0
-2015-6,2015,6,other_services,5617.0
-2015-7,2015,7,other_services,5629.0
-2015-8,2015,8,other_services,5620.0
-2015-9,2015,9,other_services,5621.0
-2015-10,2015,10,other_services,5630.0
-2015-11,2015,11,other_services,5638.0
-2015-12,2015,12,other_services,5653.0
-2016-1,2016,1,other_services,5649.0
-2016-2,2016,2,other_services,5666.0
-2016-3,2016,3,other_services,5674.0
-2016-4,2016,4,other_services,5678.0
-2016-5,2016,5,other_services,5670.0
-2016-6,2016,6,other_services,5681.0
-2016-7,2016,7,other_services,5687.0
-2016-8,2016,8,other_services,5702.0
-2016-9,2016,9,other_services,5713.0
-2016-10,2016,10,other_services,5718.0
-2016-11,2016,11,other_services,5729.0
-2016-12,2016,12,other_services,5715.0
-2017-1,2017,1,other_services,5731.0
-2017-2,2017,2,other_services,5742.0
-2017-3,2017,3,other_services,5745.0
-2017-4,2017,4,other_services,5748.0
-2017-5,2017,5,other_services,5759.0
-2017-6,2017,6,other_services,5767.0
-2017-7,2017,7,other_services,5774.0
-2017-8,2017,8,other_services,5780.0
-2017-9,2017,9,other_services,5773.0
-2017-10,2017,10,other_services,5795.0
-2017-11,2017,11,other_services,5806.0
-2017-12,2017,12,other_services,5806.0
-2018-1,2018,1,other_services,5811.0
-2018-2,2018,2,other_services,5815.0
-2018-3,2018,3,other_services,5812.0
-2018-4,2018,4,other_services,5819.0
-2018-5,2018,5,other_services,5831.0
-2018-6,2018,6,other_services,5844.0
-2018-7,2018,7,other_services,5829.0
-2018-8,2018,8,other_services,5832.0
-2018-9,2018,9,other_services,5837.0
-2018-10,2018,10,other_services,5845.0
-2018-11,2018,11,other_services,5842.0
-2018-12,2018,12,other_services,5850.0
-2019-1,2019,1,other_services,5853.0
-2019-2,2019,2,other_services,5854.0
-2019-3,2019,3,other_services,5869.0
-2019-4,2019,4,other_services,5884.0
-2019-5,2019,5,other_services,5881.0
-2019-6,2019,6,other_services,5896.0
-2019-7,2019,7,other_services,5905.0
-2019-8,2019,8,other_services,5910.0
-2019-9,2019,9,other_services,5907.0
-2019-10,2019,10,other_services,5907.0
-2019-11,2019,11,other_services,5923.0
-2019-12,2019,12,other_services,5925.0
-2020-1,2020,1,other_services,5935.0
-2020-2,2020,2,other_services,5941.0
-2020-3,2020,3,other_services,5850.0
-2020-4,2020,4,other_services,4578.0
-2020-5,2020,5,other_services,4850.0
-2015-1,2015,1,government,21960.0
-2015-2,2015,2,government,21978.0
-2015-3,2015,3,government,21970.0
-2015-4,2015,4,government,22005.0
-2015-5,2015,5,government,22012.0
-2015-6,2015,6,government,22015.0
-2015-7,2015,7,government,22050.0
-2015-8,2015,8,government,22060.0
-2015-9,2015,9,government,22040.0
-2015-10,2015,10,government,22056.0
-2015-11,2015,11,government,22081.0
-2015-12,2015,12,government,22097.0
-2016-1,2016,1,government,22118.0
-2016-2,2016,2,government,22144.0
-2016-3,2016,3,government,22180.0
-2016-4,2016,4,government,22186.0
-2016-5,2016,5,government,22197.0
-2016-6,2016,6,government,22184.0
-2016-7,2016,7,government,22285.0
-2016-8,2016,8,government,22268.0
-2016-9,2016,9,government,22303.0
-2016-10,2016,10,government,22292.0
-2016-11,2016,11,government,22290.0
-2016-12,2016,12,government,22308.0
-2017-1,2017,1,government,22302.0
-2017-2,2017,2,government,22319.0
-2017-3,2017,3,government,22325.0
-2017-4,2017,4,government,22330.0
-2017-5,2017,5,government,22332.0
-2017-6,2017,6,government,22346.0
-2017-7,2017,7,government,22359.0
-2017-8,2017,8,government,22357.0
-2017-9,2017,9,government,22366.0
-2017-10,2017,10,government,22369.0
-2017-11,2017,11,government,22393.0
-2017-12,2017,12,government,22381.0
-2018-1,2018,1,government,22355.0
-2018-2,2018,2,government,22406.0
-2018-3,2018,3,government,22404.0
-2018-4,2018,4,government,22414.0
-2018-5,2018,5,government,22431.0
-2018-6,2018,6,government,22459.0
-2018-7,2018,7,government,22462.0
-2018-8,2018,8,government,22490.0
-2018-9,2018,9,government,22489.0
-2018-10,2018,10,government,22485.0
-2018-11,2018,11,government,22486.0
-2018-12,2018,12,government,22495.0
-2019-1,2019,1,government,22506.0
-2019-2,2019,2,government,22513.0
-2019-3,2019,3,government,22528.0
-2019-4,2019,4,government,22553.0
-2019-5,2019,5,government,22551.0
-2019-6,2019,6,government,22553.0
-2019-7,2019,7,government,22587.0
-2019-8,2019,8,government,22637.0
-2019-9,2019,9,government,22650.0
-2019-10,2019,10,government,22645.0
-2019-11,2019,11,government,22659.0
-2019-12,2019,12,government,22679.0
-2020-1,2020,1,government,22714.0
-2020-2,2020,2,government,22745.0
-2020-3,2020,3,government,22728.0
-2020-4,2020,4,government,21765.0
-2020-5,2020,5,government,21180.0
-2015-1,2015,1,federal,2745.0
-2015-2,2015,2,federal,2747.0
-2015-3,2015,3,federal,2748.0
-2015-4,2015,4,federal,2763.0
-2015-5,2015,5,federal,2753.0
-2015-6,2015,6,federal,2754.0
-2015-7,2015,7,federal,2756.0
-2015-8,2015,8,federal,2760.0
-2015-9,2015,9,federal,2759.0
-2015-10,2015,10,federal,2759.0
-2015-11,2015,11,federal,2766.0
-2015-12,2015,12,federal,2776.0
-2016-1,2016,1,federal,2772.0
-2016-2,2016,2,federal,2778.0
-2016-3,2016,3,federal,2783.0
-2016-4,2016,4,federal,2785.0
-2016-5,2016,5,federal,2792.0
-2016-6,2016,6,federal,2797.0
-2016-7,2016,7,federal,2799.0
-2016-8,2016,8,federal,2803.0
-2016-9,2016,9,federal,2807.0
-2016-10,2016,10,federal,2804.0
-2016-11,2016,11,federal,2799.0
-2016-12,2016,12,federal,2817.0
-2017-1,2017,1,federal,2815.0
-2017-2,2017,2,federal,2813.0
-2017-3,2017,3,federal,2811.0
-2017-4,2017,4,federal,2800.0
-2017-5,2017,5,federal,2808.0
-2017-6,2017,6,federal,2806.0
-2017-7,2017,7,federal,2805.0
-2017-8,2017,8,federal,2802.0
-2017-9,2017,9,federal,2802.0
-2017-10,2017,10,federal,2803.0
-2017-11,2017,11,federal,2792.0
-2017-12,2017,12,federal,2794.0
-2018-1,2018,1,federal,2801.0
-2018-2,2018,2,federal,2793.0
-2018-3,2018,3,federal,2793.0
-2018-4,2018,4,federal,2795.0
-2018-5,2018,5,federal,2792.0
-2018-6,2018,6,federal,2796.0
-2018-7,2018,7,federal,2798.0
-2018-8,2018,8,federal,2801.0
-2018-9,2018,9,federal,2804.0
-2018-10,2018,10,federal,2805.0
-2018-11,2018,11,federal,2811.0
-2018-12,2018,12,federal,2809.0
-2019-1,2019,1,federal,2811.0
-2019-2,2019,2,federal,2814.0
-2019-3,2019,3,federal,2815.0
-2019-4,2019,4,federal,2823.0
-2019-5,2019,5,federal,2826.0
-2019-6,2019,6,federal,2829.0
-2019-7,2019,7,federal,2831.0
-2019-8,2019,8,federal,2857.0
-2019-9,2019,9,federal,2857.0
-2019-10,2019,10,federal,2844.0
-2019-11,2019,11,federal,2850.0
-2019-12,2019,12,federal,2847.0
-2020-1,2020,1,federal,2855.0
-2020-2,2020,2,federal,2867.0
-2020-3,2020,3,federal,2886.0
-2020-4,2020,4,federal,2887.0
-2020-5,2020,5,federal,2873.0
-2015-1,2015,1,state_government,5065.0
-2015-2,2015,2,state_government,5071.0
-2015-3,2015,3,state_government,5067.0
-2015-4,2015,4,state_government,5070.0
-2015-5,2015,5,state_government,5074.0
-2015-6,2015,6,state_government,5073.0
-2015-7,2015,7,state_government,5073.0
-2015-8,2015,8,state_government,5077.0
-2015-9,2015,9,state_government,5083.0
-2015-10,2015,10,state_government,5084.0
-2015-11,2015,11,state_government,5090.0
-2015-12,2015,12,state_government,5088.0
-2016-1,2016,1,state_government,5089.0
-2016-2,2016,2,state_government,5086.0
-2016-3,2016,3,state_government,5093.0
-2016-4,2016,4,state_government,5098.0
-2016-5,2016,5,state_government,5093.0
-2016-6,2016,6,state_government,5107.0
-2016-7,2016,7,state_government,5116.0
-2016-8,2016,8,state_government,5113.0
-2016-9,2016,9,state_government,5147.0
-2016-10,2016,10,state_government,5134.0
-2016-11,2016,11,state_government,5139.0
-2016-12,2016,12,state_government,5141.0
-2017-1,2017,1,state_government,5151.0
-2017-2,2017,2,state_government,5160.0
-2017-3,2017,3,state_government,5163.0
-2017-4,2017,4,state_government,5166.0
-2017-5,2017,5,state_government,5174.0
-2017-6,2017,6,state_government,5170.0
-2017-7,2017,7,state_government,5173.0
-2017-8,2017,8,state_government,5167.0
-2017-9,2017,9,state_government,5160.0
-2017-10,2017,10,state_government,5155.0
-2017-11,2017,11,state_government,5171.0
-2017-12,2017,12,state_government,5159.0
-2018-1,2018,1,state_government,5147.0
-2018-2,2018,2,state_government,5151.0
-2018-3,2018,3,state_government,5154.0
-2018-4,2018,4,state_government,5167.0
-2018-5,2018,5,state_government,5174.0
-2018-6,2018,6,state_government,5180.0
-2018-7,2018,7,state_government,5178.0
-2018-8,2018,8,state_government,5183.0
-2018-9,2018,9,state_government,5193.0
-2018-10,2018,10,state_government,5184.0
-2018-11,2018,11,state_government,5173.0
-2018-12,2018,12,state_government,5173.0
-2019-1,2019,1,state_government,5170.0
-2019-2,2019,2,state_government,5175.0
-2019-3,2019,3,state_government,5175.0
-2019-4,2019,4,state_government,5169.0
-2019-5,2019,5,state_government,5158.0
-2019-6,2019,6,state_government,5157.0
-2019-7,2019,7,state_government,5168.0
-2019-8,2019,8,state_government,5184.0
-2019-9,2019,9,state_government,5181.0
-2019-10,2019,10,state_government,5184.0
-2019-11,2019,11,state_government,5181.0
-2019-12,2019,12,state_government,5184.0
-2020-1,2020,1,state_government,5190.0
-2020-2,2020,2,state_government,5199.0
-2020-3,2020,3,state_government,5162.0
-2020-4,2020,4,state_government,4995.0
-2020-5,2020,5,state_government,4911.0
-2015-1,2015,1,local_government,14150.0
-2015-2,2015,2,local_government,14160.0
-2015-3,2015,3,local_government,14155.0
-2015-4,2015,4,local_government,14172.0
-2015-5,2015,5,local_government,14185.0
-2015-6,2015,6,local_government,14188.0
-2015-7,2015,7,local_government,14221.0
-2015-8,2015,8,local_government,14223.0
-2015-9,2015,9,local_government,14198.0
-2015-10,2015,10,local_government,14213.0
-2015-11,2015,11,local_government,14225.0
-2015-12,2015,12,local_government,14233.0
-2016-1,2016,1,local_government,14257.0
-2016-2,2016,2,local_government,14280.0
-2016-3,2016,3,local_government,14304.0
-2016-4,2016,4,local_government,14303.0
-2016-5,2016,5,local_government,14312.0
-2016-6,2016,6,local_government,14280.0
-2016-7,2016,7,local_government,14370.0
-2016-8,2016,8,local_government,14352.0
-2016-9,2016,9,local_government,14349.0
-2016-10,2016,10,local_government,14354.0
-2016-11,2016,11,local_government,14352.0
-2016-12,2016,12,local_government,14350.0
-2017-1,2017,1,local_government,14336.0
-2017-2,2017,2,local_government,14346.0
-2017-3,2017,3,local_government,14351.0
-2017-4,2017,4,local_government,14364.0
-2017-5,2017,5,local_government,14350.0
-2017-6,2017,6,local_government,14370.0
-2017-7,2017,7,local_government,14381.0
-2017-8,2017,8,local_government,14388.0
-2017-9,2017,9,local_government,14404.0
-2017-10,2017,10,local_government,14411.0
-2017-11,2017,11,local_government,14430.0
-2017-12,2017,12,local_government,14428.0
-2018-1,2018,1,local_government,14407.0
-2018-2,2018,2,local_government,14462.0
-2018-3,2018,3,local_government,14457.0
-2018-4,2018,4,local_government,14452.0
-2018-5,2018,5,local_government,14465.0
-2018-6,2018,6,local_government,14483.0
-2018-7,2018,7,local_government,14486.0
-2018-8,2018,8,local_government,14506.0
-2018-9,2018,9,local_government,14492.0
-2018-10,2018,10,local_government,14496.0
-2018-11,2018,11,local_government,14502.0
-2018-12,2018,12,local_government,14513.0
-2019-1,2019,1,local_government,14525.0
-2019-2,2019,2,local_government,14524.0
-2019-3,2019,3,local_government,14538.0
-2019-4,2019,4,local_government,14561.0
-2019-5,2019,5,local_government,14567.0
-2019-6,2019,6,local_government,14567.0
-2019-7,2019,7,local_government,14588.0
-2019-8,2019,8,local_government,14596.0
-2019-9,2019,9,local_government,14612.0
-2019-10,2019,10,local_government,14617.0
-2019-11,2019,11,local_government,14628.0
-2019-12,2019,12,local_government,14648.0
-2020-1,2020,1,local_government,14669.0
-2020-2,2020,2,local_government,14679.0
-2020-3,2020,3,local_government,14680.0
-2020-4,2020,4,local_government,13883.0
-2020-5,2020,5,local_government,13396.0
+2015-1,2015,1,All Employees,140568.0
+2015-2,2015,2,All Employees,140839.0
+2015-3,2015,3,All Employees,140910.0
+2015-4,2015,4,All Employees,141194.0
+2015-5,2015,5,All Employees,141525.0
+2015-6,2015,6,All Employees,141699.0
+2015-7,2015,7,All Employees,142001.0
+2015-8,2015,8,All Employees,142126.0
+2015-9,2015,9,All Employees,142281.0
+2015-10,2015,10,All Employees,142587.0
+2015-11,2015,11,All Employees,142824.0
+2015-12,2015,12,All Employees,143097.0
+2016-1,2016,1,All Employees,143170.0
+2016-2,2016,2,All Employees,143433.0
+2016-3,2016,3,All Employees,143662.0
+2016-4,2016,4,All Employees,143849.0
+2016-5,2016,5,All Employees,143891.0
+2016-6,2016,6,All Employees,144158.0
+2016-7,2016,7,All Employees,144512.0
+2016-8,2016,8,All Employees,144647.0
+2016-9,2016,9,All Employees,144916.0
+2016-10,2016,10,All Employees,145061.0
+2016-11,2016,11,All Employees,145212.0
+2016-12,2016,12,All Employees,145442.0
+2017-1,2017,1,All Employees,145627.0
+2017-2,2017,2,All Employees,145815.0
+2017-3,2017,3,All Employees,145944.0
+2017-4,2017,4,All Employees,146141.0
+2017-5,2017,5,All Employees,146296.0
+2017-6,2017,6,All Employees,146512.0
+2017-7,2017,7,All Employees,146727.0
+2017-8,2017,8,All Employees,146911.0
+2017-9,2017,9,All Employees,146929.0
+2017-10,2017,10,All Employees,147196.0
+2017-11,2017,11,All Employees,147421.0
+2017-12,2017,12,All Employees,147551.0
+2018-1,2018,1,All Employees,147672.0
+2018-2,2018,2,All Employees,148078.0
+2018-3,2018,3,All Employees,148254.0
+2018-4,2018,4,All Employees,148391.0
+2018-5,2018,5,All Employees,148669.0
+2018-6,2018,6,All Employees,148888.0
+2018-7,2018,7,All Employees,149024.0
+2018-8,2018,8,All Employees,149268.0
+2018-9,2018,9,All Employees,149348.0
+2018-10,2018,10,All Employees,149549.0
+2018-11,2018,11,All Employees,149683.0
+2018-12,2018,12,All Employees,149865.0
+2019-1,2019,1,All Employees,150134.0
+2019-2,2019,2,All Employees,150135.0
+2019-3,2019,3,All Employees,150282.0
+2019-4,2019,4,All Employees,150492.0
+2019-5,2019,5,All Employees,150577.0
+2019-6,2019,6,All Employees,150759.0
+2019-7,2019,7,All Employees,150953.0
+2019-8,2019,8,All Employees,151160.0
+2019-9,2019,9,All Employees,151368.0
+2019-10,2019,10,All Employees,151553.0
+2019-11,2019,11,All Employees,151814.0
+2019-12,2019,12,All Employees,151998.0
+2020-1,2020,1,All Employees,152212.0
+2020-2,2020,2,All Employees,152463.0
+2020-3,2020,3,All Employees,151090.0
+2020-4,2020,4,All Employees,130403.0
+2020-5,2020,5,All Employees,132912.0
+2015-1,2015,1,Private,118608.0
+2015-2,2015,2,Private,118861.0
+2015-3,2015,3,Private,118940.0
+2015-4,2015,4,Private,119189.0
+2015-5,2015,5,Private,119513.0
+2015-6,2015,6,Private,119684.0
+2015-7,2015,7,Private,119951.0
+2015-8,2015,8,Private,120066.0
+2015-9,2015,9,Private,120241.0
+2015-10,2015,10,Private,120531.0
+2015-11,2015,11,Private,120743.0
+2015-12,2015,12,Private,121000.0
+2016-1,2016,1,Private,121052.0
+2016-2,2016,2,Private,121289.0
+2016-3,2016,3,Private,121482.0
+2016-4,2016,4,Private,121663.0
+2016-5,2016,5,Private,121694.0
+2016-6,2016,6,Private,121974.0
+2016-7,2016,7,Private,122227.0
+2016-8,2016,8,Private,122379.0
+2016-9,2016,9,Private,122613.0
+2016-10,2016,10,Private,122769.0
+2016-11,2016,11,Private,122922.0
+2016-12,2016,12,Private,123134.0
+2017-1,2017,1,Private,123325.0
+2017-2,2017,2,Private,123496.0
+2017-3,2017,3,Private,123619.0
+2017-4,2017,4,Private,123811.0
+2017-5,2017,5,Private,123964.0
+2017-6,2017,6,Private,124166.0
+2017-7,2017,7,Private,124368.0
+2017-8,2017,8,Private,124554.0
+2017-9,2017,9,Private,124563.0
+2017-10,2017,10,Private,124827.0
+2017-11,2017,11,Private,125028.0
+2017-12,2017,12,Private,125170.0
+2018-1,2018,1,Private,125317.0
+2018-2,2018,2,Private,125672.0
+2018-3,2018,3,Private,125850.0
+2018-4,2018,4,Private,125977.0
+2018-5,2018,5,Private,126238.0
+2018-6,2018,6,Private,126429.0
+2018-7,2018,7,Private,126562.0
+2018-8,2018,8,Private,126778.0
+2018-9,2018,9,Private,126859.0
+2018-10,2018,10,Private,127064.0
+2018-11,2018,11,Private,127197.0
+2018-12,2018,12,Private,127370.0
+2019-1,2019,1,Private,127628.0
+2019-2,2019,2,Private,127622.0
+2019-3,2019,3,Private,127754.0
+2019-4,2019,4,Private,127939.0
+2019-5,2019,5,Private,128026.0
+2019-6,2019,6,Private,128206.0
+2019-7,2019,7,Private,128366.0
+2019-8,2019,8,Private,128523.0
+2019-9,2019,9,Private,128718.0
+2019-10,2019,10,Private,128908.0
+2019-11,2019,11,Private,129155.0
+2019-12,2019,12,Private,129319.0
+2020-1,2020,1,Private,129498.0
+2020-2,2020,2,Private,129718.0
+2020-3,2020,3,Private,128362.0
+2020-4,2020,4,Private,108638.0
+2020-5,2020,5,Private,111732.0
+2015-1,2015,1,Goods Producing,19500.0
+2015-2,2015,2,Goods Producing,19537.0
+2015-3,2015,3,Goods Producing,19505.0
+2015-4,2015,4,Goods Producing,19553.0
+2015-5,2015,5,Goods Producing,19580.0
+2015-6,2015,6,Goods Producing,19591.0
+2015-7,2015,7,Goods Producing,19626.0
+2015-8,2015,8,Goods Producing,19629.0
+2015-9,2015,9,Goods Producing,19641.0
+2015-10,2015,10,Goods Producing,19680.0
+2015-11,2015,11,Goods Producing,19711.0
+2015-12,2015,12,Goods Producing,19738.0
+2016-1,2016,1,Goods Producing,19730.0
+2016-2,2016,2,Goods Producing,19728.0
+2016-3,2016,3,Goods Producing,19716.0
+2016-4,2016,4,Goods Producing,19728.0
+2016-5,2016,5,Goods Producing,19689.0
+2016-6,2016,6,Goods Producing,19709.0
+2016-7,2016,7,Goods Producing,19757.0
+2016-8,2016,8,Goods Producing,19732.0
+2016-9,2016,9,Goods Producing,19762.0
+2016-10,2016,10,Goods Producing,19789.0
+2016-11,2016,11,Goods Producing,19808.0
+2016-12,2016,12,Goods Producing,19825.0
+2017-1,2017,1,Goods Producing,19865.0
+2017-2,2017,2,Goods Producing,19928.0
+2017-3,2017,3,Goods Producing,19964.0
+2017-4,2017,4,Goods Producing,19985.0
+2017-5,2017,5,Goods Producing,20007.0
+2017-6,2017,6,Goods Producing,20050.0
+2017-7,2017,7,Goods Producing,20056.0
+2017-8,2017,8,Goods Producing,20135.0
+2017-9,2017,9,Goods Producing,20161.0
+2017-10,2017,10,Goods Producing,20206.0
+2017-11,2017,11,Goods Producing,20273.0
+2017-12,2017,12,Goods Producing,20326.0
+2018-1,2018,1,Goods Producing,20371.0
+2018-2,2018,2,Goods Producing,20494.0
+2018-3,2018,3,Goods Producing,20530.0
+2018-4,2018,4,Goods Producing,20577.0
+2018-5,2018,5,Goods Producing,20648.0
+2018-6,2018,6,Goods Producing,20698.0
+2018-7,2018,7,Goods Producing,20739.0
+2018-8,2018,8,Goods Producing,20791.0
+2018-9,2018,9,Goods Producing,20834.0
+2018-10,2018,10,Goods Producing,20884.0
+2018-11,2018,11,Goods Producing,20897.0
+2018-12,2018,12,Goods Producing,20948.0
+2019-1,2019,1,Goods Producing,21023.0
+2019-2,2019,2,Goods Producing,20994.0
+2019-3,2019,3,Goods Producing,21011.0
+2019-4,2019,4,Goods Producing,21039.0
+2019-5,2019,5,Goods Producing,21050.0
+2019-6,2019,6,Goods Producing,21076.0
+2019-7,2019,7,Goods Producing,21085.0
+2019-8,2019,8,Goods Producing,21087.0
+2019-9,2019,9,Goods Producing,21106.0
+2019-10,2019,10,Goods Producing,21086.0
+2019-11,2019,11,Goods Producing,21131.0
+2019-12,2019,12,Goods Producing,21136.0
+2020-1,2020,1,Goods Producing,21149.0
+2020-2,2020,2,Goods Producing,21205.0
+2020-3,2020,3,Goods Producing,21086.0
+2020-4,2020,4,Goods Producing,18713.0
+2020-5,2020,5,Goods Producing,19382.0
+2015-1,2015,1,Service Providing,121068.0
+2015-2,2015,2,Service Providing,121302.0
+2015-3,2015,3,Service Providing,121405.0
+2015-4,2015,4,Service Providing,121641.0
+2015-5,2015,5,Service Providing,121945.0
+2015-6,2015,6,Service Providing,122108.0
+2015-7,2015,7,Service Providing,122375.0
+2015-8,2015,8,Service Providing,122497.0
+2015-9,2015,9,Service Providing,122640.0
+2015-10,2015,10,Service Providing,122907.0
+2015-11,2015,11,Service Providing,123113.0
+2015-12,2015,12,Service Providing,123359.0
+2016-1,2016,1,Service Providing,123440.0
+2016-2,2016,2,Service Providing,123705.0
+2016-3,2016,3,Service Providing,123946.0
+2016-4,2016,4,Service Providing,124121.0
+2016-5,2016,5,Service Providing,124202.0
+2016-6,2016,6,Service Providing,124449.0
+2016-7,2016,7,Service Providing,124755.0
+2016-8,2016,8,Service Providing,124915.0
+2016-9,2016,9,Service Providing,125154.0
+2016-10,2016,10,Service Providing,125272.0
+2016-11,2016,11,Service Providing,125404.0
+2016-12,2016,12,Service Providing,125617.0
+2017-1,2017,1,Service Providing,125762.0
+2017-2,2017,2,Service Providing,125887.0
+2017-3,2017,3,Service Providing,125980.0
+2017-4,2017,4,Service Providing,126156.0
+2017-5,2017,5,Service Providing,126289.0
+2017-6,2017,6,Service Providing,126462.0
+2017-7,2017,7,Service Providing,126671.0
+2017-8,2017,8,Service Providing,126776.0
+2017-9,2017,9,Service Providing,126768.0
+2017-10,2017,10,Service Providing,126990.0
+2017-11,2017,11,Service Providing,127148.0
+2017-12,2017,12,Service Providing,127225.0
+2018-1,2018,1,Service Providing,127301.0
+2018-2,2018,2,Service Providing,127584.0
+2018-3,2018,3,Service Providing,127724.0
+2018-4,2018,4,Service Providing,127814.0
+2018-5,2018,5,Service Providing,128021.0
+2018-6,2018,6,Service Providing,128190.0
+2018-7,2018,7,Service Providing,128285.0
+2018-8,2018,8,Service Providing,128477.0
+2018-9,2018,9,Service Providing,128514.0
+2018-10,2018,10,Service Providing,128665.0
+2018-11,2018,11,Service Providing,128786.0
+2018-12,2018,12,Service Providing,128917.0
+2019-1,2019,1,Service Providing,129111.0
+2019-2,2019,2,Service Providing,129141.0
+2019-3,2019,3,Service Providing,129271.0
+2019-4,2019,4,Service Providing,129453.0
+2019-5,2019,5,Service Providing,129527.0
+2019-6,2019,6,Service Providing,129683.0
+2019-7,2019,7,Service Providing,129868.0
+2019-8,2019,8,Service Providing,130073.0
+2019-9,2019,9,Service Providing,130262.0
+2019-10,2019,10,Service Providing,130467.0
+2019-11,2019,11,Service Providing,130683.0
+2019-12,2019,12,Service Providing,130862.0
+2020-1,2020,1,Service Providing,131063.0
+2020-2,2020,2,Service Providing,131258.0
+2020-3,2020,3,Service Providing,130004.0
+2020-4,2020,4,Service Providing,111690.0
+2020-5,2020,5,Service Providing,113530.0
+2015-1,2015,1,Private Service Providing,99108.0
+2015-2,2015,2,Private Service Providing,99324.0
+2015-3,2015,3,Private Service Providing,99435.0
+2015-4,2015,4,Private Service Providing,99636.0
+2015-5,2015,5,Private Service Providing,99933.0
+2015-6,2015,6,Private Service Providing,100093.0
+2015-7,2015,7,Private Service Providing,100325.0
+2015-8,2015,8,Private Service Providing,100437.0
+2015-9,2015,9,Private Service Providing,100600.0
+2015-10,2015,10,Private Service Providing,100851.0
+2015-11,2015,11,Private Service Providing,101032.0
+2015-12,2015,12,Private Service Providing,101262.0
+2016-1,2016,1,Private Service Providing,101322.0
+2016-2,2016,2,Private Service Providing,101561.0
+2016-3,2016,3,Private Service Providing,101766.0
+2016-4,2016,4,Private Service Providing,101935.0
+2016-5,2016,5,Private Service Providing,102005.0
+2016-6,2016,6,Private Service Providing,102265.0
+2016-7,2016,7,Private Service Providing,102470.0
+2016-8,2016,8,Private Service Providing,102647.0
+2016-9,2016,9,Private Service Providing,102851.0
+2016-10,2016,10,Private Service Providing,102980.0
+2016-11,2016,11,Private Service Providing,103114.0
+2016-12,2016,12,Private Service Providing,103309.0
+2017-1,2017,1,Private Service Providing,103460.0
+2017-2,2017,2,Private Service Providing,103568.0
+2017-3,2017,3,Private Service Providing,103655.0
+2017-4,2017,4,Private Service Providing,103826.0
+2017-5,2017,5,Private Service Providing,103957.0
+2017-6,2017,6,Private Service Providing,104116.0
+2017-7,2017,7,Private Service Providing,104312.0
+2017-8,2017,8,Private Service Providing,104419.0
+2017-9,2017,9,Private Service Providing,104402.0
+2017-10,2017,10,Private Service Providing,104621.0
+2017-11,2017,11,Private Service Providing,104755.0
+2017-12,2017,12,Private Service Providing,104844.0
+2018-1,2018,1,Private Service Providing,104946.0
+2018-2,2018,2,Private Service Providing,105178.0
+2018-3,2018,3,Private Service Providing,105320.0
+2018-4,2018,4,Private Service Providing,105400.0
+2018-5,2018,5,Private Service Providing,105590.0
+2018-6,2018,6,Private Service Providing,105731.0
+2018-7,2018,7,Private Service Providing,105823.0
+2018-8,2018,8,Private Service Providing,105987.0
+2018-9,2018,9,Private Service Providing,106025.0
+2018-10,2018,10,Private Service Providing,106180.0
+2018-11,2018,11,Private Service Providing,106300.0
+2018-12,2018,12,Private Service Providing,106422.0
+2019-1,2019,1,Private Service Providing,106605.0
+2019-2,2019,2,Private Service Providing,106628.0
+2019-3,2019,3,Private Service Providing,106743.0
+2019-4,2019,4,Private Service Providing,106900.0
+2019-5,2019,5,Private Service Providing,106976.0
+2019-6,2019,6,Private Service Providing,107130.0
+2019-7,2019,7,Private Service Providing,107281.0
+2019-8,2019,8,Private Service Providing,107436.0
+2019-9,2019,9,Private Service Providing,107612.0
+2019-10,2019,10,Private Service Providing,107822.0
+2019-11,2019,11,Private Service Providing,108024.0
+2019-12,2019,12,Private Service Providing,108183.0
+2020-1,2020,1,Private Service Providing,108349.0
+2020-2,2020,2,Private Service Providing,108513.0
+2020-3,2020,3,Private Service Providing,107276.0
+2020-4,2020,4,Private Service Providing,89925.0
+2020-5,2020,5,Private Service Providing,92350.0
+2015-1,2015,1,Mining & Logging,888.0
+2015-2,2015,2,Mining & Logging,875.0
+2015-3,2015,3,Mining & Logging,859.0
+2015-4,2015,4,Mining & Logging,843.0
+2015-5,2015,5,Mining & Logging,820.0
+2015-6,2015,6,Mining & Logging,816.0
+2015-7,2015,7,Mining & Logging,805.0
+2015-8,2015,8,Mining & Logging,794.0
+2015-9,2015,9,Mining & Logging,779.0
+2015-10,2015,10,Mining & Logging,771.0
+2015-11,2015,11,Mining & Logging,756.0
+2015-12,2015,12,Mining & Logging,746.0
+2016-1,2016,1,Mining & Logging,731.0
+2016-2,2016,2,Mining & Logging,711.0
+2016-3,2016,3,Mining & Logging,691.0
+2016-4,2016,4,Mining & Logging,678.0
+2016-5,2016,5,Mining & Logging,666.0
+2016-6,2016,6,Mining & Logging,656.0
+2016-7,2016,7,Mining & Logging,652.0
+2016-8,2016,8,Mining & Logging,647.0
+2016-9,2016,9,Mining & Logging,647.0
+2016-10,2016,10,Mining & Logging,644.0
+2016-11,2016,11,Mining & Logging,647.0
+2016-12,2016,12,Mining & Logging,648.0
+2017-1,2017,1,Mining & Logging,649.0
+2017-2,2017,2,Mining & Logging,655.0
+2017-3,2017,3,Mining & Logging,660.0
+2017-4,2017,4,Mining & Logging,669.0
+2017-5,2017,5,Mining & Logging,673.0
+2017-6,2017,6,Mining & Logging,677.0
+2017-7,2017,7,Mining & Logging,679.0
+2017-8,2017,8,Mining & Logging,684.0
+2017-9,2017,9,Mining & Logging,687.0
+2017-10,2017,10,Mining & Logging,687.0
+2017-11,2017,11,Mining & Logging,693.0
+2017-12,2017,12,Mining & Logging,692.0
+2018-1,2018,1,Mining & Logging,699.0
+2018-2,2018,2,Mining & Logging,706.0
+2018-3,2018,3,Mining & Logging,714.0
+2018-4,2018,4,Mining & Logging,722.0
+2018-5,2018,5,Mining & Logging,724.0
+2018-6,2018,6,Mining & Logging,729.0
+2018-7,2018,7,Mining & Logging,729.0
+2018-8,2018,8,Mining & Logging,737.0
+2018-9,2018,9,Mining & Logging,739.0
+2018-10,2018,10,Mining & Logging,742.0
+2018-11,2018,11,Mining & Logging,737.0
+2018-12,2018,12,Mining & Logging,741.0
+2019-1,2019,1,Mining & Logging,746.0
+2019-2,2019,2,Mining & Logging,741.0
+2019-3,2019,3,Mining & Logging,741.0
+2019-4,2019,4,Mining & Logging,741.0
+2019-5,2019,5,Mining & Logging,743.0
+2019-6,2019,6,Mining & Logging,741.0
+2019-7,2019,7,Mining & Logging,736.0
+2019-8,2019,8,Mining & Logging,731.0
+2019-9,2019,9,Mining & Logging,731.0
+2019-10,2019,10,Mining & Logging,735.0
+2019-11,2019,11,Mining & Logging,724.0
+2019-12,2019,12,Mining & Logging,715.0
+2020-1,2020,1,Mining & Logging,712.0
+2020-2,2020,2,Mining & Logging,714.0
+2020-3,2020,3,Mining & Logging,706.0
+2020-4,2020,4,Mining & Logging,652.0
+2020-5,2020,5,Mining & Logging,632.0
+2015-1,2015,1,Construction,6320.0
+2015-2,2015,2,Construction,6361.0
+2015-3,2015,3,Construction,6334.0
+2015-4,2015,4,Construction,6392.0
+2015-5,2015,5,Construction,6427.0
+2015-6,2015,6,Construction,6441.0
+2015-7,2015,7,Construction,6472.0
+2015-8,2015,8,Construction,6490.0
+2015-9,2015,9,Construction,6508.0
+2015-10,2015,10,Construction,6547.0
+2015-11,2015,11,Construction,6598.0
+2015-12,2015,12,Construction,6630.0
+2016-1,2016,1,Construction,6620.0
+2016-2,2016,2,Construction,6650.0
+2016-3,2016,3,Construction,6680.0
+2016-4,2016,4,Construction,6701.0
+2016-5,2016,5,Construction,6691.0
+2016-6,2016,6,Construction,6702.0
+2016-7,2016,7,Construction,6736.0
+2016-8,2016,8,Construction,6737.0
+2016-9,2016,9,Construction,6768.0
+2016-10,2016,10,Construction,6798.0
+2016-11,2016,11,Construction,6819.0
+2016-12,2016,12,Construction,6821.0
+2017-1,2017,1,Construction,6847.0
+2017-2,2017,2,Construction,6889.0
+2017-3,2017,3,Construction,6909.0
+2017-4,2017,4,Construction,6916.0
+2017-5,2017,5,Construction,6928.0
+2017-6,2017,6,Construction,6955.0
+2017-7,2017,7,Construction,6960.0
+2017-8,2017,8,Construction,6990.0
+2017-9,2017,9,Construction,7004.0
+2017-10,2017,10,Construction,7027.0
+2017-11,2017,11,Construction,7066.0
+2017-12,2017,12,Construction,7093.0
+2018-1,2018,1,Construction,7114.0
+2018-2,2018,2,Construction,7200.0
+2018-3,2018,3,Construction,7205.0
+2018-4,2018,4,Construction,7223.0
+2018-5,2018,5,Construction,7266.0
+2018-6,2018,6,Construction,7282.0
+2018-7,2018,7,Construction,7304.0
+2018-8,2018,8,Construction,7335.0
+2018-9,2018,9,Construction,7355.0
+2018-10,2018,10,Construction,7378.0
+2018-11,2018,11,Construction,7376.0
+2018-12,2018,12,Construction,7402.0
+2019-1,2019,1,Construction,7452.0
+2019-2,2019,2,Construction,7423.0
+2019-3,2019,3,Construction,7443.0
+2019-4,2019,4,Construction,7469.0
+2019-5,2019,5,Construction,7478.0
+2019-6,2019,6,Construction,7497.0
+2019-7,2019,7,Construction,7504.0
+2019-8,2019,8,Construction,7508.0
+2019-9,2019,9,Construction,7524.0
+2019-10,2019,10,Construction,7541.0
+2019-11,2019,11,Construction,7539.0
+2019-12,2019,12,Construction,7555.0
+2020-1,2020,1,Construction,7593.0
+2020-2,2020,2,Construction,7639.0
+2020-3,2020,3,Construction,7574.0
+2020-4,2020,4,Construction,6579.0
+2020-5,2020,5,Construction,7043.0
+2015-1,2015,1,Manufacturing,12292.0
+2015-2,2015,2,Manufacturing,12301.0
+2015-3,2015,3,Manufacturing,12312.0
+2015-4,2015,4,Manufacturing,12318.0
+2015-5,2015,5,Manufacturing,12333.0
+2015-6,2015,6,Manufacturing,12334.0
+2015-7,2015,7,Manufacturing,12349.0
+2015-8,2015,8,Manufacturing,12345.0
+2015-9,2015,9,Manufacturing,12354.0
+2015-10,2015,10,Manufacturing,12362.0
+2015-11,2015,11,Manufacturing,12357.0
+2015-12,2015,12,Manufacturing,12362.0
+2016-1,2016,1,Manufacturing,12379.0
+2016-2,2016,2,Manufacturing,12367.0
+2016-3,2016,3,Manufacturing,12345.0
+2016-4,2016,4,Manufacturing,12349.0
+2016-5,2016,5,Manufacturing,12332.0
+2016-6,2016,6,Manufacturing,12351.0
+2016-7,2016,7,Manufacturing,12369.0
+2016-8,2016,8,Manufacturing,12348.0
+2016-9,2016,9,Manufacturing,12347.0
+2016-10,2016,10,Manufacturing,12347.0
+2016-11,2016,11,Manufacturing,12342.0
+2016-12,2016,12,Manufacturing,12356.0
+2017-1,2017,1,Manufacturing,12369.0
+2017-2,2017,2,Manufacturing,12384.0
+2017-3,2017,3,Manufacturing,12395.0
+2017-4,2017,4,Manufacturing,12400.0
+2017-5,2017,5,Manufacturing,12406.0
+2017-6,2017,6,Manufacturing,12418.0
+2017-7,2017,7,Manufacturing,12417.0
+2017-8,2017,8,Manufacturing,12461.0
+2017-9,2017,9,Manufacturing,12470.0
+2017-10,2017,10,Manufacturing,12492.0
+2017-11,2017,11,Manufacturing,12514.0
+2017-12,2017,12,Manufacturing,12541.0
+2018-1,2018,1,Manufacturing,12558.0
+2018-2,2018,2,Manufacturing,12588.0
+2018-3,2018,3,Manufacturing,12611.0
+2018-4,2018,4,Manufacturing,12632.0
+2018-5,2018,5,Manufacturing,12658.0
+2018-6,2018,6,Manufacturing,12687.0
+2018-7,2018,7,Manufacturing,12706.0
+2018-8,2018,8,Manufacturing,12719.0
+2018-9,2018,9,Manufacturing,12740.0
+2018-10,2018,10,Manufacturing,12764.0
+2018-11,2018,11,Manufacturing,12784.0
+2018-12,2018,12,Manufacturing,12805.0
+2019-1,2019,1,Manufacturing,12825.0
+2019-2,2019,2,Manufacturing,12830.0
+2019-3,2019,3,Manufacturing,12827.0
+2019-4,2019,4,Manufacturing,12829.0
+2019-5,2019,5,Manufacturing,12829.0
+2019-6,2019,6,Manufacturing,12838.0
+2019-7,2019,7,Manufacturing,12845.0
+2019-8,2019,8,Manufacturing,12848.0
+2019-9,2019,9,Manufacturing,12851.0
+2019-10,2019,10,Manufacturing,12810.0
+2019-11,2019,11,Manufacturing,12868.0
+2019-12,2019,12,Manufacturing,12866.0
+2020-1,2020,1,Manufacturing,12844.0
+2020-2,2020,2,Manufacturing,12852.0
+2020-3,2020,3,Manufacturing,12806.0
+2020-4,2020,4,Manufacturing,11482.0
+2020-5,2020,5,Manufacturing,11707.0
+2015-1,2015,1,Durable Goods,7752.0
+2015-2,2015,2,Durable Goods,7760.0
+2015-3,2015,3,Durable Goods,7764.0
+2015-4,2015,4,Durable Goods,7763.0
+2015-5,2015,5,Durable Goods,7773.0
+2015-6,2015,6,Durable Goods,7772.0
+2015-7,2015,7,Durable Goods,7774.0
+2015-8,2015,8,Durable Goods,7774.0
+2015-9,2015,9,Durable Goods,7773.0
+2015-10,2015,10,Durable Goods,7770.0
+2015-11,2015,11,Durable Goods,7756.0
+2015-12,2015,12,Durable Goods,7750.0
+2016-1,2016,1,Durable Goods,7761.0
+2016-2,2016,2,Durable Goods,7749.0
+2016-3,2016,3,Durable Goods,7729.0
+2016-4,2016,4,Durable Goods,7729.0
+2016-5,2016,5,Durable Goods,7707.0
+2016-6,2016,6,Durable Goods,7704.0
+2016-7,2016,7,Durable Goods,7719.0
+2016-8,2016,8,Durable Goods,7695.0
+2016-9,2016,9,Durable Goods,7691.0
+2016-10,2016,10,Durable Goods,7693.0
+2016-11,2016,11,Durable Goods,7686.0
+2016-12,2016,12,Durable Goods,7695.0
+2017-1,2017,1,Durable Goods,7701.0
+2017-2,2017,2,Durable Goods,7698.0
+2017-3,2017,3,Durable Goods,7704.0
+2017-4,2017,4,Durable Goods,7706.0
+2017-5,2017,5,Durable Goods,7715.0
+2017-6,2017,6,Durable Goods,7726.0
+2017-7,2017,7,Durable Goods,7718.0
+2017-8,2017,8,Durable Goods,7750.0
+2017-9,2017,9,Durable Goods,7761.0
+2017-10,2017,10,Durable Goods,7777.0
+2017-11,2017,11,Durable Goods,7799.0
+2017-12,2017,12,Durable Goods,7822.0
+2018-1,2018,1,Durable Goods,7835.0
+2018-2,2018,2,Durable Goods,7861.0
+2018-3,2018,3,Durable Goods,7886.0
+2018-4,2018,4,Durable Goods,7904.0
+2018-5,2018,5,Durable Goods,7920.0
+2018-6,2018,6,Durable Goods,7944.0
+2018-7,2018,7,Durable Goods,7961.0
+2018-8,2018,8,Durable Goods,7972.0
+2018-9,2018,9,Durable Goods,7991.0
+2018-10,2018,10,Durable Goods,8011.0
+2018-11,2018,11,Durable Goods,8022.0
+2018-12,2018,12,Durable Goods,8038.0
+2019-1,2019,1,Durable Goods,8059.0
+2019-2,2019,2,Durable Goods,8062.0
+2019-3,2019,3,Durable Goods,8056.0
+2019-4,2019,4,Durable Goods,8056.0
+2019-5,2019,5,Durable Goods,8056.0
+2019-6,2019,6,Durable Goods,8064.0
+2019-7,2019,7,Durable Goods,8067.0
+2019-8,2019,8,Durable Goods,8066.0
+2019-9,2019,9,Durable Goods,8066.0
+2019-10,2019,10,Durable Goods,8019.0
+2019-11,2019,11,Durable Goods,8064.0
+2019-12,2019,12,Durable Goods,8064.0
+2020-1,2020,1,Durable Goods,8052.0
+2020-2,2020,2,Durable Goods,8058.0
+2020-3,2020,3,Durable Goods,8031.0
+2020-4,2020,4,Durable Goods,7124.0
+2020-5,2020,5,Durable Goods,7243.0
+2015-1,2015,1,Nondurable Goods,4540.0
+2015-2,2015,2,Nondurable Goods,4541.0
+2015-3,2015,3,Nondurable Goods,4548.0
+2015-4,2015,4,Nondurable Goods,4555.0
+2015-5,2015,5,Nondurable Goods,4560.0
+2015-6,2015,6,Nondurable Goods,4562.0
+2015-7,2015,7,Nondurable Goods,4575.0
+2015-8,2015,8,Nondurable Goods,4571.0
+2015-9,2015,9,Nondurable Goods,4581.0
+2015-10,2015,10,Nondurable Goods,4592.0
+2015-11,2015,11,Nondurable Goods,4601.0
+2015-12,2015,12,Nondurable Goods,4612.0
+2016-1,2016,1,Nondurable Goods,4618.0
+2016-2,2016,2,Nondurable Goods,4618.0
+2016-3,2016,3,Nondurable Goods,4616.0
+2016-4,2016,4,Nondurable Goods,4620.0
+2016-5,2016,5,Nondurable Goods,4625.0
+2016-6,2016,6,Nondurable Goods,4647.0
+2016-7,2016,7,Nondurable Goods,4650.0
+2016-8,2016,8,Nondurable Goods,4653.0
+2016-9,2016,9,Nondurable Goods,4656.0
+2016-10,2016,10,Nondurable Goods,4654.0
+2016-11,2016,11,Nondurable Goods,4656.0
+2016-12,2016,12,Nondurable Goods,4661.0
+2017-1,2017,1,Nondurable Goods,4668.0
+2017-2,2017,2,Nondurable Goods,4686.0
+2017-3,2017,3,Nondurable Goods,4691.0
+2017-4,2017,4,Nondurable Goods,4694.0
+2017-5,2017,5,Nondurable Goods,4691.0
+2017-6,2017,6,Nondurable Goods,4692.0
+2017-7,2017,7,Nondurable Goods,4699.0
+2017-8,2017,8,Nondurable Goods,4711.0
+2017-9,2017,9,Nondurable Goods,4709.0
+2017-10,2017,10,Nondurable Goods,4715.0
+2017-11,2017,11,Nondurable Goods,4715.0
+2017-12,2017,12,Nondurable Goods,4719.0
+2018-1,2018,1,Nondurable Goods,4723.0
+2018-2,2018,2,Nondurable Goods,4727.0
+2018-3,2018,3,Nondurable Goods,4725.0
+2018-4,2018,4,Nondurable Goods,4728.0
+2018-5,2018,5,Nondurable Goods,4738.0
+2018-6,2018,6,Nondurable Goods,4743.0
+2018-7,2018,7,Nondurable Goods,4745.0
+2018-8,2018,8,Nondurable Goods,4747.0
+2018-9,2018,9,Nondurable Goods,4749.0
+2018-10,2018,10,Nondurable Goods,4753.0
+2018-11,2018,11,Nondurable Goods,4762.0
+2018-12,2018,12,Nondurable Goods,4767.0
+2019-1,2019,1,Nondurable Goods,4766.0
+2019-2,2019,2,Nondurable Goods,4768.0
+2019-3,2019,3,Nondurable Goods,4771.0
+2019-4,2019,4,Nondurable Goods,4773.0
+2019-5,2019,5,Nondurable Goods,4773.0
+2019-6,2019,6,Nondurable Goods,4774.0
+2019-7,2019,7,Nondurable Goods,4778.0
+2019-8,2019,8,Nondurable Goods,4782.0
+2019-9,2019,9,Nondurable Goods,4785.0
+2019-10,2019,10,Nondurable Goods,4791.0
+2019-11,2019,11,Nondurable Goods,4804.0
+2019-12,2019,12,Nondurable Goods,4802.0
+2020-1,2020,1,Nondurable Goods,4792.0
+2020-2,2020,2,Nondurable Goods,4794.0
+2020-3,2020,3,Nondurable Goods,4775.0
+2020-4,2020,4,Nondurable Goods,4358.0
+2020-5,2020,5,Nondurable Goods,4464.0
+2015-1,2015,1,Trade Transportation & Utilities,26613.0
+2015-2,2015,2,Trade Transportation & Utilities,26657.0
+2015-3,2015,3,Trade Transportation & Utilities,26684.0
+2015-4,2015,4,Trade Transportation & Utilities,26707.0
+2015-5,2015,5,Trade Transportation & Utilities,26767.0
+2015-6,2015,6,Trade Transportation & Utilities,26814.0
+2015-7,2015,7,Trade Transportation & Utilities,26859.0
+2015-8,2015,8,Trade Transportation & Utilities,26870.0
+2015-9,2015,9,Trade Transportation & Utilities,26874.0
+2015-10,2015,10,Trade Transportation & Utilities,26908.0
+2015-11,2015,11,Trade Transportation & Utilities,26945.0
+2015-12,2015,12,Trade Transportation & Utilities,26978.0
+2016-1,2016,1,Trade Transportation & Utilities,26976.0
+2016-2,2016,2,Trade Transportation & Utilities,27036.0
+2016-3,2016,3,Trade Transportation & Utilities,27093.0
+2016-4,2016,4,Trade Transportation & Utilities,27118.0
+2016-5,2016,5,Trade Transportation & Utilities,27132.0
+2016-6,2016,6,Trade Transportation & Utilities,27164.0
+2016-7,2016,7,Trade Transportation & Utilities,27205.0
+2016-8,2016,8,Trade Transportation & Utilities,27254.0
+2016-9,2016,9,Trade Transportation & Utilities,27269.0
+2016-10,2016,10,Trade Transportation & Utilities,27288.0
+2016-11,2016,11,Trade Transportation & Utilities,27284.0
+2016-12,2016,12,Trade Transportation & Utilities,27350.0
+2017-1,2017,1,Trade Transportation & Utilities,27357.0
+2017-2,2017,2,Trade Transportation & Utilities,27342.0
+2017-3,2017,3,Trade Transportation & Utilities,27339.0
+2017-4,2017,4,Trade Transportation & Utilities,27352.0
+2017-5,2017,5,Trade Transportation & Utilities,27339.0
+2017-6,2017,6,Trade Transportation & Utilities,27366.0
+2017-7,2017,7,Trade Transportation & Utilities,27368.0
+2017-8,2017,8,Trade Transportation & Utilities,27385.0
+2017-9,2017,9,Trade Transportation & Utilities,27410.0
+2017-10,2017,10,Trade Transportation & Utilities,27435.0
+2017-11,2017,11,Trade Transportation & Utilities,27449.0
+2017-12,2017,12,Trade Transportation & Utilities,27465.0
+2018-1,2018,1,Trade Transportation & Utilities,27448.0
+2018-2,2018,2,Trade Transportation & Utilities,27525.0
+2018-3,2018,3,Trade Transportation & Utilities,27578.0
+2018-4,2018,4,Trade Transportation & Utilities,27574.0
+2018-5,2018,5,Trade Transportation & Utilities,27602.0
+2018-6,2018,6,Trade Transportation & Utilities,27589.0
+2018-7,2018,7,Trade Transportation & Utilities,27598.0
+2018-8,2018,8,Trade Transportation & Utilities,27657.0
+2018-9,2018,9,Trade Transportation & Utilities,27636.0
+2018-10,2018,10,Trade Transportation & Utilities,27633.0
+2018-11,2018,11,Trade Transportation & Utilities,27691.0
+2018-12,2018,12,Trade Transportation & Utilities,27666.0
+2019-1,2019,1,Trade Transportation & Utilities,27711.0
+2019-2,2019,2,Trade Transportation & Utilities,27688.0
+2019-3,2019,3,Trade Transportation & Utilities,27665.0
+2019-4,2019,4,Trade Transportation & Utilities,27671.0
+2019-5,2019,5,Trade Transportation & Utilities,27667.0
+2019-6,2019,6,Trade Transportation & Utilities,27686.0
+2019-7,2019,7,Trade Transportation & Utilities,27692.0
+2019-8,2019,8,Trade Transportation & Utilities,27688.0
+2019-9,2019,9,Trade Transportation & Utilities,27712.0
+2019-10,2019,10,Trade Transportation & Utilities,27750.0
+2019-11,2019,11,Trade Transportation & Utilities,27762.0
+2019-12,2019,12,Trade Transportation & Utilities,27809.0
+2020-1,2020,1,Trade Transportation & Utilities,27832.0
+2020-2,2020,2,Trade Transportation & Utilities,27830.0
+2020-3,2020,3,Trade Transportation & Utilities,27723.0
+2020-4,2020,4,Trade Transportation & Utilities,24498.0
+2020-5,2020,5,Trade Transportation & Utilities,24866.0
+2015-1,2015,1,Retail Trade,15520.2
+2015-2,2015,2,Retail Trade,15535.1
+2015-3,2015,3,Retail Trade,15547.7
+2015-4,2015,4,Retail Trade,15566.9
+2015-5,2015,5,Retail Trade,15595.9
+2015-6,2015,6,Retail Trade,15618.7
+2015-7,2015,7,Retail Trade,15639.0
+2015-8,2015,8,Retail Trade,15637.7
+2015-9,2015,9,Retail Trade,15642.9
+2015-10,2015,10,Retail Trade,15675.4
+2015-11,2015,11,Retail Trade,15695.0
+2015-12,2015,12,Retail Trade,15699.0
+2016-1,2016,1,Retail Trade,15724.7
+2016-2,2016,2,Retail Trade,15771.9
+2016-3,2016,3,Retail Trade,15810.0
+2016-4,2016,4,Retail Trade,15813.6
+2016-5,2016,5,Retail Trade,15813.1
+2016-6,2016,6,Retail Trade,15843.6
+2016-7,2016,7,Retail Trade,15859.2
+2016-8,2016,8,Retail Trade,15876.6
+2016-9,2016,9,Retail Trade,15885.4
+2016-10,2016,10,Retail Trade,15887.8
+2016-11,2016,11,Retail Trade,15862.3
+2016-12,2016,12,Retail Trade,15892.4
+2017-1,2017,1,Retail Trade,15920.4
+2017-2,2017,2,Retail Trade,15880.4
+2017-3,2017,3,Retail Trade,15862.2
+2017-4,2017,4,Retail Trade,15854.1
+2017-5,2017,5,Retail Trade,15824.8
+2017-6,2017,6,Retail Trade,15831.4
+2017-7,2017,7,Retail Trade,15823.1
+2017-8,2017,8,Retail Trade,15822.9
+2017-9,2017,9,Retail Trade,15815.2
+2017-10,2017,10,Retail Trade,15810.9
+2017-11,2017,11,Retail Trade,15816.1
+2017-12,2017,12,Retail Trade,15802.2
+2018-1,2018,1,Retail Trade,15785.5
+2018-2,2018,2,Retail Trade,15821.0
+2018-3,2018,3,Retail Trade,15833.0
+2018-4,2018,4,Retail Trade,15832.1
+2018-5,2018,5,Retail Trade,15836.4
+2018-6,2018,6,Retail Trade,15797.5
+2018-7,2018,7,Retail Trade,15785.4
+2018-8,2018,8,Retail Trade,15788.1
+2018-9,2018,9,Retail Trade,15741.6
+2018-10,2018,10,Retail Trade,15702.5
+2018-11,2018,11,Retail Trade,15729.6
+2018-12,2018,12,Retail Trade,15704.4
+2019-1,2019,1,Retail Trade,15696.5
+2019-2,2019,2,Retail Trade,15667.2
+2019-3,2019,3,Retail Trade,15642.9
+2019-4,2019,4,Retail Trade,15631.1
+2019-5,2019,5,Retail Trade,15618.8
+2019-6,2019,6,Retail Trade,15613.4
+2019-7,2019,7,Retail Trade,15614.4
+2019-8,2019,8,Retail Trade,15613.8
+2019-9,2019,9,Retail Trade,15622.8
+2019-10,2019,10,Retail Trade,15644.7
+2019-11,2019,11,Retail Trade,15630.8
+2019-12,2019,12,Retail Trade,15672.2
+2020-1,2020,1,Retail Trade,15669.0
+2020-2,2020,2,Retail Trade,15672.0
+2020-3,2020,3,Retail Trade,15586.6
+2020-4,2020,4,Retail Trade,13300.8
+2020-5,2020,5,Retail Trade,13668.6
+2015-1,2015,1,Transportation & Warehousing,4769.8
+2015-2,2015,2,Transportation & Warehousing,4786.0
+2015-3,2015,3,Transportation & Warehousing,4799.0
+2015-4,2015,4,Transportation & Warehousing,4805.9
+2015-5,2015,5,Transportation & Warehousing,4828.1
+2015-6,2015,6,Transportation & Warehousing,4855.2
+2015-7,2015,7,Transportation & Warehousing,4878.6
+2015-8,2015,8,Transportation & Warehousing,4889.4
+2015-9,2015,9,Transportation & Warehousing,4898.4
+2015-10,2015,10,Transportation & Warehousing,4898.8
+2015-11,2015,11,Transportation & Warehousing,4914.7
+2015-12,2015,12,Transportation & Warehousing,4946.0
+2016-1,2016,1,Transportation & Warehousing,4918.3
+2016-2,2016,2,Transportation & Warehousing,4931.8
+2016-3,2016,3,Transportation & Warehousing,4948.3
+2016-4,2016,4,Transportation & Warehousing,4963.7
+2016-5,2016,5,Transportation & Warehousing,4980.6
+2016-6,2016,6,Transportation & Warehousing,4984.1
+2016-7,2016,7,Transportation & Warehousing,5008.0
+2016-8,2016,8,Transportation & Warehousing,5036.0
+2016-9,2016,9,Transportation & Warehousing,5030.5
+2016-10,2016,10,Transportation & Warehousing,5046.4
+2016-11,2016,11,Transportation & Warehousing,5064.4
+2016-12,2016,12,Transportation & Warehousing,5103.8
+2017-1,2017,1,Transportation & Warehousing,5078.0
+2017-2,2017,2,Transportation & Warehousing,5101.7
+2017-3,2017,3,Transportation & Warehousing,5114.7
+2017-4,2017,4,Transportation & Warehousing,5130.7
+2017-5,2017,5,Transportation & Warehousing,5153.3
+2017-6,2017,6,Transportation & Warehousing,5166.2
+2017-7,2017,7,Transportation & Warehousing,5175.9
+2017-8,2017,8,Transportation & Warehousing,5193.3
+2017-9,2017,9,Transportation & Warehousing,5223.0
+2017-10,2017,10,Transportation & Warehousing,5247.3
+2017-11,2017,11,Transportation & Warehousing,5256.5
+2017-12,2017,12,Transportation & Warehousing,5280.7
+2018-1,2018,1,Transportation & Warehousing,5286.1
+2018-2,2018,2,Transportation & Warehousing,5323.8
+2018-3,2018,3,Transportation & Warehousing,5353.0
+2018-4,2018,4,Transportation & Warehousing,5367.4
+2018-5,2018,5,Transportation & Warehousing,5390.7
+2018-6,2018,6,Transportation & Warehousing,5411.5
+2018-7,2018,7,Transportation & Warehousing,5424.0
+2018-8,2018,8,Transportation & Warehousing,5460.6
+2018-9,2018,9,Transportation & Warehousing,5489.2
+2018-10,2018,10,Transportation & Warehousing,5521.7
+2018-11,2018,11,Transportation & Warehousing,5545.2
+2018-12,2018,12,Transportation & Warehousing,5537.5
+2019-1,2019,1,Transportation & Warehousing,5584.3
+2019-2,2019,2,Transportation & Warehousing,5585.9
+2019-3,2019,3,Transportation & Warehousing,5591.6
+2019-4,2019,4,Transportation & Warehousing,5598.6
+2019-5,2019,5,Transportation & Warehousing,5601.6
+2019-6,2019,6,Transportation & Warehousing,5622.7
+2019-7,2019,7,Transportation & Warehousing,5622.2
+2019-8,2019,8,Transportation & Warehousing,5618.1
+2019-9,2019,9,Transportation & Warehousing,5628.6
+2019-10,2019,10,Transportation & Warehousing,5635.4
+2019-11,2019,11,Transportation & Warehousing,5658.0
+2019-12,2019,12,Transportation & Warehousing,5655.9
+2020-1,2020,1,Transportation & Warehousing,5678.5
+2020-2,2020,2,Transportation & Warehousing,5678.1
+2020-3,2020,3,Transportation & Warehousing,5668.2
+2020-4,2020,4,Transportation & Warehousing,5114.9
+2020-5,2020,5,Transportation & Warehousing,5095.9
+2015-1,2015,1,Information,2738.0
+2015-2,2015,2,Information,2742.0
+2015-3,2015,3,Information,2737.0
+2015-4,2015,4,Information,2741.0
+2015-5,2015,5,Information,2749.0
+2015-6,2015,6,Information,2750.0
+2015-7,2015,7,Information,2753.0
+2015-8,2015,8,Information,2754.0
+2015-9,2015,9,Information,2764.0
+2015-10,2015,10,Information,2763.0
+2015-11,2015,11,Information,2750.0
+2015-12,2015,12,Information,2759.0
+2016-1,2016,1,Information,2763.0
+2016-2,2016,2,Information,2778.0
+2016-3,2016,3,Information,2785.0
+2016-4,2016,4,Information,2789.0
+2016-5,2016,5,Information,2753.0
+2016-6,2016,6,Information,2798.0
+2016-7,2016,7,Information,2799.0
+2016-8,2016,8,Information,2805.0
+2016-9,2016,9,Information,2812.0
+2016-10,2016,10,Information,2814.0
+2016-11,2016,11,Information,2809.0
+2016-12,2016,12,Information,2812.0
+2017-1,2017,1,Information,2819.0
+2017-2,2017,2,Information,2814.0
+2017-3,2017,3,Information,2813.0
+2017-4,2017,4,Information,2809.0
+2017-5,2017,5,Information,2804.0
+2017-6,2017,6,Information,2807.0
+2017-7,2017,7,Information,2809.0
+2017-8,2017,8,Information,2815.0
+2017-9,2017,9,Information,2811.0
+2017-10,2017,10,Information,2812.0
+2017-11,2017,11,Information,2813.0
+2017-12,2017,12,Information,2819.0
+2018-1,2018,1,Information,2815.0
+2018-2,2018,2,Information,2815.0
+2018-3,2018,3,Information,2826.0
+2018-4,2018,4,Information,2839.0
+2018-5,2018,5,Information,2837.0
+2018-6,2018,6,Information,2837.0
+2018-7,2018,7,Information,2841.0
+2018-8,2018,8,Information,2841.0
+2018-9,2018,9,Information,2839.0
+2018-10,2018,10,Information,2851.0
+2018-11,2018,11,Information,2850.0
+2018-12,2018,12,Information,2854.0
+2019-1,2019,1,Information,2843.0
+2019-2,2019,2,Information,2841.0
+2019-3,2019,3,Information,2851.0
+2019-4,2019,4,Information,2845.0
+2019-5,2019,5,Information,2853.0
+2019-6,2019,6,Information,2865.0
+2019-7,2019,7,Information,2862.0
+2019-8,2019,8,Information,2861.0
+2019-9,2019,9,Information,2866.0
+2019-10,2019,10,Information,2865.0
+2019-11,2019,11,Information,2874.0
+2019-12,2019,12,Information,2883.0
+2020-1,2020,1,Information,2894.0
+2020-2,2020,2,Information,2894.0
+2020-3,2020,3,Information,2888.0
+2020-4,2020,4,Information,2616.0
+2020-5,2020,5,Information,2578.0
+2015-1,2015,1,Financial Activities,8059.0
+2015-2,2015,2,Financial Activities,8072.0
+2015-3,2015,3,Financial Activities,8081.0
+2015-4,2015,4,Financial Activities,8088.0
+2015-5,2015,5,Financial Activities,8095.0
+2015-6,2015,6,Financial Activities,8117.0
+2015-7,2015,7,Financial Activities,8137.0
+2015-8,2015,8,Financial Activities,8143.0
+2015-9,2015,9,Financial Activities,8153.0
+2015-10,2015,10,Financial Activities,8168.0
+2015-11,2015,11,Financial Activities,8180.0
+2015-12,2015,12,Financial Activities,8188.0
+2016-1,2016,1,Financial Activities,8203.0
+2016-2,2016,2,Financial Activities,8211.0
+2016-3,2016,3,Financial Activities,8226.0
+2016-4,2016,4,Financial Activities,8249.0
+2016-5,2016,5,Financial Activities,8263.0
+2016-6,2016,6,Financial Activities,8280.0
+2016-7,2016,7,Financial Activities,8302.0
+2016-8,2016,8,Financial Activities,8317.0
+2016-9,2016,9,Financial Activities,8325.0
+2016-10,2016,10,Financial Activities,8331.0
+2016-11,2016,11,Financial Activities,8342.0
+2016-12,2016,12,Financial Activities,8369.0
+2017-1,2017,1,Financial Activities,8399.0
+2017-2,2017,2,Financial Activities,8401.0
+2017-3,2017,3,Financial Activities,8409.0
+2017-4,2017,4,Financial Activities,8424.0
+2017-5,2017,5,Financial Activities,8432.0
+2017-6,2017,6,Financial Activities,8448.0
+2017-7,2017,7,Financial Activities,8460.0
+2017-8,2017,8,Financial Activities,8469.0
+2017-9,2017,9,Financial Activities,8477.0
+2017-10,2017,10,Financial Activities,8482.0
+2017-11,2017,11,Financial Activities,8494.0
+2017-12,2017,12,Financial Activities,8498.0
+2018-1,2018,1,Financial Activities,8504.0
+2018-2,2018,2,Financial Activities,8533.0
+2018-3,2018,3,Financial Activities,8538.0
+2018-4,2018,4,Financial Activities,8545.0
+2018-5,2018,5,Financial Activities,8567.0
+2018-6,2018,6,Financial Activities,8586.0
+2018-7,2018,7,Financial Activities,8594.0
+2018-8,2018,8,Financial Activities,8607.0
+2018-9,2018,9,Financial Activities,8629.0
+2018-10,2018,10,Financial Activities,8647.0
+2018-11,2018,11,Financial Activities,8657.0
+2018-12,2018,12,Financial Activities,8665.0
+2019-1,2019,1,Financial Activities,8676.0
+2019-2,2019,2,Financial Activities,8690.0
+2019-3,2019,3,Financial Activities,8707.0
+2019-4,2019,4,Financial Activities,8721.0
+2019-5,2019,5,Financial Activities,8727.0
+2019-6,2019,6,Financial Activities,8732.0
+2019-7,2019,7,Financial Activities,8753.0
+2019-8,2019,8,Financial Activities,8768.0
+2019-9,2019,9,Financial Activities,8771.0
+2019-10,2019,10,Financial Activities,8792.0
+2019-11,2019,11,Financial Activities,8804.0
+2019-12,2019,12,Financial Activities,8814.0
+2020-1,2020,1,Financial Activities,8823.0
+2020-2,2020,2,Financial Activities,8845.0
+2020-3,2020,3,Financial Activities,8827.0
+2020-4,2020,4,Financial Activities,8563.0
+2020-5,2020,5,Financial Activities,8596.0
+2015-1,2015,1,Finance & Insurance,5990.9
+2015-2,2015,2,Finance & Insurance,5998.8
+2015-3,2015,3,Finance & Insurance,6004.7
+2015-4,2015,4,Finance & Insurance,6010.9
+2015-5,2015,5,Finance & Insurance,6017.5
+2015-6,2015,6,Finance & Insurance,6033.7
+2015-7,2015,7,Finance & Insurance,6046.0
+2015-8,2015,8,Finance & Insurance,6047.1
+2015-9,2015,9,Finance & Insurance,6054.1
+2015-10,2015,10,Finance & Insurance,6067.0
+2015-11,2015,11,Finance & Insurance,6075.2
+2015-12,2015,12,Finance & Insurance,6079.1
+2016-1,2016,1,Finance & Insurance,6089.1
+2016-2,2016,2,Finance & Insurance,6096.1
+2016-3,2016,3,Finance & Insurance,6110.2
+2016-4,2016,4,Finance & Insurance,6125.9
+2016-5,2016,5,Finance & Insurance,6131.5
+2016-6,2016,6,Finance & Insurance,6139.4
+2016-7,2016,7,Finance & Insurance,6152.1
+2016-8,2016,8,Finance & Insurance,6167.2
+2016-9,2016,9,Finance & Insurance,6172.2
+2016-10,2016,10,Finance & Insurance,6180.9
+2016-11,2016,11,Finance & Insurance,6186.3
+2016-12,2016,12,Finance & Insurance,6210.1
+2017-1,2017,1,Finance & Insurance,6231.8
+2017-2,2017,2,Finance & Insurance,6232.4
+2017-3,2017,3,Finance & Insurance,6240.8
+2017-4,2017,4,Finance & Insurance,6250.4
+2017-5,2017,5,Finance & Insurance,6254.3
+2017-6,2017,6,Finance & Insurance,6260.5
+2017-7,2017,7,Finance & Insurance,6272.0
+2017-8,2017,8,Finance & Insurance,6276.7
+2017-9,2017,9,Finance & Insurance,6279.6
+2017-10,2017,10,Finance & Insurance,6275.7
+2017-11,2017,11,Finance & Insurance,6273.9
+2017-12,2017,12,Finance & Insurance,6277.1
+2018-1,2018,1,Finance & Insurance,6282.7
+2018-2,2018,2,Finance & Insurance,6302.9
+2018-3,2018,3,Finance & Insurance,6302.3
+2018-4,2018,4,Finance & Insurance,6308.5
+2018-5,2018,5,Finance & Insurance,6325.1
+2018-6,2018,6,Finance & Insurance,6337.3
+2018-7,2018,7,Finance & Insurance,6339.2
+2018-8,2018,8,Finance & Insurance,6346.8
+2018-9,2018,9,Finance & Insurance,6357.7
+2018-10,2018,10,Finance & Insurance,6368.6
+2018-11,2018,11,Finance & Insurance,6380.2
+2018-12,2018,12,Finance & Insurance,6381.8
+2019-1,2019,1,Finance & Insurance,6383.2
+2019-2,2019,2,Finance & Insurance,6393.5
+2019-3,2019,3,Finance & Insurance,6403.7
+2019-4,2019,4,Finance & Insurance,6408.6
+2019-5,2019,5,Finance & Insurance,6411.8
+2019-6,2019,6,Finance & Insurance,6415.3
+2019-7,2019,7,Finance & Insurance,6431.5
+2019-8,2019,8,Finance & Insurance,6439.5
+2019-9,2019,9,Finance & Insurance,6442.1
+2019-10,2019,10,Finance & Insurance,6452.6
+2019-11,2019,11,Finance & Insurance,6457.9
+2019-12,2019,12,Finance & Insurance,6464.4
+2020-1,2020,1,Finance & Insurance,6475.5
+2020-2,2020,2,Finance & Insurance,6486.4
+2020-3,2020,3,Finance & Insurance,6484.0
+2020-4,2020,4,Finance & Insurance,6440.3
+2020-5,2020,5,Finance & Insurance,6448.7
+2015-1,2015,1,Real Estate & Rental,2067.7
+2015-2,2015,2,Real Estate & Rental,2072.7
+2015-3,2015,3,Real Estate & Rental,2076.2
+2015-4,2015,4,Real Estate & Rental,2077.1
+2015-5,2015,5,Real Estate & Rental,2077.9
+2015-6,2015,6,Real Estate & Rental,2083.0
+2015-7,2015,7,Real Estate & Rental,2091.4
+2015-8,2015,8,Real Estate & Rental,2096.0
+2015-9,2015,9,Real Estate & Rental,2098.9
+2015-10,2015,10,Real Estate & Rental,2101.3
+2015-11,2015,11,Real Estate & Rental,2105.2
+2015-12,2015,12,Real Estate & Rental,2109.1
+2016-1,2016,1,Real Estate & Rental,2113.4
+2016-2,2016,2,Real Estate & Rental,2115.2
+2016-3,2016,3,Real Estate & Rental,2115.8
+2016-4,2016,4,Real Estate & Rental,2123.5
+2016-5,2016,5,Real Estate & Rental,2131.8
+2016-6,2016,6,Real Estate & Rental,2140.7
+2016-7,2016,7,Real Estate & Rental,2150.0
+2016-8,2016,8,Real Estate & Rental,2149.8
+2016-9,2016,9,Real Estate & Rental,2152.4
+2016-10,2016,10,Real Estate & Rental,2150.4
+2016-11,2016,11,Real Estate & Rental,2155.6
+2016-12,2016,12,Real Estate & Rental,2159.0
+2017-1,2017,1,Real Estate & Rental,2167.2
+2017-2,2017,2,Real Estate & Rental,2168.6
+2017-3,2017,3,Real Estate & Rental,2167.7
+2017-4,2017,4,Real Estate & Rental,2173.8
+2017-5,2017,5,Real Estate & Rental,2177.7
+2017-6,2017,6,Real Estate & Rental,2187.6
+2017-7,2017,7,Real Estate & Rental,2187.6
+2017-8,2017,8,Real Estate & Rental,2192.2
+2017-9,2017,9,Real Estate & Rental,2197.0
+2017-10,2017,10,Real Estate & Rental,2206.6
+2017-11,2017,11,Real Estate & Rental,2219.8
+2017-12,2017,12,Real Estate & Rental,2221.1
+2018-1,2018,1,Real Estate & Rental,2220.9
+2018-2,2018,2,Real Estate & Rental,2230.1
+2018-3,2018,3,Real Estate & Rental,2236.0
+2018-4,2018,4,Real Estate & Rental,2236.0
+2018-5,2018,5,Real Estate & Rental,2242.3
+2018-6,2018,6,Real Estate & Rental,2249.0
+2018-7,2018,7,Real Estate & Rental,2255.0
+2018-8,2018,8,Real Estate & Rental,2259.7
+2018-9,2018,9,Real Estate & Rental,2271.2
+2018-10,2018,10,Real Estate & Rental,2278.0
+2018-11,2018,11,Real Estate & Rental,2276.9
+2018-12,2018,12,Real Estate & Rental,2283.0
+2019-1,2019,1,Real Estate & Rental,2292.5
+2019-2,2019,2,Real Estate & Rental,2296.8
+2019-3,2019,3,Real Estate & Rental,2303.0
+2019-4,2019,4,Real Estate & Rental,2312.0
+2019-5,2019,5,Real Estate & Rental,2315.0
+2019-6,2019,6,Real Estate & Rental,2317.1
+2019-7,2019,7,Real Estate & Rental,2321.6
+2019-8,2019,8,Real Estate & Rental,2328.3
+2019-9,2019,9,Real Estate & Rental,2328.9
+2019-10,2019,10,Real Estate & Rental,2339.3
+2019-11,2019,11,Real Estate & Rental,2345.6
+2019-12,2019,12,Real Estate & Rental,2349.1
+2020-1,2020,1,Real Estate & Rental,2347.4
+2020-2,2020,2,Real Estate & Rental,2358.5
+2020-3,2020,3,Real Estate & Rental,2342.8
+2020-4,2020,4,Real Estate & Rental,2123.0
+2020-5,2020,5,Real Estate & Rental,2147.1
+2015-1,2015,1,Professional & Business Services,19442.0
+2015-2,2015,2,Professional & Business Services,19487.0
+2015-3,2015,3,Professional & Business Services,19513.0
+2015-4,2015,4,Professional & Business Services,19557.0
+2015-5,2015,5,Professional & Business Services,19638.0
+2015-6,2015,6,Professional & Business Services,19689.0
+2015-7,2015,7,Professional & Business Services,19726.0
+2015-8,2015,8,Professional & Business Services,19755.0
+2015-9,2015,9,Professional & Business Services,19778.0
+2015-10,2015,10,Professional & Business Services,19851.0
+2015-11,2015,11,Professional & Business Services,19885.0
+2015-12,2015,12,Professional & Business Services,19955.0
+2016-1,2016,1,Professional & Business Services,19953.0
+2016-2,2016,2,Professional & Business Services,19968.0
+2016-3,2016,3,Professional & Business Services,19998.0
+2016-4,2016,4,Professional & Business Services,20030.0
+2016-5,2016,5,Professional & Business Services,20038.0
+2016-6,2016,6,Professional & Business Services,20081.0
+2016-7,2016,7,Professional & Business Services,20125.0
+2016-8,2016,8,Professional & Business Services,20131.0
+2016-9,2016,9,Professional & Business Services,20198.0
+2016-10,2016,10,Professional & Business Services,20216.0
+2016-11,2016,11,Professional & Business Services,20253.0
+2016-12,2016,12,Professional & Business Services,20288.0
+2017-1,2017,1,Professional & Business Services,20338.0
+2017-2,2017,2,Professional & Business Services,20347.0
+2017-3,2017,3,Professional & Business Services,20376.0
+2017-4,2017,4,Professional & Business Services,20406.0
+2017-5,2017,5,Professional & Business Services,20463.0
+2017-6,2017,6,Professional & Business Services,20498.0
+2017-7,2017,7,Professional & Business Services,20540.0
+2017-8,2017,8,Professional & Business Services,20568.0
+2017-9,2017,9,Professional & Business Services,20571.0
+2017-10,2017,10,Professional & Business Services,20619.0
+2017-11,2017,11,Professional & Business Services,20649.0
+2017-12,2017,12,Professional & Business Services,20683.0
+2018-1,2018,1,Professional & Business Services,20738.0
+2018-2,2018,2,Professional & Business Services,20781.0
+2018-3,2018,3,Professional & Business Services,20823.0
+2018-4,2018,4,Professional & Business Services,20868.0
+2018-5,2018,5,Professional & Business Services,20914.0
+2018-6,2018,6,Professional & Business Services,20948.0
+2018-7,2018,7,Professional & Business Services,20968.0
+2018-8,2018,8,Professional & Business Services,21009.0
+2018-9,2018,9,Professional & Business Services,21042.0
+2018-10,2018,10,Professional & Business Services,21079.0
+2018-11,2018,11,Professional & Business Services,21102.0
+2018-12,2018,12,Professional & Business Services,21128.0
+2019-1,2019,1,Professional & Business Services,21126.0
+2019-2,2019,2,Professional & Business Services,21164.0
+2019-3,2019,3,Professional & Business Services,21176.0
+2019-4,2019,4,Professional & Business Services,21226.0
+2019-5,2019,5,Professional & Business Services,21253.0
+2019-6,2019,6,Professional & Business Services,21294.0
+2019-7,2019,7,Professional & Business Services,21337.0
+2019-8,2019,8,Professional & Business Services,21377.0
+2019-9,2019,9,Professional & Business Services,21402.0
+2019-10,2019,10,Professional & Business Services,21444.0
+2019-11,2019,11,Professional & Business Services,21481.0
+2019-12,2019,12,Professional & Business Services,21503.0
+2020-1,2020,1,Professional & Business Services,21523.0
+2020-2,2020,2,Professional & Business Services,21550.0
+2020-3,2020,3,Professional & Business Services,21456.0
+2020-4,2020,4,Professional & Business Services,19267.0
+2020-5,2020,5,Professional & Business Services,19394.0
+2015-1,2015,1,Professional & Technical Services,8526.7
+2015-2,2015,2,Professional & Technical Services,8555.9
+2015-3,2015,3,Professional & Technical Services,8584.1
+2015-4,2015,4,Professional & Technical Services,8610.7
+2015-5,2015,5,Professional & Technical Services,8627.1
+2015-6,2015,6,Professional & Technical Services,8653.9
+2015-7,2015,7,Professional & Technical Services,8678.0
+2015-8,2015,8,Professional & Technical Services,8690.9
+2015-9,2015,9,Professional & Technical Services,8704.5
+2015-10,2015,10,Professional & Technical Services,8733.2
+2015-11,2015,11,Professional & Technical Services,8755.5
+2015-12,2015,12,Professional & Technical Services,8765.3
+2016-1,2016,1,Professional & Technical Services,8803.3
+2016-2,2016,2,Professional & Technical Services,8810.7
+2016-3,2016,3,Professional & Technical Services,8823.5
+2016-4,2016,4,Professional & Technical Services,8839.8
+2016-5,2016,5,Professional & Technical Services,8860.3
+2016-6,2016,6,Professional & Technical Services,8870.0
+2016-7,2016,7,Professional & Technical Services,8888.4
+2016-8,2016,8,Professional & Technical Services,8896.9
+2016-9,2016,9,Professional & Technical Services,8918.6
+2016-10,2016,10,Professional & Technical Services,8933.4
+2016-11,2016,11,Professional & Technical Services,8939.9
+2016-12,2016,12,Professional & Technical Services,8957.4
+2017-1,2017,1,Professional & Technical Services,8981.6
+2017-2,2017,2,Professional & Technical Services,8988.0
+2017-3,2017,3,Professional & Technical Services,8987.3
+2017-4,2017,4,Professional & Technical Services,9019.5
+2017-5,2017,5,Professional & Technical Services,9031.0
+2017-6,2017,6,Professional & Technical Services,9046.7
+2017-7,2017,7,Professional & Technical Services,9063.4
+2017-8,2017,8,Professional & Technical Services,9080.4
+2017-9,2017,9,Professional & Technical Services,9090.8
+2017-10,2017,10,Professional & Technical Services,9108.2
+2017-11,2017,11,Professional & Technical Services,9125.4
+2017-12,2017,12,Professional & Technical Services,9138.6
+2018-1,2018,1,Professional & Technical Services,9170.9
+2018-2,2018,2,Professional & Technical Services,9190.9
+2018-3,2018,3,Professional & Technical Services,9206.8
+2018-4,2018,4,Professional & Technical Services,9228.2
+2018-5,2018,5,Professional & Technical Services,9256.3
+2018-6,2018,6,Professional & Technical Services,9271.0
+2018-7,2018,7,Professional & Technical Services,9287.7
+2018-8,2018,8,Professional & Technical Services,9314.0
+2018-9,2018,9,Professional & Technical Services,9329.1
+2018-10,2018,10,Professional & Technical Services,9352.5
+2018-11,2018,11,Professional & Technical Services,9376.1
+2018-12,2018,12,Professional & Technical Services,9388.7
+2019-1,2019,1,Professional & Technical Services,9410.6
+2019-2,2019,2,Professional & Technical Services,9431.9
+2019-3,2019,3,Professional & Technical Services,9457.0
+2019-4,2019,4,Professional & Technical Services,9477.7
+2019-5,2019,5,Professional & Technical Services,9502.2
+2019-6,2019,6,Professional & Technical Services,9534.1
+2019-7,2019,7,Professional & Technical Services,9566.7
+2019-8,2019,8,Professional & Technical Services,9587.0
+2019-9,2019,9,Professional & Technical Services,9603.0
+2019-10,2019,10,Professional & Technical Services,9624.0
+2019-11,2019,11,Professional & Technical Services,9649.9
+2019-12,2019,12,Professional & Technical Services,9667.4
+2020-1,2020,1,Professional & Technical Services,9678.8
+2020-2,2020,2,Professional & Technical Services,9707.6
+2020-3,2020,3,Professional & Technical Services,9698.5
+2020-4,2020,4,Professional & Technical Services,9159.0
+2020-5,2020,5,Professional & Technical Services,9198.8
+2015-1,2015,1,Mgmt Companies & Enterprises,2195.4
+2015-2,2015,2,Mgmt Companies & Enterprises,2198.2
+2015-3,2015,3,Mgmt Companies & Enterprises,2204.3
+2015-4,2015,4,Mgmt Companies & Enterprises,2203.9
+2015-5,2015,5,Mgmt Companies & Enterprises,2208.8
+2015-6,2015,6,Mgmt Companies & Enterprises,2211.0
+2015-7,2015,7,Mgmt Companies & Enterprises,2217.8
+2015-8,2015,8,Mgmt Companies & Enterprises,2219.1
+2015-9,2015,9,Mgmt Companies & Enterprises,2220.8
+2015-10,2015,10,Mgmt Companies & Enterprises,2226.7
+2015-11,2015,11,Mgmt Companies & Enterprises,2231.1
+2015-12,2015,12,Mgmt Companies & Enterprises,2230.5
+2016-1,2016,1,Mgmt Companies & Enterprises,2232.4
+2016-2,2016,2,Mgmt Companies & Enterprises,2236.2
+2016-3,2016,3,Mgmt Companies & Enterprises,2236.8
+2016-4,2016,4,Mgmt Companies & Enterprises,2242.3
+2016-5,2016,5,Mgmt Companies & Enterprises,2239.5
+2016-6,2016,6,Mgmt Companies & Enterprises,2244.3
+2016-7,2016,7,Mgmt Companies & Enterprises,2252.9
+2016-8,2016,8,Mgmt Companies & Enterprises,2255.9
+2016-9,2016,9,Mgmt Companies & Enterprises,2262.0
+2016-10,2016,10,Mgmt Companies & Enterprises,2264.7
+2016-11,2016,11,Mgmt Companies & Enterprises,2270.0
+2016-12,2016,12,Mgmt Companies & Enterprises,2277.4
+2017-1,2017,1,Mgmt Companies & Enterprises,2284.1
+2017-2,2017,2,Mgmt Companies & Enterprises,2289.4
+2017-3,2017,3,Mgmt Companies & Enterprises,2292.1
+2017-4,2017,4,Mgmt Companies & Enterprises,2294.7
+2017-5,2017,5,Mgmt Companies & Enterprises,2299.9
+2017-6,2017,6,Mgmt Companies & Enterprises,2305.8
+2017-7,2017,7,Mgmt Companies & Enterprises,2311.2
+2017-8,2017,8,Mgmt Companies & Enterprises,2314.3
+2017-9,2017,9,Mgmt Companies & Enterprises,2316.6
+2017-10,2017,10,Mgmt Companies & Enterprises,2322.3
+2017-11,2017,11,Mgmt Companies & Enterprises,2328.0
+2017-12,2017,12,Mgmt Companies & Enterprises,2334.0
+2018-1,2018,1,Mgmt Companies & Enterprises,2339.1
+2018-2,2018,2,Mgmt Companies & Enterprises,2342.9
+2018-3,2018,3,Mgmt Companies & Enterprises,2350.1
+2018-4,2018,4,Mgmt Companies & Enterprises,2360.4
+2018-5,2018,5,Mgmt Companies & Enterprises,2371.3
+2018-6,2018,6,Mgmt Companies & Enterprises,2380.4
+2018-7,2018,7,Mgmt Companies & Enterprises,2379.4
+2018-8,2018,8,Mgmt Companies & Enterprises,2384.1
+2018-9,2018,9,Mgmt Companies & Enterprises,2389.9
+2018-10,2018,10,Mgmt Companies & Enterprises,2394.4
+2018-11,2018,11,Mgmt Companies & Enterprises,2396.8
+2018-12,2018,12,Mgmt Companies & Enterprises,2400.6
+2019-1,2019,1,Mgmt Companies & Enterprises,2404.0
+2019-2,2019,2,Mgmt Companies & Enterprises,2411.2
+2019-3,2019,3,Mgmt Companies & Enterprises,2413.6
+2019-4,2019,4,Mgmt Companies & Enterprises,2417.0
+2019-5,2019,5,Mgmt Companies & Enterprises,2420.6
+2019-6,2019,6,Mgmt Companies & Enterprises,2425.0
+2019-7,2019,7,Mgmt Companies & Enterprises,2428.8
+2019-8,2019,8,Mgmt Companies & Enterprises,2434.5
+2019-9,2019,9,Mgmt Companies & Enterprises,2438.3
+2019-10,2019,10,Mgmt Companies & Enterprises,2442.8
+2019-11,2019,11,Mgmt Companies & Enterprises,2445.0
+2019-12,2019,12,Mgmt Companies & Enterprises,2447.7
+2020-1,2020,1,Mgmt Companies & Enterprises,2451.0
+2020-2,2020,2,Mgmt Companies & Enterprises,2447.3
+2020-3,2020,3,Mgmt Companies & Enterprises,2445.1
+2020-4,2020,4,Mgmt Companies & Enterprises,2353.8
+2020-5,2020,5,Mgmt Companies & Enterprises,2332.0
+2015-1,2015,1,Admin. & Waste Services,8719.9
+2015-2,2015,2,Admin. & Waste Services,8732.4
+2015-3,2015,3,Admin. & Waste Services,8724.8
+2015-4,2015,4,Admin. & Waste Services,8742.7
+2015-5,2015,5,Admin. & Waste Services,8802.0
+2015-6,2015,6,Admin. & Waste Services,8824.0
+2015-7,2015,7,Admin. & Waste Services,8830.1
+2015-8,2015,8,Admin. & Waste Services,8844.6
+2015-9,2015,9,Admin. & Waste Services,8852.6
+2015-10,2015,10,Admin. & Waste Services,8891.2
+2015-11,2015,11,Admin. & Waste Services,8898.2
+2015-12,2015,12,Admin. & Waste Services,8959.1
+2016-1,2016,1,Admin. & Waste Services,8917.1
+2016-2,2016,2,Admin. & Waste Services,8920.8
+2016-3,2016,3,Admin. & Waste Services,8937.5
+2016-4,2016,4,Admin. & Waste Services,8947.5
+2016-5,2016,5,Admin. & Waste Services,8937.9
+2016-6,2016,6,Admin. & Waste Services,8966.7
+2016-7,2016,7,Admin. & Waste Services,8983.9
+2016-8,2016,8,Admin. & Waste Services,8978.1
+2016-9,2016,9,Admin. & Waste Services,9017.8
+2016-10,2016,10,Admin. & Waste Services,9017.9
+2016-11,2016,11,Admin. & Waste Services,9043.1
+2016-12,2016,12,Admin. & Waste Services,9053.4
+2017-1,2017,1,Admin. & Waste Services,9071.9
+2017-2,2017,2,Admin. & Waste Services,9069.5
+2017-3,2017,3,Admin. & Waste Services,9096.6
+2017-4,2017,4,Admin. & Waste Services,9091.5
+2017-5,2017,5,Admin. & Waste Services,9131.7
+2017-6,2017,6,Admin. & Waste Services,9145.3
+2017-7,2017,7,Admin. & Waste Services,9165.2
+2017-8,2017,8,Admin. & Waste Services,9173.1
+2017-9,2017,9,Admin. & Waste Services,9163.1
+2017-10,2017,10,Admin. & Waste Services,9188.7
+2017-11,2017,11,Admin. & Waste Services,9195.3
+2017-12,2017,12,Admin. & Waste Services,9210.0
+2018-1,2018,1,Admin. & Waste Services,9228.4
+2018-2,2018,2,Admin. & Waste Services,9247.2
+2018-3,2018,3,Admin. & Waste Services,9265.8
+2018-4,2018,4,Admin. & Waste Services,9279.1
+2018-5,2018,5,Admin. & Waste Services,9286.4
+2018-6,2018,6,Admin. & Waste Services,9296.9
+2018-7,2018,7,Admin. & Waste Services,9300.5
+2018-8,2018,8,Admin. & Waste Services,9311.0
+2018-9,2018,9,Admin. & Waste Services,9323.1
+2018-10,2018,10,Admin. & Waste Services,9331.8
+2018-11,2018,11,Admin. & Waste Services,9329.2
+2018-12,2018,12,Admin. & Waste Services,9338.6
+2019-1,2019,1,Admin. & Waste Services,9311.5
+2019-2,2019,2,Admin. & Waste Services,9321.1
+2019-3,2019,3,Admin. & Waste Services,9305.4
+2019-4,2019,4,Admin. & Waste Services,9331.4
+2019-5,2019,5,Admin. & Waste Services,9329.7
+2019-6,2019,6,Admin. & Waste Services,9334.9
+2019-7,2019,7,Admin. & Waste Services,9341.7
+2019-8,2019,8,Admin. & Waste Services,9355.0
+2019-9,2019,9,Admin. & Waste Services,9360.2
+2019-10,2019,10,Admin. & Waste Services,9377.5
+2019-11,2019,11,Admin. & Waste Services,9385.7
+2019-12,2019,12,Admin. & Waste Services,9387.4
+2020-1,2020,1,Admin. & Waste Services,9393.0
+2020-2,2020,2,Admin. & Waste Services,9395.0
+2020-3,2020,3,Admin. & Waste Services,9312.3
+2020-4,2020,4,Admin. & Waste Services,7754.2
+2020-5,2020,5,Admin. & Waste Services,7863.5
+2015-1,2015,1,Edu. & Health Services,21741.0
+2015-2,2015,2,Edu. & Health Services,21789.0
+2015-3,2015,3,Edu. & Health Services,21832.0
+2015-4,2015,4,Edu. & Health Services,21906.0
+2015-5,2015,5,Edu. & Health Services,21958.0
+2015-6,2015,6,Edu. & Health Services,21998.0
+2015-7,2015,7,Edu. & Health Services,22053.0
+2015-8,2015,8,Edu. & Health Services,22094.0
+2015-9,2015,9,Edu. & Health Services,22131.0
+2015-10,2015,10,Edu. & Health Services,22215.0
+2015-11,2015,11,Edu. & Health Services,22260.0
+2015-12,2015,12,Edu. & Health Services,22323.0
+2016-1,2016,1,Edu. & Health Services,22337.0
+2016-2,2016,2,Edu. & Health Services,22405.0
+2016-3,2016,3,Edu. & Health Services,22452.0
+2016-4,2016,4,Edu. & Health Services,22510.0
+2016-5,2016,5,Edu. & Health Services,22567.0
+2016-6,2016,6,Edu. & Health Services,22624.0
+2016-7,2016,7,Edu. & Health Services,22668.0
+2016-8,2016,8,Edu. & Health Services,22714.0
+2016-9,2016,9,Edu. & Health Services,22773.0
+2016-10,2016,10,Edu. & Health Services,22834.0
+2016-11,2016,11,Edu. & Health Services,22868.0
+2016-12,2016,12,Edu. & Health Services,22929.0
+2017-1,2017,1,Edu. & Health Services,22938.0
+2017-2,2017,2,Edu. & Health Services,23012.0
+2017-3,2017,3,Edu. & Health Services,23051.0
+2017-4,2017,4,Edu. & Health Services,23101.0
+2017-5,2017,5,Edu. & Health Services,23139.0
+2017-6,2017,6,Edu. & Health Services,23167.0
+2017-7,2017,7,Edu. & Health Services,23227.0
+2017-8,2017,8,Edu. & Health Services,23264.0
+2017-9,2017,9,Edu. & Health Services,23295.0
+2017-10,2017,10,Edu. & Health Services,23322.0
+2017-11,2017,11,Edu. & Health Services,23374.0
+2017-12,2017,12,Edu. & Health Services,23383.0
+2018-1,2018,1,Edu. & Health Services,23437.0
+2018-2,2018,2,Edu. & Health Services,23491.0
+2018-3,2018,3,Edu. & Health Services,23523.0
+2018-4,2018,4,Edu. & Health Services,23538.0
+2018-5,2018,5,Edu. & Health Services,23576.0
+2018-6,2018,6,Edu. & Health Services,23617.0
+2018-7,2018,7,Edu. & Health Services,23644.0
+2018-8,2018,8,Edu. & Health Services,23691.0
+2018-9,2018,9,Edu. & Health Services,23716.0
+2018-10,2018,10,Edu. & Health Services,23767.0
+2018-11,2018,11,Edu. & Health Services,23790.0
+2018-12,2018,12,Edu. & Health Services,23844.0
+2019-1,2019,1,Edu. & Health Services,23900.0
+2019-2,2019,2,Edu. & Health Services,23918.0
+2019-3,2019,3,Edu. & Health Services,23981.0
+2019-4,2019,4,Edu. & Health Services,24046.0
+2019-5,2019,5,Edu. & Health Services,24076.0
+2019-6,2019,6,Edu. & Health Services,24131.0
+2019-7,2019,7,Edu. & Health Services,24204.0
+2019-8,2019,8,Edu. & Health Services,24262.0
+2019-9,2019,9,Edu. & Health Services,24323.0
+2019-10,2019,10,Edu. & Health Services,24363.0
+2019-11,2019,11,Edu. & Health Services,24436.0
+2019-12,2019,12,Edu. & Health Services,24465.0
+2020-1,2020,1,Edu. & Health Services,24534.0
+2020-2,2020,2,Edu. & Health Services,24586.0
+2020-3,2020,3,Edu. & Health Services,24408.0
+2020-4,2020,4,Edu. & Health Services,21818.0
+2020-5,2020,5,Edu. & Health Services,22242.0
+2015-1,2015,1,Educational Services,3439.1
+2015-2,2015,2,Educational Services,3448.4
+2015-3,2015,3,Educational Services,3454.1
+2015-4,2015,4,Educational Services,3453.3
+2015-5,2015,5,Educational Services,3453.6
+2015-6,2015,6,Educational Services,3460.0
+2015-7,2015,7,Educational Services,3470.8
+2015-8,2015,8,Educational Services,3474.2
+2015-9,2015,9,Educational Services,3464.4
+2015-10,2015,10,Educational Services,3490.3
+2015-11,2015,11,Educational Services,3502.0
+2015-12,2015,12,Educational Services,3526.3
+2016-1,2016,1,Educational Services,3506.5
+2016-2,2016,2,Educational Services,3520.9
+2016-3,2016,3,Educational Services,3536.8
+2016-4,2016,4,Educational Services,3555.9
+2016-5,2016,5,Educational Services,3567.5
+2016-6,2016,6,Educational Services,3573.1
+2016-7,2016,7,Educational Services,3567.3
+2016-8,2016,8,Educational Services,3571.0
+2016-9,2016,9,Educational Services,3589.3
+2016-10,2016,10,Educational Services,3612.6
+2016-11,2016,11,Educational Services,3615.5
+2016-12,2016,12,Educational Services,3622.8
+2017-1,2017,1,Educational Services,3611.2
+2017-2,2017,2,Educational Services,3650.4
+2017-3,2017,3,Educational Services,3660.9
+2017-4,2017,4,Educational Services,3662.1
+2017-5,2017,5,Educational Services,3670.5
+2017-6,2017,6,Educational Services,3645.6
+2017-7,2017,7,Educational Services,3658.4
+2017-8,2017,8,Educational Services,3678.7
+2017-9,2017,9,Educational Services,3694.6
+2017-10,2017,10,Educational Services,3693.1
+2017-11,2017,11,Educational Services,3707.5
+2017-12,2017,12,Educational Services,3702.5
+2018-1,2018,1,Educational Services,3705.6
+2018-2,2018,2,Educational Services,3712.3
+2018-3,2018,3,Educational Services,3710.0
+2018-4,2018,4,Educational Services,3706.8
+2018-5,2018,5,Educational Services,3707.1
+2018-6,2018,6,Educational Services,3723.8
+2018-7,2018,7,Educational Services,3724.4
+2018-8,2018,8,Educational Services,3728.1
+2018-9,2018,9,Educational Services,3716.3
+2018-10,2018,10,Educational Services,3717.3
+2018-11,2018,11,Educational Services,3709.3
+2018-12,2018,12,Educational Services,3718.6
+2019-1,2019,1,Educational Services,3737.0
+2019-2,2019,2,Educational Services,3723.5
+2019-3,2019,3,Educational Services,3725.0
+2019-4,2019,4,Educational Services,3740.1
+2019-5,2019,5,Educational Services,3743.4
+2019-6,2019,6,Educational Services,3750.6
+2019-7,2019,7,Educational Services,3777.8
+2019-8,2019,8,Educational Services,3779.5
+2019-9,2019,9,Educational Services,3791.6
+2019-10,2019,10,Educational Services,3791.1
+2019-11,2019,11,Educational Services,3806.7
+2019-12,2019,12,Educational Services,3810.3
+2020-1,2020,1,Educational Services,3839.2
+2020-2,2020,2,Educational Services,3828.5
+2020-3,2020,3,Educational Services,3784.8
+2020-4,2020,4,Educational Services,3323.4
+2020-5,2020,5,Educational Services,3356.8
+2015-1,2015,1,Healthcare & Social Assistance,18301.4
+2015-2,2015,2,Healthcare & Social Assistance,18340.8
+2015-3,2015,3,Healthcare & Social Assistance,18377.5
+2015-4,2015,4,Healthcare & Social Assistance,18452.7
+2015-5,2015,5,Healthcare & Social Assistance,18504.0
+2015-6,2015,6,Healthcare & Social Assistance,18538.4
+2015-7,2015,7,Healthcare & Social Assistance,18582.0
+2015-8,2015,8,Healthcare & Social Assistance,18620.0
+2015-9,2015,9,Healthcare & Social Assistance,18666.9
+2015-10,2015,10,Healthcare & Social Assistance,18724.6
+2015-11,2015,11,Healthcare & Social Assistance,18758.3
+2015-12,2015,12,Healthcare & Social Assistance,18797.0
+2016-1,2016,1,Healthcare & Social Assistance,18830.2
+2016-2,2016,2,Healthcare & Social Assistance,18884.4
+2016-3,2016,3,Healthcare & Social Assistance,18915.4
+2016-4,2016,4,Healthcare & Social Assistance,18953.7
+2016-5,2016,5,Healthcare & Social Assistance,18999.3
+2016-6,2016,6,Healthcare & Social Assistance,19051.1
+2016-7,2016,7,Healthcare & Social Assistance,19100.7
+2016-8,2016,8,Healthcare & Social Assistance,19142.5
+2016-9,2016,9,Healthcare & Social Assistance,19184.1
+2016-10,2016,10,Healthcare & Social Assistance,19221.8
+2016-11,2016,11,Healthcare & Social Assistance,19252.4
+2016-12,2016,12,Healthcare & Social Assistance,19306.2
+2017-1,2017,1,Healthcare & Social Assistance,19327.1
+2017-2,2017,2,Healthcare & Social Assistance,19361.1
+2017-3,2017,3,Healthcare & Social Assistance,19389.7
+2017-4,2017,4,Healthcare & Social Assistance,19439.0
+2017-5,2017,5,Healthcare & Social Assistance,19468.2
+2017-6,2017,6,Healthcare & Social Assistance,19521.2
+2017-7,2017,7,Healthcare & Social Assistance,19568.8
+2017-8,2017,8,Healthcare & Social Assistance,19584.9
+2017-9,2017,9,Healthcare & Social Assistance,19600.2
+2017-10,2017,10,Healthcare & Social Assistance,19629.0
+2017-11,2017,11,Healthcare & Social Assistance,19666.1
+2017-12,2017,12,Healthcare & Social Assistance,19680.5
+2018-1,2018,1,Healthcare & Social Assistance,19730.9
+2018-2,2018,2,Healthcare & Social Assistance,19779.1
+2018-3,2018,3,Healthcare & Social Assistance,19813.4
+2018-4,2018,4,Healthcare & Social Assistance,19831.2
+2018-5,2018,5,Healthcare & Social Assistance,19869.3
+2018-6,2018,6,Healthcare & Social Assistance,19893.4
+2018-7,2018,7,Healthcare & Social Assistance,19920.0
+2018-8,2018,8,Healthcare & Social Assistance,19962.7
+2018-9,2018,9,Healthcare & Social Assistance,20000.1
+2018-10,2018,10,Healthcare & Social Assistance,20049.2
+2018-11,2018,11,Healthcare & Social Assistance,20080.8
+2018-12,2018,12,Healthcare & Social Assistance,20125.1
+2019-1,2019,1,Healthcare & Social Assistance,20162.7
+2019-2,2019,2,Healthcare & Social Assistance,20194.6
+2019-3,2019,3,Healthcare & Social Assistance,20256.1
+2019-4,2019,4,Healthcare & Social Assistance,20306.0
+2019-5,2019,5,Healthcare & Social Assistance,20332.1
+2019-6,2019,6,Healthcare & Social Assistance,20380.0
+2019-7,2019,7,Healthcare & Social Assistance,20425.9
+2019-8,2019,8,Healthcare & Social Assistance,20482.4
+2019-9,2019,9,Healthcare & Social Assistance,20531.1
+2019-10,2019,10,Healthcare & Social Assistance,20572.2
+2019-11,2019,11,Healthcare & Social Assistance,20628.9
+2019-12,2019,12,Healthcare & Social Assistance,20654.2
+2020-1,2020,1,Healthcare & Social Assistance,20695.2
+2020-2,2020,2,Healthcare & Social Assistance,20757.7
+2020-3,2020,3,Healthcare & Social Assistance,20623.2
+2020-4,2020,4,Healthcare & Social Assistance,18494.7
+2020-5,2020,5,Healthcare & Social Assistance,18885.4
+2015-1,2015,1,Leisure & Hospitality,14915.0
+2015-2,2015,2,Leisure & Hospitality,14972.0
+2015-3,2015,3,Leisure & Hospitality,14981.0
+2015-4,2015,4,Leisure & Hospitality,15023.0
+2015-5,2015,5,Leisure & Hospitality,15103.0
+2015-6,2015,6,Leisure & Hospitality,15108.0
+2015-7,2015,7,Leisure & Hospitality,15168.0
+2015-8,2015,8,Leisure & Hospitality,15201.0
+2015-9,2015,9,Leisure & Hospitality,15279.0
+2015-10,2015,10,Leisure & Hospitality,15316.0
+2015-11,2015,11,Leisure & Hospitality,15374.0
+2015-12,2015,12,Leisure & Hospitality,15406.0
+2016-1,2016,1,Leisure & Hospitality,15441.0
+2016-2,2016,2,Leisure & Hospitality,15497.0
+2016-3,2016,3,Leisure & Hospitality,15538.0
+2016-4,2016,4,Leisure & Hospitality,15561.0
+2016-5,2016,5,Leisure & Hospitality,15582.0
+2016-6,2016,6,Leisure & Hospitality,15637.0
+2016-7,2016,7,Leisure & Hospitality,15684.0
+2016-8,2016,8,Leisure & Hospitality,15724.0
+2016-9,2016,9,Leisure & Hospitality,15761.0
+2016-10,2016,10,Leisure & Hospitality,15779.0
+2016-11,2016,11,Leisure & Hospitality,15829.0
+2016-12,2016,12,Leisure & Hospitality,15846.0
+2017-1,2017,1,Leisure & Hospitality,15878.0
+2017-2,2017,2,Leisure & Hospitality,15910.0
+2017-3,2017,3,Leisure & Hospitality,15922.0
+2017-4,2017,4,Leisure & Hospitality,15986.0
+2017-5,2017,5,Leisure & Hospitality,16021.0
+2017-6,2017,6,Leisure & Hospitality,16063.0
+2017-7,2017,7,Leisure & Hospitality,16134.0
+2017-8,2017,8,Leisure & Hospitality,16138.0
+2017-9,2017,9,Leisure & Hospitality,16065.0
+2017-10,2017,10,Leisure & Hospitality,16156.0
+2017-11,2017,11,Leisure & Hospitality,16170.0
+2017-12,2017,12,Leisure & Hospitality,16190.0
+2018-1,2018,1,Leisure & Hospitality,16193.0
+2018-2,2018,2,Leisure & Hospitality,16218.0
+2018-3,2018,3,Leisure & Hospitality,16220.0
+2018-4,2018,4,Leisure & Hospitality,16217.0
+2018-5,2018,5,Leisure & Hospitality,16263.0
+2018-6,2018,6,Leisure & Hospitality,16310.0
+2018-7,2018,7,Leisure & Hospitality,16349.0
+2018-8,2018,8,Leisure & Hospitality,16350.0
+2018-9,2018,9,Leisure & Hospitality,16326.0
+2018-10,2018,10,Leisure & Hospitality,16358.0
+2018-11,2018,11,Leisure & Hospitality,16368.0
+2018-12,2018,12,Leisure & Hospitality,16415.0
+2019-1,2019,1,Leisure & Hospitality,16496.0
+2019-2,2019,2,Leisure & Hospitality,16473.0
+2019-3,2019,3,Leisure & Hospitality,16494.0
+2019-4,2019,4,Leisure & Hospitality,16507.0
+2019-5,2019,5,Leisure & Hospitality,16519.0
+2019-6,2019,6,Leisure & Hospitality,16526.0
+2019-7,2019,7,Leisure & Hospitality,16528.0
+2019-8,2019,8,Leisure & Hospitality,16570.0
+2019-9,2019,9,Leisure & Hospitality,16631.0
+2019-10,2019,10,Leisure & Hospitality,16701.0
+2019-11,2019,11,Leisure & Hospitality,16744.0
+2019-12,2019,12,Leisure & Hospitality,16784.0
+2020-1,2020,1,Leisure & Hospitality,16808.0
+2020-2,2020,2,Leisure & Hospitality,16867.0
+2020-3,2020,3,Leisure & Hospitality,16124.0
+2020-4,2020,4,Leisure & Hospitality,8585.0
+2020-5,2020,5,Leisure & Hospitality,9824.0
+2015-1,2015,1,Arts Ent. & Recreation,2124.7
+2015-2,2015,2,Arts Ent. & Recreation,2129.2
+2015-3,2015,3,Arts Ent. & Recreation,2132.4
+2015-4,2015,4,Arts Ent. & Recreation,2142.1
+2015-5,2015,5,Arts Ent. & Recreation,2178.3
+2015-6,2015,6,Arts Ent. & Recreation,2160.8
+2015-7,2015,7,Arts Ent. & Recreation,2164.5
+2015-8,2015,8,Arts Ent. & Recreation,2168.9
+2015-9,2015,9,Arts Ent. & Recreation,2192.7
+2015-10,2015,10,Arts Ent. & Recreation,2182.6
+2015-11,2015,11,Arts Ent. & Recreation,2198.6
+2015-12,2015,12,Arts Ent. & Recreation,2194.9
+2016-1,2016,1,Arts Ent. & Recreation,2192.3
+2016-2,2016,2,Arts Ent. & Recreation,2206.7
+2016-3,2016,3,Arts Ent. & Recreation,2225.2
+2016-4,2016,4,Arts Ent. & Recreation,2234.1
+2016-5,2016,5,Arts Ent. & Recreation,2228.0
+2016-6,2016,6,Arts Ent. & Recreation,2253.2
+2016-7,2016,7,Arts Ent. & Recreation,2272.3
+2016-8,2016,8,Arts Ent. & Recreation,2274.5
+2016-9,2016,9,Arts Ent. & Recreation,2267.7
+2016-10,2016,10,Arts Ent. & Recreation,2272.2
+2016-11,2016,11,Arts Ent. & Recreation,2294.5
+2016-12,2016,12,Arts Ent. & Recreation,2284.9
+2017-1,2017,1,Arts Ent. & Recreation,2290.3
+2017-2,2017,2,Arts Ent. & Recreation,2296.9
+2017-3,2017,3,Arts Ent. & Recreation,2279.6
+2017-4,2017,4,Arts Ent. & Recreation,2318.6
+2017-5,2017,5,Arts Ent. & Recreation,2324.1
+2017-6,2017,6,Arts Ent. & Recreation,2346.7
+2017-7,2017,7,Arts Ent. & Recreation,2352.6
+2017-8,2017,8,Arts Ent. & Recreation,2357.9
+2017-9,2017,9,Arts Ent. & Recreation,2336.7
+2017-10,2017,10,Arts Ent. & Recreation,2360.7
+2017-11,2017,11,Arts Ent. & Recreation,2357.5
+2017-12,2017,12,Arts Ent. & Recreation,2366.9
+2018-1,2018,1,Arts Ent. & Recreation,2360.9
+2018-2,2018,2,Arts Ent. & Recreation,2361.2
+2018-3,2018,3,Arts Ent. & Recreation,2357.2
+2018-4,2018,4,Arts Ent. & Recreation,2357.7
+2018-5,2018,5,Arts Ent. & Recreation,2371.7
+2018-6,2018,6,Arts Ent. & Recreation,2386.5
+2018-7,2018,7,Arts Ent. & Recreation,2387.9
+2018-8,2018,8,Arts Ent. & Recreation,2390.4
+2018-9,2018,9,Arts Ent. & Recreation,2389.7
+2018-10,2018,10,Arts Ent. & Recreation,2413.4
+2018-11,2018,11,Arts Ent. & Recreation,2406.0
+2018-12,2018,12,Arts Ent. & Recreation,2410.4
+2019-1,2019,1,Arts Ent. & Recreation,2430.1
+2019-2,2019,2,Arts Ent. & Recreation,2424.5
+2019-3,2019,3,Arts Ent. & Recreation,2427.3
+2019-4,2019,4,Arts Ent. & Recreation,2421.3
+2019-5,2019,5,Arts Ent. & Recreation,2418.7
+2019-6,2019,6,Arts Ent. & Recreation,2415.4
+2019-7,2019,7,Arts Ent. & Recreation,2418.3
+2019-8,2019,8,Arts Ent. & Recreation,2421.0
+2019-9,2019,9,Arts Ent. & Recreation,2440.7
+2019-10,2019,10,Arts Ent. & Recreation,2451.3
+2019-11,2019,11,Arts Ent. & Recreation,2469.3
+2019-12,2019,12,Arts Ent. & Recreation,2481.5
+2020-1,2020,1,Arts Ent. & Recreation,2480.7
+2020-2,2020,2,Arts Ent. & Recreation,2472.4
+2020-3,2020,3,Arts Ent. & Recreation,2420.3
+2020-4,2020,4,Arts Ent. & Recreation,1154.7
+2020-5,2020,5,Arts Ent. & Recreation,1172.2
+2015-1,2015,1,Accomm. & Food Services,12790.7
+2015-2,2015,2,Accomm. & Food Services,12843.2
+2015-3,2015,3,Accomm. & Food Services,12848.4
+2015-4,2015,4,Accomm. & Food Services,12880.4
+2015-5,2015,5,Accomm. & Food Services,12924.4
+2015-6,2015,6,Accomm. & Food Services,12947.6
+2015-7,2015,7,Accomm. & Food Services,13003.6
+2015-8,2015,8,Accomm. & Food Services,13031.9
+2015-9,2015,9,Accomm. & Food Services,13086.0
+2015-10,2015,10,Accomm. & Food Services,13133.2
+2015-11,2015,11,Accomm. & Food Services,13174.9
+2015-12,2015,12,Accomm. & Food Services,13210.7
+2016-1,2016,1,Accomm. & Food Services,13248.2
+2016-2,2016,2,Accomm. & Food Services,13290.2
+2016-3,2016,3,Accomm. & Food Services,13312.6
+2016-4,2016,4,Accomm. & Food Services,13327.1
+2016-5,2016,5,Accomm. & Food Services,13354.4
+2016-6,2016,6,Accomm. & Food Services,13383.4
+2016-7,2016,7,Accomm. & Food Services,13411.4
+2016-8,2016,8,Accomm. & Food Services,13449.4
+2016-9,2016,9,Accomm. & Food Services,13493.3
+2016-10,2016,10,Accomm. & Food Services,13506.7
+2016-11,2016,11,Accomm. & Food Services,13534.5
+2016-12,2016,12,Accomm. & Food Services,13561.0
+2017-1,2017,1,Accomm. & Food Services,13588.0
+2017-2,2017,2,Accomm. & Food Services,13612.9
+2017-3,2017,3,Accomm. & Food Services,13642.4
+2017-4,2017,4,Accomm. & Food Services,13667.3
+2017-5,2017,5,Accomm. & Food Services,13696.9
+2017-6,2017,6,Accomm. & Food Services,13715.8
+2017-7,2017,7,Accomm. & Food Services,13781.3
+2017-8,2017,8,Accomm. & Food Services,13780.1
+2017-9,2017,9,Accomm. & Food Services,13728.5
+2017-10,2017,10,Accomm. & Food Services,13795.2
+2017-11,2017,11,Accomm. & Food Services,13812.9
+2017-12,2017,12,Accomm. & Food Services,13822.6
+2018-1,2018,1,Accomm. & Food Services,13832.4
+2018-2,2018,2,Accomm. & Food Services,13856.6
+2018-3,2018,3,Accomm. & Food Services,13862.6
+2018-4,2018,4,Accomm. & Food Services,13859.4
+2018-5,2018,5,Accomm. & Food Services,13891.2
+2018-6,2018,6,Accomm. & Food Services,13923.0
+2018-7,2018,7,Accomm. & Food Services,13960.7
+2018-8,2018,8,Accomm. & Food Services,13959.7
+2018-9,2018,9,Accomm. & Food Services,13936.6
+2018-10,2018,10,Accomm. & Food Services,13944.6
+2018-11,2018,11,Accomm. & Food Services,13961.9
+2018-12,2018,12,Accomm. & Food Services,14004.9
+2019-1,2019,1,Accomm. & Food Services,14065.9
+2019-2,2019,2,Accomm. & Food Services,14048.7
+2019-3,2019,3,Accomm. & Food Services,14066.7
+2019-4,2019,4,Accomm. & Food Services,14085.6
+2019-5,2019,5,Accomm. & Food Services,14100.3
+2019-6,2019,6,Accomm. & Food Services,14110.8
+2019-7,2019,7,Accomm. & Food Services,14109.8
+2019-8,2019,8,Accomm. & Food Services,14148.5
+2019-9,2019,9,Accomm. & Food Services,14189.8
+2019-10,2019,10,Accomm. & Food Services,14249.9
+2019-11,2019,11,Accomm. & Food Services,14274.6
+2019-12,2019,12,Accomm. & Food Services,14302.9
+2020-1,2020,1,Accomm. & Food Services,14327.7
+2020-2,2020,2,Accomm. & Food Services,14394.1
+2020-3,2020,3,Accomm. & Food Services,13703.9
+2020-4,2020,4,Accomm. & Food Services,7429.8
+2020-5,2020,5,Accomm. & Food Services,8652.2
+2015-1,2015,1,Other Services,5600.0
+2015-2,2015,2,Other Services,5605.0
+2015-3,2015,3,Other Services,5607.0
+2015-4,2015,4,Other Services,5614.0
+2015-5,2015,5,Other Services,5623.0
+2015-6,2015,6,Other Services,5617.0
+2015-7,2015,7,Other Services,5629.0
+2015-8,2015,8,Other Services,5620.0
+2015-9,2015,9,Other Services,5621.0
+2015-10,2015,10,Other Services,5630.0
+2015-11,2015,11,Other Services,5638.0
+2015-12,2015,12,Other Services,5653.0
+2016-1,2016,1,Other Services,5649.0
+2016-2,2016,2,Other Services,5666.0
+2016-3,2016,3,Other Services,5674.0
+2016-4,2016,4,Other Services,5678.0
+2016-5,2016,5,Other Services,5670.0
+2016-6,2016,6,Other Services,5681.0
+2016-7,2016,7,Other Services,5687.0
+2016-8,2016,8,Other Services,5702.0
+2016-9,2016,9,Other Services,5713.0
+2016-10,2016,10,Other Services,5718.0
+2016-11,2016,11,Other Services,5729.0
+2016-12,2016,12,Other Services,5715.0
+2017-1,2017,1,Other Services,5731.0
+2017-2,2017,2,Other Services,5742.0
+2017-3,2017,3,Other Services,5745.0
+2017-4,2017,4,Other Services,5748.0
+2017-5,2017,5,Other Services,5759.0
+2017-6,2017,6,Other Services,5767.0
+2017-7,2017,7,Other Services,5774.0
+2017-8,2017,8,Other Services,5780.0
+2017-9,2017,9,Other Services,5773.0
+2017-10,2017,10,Other Services,5795.0
+2017-11,2017,11,Other Services,5806.0
+2017-12,2017,12,Other Services,5806.0
+2018-1,2018,1,Other Services,5811.0
+2018-2,2018,2,Other Services,5815.0
+2018-3,2018,3,Other Services,5812.0
+2018-4,2018,4,Other Services,5819.0
+2018-5,2018,5,Other Services,5831.0
+2018-6,2018,6,Other Services,5844.0
+2018-7,2018,7,Other Services,5829.0
+2018-8,2018,8,Other Services,5832.0
+2018-9,2018,9,Other Services,5837.0
+2018-10,2018,10,Other Services,5845.0
+2018-11,2018,11,Other Services,5842.0
+2018-12,2018,12,Other Services,5850.0
+2019-1,2019,1,Other Services,5853.0
+2019-2,2019,2,Other Services,5854.0
+2019-3,2019,3,Other Services,5869.0
+2019-4,2019,4,Other Services,5884.0
+2019-5,2019,5,Other Services,5881.0
+2019-6,2019,6,Other Services,5896.0
+2019-7,2019,7,Other Services,5905.0
+2019-8,2019,8,Other Services,5910.0
+2019-9,2019,9,Other Services,5907.0
+2019-10,2019,10,Other Services,5907.0
+2019-11,2019,11,Other Services,5923.0
+2019-12,2019,12,Other Services,5925.0
+2020-1,2020,1,Other Services,5935.0
+2020-2,2020,2,Other Services,5941.0
+2020-3,2020,3,Other Services,5850.0
+2020-4,2020,4,Other Services,4578.0
+2020-5,2020,5,Other Services,4850.0
+2015-1,2015,1,Government,21960.0
+2015-2,2015,2,Government,21978.0
+2015-3,2015,3,Government,21970.0
+2015-4,2015,4,Government,22005.0
+2015-5,2015,5,Government,22012.0
+2015-6,2015,6,Government,22015.0
+2015-7,2015,7,Government,22050.0
+2015-8,2015,8,Government,22060.0
+2015-9,2015,9,Government,22040.0
+2015-10,2015,10,Government,22056.0
+2015-11,2015,11,Government,22081.0
+2015-12,2015,12,Government,22097.0
+2016-1,2016,1,Government,22118.0
+2016-2,2016,2,Government,22144.0
+2016-3,2016,3,Government,22180.0
+2016-4,2016,4,Government,22186.0
+2016-5,2016,5,Government,22197.0
+2016-6,2016,6,Government,22184.0
+2016-7,2016,7,Government,22285.0
+2016-8,2016,8,Government,22268.0
+2016-9,2016,9,Government,22303.0
+2016-10,2016,10,Government,22292.0
+2016-11,2016,11,Government,22290.0
+2016-12,2016,12,Government,22308.0
+2017-1,2017,1,Government,22302.0
+2017-2,2017,2,Government,22319.0
+2017-3,2017,3,Government,22325.0
+2017-4,2017,4,Government,22330.0
+2017-5,2017,5,Government,22332.0
+2017-6,2017,6,Government,22346.0
+2017-7,2017,7,Government,22359.0
+2017-8,2017,8,Government,22357.0
+2017-9,2017,9,Government,22366.0
+2017-10,2017,10,Government,22369.0
+2017-11,2017,11,Government,22393.0
+2017-12,2017,12,Government,22381.0
+2018-1,2018,1,Government,22355.0
+2018-2,2018,2,Government,22406.0
+2018-3,2018,3,Government,22404.0
+2018-4,2018,4,Government,22414.0
+2018-5,2018,5,Government,22431.0
+2018-6,2018,6,Government,22459.0
+2018-7,2018,7,Government,22462.0
+2018-8,2018,8,Government,22490.0
+2018-9,2018,9,Government,22489.0
+2018-10,2018,10,Government,22485.0
+2018-11,2018,11,Government,22486.0
+2018-12,2018,12,Government,22495.0
+2019-1,2019,1,Government,22506.0
+2019-2,2019,2,Government,22513.0
+2019-3,2019,3,Government,22528.0
+2019-4,2019,4,Government,22553.0
+2019-5,2019,5,Government,22551.0
+2019-6,2019,6,Government,22553.0
+2019-7,2019,7,Government,22587.0
+2019-8,2019,8,Government,22637.0
+2019-9,2019,9,Government,22650.0
+2019-10,2019,10,Government,22645.0
+2019-11,2019,11,Government,22659.0
+2019-12,2019,12,Government,22679.0
+2020-1,2020,1,Government,22714.0
+2020-2,2020,2,Government,22745.0
+2020-3,2020,3,Government,22728.0
+2020-4,2020,4,Government,21765.0
+2020-5,2020,5,Government,21180.0
+2015-1,2015,1,Federal,2745.0
+2015-2,2015,2,Federal,2747.0
+2015-3,2015,3,Federal,2748.0
+2015-4,2015,4,Federal,2763.0
+2015-5,2015,5,Federal,2753.0
+2015-6,2015,6,Federal,2754.0
+2015-7,2015,7,Federal,2756.0
+2015-8,2015,8,Federal,2760.0
+2015-9,2015,9,Federal,2759.0
+2015-10,2015,10,Federal,2759.0
+2015-11,2015,11,Federal,2766.0
+2015-12,2015,12,Federal,2776.0
+2016-1,2016,1,Federal,2772.0
+2016-2,2016,2,Federal,2778.0
+2016-3,2016,3,Federal,2783.0
+2016-4,2016,4,Federal,2785.0
+2016-5,2016,5,Federal,2792.0
+2016-6,2016,6,Federal,2797.0
+2016-7,2016,7,Federal,2799.0
+2016-8,2016,8,Federal,2803.0
+2016-9,2016,9,Federal,2807.0
+2016-10,2016,10,Federal,2804.0
+2016-11,2016,11,Federal,2799.0
+2016-12,2016,12,Federal,2817.0
+2017-1,2017,1,Federal,2815.0
+2017-2,2017,2,Federal,2813.0
+2017-3,2017,3,Federal,2811.0
+2017-4,2017,4,Federal,2800.0
+2017-5,2017,5,Federal,2808.0
+2017-6,2017,6,Federal,2806.0
+2017-7,2017,7,Federal,2805.0
+2017-8,2017,8,Federal,2802.0
+2017-9,2017,9,Federal,2802.0
+2017-10,2017,10,Federal,2803.0
+2017-11,2017,11,Federal,2792.0
+2017-12,2017,12,Federal,2794.0
+2018-1,2018,1,Federal,2801.0
+2018-2,2018,2,Federal,2793.0
+2018-3,2018,3,Federal,2793.0
+2018-4,2018,4,Federal,2795.0
+2018-5,2018,5,Federal,2792.0
+2018-6,2018,6,Federal,2796.0
+2018-7,2018,7,Federal,2798.0
+2018-8,2018,8,Federal,2801.0
+2018-9,2018,9,Federal,2804.0
+2018-10,2018,10,Federal,2805.0
+2018-11,2018,11,Federal,2811.0
+2018-12,2018,12,Federal,2809.0
+2019-1,2019,1,Federal,2811.0
+2019-2,2019,2,Federal,2814.0
+2019-3,2019,3,Federal,2815.0
+2019-4,2019,4,Federal,2823.0
+2019-5,2019,5,Federal,2826.0
+2019-6,2019,6,Federal,2829.0
+2019-7,2019,7,Federal,2831.0
+2019-8,2019,8,Federal,2857.0
+2019-9,2019,9,Federal,2857.0
+2019-10,2019,10,Federal,2844.0
+2019-11,2019,11,Federal,2850.0
+2019-12,2019,12,Federal,2847.0
+2020-1,2020,1,Federal,2855.0
+2020-2,2020,2,Federal,2867.0
+2020-3,2020,3,Federal,2886.0
+2020-4,2020,4,Federal,2887.0
+2020-5,2020,5,Federal,2873.0
+2015-1,2015,1,State Government,5065.0
+2015-2,2015,2,State Government,5071.0
+2015-3,2015,3,State Government,5067.0
+2015-4,2015,4,State Government,5070.0
+2015-5,2015,5,State Government,5074.0
+2015-6,2015,6,State Government,5073.0
+2015-7,2015,7,State Government,5073.0
+2015-8,2015,8,State Government,5077.0
+2015-9,2015,9,State Government,5083.0
+2015-10,2015,10,State Government,5084.0
+2015-11,2015,11,State Government,5090.0
+2015-12,2015,12,State Government,5088.0
+2016-1,2016,1,State Government,5089.0
+2016-2,2016,2,State Government,5086.0
+2016-3,2016,3,State Government,5093.0
+2016-4,2016,4,State Government,5098.0
+2016-5,2016,5,State Government,5093.0
+2016-6,2016,6,State Government,5107.0
+2016-7,2016,7,State Government,5116.0
+2016-8,2016,8,State Government,5113.0
+2016-9,2016,9,State Government,5147.0
+2016-10,2016,10,State Government,5134.0
+2016-11,2016,11,State Government,5139.0
+2016-12,2016,12,State Government,5141.0
+2017-1,2017,1,State Government,5151.0
+2017-2,2017,2,State Government,5160.0
+2017-3,2017,3,State Government,5163.0
+2017-4,2017,4,State Government,5166.0
+2017-5,2017,5,State Government,5174.0
+2017-6,2017,6,State Government,5170.0
+2017-7,2017,7,State Government,5173.0
+2017-8,2017,8,State Government,5167.0
+2017-9,2017,9,State Government,5160.0
+2017-10,2017,10,State Government,5155.0
+2017-11,2017,11,State Government,5171.0
+2017-12,2017,12,State Government,5159.0
+2018-1,2018,1,State Government,5147.0
+2018-2,2018,2,State Government,5151.0
+2018-3,2018,3,State Government,5154.0
+2018-4,2018,4,State Government,5167.0
+2018-5,2018,5,State Government,5174.0
+2018-6,2018,6,State Government,5180.0
+2018-7,2018,7,State Government,5178.0
+2018-8,2018,8,State Government,5183.0
+2018-9,2018,9,State Government,5193.0
+2018-10,2018,10,State Government,5184.0
+2018-11,2018,11,State Government,5173.0
+2018-12,2018,12,State Government,5173.0
+2019-1,2019,1,State Government,5170.0
+2019-2,2019,2,State Government,5175.0
+2019-3,2019,3,State Government,5175.0
+2019-4,2019,4,State Government,5169.0
+2019-5,2019,5,State Government,5158.0
+2019-6,2019,6,State Government,5157.0
+2019-7,2019,7,State Government,5168.0
+2019-8,2019,8,State Government,5184.0
+2019-9,2019,9,State Government,5181.0
+2019-10,2019,10,State Government,5184.0
+2019-11,2019,11,State Government,5181.0
+2019-12,2019,12,State Government,5184.0
+2020-1,2020,1,State Government,5190.0
+2020-2,2020,2,State Government,5199.0
+2020-3,2020,3,State Government,5162.0
+2020-4,2020,4,State Government,4995.0
+2020-5,2020,5,State Government,4911.0
+2015-1,2015,1,Local Government,14150.0
+2015-2,2015,2,Local Government,14160.0
+2015-3,2015,3,Local Government,14155.0
+2015-4,2015,4,Local Government,14172.0
+2015-5,2015,5,Local Government,14185.0
+2015-6,2015,6,Local Government,14188.0
+2015-7,2015,7,Local Government,14221.0
+2015-8,2015,8,Local Government,14223.0
+2015-9,2015,9,Local Government,14198.0
+2015-10,2015,10,Local Government,14213.0
+2015-11,2015,11,Local Government,14225.0
+2015-12,2015,12,Local Government,14233.0
+2016-1,2016,1,Local Government,14257.0
+2016-2,2016,2,Local Government,14280.0
+2016-3,2016,3,Local Government,14304.0
+2016-4,2016,4,Local Government,14303.0
+2016-5,2016,5,Local Government,14312.0
+2016-6,2016,6,Local Government,14280.0
+2016-7,2016,7,Local Government,14370.0
+2016-8,2016,8,Local Government,14352.0
+2016-9,2016,9,Local Government,14349.0
+2016-10,2016,10,Local Government,14354.0
+2016-11,2016,11,Local Government,14352.0
+2016-12,2016,12,Local Government,14350.0
+2017-1,2017,1,Local Government,14336.0
+2017-2,2017,2,Local Government,14346.0
+2017-3,2017,3,Local Government,14351.0
+2017-4,2017,4,Local Government,14364.0
+2017-5,2017,5,Local Government,14350.0
+2017-6,2017,6,Local Government,14370.0
+2017-7,2017,7,Local Government,14381.0
+2017-8,2017,8,Local Government,14388.0
+2017-9,2017,9,Local Government,14404.0
+2017-10,2017,10,Local Government,14411.0
+2017-11,2017,11,Local Government,14430.0
+2017-12,2017,12,Local Government,14428.0
+2018-1,2018,1,Local Government,14407.0
+2018-2,2018,2,Local Government,14462.0
+2018-3,2018,3,Local Government,14457.0
+2018-4,2018,4,Local Government,14452.0
+2018-5,2018,5,Local Government,14465.0
+2018-6,2018,6,Local Government,14483.0
+2018-7,2018,7,Local Government,14486.0
+2018-8,2018,8,Local Government,14506.0
+2018-9,2018,9,Local Government,14492.0
+2018-10,2018,10,Local Government,14496.0
+2018-11,2018,11,Local Government,14502.0
+2018-12,2018,12,Local Government,14513.0
+2019-1,2019,1,Local Government,14525.0
+2019-2,2019,2,Local Government,14524.0
+2019-3,2019,3,Local Government,14538.0
+2019-4,2019,4,Local Government,14561.0
+2019-5,2019,5,Local Government,14567.0
+2019-6,2019,6,Local Government,14567.0
+2019-7,2019,7,Local Government,14588.0
+2019-8,2019,8,Local Government,14596.0
+2019-9,2019,9,Local Government,14612.0
+2019-10,2019,10,Local Government,14617.0
+2019-11,2019,11,Local Government,14628.0
+2019-12,2019,12,Local Government,14648.0
+2020-1,2020,1,Local Government,14669.0
+2020-2,2020,2,Local Government,14679.0
+2020-3,2020,3,Local Government,14680.0
+2020-4,2020,4,Local Government,13883.0
+2020-5,2020,5,Local Government,13396.0
