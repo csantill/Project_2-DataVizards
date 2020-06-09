@@ -79,6 +79,23 @@ function creategeoJSONLayer(data){
 }
 
 
+function calculateYearlyClaim(feature){
+    let selectedYear = d3.select("#selYear").node().value;
+    let selectedState = feature.properties.name;
+    function filterstateyear(row)
+    {
+        return (row.state == selectedState) && (row.year ==selectedYear)
+    }            
+    let filterdata = claimsdata.filter(filterstateyear);
+    const reducer = (accumulator, item) => {
+        return accumulator + item.initial_claim;
+    };
+    const totalclaims = filterdata.reduce(reducer,0)
+    return totalclaims     
+}
+
+
+
 function choroplethJSONLayer(data){
     function onEachFeature(feature, layer) {
         layerReference.push(layer)
@@ -90,21 +107,10 @@ function choroplethJSONLayer(data){
 
     // Create a GeoJSON layer containing the features array on the earthquakeData object
     // Run the onEachFeature function once for each piece of data in the array
+
     const stategeojson = L.choropleth(data, {
-        valueProperty: function (feature) {
-            selectedYear = d3.select("#selYear").node().value;
-            selectedState = feature.properties.name;
-            function filterstateyear(row)
-            {
-                return (row.state == selectedState) && (row.year ==selectedYear)
-            }
-            let filterdata = claimsdata.filter(filterstateyear);
-            const reducer = (accumulator, item) => {
-                return accumulator + item.initial_claim;
-              };
-            const totalclaims = filterdata.reduce(reducer,0)
-            return totalclaims
-          },  scale: ['white', 'red'],
+        valueProperty: 'TotalClaims',  
+          scale: ['white', 'red'],
           steps: 5,
           mode: 'q',
           style: {
@@ -118,7 +124,7 @@ function choroplethJSONLayer(data){
 }
 
 function createFeatures(data) {
-    // stategeojson=creategeoJSONLayer(data)
+//    stategeojson=creategeoJSONLayer(data)
     stategeojson=choroplethJSONLayer(data)
     // Sending our earthquakes layer to the createMap function
     createMap(stategeojson);
@@ -201,6 +207,12 @@ function loadYears() {
     loadDropDown('#selYear', columns, columns[columns.length - 1])
 }
 
+function updateGEOJSON(){
+    statesData.features.forEach(element =>{
+        element.properties['TotalClaims'] = calculateYearlyClaim(element)
+    } )
+}
+
 function UpdateDisplay() {
     // reload the map tool tip data
     reloadlayers();
@@ -213,6 +225,8 @@ function reloadlayers() {
     let map = mapsPlaceholder.pop();
     layerReference.forEach(element => {
         const newpopup = buildFeaturePopup(element.feature)
+        element.feature.properties
+        console.log(total)
         element._popup.setContent(newpopup)
     });
 }
@@ -238,10 +252,11 @@ async function init() {
     censusdata = await d3.json(url);
     const url2 = "/unemployment_claims/"
     claimsdata = await d3.json(url2);
-    // load_census_data();
+    
     loadStates(statesData.features);
     loadYears();
-    createFeatures(statesData.features);
+    updateGEOJSON();
+    createFeatures(statesData);
     createChart()
 }
 

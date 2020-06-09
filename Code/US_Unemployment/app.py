@@ -59,20 +59,17 @@ def census_data():
 
 @app.route("/unemployment_claims/")
 def unemploymentClaimsdata():
-    results = db.session.query(claims.state, claims.year_month, claims.year, claims.initial_claim).order_by(claims.state,claims.year_month).all()
+    results = db.session.query(claims.state, claims.year_month, claims.year, claims.initial_claim,claims.average_insured_unemployment_rate).order_by(claims.state,claims.year_month).all()
     claims_data = []
     for result in results:
         claims_data.append({
             'state':result[0],
             'year_month': result[1],
             'year':result[2],
-            'initial_claim':result[3]
+            'initial_claim':result[3],
+            'unemployment_rate':result[4]
         })
-   
-    # print(jsonify(census_data))
     return jsonify(claims_data)
-
-
 
 # @app.route("/api/states")
 # def states_json():
@@ -83,3 +80,4 @@ if __name__ == "__main__":
     app.jinja_env.auto_reload = True
     app.config['TEMPLATES_AUTO_RELOAD'] = True    
     app.run()
+
