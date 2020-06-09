@@ -14,7 +14,7 @@ Our team will create a dashboard to visualize US unemployment trends to understa
 * State level unemployment data (2015 - Present)
   - https://oui.doleta.gov/unemploy/claims.asp (weekly | # of claims)
 * Industry level employment data
-   - https://download.bls.gov/pub/time.series/ce/ (monthly | # of people unemployed)
+   - https://download.bls.gov/pub/time.series/ce/ (monthly | # of people employed)
 * Demographic level unemployment data
    - https://download.bls.gov/pub/time.series/ln/ (monthly | # of people unemployed)
 
