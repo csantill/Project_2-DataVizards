@@ -7,9 +7,10 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.2.0/css/bootstrap-slider.min.css" />
     <link rel="stylesheet" href="../static/css/style.css">
+    <script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
 </head>
 
-<body>
+<body onload="initViz();">
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #4aaaa5">
         <a class="navbar-brand" href="index.html"><i class="fa fa-fw fa-home"></i>US Unemployment</a>
@@ -31,12 +32,26 @@
         <div class="container">
             <div class="grid-box"> ​
                 <div class="row">
-                    <h4> Unemployment Compensation Claims</h4>
+                    <h4> Employment Levels by Industry</h4>
                     <hr class="my-4" style="width: 100%; height: 1px;">
                 </div>
                 <div class="row">
-                    <h6 class="text-center">Industry</h6>
-                    <img src="assets/images/industry.png" class="viz-img img-fluid rounded" alt="Statistics by Industry">
+                    <div id="vizContainer" style="width:1200px; height:800px;"></div>
+
+                    <script>
+                        function initViz() {
+                            var containerDiv = document.getElementById("vizContainer"),
+                                url = "https://public.tableau.com/views/Top10Industries-LevelofEmployment/FINAL?:display_count=y&publish=yes&:origin=viz_share_link"
+                            options = {
+                                hideTabs: true,
+                                onFirstInteractive: function() {
+                                    console.log("Run this code when the viz has finished loading.");
+                                }
+                            };
+                            // Create a viz object and embed it in the container div.
+                            var viz = new tableau.Viz(containerDiv, url, options);
+                        }
+                    </script>
                 </div>
             </div>
         </div>
