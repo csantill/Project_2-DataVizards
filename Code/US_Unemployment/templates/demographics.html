@@ -5,20 +5,19 @@
     <meta charset="UTF-8">
     <title>US Unemployment Demographics</title>
 
-    <!--CSS Link-->
-    <script src="{{ url_for('static', filename='css/style.css') }}"></script>
-    <!-- <link rel="stylesheet" href="static/css/style.css"> -->
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <!-- Load an icon library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!--CSS Link-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #4aaaa5">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #4e5180">
         <a class="navbar-brand" href="/"><i class="fa fa-fw fa-home"></i>US Unemployment</a>
         <button class="navbar-toggler border border-white" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -46,10 +45,16 @@
     </script>
 </body>
 <!-- Footer -->
-<footer class="footer navbar-expand-lg navbar-dark text-center" style="background-color: #4aaaa5">
-    <div class="footer-copyright">
-        <div class="top"> <span> © Copyright Data Vizards 2020</span>
-        </div>
+<!-- Footer -->
+<footer class="footer">
+    <div>
+        <h6>Team Data Vizards</h6>
+        <ul>
+            <li>Zen Acar | </li>
+            <li> Gina Cameras | </li>
+            <li> Harini Rao | </li>
+            <li> Carlos Santillan </li>
+        </ul>
     </div>
 </footer>
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
