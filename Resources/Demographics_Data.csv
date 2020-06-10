@@ -1,589 +1,589 @@
 year,month,number_of_persons,category,date
-2015,1,157030.0,labor_force_total,2015-1
-2015,2,156644.0,labor_force_total,2015-2
-2015,3,156643.0,labor_force_total,2015-3
-2015,4,157060.0,labor_force_total,2015-4
-2015,5,157651.0,labor_force_total,2015-5
-2015,6,157062.0,labor_force_total,2015-6
-2015,7,156997.0,labor_force_total,2015-7
-2015,8,157172.0,labor_force_total,2015-8
-2015,9,156733.0,labor_force_total,2015-9
-2015,10,157167.0,labor_force_total,2015-10
-2015,11,157463.0,labor_force_total,2015-11
-2015,12,158035.0,labor_force_total,2015-12
-2016,1,158342.0,labor_force_total,2016-1
-2016,2,158653.0,labor_force_total,2016-2
-2016,3,159103.0,labor_force_total,2016-3
-2016,4,158981.0,labor_force_total,2016-4
-2016,5,158787.0,labor_force_total,2016-5
-2016,6,158973.0,labor_force_total,2016-6
-2016,7,159123.0,labor_force_total,2016-7
-2016,8,159579.0,labor_force_total,2016-8
-2016,9,159817.0,labor_force_total,2016-9
-2016,10,159734.0,labor_force_total,2016-10
-2016,11,159551.0,labor_force_total,2016-11
-2016,12,159710.0,labor_force_total,2016-12
-2017,1,159647.0,labor_force_total,2017-1
-2017,2,159767.0,labor_force_total,2017-2
-2017,3,160066.0,labor_force_total,2017-3
-2017,4,160309.0,labor_force_total,2017-4
-2017,5,160060.0,labor_force_total,2017-5
-2017,6,160232.0,labor_force_total,2017-6
-2017,7,160339.0,labor_force_total,2017-7
-2017,8,160690.0,labor_force_total,2017-8
-2017,9,161212.0,labor_force_total,2017-9
-2017,10,160378.0,labor_force_total,2017-10
-2017,11,160510.0,labor_force_total,2017-11
-2017,12,160538.0,labor_force_total,2017-12
-2018,1,161068.0,labor_force_total,2018-1
-2018,2,161783.0,labor_force_total,2018-2
-2018,3,161684.0,labor_force_total,2018-3
-2018,4,161742.0,labor_force_total,2018-4
-2018,5,161874.0,labor_force_total,2018-5
-2018,6,162269.0,labor_force_total,2018-6
-2018,7,162173.0,labor_force_total,2018-7
-2018,8,161768.0,labor_force_total,2018-8
-2018,9,162078.0,labor_force_total,2018-9
-2018,10,162605.0,labor_force_total,2018-10
-2018,11,162662.0,labor_force_total,2018-11
-2018,12,163111.0,labor_force_total,2018-12
-2019,1,163142.0,labor_force_total,2019-1
-2019,2,163047.0,labor_force_total,2019-2
-2019,3,162935.0,labor_force_total,2019-3
-2019,4,162546.0,labor_force_total,2019-4
-2019,5,162782.0,labor_force_total,2019-5
-2019,6,163133.0,labor_force_total,2019-6
-2019,7,163373.0,labor_force_total,2019-7
-2019,8,163894.0,labor_force_total,2019-8
-2019,9,164051.0,labor_force_total,2019-9
-2019,10,164401.0,labor_force_total,2019-10
-2019,11,164347.0,labor_force_total,2019-11
-2019,12,164556.0,labor_force_total,2019-12
-2020,1,164606.0,labor_force_total,2020-1
-2020,2,164546.0,labor_force_total,2020-2
-2020,3,162913.0,labor_force_total,2020-3
-2020,4,156481.0,labor_force_total,2020-4
-2020,5,158227.0,labor_force_total,2020-5
-2015,1,83597.0,labor_force_men,2015-1
-2015,2,83453.0,labor_force_men,2015-2
-2015,3,83488.0,labor_force_men,2015-3
-2015,4,83698.0,labor_force_men,2015-4
-2015,5,83949.0,labor_force_men,2015-5
-2015,6,83492.0,labor_force_men,2015-6
-2015,7,83600.0,labor_force_men,2015-7
-2015,8,83615.0,labor_force_men,2015-8
-2015,9,83492.0,labor_force_men,2015-9
-2015,10,83588.0,labor_force_men,2015-10
-2015,11,83574.0,labor_force_men,2015-11
-2015,12,83994.0,labor_force_men,2015-12
-2016,1,84111.0,labor_force_men,2016-1
-2016,2,84445.0,labor_force_men,2016-2
-2016,3,84600.0,labor_force_men,2016-3
-2016,4,84609.0,labor_force_men,2016-4
-2016,5,84450.0,labor_force_men,2016-5
-2016,6,84839.0,labor_force_men,2016-6
-2016,7,84865.0,labor_force_men,2016-7
-2016,8,85051.0,labor_force_men,2016-8
-2016,9,85147.0,labor_force_men,2016-9
-2016,10,85071.0,labor_force_men,2016-10
-2016,11,84954.0,labor_force_men,2016-11
-2016,12,85028.0,labor_force_men,2016-12
-2017,1,84945.0,labor_force_men,2017-1
-2017,2,84935.0,labor_force_men,2017-2
-2017,3,84896.0,labor_force_men,2017-3
-2017,4,85103.0,labor_force_men,2017-4
-2017,5,84928.0,labor_force_men,2017-5
-2017,6,85063.0,labor_force_men,2017-6
-2017,7,84989.0,labor_force_men,2017-7
-2017,8,85296.0,labor_force_men,2017-8
-2017,9,85654.0,labor_force_men,2017-9
-2017,10,85309.0,labor_force_men,2017-10
-2017,11,85231.0,labor_force_men,2017-11
-2017,12,85383.0,labor_force_men,2017-12
-2018,1,85854.0,labor_force_men,2018-1
-2018,2,86160.0,labor_force_men,2018-2
-2018,3,86099.0,labor_force_men,2018-3
-2018,4,86194.0,labor_force_men,2018-4
-2018,5,86212.0,labor_force_men,2018-5
-2018,6,86116.0,labor_force_men,2018-6
-2018,7,85889.0,labor_force_men,2018-7
-2018,8,85875.0,labor_force_men,2018-8
-2018,9,85936.0,labor_force_men,2018-9
-2018,10,86152.0,labor_force_men,2018-10
-2018,11,86232.0,labor_force_men,2018-11
-2018,12,86406.0,labor_force_men,2018-12
-2019,1,86543.0,labor_force_men,2019-1
-2019,2,86399.0,labor_force_men,2019-2
-2019,3,86441.0,labor_force_men,2019-3
-2019,4,86233.0,labor_force_men,2019-4
-2019,5,86412.0,labor_force_men,2019-5
-2019,6,86549.0,labor_force_men,2019-6
-2019,7,86793.0,labor_force_men,2019-7
-2019,8,86824.0,labor_force_men,2019-8
-2019,9,86855.0,labor_force_men,2019-9
-2019,10,86901.0,labor_force_men,2019-10
-2019,11,87104.0,labor_force_men,2019-11
-2019,12,87049.0,labor_force_men,2019-12
-2020,1,87088.0,labor_force_men,2020-1
-2020,2,87008.0,labor_force_men,2020-2
-2020,3,86123.0,labor_force_men,2020-3
-2020,4,83139.0,labor_force_men,2020-4
-2020,5,83900.0,labor_force_men,2020-5
-2015,1,73432.0,labor_force_women,2015-1
-2015,2,73191.0,labor_force_women,2015-2
-2015,3,73155.0,labor_force_women,2015-3
-2015,4,73363.0,labor_force_women,2015-4
-2015,5,73702.0,labor_force_women,2015-5
-2015,6,73570.0,labor_force_women,2015-6
-2015,7,73397.0,labor_force_women,2015-7
-2015,8,73558.0,labor_force_women,2015-8
-2015,9,73241.0,labor_force_women,2015-9
-2015,10,73579.0,labor_force_women,2015-10
-2015,11,73889.0,labor_force_women,2015-11
-2015,12,74041.0,labor_force_women,2015-12
-2016,1,74231.0,labor_force_women,2016-1
-2016,2,74208.0,labor_force_women,2016-2
-2016,3,74503.0,labor_force_women,2016-3
-2016,4,74372.0,labor_force_women,2016-4
-2016,5,74336.0,labor_force_women,2016-5
-2016,6,74134.0,labor_force_women,2016-6
-2016,7,74258.0,labor_force_women,2016-7
-2016,8,74527.0,labor_force_women,2016-8
-2016,9,74670.0,labor_force_women,2016-9
-2016,10,74663.0,labor_force_women,2016-10
-2016,11,74597.0,labor_force_women,2016-11
-2016,12,74682.0,labor_force_women,2016-12
-2017,1,74702.0,labor_force_women,2017-1
-2017,2,74832.0,labor_force_women,2017-2
-2017,3,75170.0,labor_force_women,2017-3
-2017,4,75206.0,labor_force_women,2017-4
-2017,5,75131.0,labor_force_women,2017-5
-2017,6,75169.0,labor_force_women,2017-6
-2017,7,75350.0,labor_force_women,2017-7
-2017,8,75394.0,labor_force_women,2017-8
-2017,9,75558.0,labor_force_women,2017-9
-2017,10,75070.0,labor_force_women,2017-10
-2017,11,75278.0,labor_force_women,2017-11
-2017,12,75155.0,labor_force_women,2017-12
-2018,1,75214.0,labor_force_women,2018-1
-2018,2,75623.0,labor_force_women,2018-2
-2018,3,75585.0,labor_force_women,2018-3
-2018,4,75549.0,labor_force_women,2018-4
-2018,5,75662.0,labor_force_women,2018-5
-2018,6,76153.0,labor_force_women,2018-6
-2018,7,76284.0,labor_force_women,2018-7
-2018,8,75893.0,labor_force_women,2018-8
-2018,9,76142.0,labor_force_women,2018-9
-2018,10,76453.0,labor_force_women,2018-10
-2018,11,76430.0,labor_force_women,2018-11
-2018,12,76705.0,labor_force_women,2018-12
-2019,1,76600.0,labor_force_women,2019-1
-2019,2,76648.0,labor_force_women,2019-2
-2019,3,76494.0,labor_force_women,2019-3
-2019,4,76313.0,labor_force_women,2019-4
-2019,5,76370.0,labor_force_women,2019-5
-2019,6,76584.0,labor_force_women,2019-6
-2019,7,76580.0,labor_force_women,2019-7
-2019,8,77070.0,labor_force_women,2019-8
-2019,9,77195.0,labor_force_women,2019-9
-2019,10,77500.0,labor_force_women,2019-10
-2019,11,77243.0,labor_force_women,2019-11
-2019,12,77507.0,labor_force_women,2019-12
-2020,1,77518.0,labor_force_women,2020-1
-2020,2,77538.0,labor_force_women,2020-2
-2020,3,76790.0,labor_force_women,2020-3
-2020,4,73343.0,labor_force_women,2020-4
-2020,5,74327.0,labor_force_women,2020-5
-2015,1,8885.0,unemployment_total,2015-1
-2015,2,8599.0,unemployment_total,2015-2
-2015,3,8515.0,unemployment_total,2015-3
-2015,4,8550.0,unemployment_total,2015-4
-2015,5,8834.0,unemployment_total,2015-5
-2015,6,8247.0,unemployment_total,2015-6
-2015,7,8167.0,unemployment_total,2015-7
-2015,8,7992.0,unemployment_total,2015-8
-2015,9,7907.0,unemployment_total,2015-9
-2015,10,7922.0,unemployment_total,2015-10
-2015,11,8000.0,unemployment_total,2015-11
-2015,12,7907.0,unemployment_total,2015-12
-2016,1,7721.0,unemployment_total,2016-1
-2016,2,7746.0,unemployment_total,2016-2
-2016,3,7945.0,unemployment_total,2016-3
-2016,4,7975.0,unemployment_total,2016-4
-2016,5,7668.0,unemployment_total,2016-5
-2016,6,7786.0,unemployment_total,2016-6
-2016,7,7658.0,unemployment_total,2016-7
-2016,8,7809.0,unemployment_total,2016-8
-2016,9,7967.0,unemployment_total,2016-9
-2016,10,7827.0,unemployment_total,2016-10
-2016,11,7488.0,unemployment_total,2016-11
-2016,12,7495.0,unemployment_total,2016-12
-2017,1,7518.0,unemployment_total,2017-1
-2017,2,7399.0,unemployment_total,2017-2
-2017,3,7088.0,unemployment_total,2017-3
-2017,4,7085.0,unemployment_total,2017-4
-2017,5,7059.0,unemployment_total,2017-5
-2017,6,6933.0,unemployment_total,2017-6
-2017,7,6867.0,unemployment_total,2017-7
-2017,8,7097.0,unemployment_total,2017-8
-2017,9,6841.0,unemployment_total,2017-9
-2017,10,6599.0,unemployment_total,2017-10
-2017,11,6697.0,unemployment_total,2017-11
-2017,12,6561.0,unemployment_total,2017-12
-2018,1,6582.0,unemployment_total,2018-1
-2018,2,6641.0,unemployment_total,2018-2
-2018,3,6493.0,unemployment_total,2018-3
-2018,4,6418.0,unemployment_total,2018-4
-2018,5,6209.0,unemployment_total,2018-5
-2018,6,6519.0,unemployment_total,2018-6
-2018,7,6180.0,unemployment_total,2018-7
-2018,8,6167.0,unemployment_total,2018-8
-2018,9,6045.0,unemployment_total,2018-9
-2018,10,6123.0,unemployment_total,2018-10
-2018,11,6034.0,unemployment_total,2018-11
-2018,12,6286.0,unemployment_total,2018-12
-2019,1,6516.0,unemployment_total,2019-1
-2019,2,6181.0,unemployment_total,2019-2
-2019,3,6194.0,unemployment_total,2019-3
-2019,4,5850.0,unemployment_total,2019-4
-2019,5,5938.0,unemployment_total,2019-5
-2019,6,5985.0,unemployment_total,2019-6
-2019,7,6027.0,unemployment_total,2019-7
-2019,8,5999.0,unemployment_total,2019-8
-2019,9,5753.0,unemployment_total,2019-9
-2019,10,5857.0,unemployment_total,2019-10
-2019,11,5811.0,unemployment_total,2019-11
-2019,12,5753.0,unemployment_total,2019-12
-2020,1,5892.0,unemployment_total,2020-1
-2020,2,5787.0,unemployment_total,2020-2
-2020,3,7140.0,unemployment_total,2020-3
-2020,4,23078.0,unemployment_total,2020-4
-2020,5,20985.0,unemployment_total,2020-5
-2015,1,4863.0,men,2015-1
-2015,2,4691.0,men,2015-2
-2015,3,4647.0,men,2015-3
-2015,4,4604.0,men,2015-4
-2015,5,4794.0,men,2015-5
-2015,6,4464.0,men,2015-6
-2015,7,4349.0,men,2015-7
-2015,8,4287.0,men,2015-8
-2015,9,4252.0,men,2015-9
-2015,10,4242.0,men,2015-10
-2015,11,4339.0,men,2015-11
-2015,12,4280.0,men,2015-12
-2016,1,4093.0,men,2016-1
-2016,2,4153.0,men,2016-2
-2016,3,4198.0,men,2016-3
-2016,4,4245.0,men,2016-4
-2016,5,4105.0,men,2016-5
-2016,6,4204.0,men,2016-6
-2016,7,4261.0,men,2016-7
-2016,8,4241.0,men,2016-8
-2016,9,4333.0,men,2016-9
-2016,10,4292.0,men,2016-10
-2016,11,4089.0,men,2016-11
-2016,12,4081.0,men,2016-12
-2017,1,4005.0,men,2017-1
-2017,2,3982.0,men,2017-2
-2017,3,3870.0,men,2017-3
-2017,4,3711.0,men,2017-4
-2017,5,3693.0,men,2017-5
-2017,6,3701.0,men,2017-6
-2017,7,3690.0,men,2017-7
-2017,8,3834.0,men,2017-8
-2017,9,3659.0,men,2017-9
-2017,10,3597.0,men,2017-10
-2017,11,3622.0,men,2017-11
-2017,12,3505.0,men,2017-12
-2018,1,3591.0,men,2018-1
-2018,2,3548.0,men,2018-2
-2018,3,3493.0,men,2018-3
-2018,4,3543.0,men,2018-4
-2018,5,3455.0,men,2018-5
-2018,6,3538.0,men,2018-6
-2018,7,3235.0,men,2018-7
-2018,8,3291.0,men,2018-8
-2018,9,3243.0,men,2018-9
-2018,10,3247.0,men,2018-10
-2018,11,3137.0,men,2018-11
-2018,12,3390.0,men,2018-12
-2019,1,3530.0,men,2019-1
-2019,2,3333.0,men,2019-2
-2019,3,3394.0,men,2019-3
-2019,4,3234.0,men,2019-4
-2019,5,3199.0,men,2019-5
-2019,6,3191.0,men,2019-6
-2019,7,3204.0,men,2019-7
-2019,8,3210.0,men,2019-8
-2019,9,3109.0,men,2019-9
-2019,10,3126.0,men,2019-10
-2019,11,3086.0,men,2019-11
-2019,12,3015.0,men,2019-12
-2020,1,3147.0,men,2020-1
-2020,2,3137.0,men,2020-2
-2020,3,3765.0,men,2020-3
-2020,4,11223.0,men,2020-4
-2020,5,10199.0,men,2020-5
-2015,1,4022.0,women,2015-1
-2015,2,3908.0,women,2015-2
-2015,3,3868.0,women,2015-3
-2015,4,3945.0,women,2015-4
-2015,5,4040.0,women,2015-5
-2015,6,3783.0,women,2015-6
-2015,7,3818.0,women,2015-7
-2015,8,3705.0,women,2015-8
-2015,9,3655.0,women,2015-9
-2015,10,3680.0,women,2015-10
-2015,11,3661.0,women,2015-11
-2015,12,3628.0,women,2015-12
-2016,1,3628.0,women,2016-1
-2016,2,3593.0,women,2016-2
-2016,3,3747.0,women,2016-3
-2016,4,3730.0,women,2016-4
-2016,5,3562.0,women,2016-5
-2016,6,3581.0,women,2016-6
-2016,7,3398.0,women,2016-7
-2016,8,3568.0,women,2016-8
-2016,9,3634.0,women,2016-9
-2016,10,3535.0,women,2016-10
-2016,11,3400.0,women,2016-11
-2016,12,3414.0,women,2016-12
-2017,1,3513.0,women,2017-1
-2017,2,3416.0,women,2017-2
-2017,3,3218.0,women,2017-3
-2017,4,3374.0,women,2017-4
-2017,5,3366.0,women,2017-5
-2017,6,3232.0,women,2017-6
-2017,7,3178.0,women,2017-7
-2017,8,3262.0,women,2017-8
-2017,9,3181.0,women,2017-9
-2017,10,3002.0,women,2017-10
-2017,11,3075.0,women,2017-11
-2017,12,3056.0,women,2017-12
-2018,1,2991.0,women,2018-1
-2018,2,3093.0,women,2018-2
-2018,3,3000.0,women,2018-3
-2018,4,2875.0,women,2018-4
-2018,5,2754.0,women,2018-5
-2018,6,2981.0,women,2018-6
-2018,7,2945.0,women,2018-7
-2018,8,2876.0,women,2018-8
-2018,9,2802.0,women,2018-9
-2018,10,2876.0,women,2018-10
-2018,11,2897.0,women,2018-11
-2018,12,2896.0,women,2018-12
-2019,1,2985.0,women,2019-1
-2019,2,2848.0,women,2019-2
-2019,3,2799.0,women,2019-3
-2019,4,2616.0,women,2019-4
-2019,5,2739.0,women,2019-5
-2019,6,2793.0,women,2019-6
-2019,7,2823.0,women,2019-7
-2019,8,2788.0,women,2019-8
-2019,9,2644.0,women,2019-9
-2019,10,2731.0,women,2019-10
-2019,11,2725.0,women,2019-11
-2019,12,2738.0,women,2019-12
-2020,1,2744.0,women,2020-1
-2020,2,2651.0,women,2020-2
-2020,3,3375.0,women,2020-3
-2020,4,11855.0,women,2020-4
-2020,5,10787.0,women,2020-5
-2015,1,6023.0,caucasian,2015-1
-2015,2,5853.0,caucasian,2015-2
-2015,3,5878.0,caucasian,2015-3
-2015,4,5824.0,caucasian,2015-4
-2015,5,5947.0,caucasian,2015-5
-2015,6,5643.0,caucasian,2015-6
-2015,7,5608.0,caucasian,2015-7
-2015,8,5414.0,caucasian,2015-8
-2015,9,5367.0,caucasian,2015-9
-2015,10,5417.0,caucasian,2015-10
-2015,11,5456.0,caucasian,2015-11
-2015,12,5462.0,caucasian,2015-12
-2016,1,5258.0,caucasian,2016-1
-2016,2,5292.0,caucasian,2016-2
-2016,3,5418.0,caucasian,2016-3
-2016,4,5448.0,caucasian,2016-4
-2016,5,5252.0,caucasian,2016-5
-2016,6,5359.0,caucasian,2016-6
-2016,7,5245.0,caucasian,2016-7
-2016,8,5412.0,caucasian,2016-8
-2016,9,5465.0,caucasian,2016-9
-2016,10,5460.0,caucasian,2016-10
-2016,11,5286.0,caucasian,2016-11
-2016,12,5265.0,caucasian,2016-12
-2017,1,5262.0,caucasian,2017-1
-2017,2,5043.0,caucasian,2017-2
-2017,3,4880.0,caucasian,2017-3
-2017,4,4825.0,caucasian,2017-4
-2017,5,4717.0,caucasian,2017-5
-2017,6,4699.0,caucasian,2017-6
-2017,7,4593.0,caucasian,2017-7
-2017,8,4770.0,caucasian,2017-8
-2017,9,4671.0,caucasian,2017-9
-2017,10,4417.0,caucasian,2017-10
-2017,11,4605.0,caucasian,2017-11
-2017,12,4616.0,caucasian,2017-12
-2018,1,4380.0,caucasian,2018-1
-2018,2,4657.0,caucasian,2018-2
-2018,3,4478.0,caucasian,2018-3
-2018,4,4486.0,caucasian,2018-4
-2018,5,4429.0,caucasian,2018-5
-2018,6,4412.0,caucasian,2018-6
-2018,7,4186.0,caucasian,2018-7
-2018,8,4239.0,caucasian,2018-8
-2018,9,4109.0,caucasian,2018-9
-2018,10,4182.0,caucasian,2018-10
-2018,11,4277.0,caucasian,2018-11
-2018,12,4337.0,caucasian,2018-12
-2019,1,4448.0,caucasian,2019-1
-2019,2,4157.0,caucasian,2019-2
-2019,3,4286.0,caucasian,2019-3
-2019,4,3947.0,caucasian,2019-4
-2019,5,4121.0,caucasian,2019-5
-2019,6,4120.0,caucasian,2019-6
-2019,7,4185.0,caucasian,2019-7
-2019,8,4286.0,caucasian,2019-8
-2019,9,4063.0,caucasian,2019-9
-2019,10,4094.0,caucasian,2019-10
-2019,11,4115.0,caucasian,2019-11
-2019,12,4022.0,caucasian,2019-12
-2020,1,3957.0,caucasian,2020-1
-2020,2,3957.0,caucasian,2020-2
-2020,3,4979.0,caucasian,2020-3
-2020,4,17176.0,caucasian,2020-4
-2020,5,15162.0,caucasian,2020-5
-2015,1,1951.0,african_american,2015-1
-2015,2,1923.0,african_american,2015-2
-2015,3,1885.0,african_american,2015-3
-2015,4,1889.0,african_american,2015-4
-2015,5,1999.0,african_american,2015-5
-2015,6,1875.0,african_american,2015-6
-2015,7,1760.0,african_american,2015-7
-2015,8,1819.0,african_american,2015-8
-2015,9,1806.0,african_american,2015-9
-2015,10,1741.0,african_american,2015-10
-2015,11,1830.0,african_american,2015-11
-2015,12,1656.0,african_american,2015-12
-2016,1,1688.0,african_american,2016-1
-2016,2,1663.0,african_american,2016-2
-2016,3,1736.0,african_american,2016-3
-2016,4,1720.0,african_american,2016-4
-2016,5,1599.0,african_american,2016-5
-2016,6,1716.0,african_american,2016-6
-2016,7,1647.0,african_american,2016-7
-2016,8,1591.0,african_american,2016-8
-2016,9,1690.0,african_american,2016-9
-2016,10,1654.0,african_american,2016-10
-2016,11,1610.0,african_american,2016-11
-2016,12,1566.0,african_american,2016-12
-2017,1,1494.0,african_american,2017-1
-2017,2,1575.0,african_american,2017-2
-2017,3,1579.0,african_american,2017-3
-2017,4,1581.0,african_american,2017-4
-2017,5,1539.0,african_american,2017-5
-2017,6,1425.0,african_american,2017-6
-2017,7,1495.0,african_american,2017-7
-2017,8,1538.0,african_american,2017-8
-2017,9,1462.0,african_american,2017-9
-2017,10,1488.0,african_american,2017-10
-2017,11,1506.0,african_american,2017-11
-2017,12,1345.0,african_american,2017-12
-2018,1,1503.0,african_american,2018-1
-2018,2,1367.0,african_american,2018-2
-2018,3,1389.0,african_american,2018-3
-2018,4,1298.0,african_american,2018-4
-2018,5,1195.0,african_american,2018-5
-2018,6,1331.0,african_american,2018-6
-2018,7,1357.0,african_american,2018-7
-2018,8,1293.0,african_american,2018-8
-2018,9,1276.0,african_american,2018-9
-2018,10,1299.0,african_american,2018-10
-2018,11,1244.0,african_american,2018-11
-2018,12,1340.0,african_american,2018-12
-2019,1,1404.0,african_american,2019-1
-2019,2,1417.0,african_american,2019-2
-2019,3,1344.0,african_american,2019-3
-2019,4,1352.0,african_american,2019-4
-2019,5,1265.0,african_american,2019-5
-2019,6,1223.0,african_american,2019-6
-2019,7,1220.0,african_american,2019-7
-2019,8,1119.0,african_american,2019-8
-2019,9,1135.0,african_american,2019-9
-2019,10,1133.0,african_american,2019-10
-2019,11,1148.0,african_american,2019-11
-2019,12,1238.0,african_american,2019-12
-2020,1,1241.0,african_american,2020-1
-2020,2,1216.0,african_american,2020-2
-2020,3,1387.0,african_american,2020-3
-2020,4,3247.0,african_american,2020-4
-2020,5,3334.0,african_american,2020-5
-2015,1,1745.0,hispanic,2015-1
-2015,2,1758.0,hispanic,2015-2
-2015,3,1761.0,hispanic,2015-3
-2015,4,1790.0,hispanic,2015-4
-2015,5,1779.0,hispanic,2015-5
-2015,6,1767.0,hispanic,2015-6
-2015,7,1800.0,hispanic,2015-7
-2015,8,1732.0,hispanic,2015-8
-2015,9,1622.0,hispanic,2015-9
-2015,10,1661.0,hispanic,2015-10
-2015,11,1674.0,hispanic,2015-11
-2015,12,1628.0,hispanic,2015-12
-2016,1,1533.0,hispanic,2016-1
-2016,2,1446.0,hispanic,2016-2
-2016,3,1472.0,hispanic,2016-3
-2016,4,1634.0,hispanic,2016-4
-2016,5,1495.0,hispanic,2016-5
-2016,6,1583.0,hispanic,2016-6
-2016,7,1460.0,hispanic,2016-7
-2016,8,1522.0,hispanic,2016-8
-2016,9,1739.0,hispanic,2016-9
-2016,10,1552.0,hispanic,2016-10
-2016,11,1551.0,hispanic,2016-11
-2016,12,1592.0,hispanic,2016-12
-2017,1,1564.0,hispanic,2017-1
-2017,2,1511.0,hispanic,2017-2
-2017,3,1367.0,hispanic,2017-3
-2017,4,1398.0,hispanic,2017-4
-2017,5,1403.0,hispanic,2017-5
-2017,6,1327.0,hispanic,2017-6
-2017,7,1415.0,hispanic,2017-7
-2017,8,1409.0,hispanic,2017-8
-2017,9,1415.0,hispanic,2017-9
-2017,10,1331.0,hispanic,2017-10
-2017,11,1310.0,hispanic,2017-11
-2017,12,1364.0,hispanic,2017-12
-2018,1,1380.0,hispanic,2018-1
-2018,2,1375.0,hispanic,2018-2
-2018,3,1401.0,hispanic,2018-3
-2018,4,1363.0,hispanic,2018-4
-2018,5,1380.0,hispanic,2018-5
-2018,6,1291.0,hispanic,2018-6
-2018,7,1264.0,hispanic,2018-7
-2018,8,1318.0,hispanic,2018-8
-2018,9,1299.0,hispanic,2018-9
-2018,10,1249.0,hispanic,2018-10
-2018,11,1297.0,hispanic,2018-11
-2018,12,1268.0,hispanic,2018-12
-2019,1,1400.0,hispanic,2019-1
-2019,2,1248.0,hispanic,2019-2
-2019,3,1357.0,hispanic,2019-3
-2019,4,1198.0,hispanic,2019-4
-2019,5,1197.0,hispanic,2019-5
-2019,6,1252.0,hispanic,2019-6
-2019,7,1305.0,hispanic,2019-7
-2019,8,1213.0,hispanic,2019-8
-2019,9,1137.0,hispanic,2019-9
-2019,10,1203.0,hispanic,2019-10
-2019,11,1236.0,hispanic,2019-11
-2019,12,1231.0,hispanic,2019-12
-2020,1,1275.0,hispanic,2020-1
-2020,2,1322.0,hispanic,2020-2
-2020,3,1771.0,hispanic,2020-3
-2020,4,5263.0,hispanic,2020-4
-2020,5,4977.0,hispanic,2020-5
+2015,1,157030.0,Labor Force Total,2015-1
+2015,2,156644.0,Labor Force Total,2015-2
+2015,3,156643.0,Labor Force Total,2015-3
+2015,4,157060.0,Labor Force Total,2015-4
+2015,5,157651.0,Labor Force Total,2015-5
+2015,6,157062.0,Labor Force Total,2015-6
+2015,7,156997.0,Labor Force Total,2015-7
+2015,8,157172.0,Labor Force Total,2015-8
+2015,9,156733.0,Labor Force Total,2015-9
+2015,10,157167.0,Labor Force Total,2015-10
+2015,11,157463.0,Labor Force Total,2015-11
+2015,12,158035.0,Labor Force Total,2015-12
+2016,1,158342.0,Labor Force Total,2016-1
+2016,2,158653.0,Labor Force Total,2016-2
+2016,3,159103.0,Labor Force Total,2016-3
+2016,4,158981.0,Labor Force Total,2016-4
+2016,5,158787.0,Labor Force Total,2016-5
+2016,6,158973.0,Labor Force Total,2016-6
+2016,7,159123.0,Labor Force Total,2016-7
+2016,8,159579.0,Labor Force Total,2016-8
+2016,9,159817.0,Labor Force Total,2016-9
+2016,10,159734.0,Labor Force Total,2016-10
+2016,11,159551.0,Labor Force Total,2016-11
+2016,12,159710.0,Labor Force Total,2016-12
+2017,1,159647.0,Labor Force Total,2017-1
+2017,2,159767.0,Labor Force Total,2017-2
+2017,3,160066.0,Labor Force Total,2017-3
+2017,4,160309.0,Labor Force Total,2017-4
+2017,5,160060.0,Labor Force Total,2017-5
+2017,6,160232.0,Labor Force Total,2017-6
+2017,7,160339.0,Labor Force Total,2017-7
+2017,8,160690.0,Labor Force Total,2017-8
+2017,9,161212.0,Labor Force Total,2017-9
+2017,10,160378.0,Labor Force Total,2017-10
+2017,11,160510.0,Labor Force Total,2017-11
+2017,12,160538.0,Labor Force Total,2017-12
+2018,1,161068.0,Labor Force Total,2018-1
+2018,2,161783.0,Labor Force Total,2018-2
+2018,3,161684.0,Labor Force Total,2018-3
+2018,4,161742.0,Labor Force Total,2018-4
+2018,5,161874.0,Labor Force Total,2018-5
+2018,6,162269.0,Labor Force Total,2018-6
+2018,7,162173.0,Labor Force Total,2018-7
+2018,8,161768.0,Labor Force Total,2018-8
+2018,9,162078.0,Labor Force Total,2018-9
+2018,10,162605.0,Labor Force Total,2018-10
+2018,11,162662.0,Labor Force Total,2018-11
+2018,12,163111.0,Labor Force Total,2018-12
+2019,1,163142.0,Labor Force Total,2019-1
+2019,2,163047.0,Labor Force Total,2019-2
+2019,3,162935.0,Labor Force Total,2019-3
+2019,4,162546.0,Labor Force Total,2019-4
+2019,5,162782.0,Labor Force Total,2019-5
+2019,6,163133.0,Labor Force Total,2019-6
+2019,7,163373.0,Labor Force Total,2019-7
+2019,8,163894.0,Labor Force Total,2019-8
+2019,9,164051.0,Labor Force Total,2019-9
+2019,10,164401.0,Labor Force Total,2019-10
+2019,11,164347.0,Labor Force Total,2019-11
+2019,12,164556.0,Labor Force Total,2019-12
+2020,1,164606.0,Labor Force Total,2020-1
+2020,2,164546.0,Labor Force Total,2020-2
+2020,3,162913.0,Labor Force Total,2020-3
+2020,4,156481.0,Labor Force Total,2020-4
+2020,5,158227.0,Labor Force Total,2020-5
+2015,1,83597.0,Labor Force Men,2015-1
+2015,2,83453.0,Labor Force Men,2015-2
+2015,3,83488.0,Labor Force Men,2015-3
+2015,4,83698.0,Labor Force Men,2015-4
+2015,5,83949.0,Labor Force Men,2015-5
+2015,6,83492.0,Labor Force Men,2015-6
+2015,7,83600.0,Labor Force Men,2015-7
+2015,8,83615.0,Labor Force Men,2015-8
+2015,9,83492.0,Labor Force Men,2015-9
+2015,10,83588.0,Labor Force Men,2015-10
+2015,11,83574.0,Labor Force Men,2015-11
+2015,12,83994.0,Labor Force Men,2015-12
+2016,1,84111.0,Labor Force Men,2016-1
+2016,2,84445.0,Labor Force Men,2016-2
+2016,3,84600.0,Labor Force Men,2016-3
+2016,4,84609.0,Labor Force Men,2016-4
+2016,5,84450.0,Labor Force Men,2016-5
+2016,6,84839.0,Labor Force Men,2016-6
+2016,7,84865.0,Labor Force Men,2016-7
+2016,8,85051.0,Labor Force Men,2016-8
+2016,9,85147.0,Labor Force Men,2016-9
+2016,10,85071.0,Labor Force Men,2016-10
+2016,11,84954.0,Labor Force Men,2016-11
+2016,12,85028.0,Labor Force Men,2016-12
+2017,1,84945.0,Labor Force Men,2017-1
+2017,2,84935.0,Labor Force Men,2017-2
+2017,3,84896.0,Labor Force Men,2017-3
+2017,4,85103.0,Labor Force Men,2017-4
+2017,5,84928.0,Labor Force Men,2017-5
+2017,6,85063.0,Labor Force Men,2017-6
+2017,7,84989.0,Labor Force Men,2017-7
+2017,8,85296.0,Labor Force Men,2017-8
+2017,9,85654.0,Labor Force Men,2017-9
+2017,10,85309.0,Labor Force Men,2017-10
+2017,11,85231.0,Labor Force Men,2017-11
+2017,12,85383.0,Labor Force Men,2017-12
+2018,1,85854.0,Labor Force Men,2018-1
+2018,2,86160.0,Labor Force Men,2018-2
+2018,3,86099.0,Labor Force Men,2018-3
+2018,4,86194.0,Labor Force Men,2018-4
+2018,5,86212.0,Labor Force Men,2018-5
+2018,6,86116.0,Labor Force Men,2018-6
+2018,7,85889.0,Labor Force Men,2018-7
+2018,8,85875.0,Labor Force Men,2018-8
+2018,9,85936.0,Labor Force Men,2018-9
+2018,10,86152.0,Labor Force Men,2018-10
+2018,11,86232.0,Labor Force Men,2018-11
+2018,12,86406.0,Labor Force Men,2018-12
+2019,1,86543.0,Labor Force Men,2019-1
+2019,2,86399.0,Labor Force Men,2019-2
+2019,3,86441.0,Labor Force Men,2019-3
+2019,4,86233.0,Labor Force Men,2019-4
+2019,5,86412.0,Labor Force Men,2019-5
+2019,6,86549.0,Labor Force Men,2019-6
+2019,7,86793.0,Labor Force Men,2019-7
+2019,8,86824.0,Labor Force Men,2019-8
+2019,9,86855.0,Labor Force Men,2019-9
+2019,10,86901.0,Labor Force Men,2019-10
+2019,11,87104.0,Labor Force Men,2019-11
+2019,12,87049.0,Labor Force Men,2019-12
+2020,1,87088.0,Labor Force Men,2020-1
+2020,2,87008.0,Labor Force Men,2020-2
+2020,3,86123.0,Labor Force Men,2020-3
+2020,4,83139.0,Labor Force Men,2020-4
+2020,5,83900.0,Labor Force Men,2020-5
+2015,1,73432.0,Labor Force Women,2015-1
+2015,2,73191.0,Labor Force Women,2015-2
+2015,3,73155.0,Labor Force Women,2015-3
+2015,4,73363.0,Labor Force Women,2015-4
+2015,5,73702.0,Labor Force Women,2015-5
+2015,6,73570.0,Labor Force Women,2015-6
+2015,7,73397.0,Labor Force Women,2015-7
+2015,8,73558.0,Labor Force Women,2015-8
+2015,9,73241.0,Labor Force Women,2015-9
+2015,10,73579.0,Labor Force Women,2015-10
+2015,11,73889.0,Labor Force Women,2015-11
+2015,12,74041.0,Labor Force Women,2015-12
+2016,1,74231.0,Labor Force Women,2016-1
+2016,2,74208.0,Labor Force Women,2016-2
+2016,3,74503.0,Labor Force Women,2016-3
+2016,4,74372.0,Labor Force Women,2016-4
+2016,5,74336.0,Labor Force Women,2016-5
+2016,6,74134.0,Labor Force Women,2016-6
+2016,7,74258.0,Labor Force Women,2016-7
+2016,8,74527.0,Labor Force Women,2016-8
+2016,9,74670.0,Labor Force Women,2016-9
+2016,10,74663.0,Labor Force Women,2016-10
+2016,11,74597.0,Labor Force Women,2016-11
+2016,12,74682.0,Labor Force Women,2016-12
+2017,1,74702.0,Labor Force Women,2017-1
+2017,2,74832.0,Labor Force Women,2017-2
+2017,3,75170.0,Labor Force Women,2017-3
+2017,4,75206.0,Labor Force Women,2017-4
+2017,5,75131.0,Labor Force Women,2017-5
+2017,6,75169.0,Labor Force Women,2017-6
+2017,7,75350.0,Labor Force Women,2017-7
+2017,8,75394.0,Labor Force Women,2017-8
+2017,9,75558.0,Labor Force Women,2017-9
+2017,10,75070.0,Labor Force Women,2017-10
+2017,11,75278.0,Labor Force Women,2017-11
+2017,12,75155.0,Labor Force Women,2017-12
+2018,1,75214.0,Labor Force Women,2018-1
+2018,2,75623.0,Labor Force Women,2018-2
+2018,3,75585.0,Labor Force Women,2018-3
+2018,4,75549.0,Labor Force Women,2018-4
+2018,5,75662.0,Labor Force Women,2018-5
+2018,6,76153.0,Labor Force Women,2018-6
+2018,7,76284.0,Labor Force Women,2018-7
+2018,8,75893.0,Labor Force Women,2018-8
+2018,9,76142.0,Labor Force Women,2018-9
+2018,10,76453.0,Labor Force Women,2018-10
+2018,11,76430.0,Labor Force Women,2018-11
+2018,12,76705.0,Labor Force Women,2018-12
+2019,1,76600.0,Labor Force Women,2019-1
+2019,2,76648.0,Labor Force Women,2019-2
+2019,3,76494.0,Labor Force Women,2019-3
+2019,4,76313.0,Labor Force Women,2019-4
+2019,5,76370.0,Labor Force Women,2019-5
+2019,6,76584.0,Labor Force Women,2019-6
+2019,7,76580.0,Labor Force Women,2019-7
+2019,8,77070.0,Labor Force Women,2019-8
+2019,9,77195.0,Labor Force Women,2019-9
+2019,10,77500.0,Labor Force Women,2019-10
+2019,11,77243.0,Labor Force Women,2019-11
+2019,12,77507.0,Labor Force Women,2019-12
+2020,1,77518.0,Labor Force Women,2020-1
+2020,2,77538.0,Labor Force Women,2020-2
+2020,3,76790.0,Labor Force Women,2020-3
+2020,4,73343.0,Labor Force Women,2020-4
+2020,5,74327.0,Labor Force Women,2020-5
+2015,1,8885.0,Unemployment Total,2015-1
+2015,2,8599.0,Unemployment Total,2015-2
+2015,3,8515.0,Unemployment Total,2015-3
+2015,4,8550.0,Unemployment Total,2015-4
+2015,5,8834.0,Unemployment Total,2015-5
+2015,6,8247.0,Unemployment Total,2015-6
+2015,7,8167.0,Unemployment Total,2015-7
+2015,8,7992.0,Unemployment Total,2015-8
+2015,9,7907.0,Unemployment Total,2015-9
+2015,10,7922.0,Unemployment Total,2015-10
+2015,11,8000.0,Unemployment Total,2015-11
+2015,12,7907.0,Unemployment Total,2015-12
+2016,1,7721.0,Unemployment Total,2016-1
+2016,2,7746.0,Unemployment Total,2016-2
+2016,3,7945.0,Unemployment Total,2016-3
+2016,4,7975.0,Unemployment Total,2016-4
+2016,5,7668.0,Unemployment Total,2016-5
+2016,6,7786.0,Unemployment Total,2016-6
+2016,7,7658.0,Unemployment Total,2016-7
+2016,8,7809.0,Unemployment Total,2016-8
+2016,9,7967.0,Unemployment Total,2016-9
+2016,10,7827.0,Unemployment Total,2016-10
+2016,11,7488.0,Unemployment Total,2016-11
+2016,12,7495.0,Unemployment Total,2016-12
+2017,1,7518.0,Unemployment Total,2017-1
+2017,2,7399.0,Unemployment Total,2017-2
+2017,3,7088.0,Unemployment Total,2017-3
+2017,4,7085.0,Unemployment Total,2017-4
+2017,5,7059.0,Unemployment Total,2017-5
+2017,6,6933.0,Unemployment Total,2017-6
+2017,7,6867.0,Unemployment Total,2017-7
+2017,8,7097.0,Unemployment Total,2017-8
+2017,9,6841.0,Unemployment Total,2017-9
+2017,10,6599.0,Unemployment Total,2017-10
+2017,11,6697.0,Unemployment Total,2017-11
+2017,12,6561.0,Unemployment Total,2017-12
+2018,1,6582.0,Unemployment Total,2018-1
+2018,2,6641.0,Unemployment Total,2018-2
+2018,3,6493.0,Unemployment Total,2018-3
+2018,4,6418.0,Unemployment Total,2018-4
+2018,5,6209.0,Unemployment Total,2018-5
+2018,6,6519.0,Unemployment Total,2018-6
+2018,7,6180.0,Unemployment Total,2018-7
+2018,8,6167.0,Unemployment Total,2018-8
+2018,9,6045.0,Unemployment Total,2018-9
+2018,10,6123.0,Unemployment Total,2018-10
+2018,11,6034.0,Unemployment Total,2018-11
+2018,12,6286.0,Unemployment Total,2018-12
+2019,1,6516.0,Unemployment Total,2019-1
+2019,2,6181.0,Unemployment Total,2019-2
+2019,3,6194.0,Unemployment Total,2019-3
+2019,4,5850.0,Unemployment Total,2019-4
+2019,5,5938.0,Unemployment Total,2019-5
+2019,6,5985.0,Unemployment Total,2019-6
+2019,7,6027.0,Unemployment Total,2019-7
+2019,8,5999.0,Unemployment Total,2019-8
+2019,9,5753.0,Unemployment Total,2019-9
+2019,10,5857.0,Unemployment Total,2019-10
+2019,11,5811.0,Unemployment Total,2019-11
+2019,12,5753.0,Unemployment Total,2019-12
+2020,1,5892.0,Unemployment Total,2020-1
+2020,2,5787.0,Unemployment Total,2020-2
+2020,3,7140.0,Unemployment Total,2020-3
+2020,4,23078.0,Unemployment Total,2020-4
+2020,5,20985.0,Unemployment Total,2020-5
+2015,1,4863.0,Men,2015-1
+2015,2,4691.0,Men,2015-2
+2015,3,4647.0,Men,2015-3
+2015,4,4604.0,Men,2015-4
+2015,5,4794.0,Men,2015-5
+2015,6,4464.0,Men,2015-6
+2015,7,4349.0,Men,2015-7
+2015,8,4287.0,Men,2015-8
+2015,9,4252.0,Men,2015-9
+2015,10,4242.0,Men,2015-10
+2015,11,4339.0,Men,2015-11
+2015,12,4280.0,Men,2015-12
+2016,1,4093.0,Men,2016-1
+2016,2,4153.0,Men,2016-2
+2016,3,4198.0,Men,2016-3
+2016,4,4245.0,Men,2016-4
+2016,5,4105.0,Men,2016-5
+2016,6,4204.0,Men,2016-6
+2016,7,4261.0,Men,2016-7
+2016,8,4241.0,Men,2016-8
+2016,9,4333.0,Men,2016-9
+2016,10,4292.0,Men,2016-10
+2016,11,4089.0,Men,2016-11
+2016,12,4081.0,Men,2016-12
+2017,1,4005.0,Men,2017-1
+2017,2,3982.0,Men,2017-2
+2017,3,3870.0,Men,2017-3
+2017,4,3711.0,Men,2017-4
+2017,5,3693.0,Men,2017-5
+2017,6,3701.0,Men,2017-6
+2017,7,3690.0,Men,2017-7
+2017,8,3834.0,Men,2017-8
+2017,9,3659.0,Men,2017-9
+2017,10,3597.0,Men,2017-10
+2017,11,3622.0,Men,2017-11
+2017,12,3505.0,Men,2017-12
+2018,1,3591.0,Men,2018-1
+2018,2,3548.0,Men,2018-2
+2018,3,3493.0,Men,2018-3
+2018,4,3543.0,Men,2018-4
+2018,5,3455.0,Men,2018-5
+2018,6,3538.0,Men,2018-6
+2018,7,3235.0,Men,2018-7
+2018,8,3291.0,Men,2018-8
+2018,9,3243.0,Men,2018-9
+2018,10,3247.0,Men,2018-10
+2018,11,3137.0,Men,2018-11
+2018,12,3390.0,Men,2018-12
+2019,1,3530.0,Men,2019-1
+2019,2,3333.0,Men,2019-2
+2019,3,3394.0,Men,2019-3
+2019,4,3234.0,Men,2019-4
+2019,5,3199.0,Men,2019-5
+2019,6,3191.0,Men,2019-6
+2019,7,3204.0,Men,2019-7
+2019,8,3210.0,Men,2019-8
+2019,9,3109.0,Men,2019-9
+2019,10,3126.0,Men,2019-10
+2019,11,3086.0,Men,2019-11
+2019,12,3015.0,Men,2019-12
+2020,1,3147.0,Men,2020-1
+2020,2,3137.0,Men,2020-2
+2020,3,3765.0,Men,2020-3
+2020,4,11223.0,Men,2020-4
+2020,5,10199.0,Men,2020-5
+2015,1,4022.0,Women,2015-1
+2015,2,3908.0,Women,2015-2
+2015,3,3868.0,Women,2015-3
+2015,4,3945.0,Women,2015-4
+2015,5,4040.0,Women,2015-5
+2015,6,3783.0,Women,2015-6
+2015,7,3818.0,Women,2015-7
+2015,8,3705.0,Women,2015-8
+2015,9,3655.0,Women,2015-9
+2015,10,3680.0,Women,2015-10
+2015,11,3661.0,Women,2015-11
+2015,12,3628.0,Women,2015-12
+2016,1,3628.0,Women,2016-1
+2016,2,3593.0,Women,2016-2
+2016,3,3747.0,Women,2016-3
+2016,4,3730.0,Women,2016-4
+2016,5,3562.0,Women,2016-5
+2016,6,3581.0,Women,2016-6
+2016,7,3398.0,Women,2016-7
+2016,8,3568.0,Women,2016-8
+2016,9,3634.0,Women,2016-9
+2016,10,3535.0,Women,2016-10
+2016,11,3400.0,Women,2016-11
+2016,12,3414.0,Women,2016-12
+2017,1,3513.0,Women,2017-1
+2017,2,3416.0,Women,2017-2
+2017,3,3218.0,Women,2017-3
+2017,4,3374.0,Women,2017-4
+2017,5,3366.0,Women,2017-5
+2017,6,3232.0,Women,2017-6
+2017,7,3178.0,Women,2017-7
+2017,8,3262.0,Women,2017-8
+2017,9,3181.0,Women,2017-9
+2017,10,3002.0,Women,2017-10
+2017,11,3075.0,Women,2017-11
+2017,12,3056.0,Women,2017-12
+2018,1,2991.0,Women,2018-1
+2018,2,3093.0,Women,2018-2
+2018,3,3000.0,Women,2018-3
+2018,4,2875.0,Women,2018-4
+2018,5,2754.0,Women,2018-5
+2018,6,2981.0,Women,2018-6
+2018,7,2945.0,Women,2018-7
+2018,8,2876.0,Women,2018-8
+2018,9,2802.0,Women,2018-9
+2018,10,2876.0,Women,2018-10
+2018,11,2897.0,Women,2018-11
+2018,12,2896.0,Women,2018-12
+2019,1,2985.0,Women,2019-1
+2019,2,2848.0,Women,2019-2
+2019,3,2799.0,Women,2019-3
+2019,4,2616.0,Women,2019-4
+2019,5,2739.0,Women,2019-5
+2019,6,2793.0,Women,2019-6
+2019,7,2823.0,Women,2019-7
+2019,8,2788.0,Women,2019-8
+2019,9,2644.0,Women,2019-9
+2019,10,2731.0,Women,2019-10
+2019,11,2725.0,Women,2019-11
+2019,12,2738.0,Women,2019-12
+2020,1,2744.0,Women,2020-1
+2020,2,2651.0,Women,2020-2
+2020,3,3375.0,Women,2020-3
+2020,4,11855.0,Women,2020-4
+2020,5,10787.0,Women,2020-5
+2015,1,6023.0,Caucasian,2015-1
+2015,2,5853.0,Caucasian,2015-2
+2015,3,5878.0,Caucasian,2015-3
+2015,4,5824.0,Caucasian,2015-4
+2015,5,5947.0,Caucasian,2015-5
+2015,6,5643.0,Caucasian,2015-6
+2015,7,5608.0,Caucasian,2015-7
+2015,8,5414.0,Caucasian,2015-8
+2015,9,5367.0,Caucasian,2015-9
+2015,10,5417.0,Caucasian,2015-10
+2015,11,5456.0,Caucasian,2015-11
+2015,12,5462.0,Caucasian,2015-12
+2016,1,5258.0,Caucasian,2016-1
+2016,2,5292.0,Caucasian,2016-2
+2016,3,5418.0,Caucasian,2016-3
+2016,4,5448.0,Caucasian,2016-4
+2016,5,5252.0,Caucasian,2016-5
+2016,6,5359.0,Caucasian,2016-6
+2016,7,5245.0,Caucasian,2016-7
+2016,8,5412.0,Caucasian,2016-8
+2016,9,5465.0,Caucasian,2016-9
+2016,10,5460.0,Caucasian,2016-10
+2016,11,5286.0,Caucasian,2016-11
+2016,12,5265.0,Caucasian,2016-12
+2017,1,5262.0,Caucasian,2017-1
+2017,2,5043.0,Caucasian,2017-2
+2017,3,4880.0,Caucasian,2017-3
+2017,4,4825.0,Caucasian,2017-4
+2017,5,4717.0,Caucasian,2017-5
+2017,6,4699.0,Caucasian,2017-6
+2017,7,4593.0,Caucasian,2017-7
+2017,8,4770.0,Caucasian,2017-8
+2017,9,4671.0,Caucasian,2017-9
+2017,10,4417.0,Caucasian,2017-10
+2017,11,4605.0,Caucasian,2017-11
+2017,12,4616.0,Caucasian,2017-12
+2018,1,4380.0,Caucasian,2018-1
+2018,2,4657.0,Caucasian,2018-2
+2018,3,4478.0,Caucasian,2018-3
+2018,4,4486.0,Caucasian,2018-4
+2018,5,4429.0,Caucasian,2018-5
+2018,6,4412.0,Caucasian,2018-6
+2018,7,4186.0,Caucasian,2018-7
+2018,8,4239.0,Caucasian,2018-8
+2018,9,4109.0,Caucasian,2018-9
+2018,10,4182.0,Caucasian,2018-10
+2018,11,4277.0,Caucasian,2018-11
+2018,12,4337.0,Caucasian,2018-12
+2019,1,4448.0,Caucasian,2019-1
+2019,2,4157.0,Caucasian,2019-2
+2019,3,4286.0,Caucasian,2019-3
+2019,4,3947.0,Caucasian,2019-4
+2019,5,4121.0,Caucasian,2019-5
+2019,6,4120.0,Caucasian,2019-6
+2019,7,4185.0,Caucasian,2019-7
+2019,8,4286.0,Caucasian,2019-8
+2019,9,4063.0,Caucasian,2019-9
+2019,10,4094.0,Caucasian,2019-10
+2019,11,4115.0,Caucasian,2019-11
+2019,12,4022.0,Caucasian,2019-12
+2020,1,3957.0,Caucasian,2020-1
+2020,2,3957.0,Caucasian,2020-2
+2020,3,4979.0,Caucasian,2020-3
+2020,4,17176.0,Caucasian,2020-4
+2020,5,15162.0,Caucasian,2020-5
+2015,1,1951.0,African American,2015-1
+2015,2,1923.0,African American,2015-2
+2015,3,1885.0,African American,2015-3
+2015,4,1889.0,African American,2015-4
+2015,5,1999.0,African American,2015-5
+2015,6,1875.0,African American,2015-6
+2015,7,1760.0,African American,2015-7
+2015,8,1819.0,African American,2015-8
+2015,9,1806.0,African American,2015-9
+2015,10,1741.0,African American,2015-10
+2015,11,1830.0,African American,2015-11
+2015,12,1656.0,African American,2015-12
+2016,1,1688.0,African American,2016-1
+2016,2,1663.0,African American,2016-2
+2016,3,1736.0,African American,2016-3
+2016,4,1720.0,African American,2016-4
+2016,5,1599.0,African American,2016-5
+2016,6,1716.0,African American,2016-6
+2016,7,1647.0,African American,2016-7
+2016,8,1591.0,African American,2016-8
+2016,9,1690.0,African American,2016-9
+2016,10,1654.0,African American,2016-10
+2016,11,1610.0,African American,2016-11
+2016,12,1566.0,African American,2016-12
+2017,1,1494.0,African American,2017-1
+2017,2,1575.0,African American,2017-2
+2017,3,1579.0,African American,2017-3
+2017,4,1581.0,African American,2017-4
+2017,5,1539.0,African American,2017-5
+2017,6,1425.0,African American,2017-6
+2017,7,1495.0,African American,2017-7
+2017,8,1538.0,African American,2017-8
+2017,9,1462.0,African American,2017-9
+2017,10,1488.0,African American,2017-10
+2017,11,1506.0,African American,2017-11
+2017,12,1345.0,African American,2017-12
+2018,1,1503.0,African American,2018-1
+2018,2,1367.0,African American,2018-2
+2018,3,1389.0,African American,2018-3
+2018,4,1298.0,African American,2018-4
+2018,5,1195.0,African American,2018-5
+2018,6,1331.0,African American,2018-6
+2018,7,1357.0,African American,2018-7
+2018,8,1293.0,African American,2018-8
+2018,9,1276.0,African American,2018-9
+2018,10,1299.0,African American,2018-10
+2018,11,1244.0,African American,2018-11
+2018,12,1340.0,African American,2018-12
+2019,1,1404.0,African American,2019-1
+2019,2,1417.0,African American,2019-2
+2019,3,1344.0,African American,2019-3
+2019,4,1352.0,African American,2019-4
+2019,5,1265.0,African American,2019-5
+2019,6,1223.0,African American,2019-6
+2019,7,1220.0,African American,2019-7
+2019,8,1119.0,African American,2019-8
+2019,9,1135.0,African American,2019-9
+2019,10,1133.0,African American,2019-10
+2019,11,1148.0,African American,2019-11
+2019,12,1238.0,African American,2019-12
+2020,1,1241.0,African American,2020-1
+2020,2,1216.0,African American,2020-2
+2020,3,1387.0,African American,2020-3
+2020,4,3247.0,African American,2020-4
+2020,5,3334.0,African American,2020-5
+2015,1,1745.0,Hispanic,2015-1
+2015,2,1758.0,Hispanic,2015-2
+2015,3,1761.0,Hispanic,2015-3
+2015,4,1790.0,Hispanic,2015-4
+2015,5,1779.0,Hispanic,2015-5
+2015,6,1767.0,Hispanic,2015-6
+2015,7,1800.0,Hispanic,2015-7
+2015,8,1732.0,Hispanic,2015-8
+2015,9,1622.0,Hispanic,2015-9
+2015,10,1661.0,Hispanic,2015-10
+2015,11,1674.0,Hispanic,2015-11
+2015,12,1628.0,Hispanic,2015-12
+2016,1,1533.0,Hispanic,2016-1
+2016,2,1446.0,Hispanic,2016-2
+2016,3,1472.0,Hispanic,2016-3
+2016,4,1634.0,Hispanic,2016-4
+2016,5,1495.0,Hispanic,2016-5
+2016,6,1583.0,Hispanic,2016-6
+2016,7,1460.0,Hispanic,2016-7
+2016,8,1522.0,Hispanic,2016-8
+2016,9,1739.0,Hispanic,2016-9
+2016,10,1552.0,Hispanic,2016-10
+2016,11,1551.0,Hispanic,2016-11
+2016,12,1592.0,Hispanic,2016-12
+2017,1,1564.0,Hispanic,2017-1
+2017,2,1511.0,Hispanic,2017-2
+2017,3,1367.0,Hispanic,2017-3
+2017,4,1398.0,Hispanic,2017-4
+2017,5,1403.0,Hispanic,2017-5
+2017,6,1327.0,Hispanic,2017-6
+2017,7,1415.0,Hispanic,2017-7
+2017,8,1409.0,Hispanic,2017-8
+2017,9,1415.0,Hispanic,2017-9
+2017,10,1331.0,Hispanic,2017-10
+2017,11,1310.0,Hispanic,2017-11
+2017,12,1364.0,Hispanic,2017-12
+2018,1,1380.0,Hispanic,2018-1
+2018,2,1375.0,Hispanic,2018-2
+2018,3,1401.0,Hispanic,2018-3
+2018,4,1363.0,Hispanic,2018-4
+2018,5,1380.0,Hispanic,2018-5
+2018,6,1291.0,Hispanic,2018-6
+2018,7,1264.0,Hispanic,2018-7
+2018,8,1318.0,Hispanic,2018-8
+2018,9,1299.0,Hispanic,2018-9
+2018,10,1249.0,Hispanic,2018-10
+2018,11,1297.0,Hispanic,2018-11
+2018,12,1268.0,Hispanic,2018-12
+2019,1,1400.0,Hispanic,2019-1
+2019,2,1248.0,Hispanic,2019-2
+2019,3,1357.0,Hispanic,2019-3
+2019,4,1198.0,Hispanic,2019-4
+2019,5,1197.0,Hispanic,2019-5
+2019,6,1252.0,Hispanic,2019-6
+2019,7,1305.0,Hispanic,2019-7
+2019,8,1213.0,Hispanic,2019-8
+2019,9,1137.0,Hispanic,2019-9
+2019,10,1203.0,Hispanic,2019-10
+2019,11,1236.0,Hispanic,2019-11
+2019,12,1231.0,Hispanic,2019-12
+2020,1,1275.0,Hispanic,2020-1
+2020,2,1322.0,Hispanic,2020-2
+2020,3,1771.0,Hispanic,2020-3
+2020,4,5263.0,Hispanic,2020-4
+2020,5,4977.0,Hispanic,2020-5
 2015,1,1073.0,16-19,2015-1
 2015,2,967.0,16-19,2015-2
 2015,3,1010.0,16-19,2015-3
@@ -909,1173 +909,1173 @@ year,month,number_of_persons,category,date
 2020,3,1034.0,45-54,2020-3
 2020,4,3884.0,45-54,2020-4
 2020,5,3436.0,45-54,2020-5
-2015,1,2393.0,unemployed_less_than_5_weeks,2015-1
-2015,2,2392.0,unemployed_less_than_5_weeks,2015-2
-2015,3,2444.0,unemployed_less_than_5_weeks,2015-3
-2015,4,2716.0,unemployed_less_than_5_weeks,2015-4
-2015,5,2471.0,unemployed_less_than_5_weeks,2015-5
-2015,6,2309.0,unemployed_less_than_5_weeks,2015-6
-2015,7,2574.0,unemployed_less_than_5_weeks,2015-7
-2015,8,2073.0,unemployed_less_than_5_weeks,2015-8
-2015,9,2364.0,unemployed_less_than_5_weeks,2015-9
-2015,10,2372.0,unemployed_less_than_5_weeks,2015-10
-2015,11,2382.0,unemployed_less_than_5_weeks,2015-11
-2015,12,2399.0,unemployed_less_than_5_weeks,2015-12
-2016,1,2208.0,unemployed_less_than_5_weeks,2016-1
-2016,2,2214.0,unemployed_less_than_5_weeks,2016-2
-2016,3,2388.0,unemployed_less_than_5_weeks,2016-3
-2016,4,2612.0,unemployed_less_than_5_weeks,2016-4
-2016,5,2273.0,unemployed_less_than_5_weeks,2016-5
-2016,6,2385.0,unemployed_less_than_5_weeks,2016-6
-2016,7,2255.0,unemployed_less_than_5_weeks,2016-7
-2016,8,2295.0,unemployed_less_than_5_weeks,2016-8
-2016,9,2606.0,unemployed_less_than_5_weeks,2016-9
-2016,10,2458.0,unemployed_less_than_5_weeks,2016-10
-2016,11,2390.0,unemployed_less_than_5_weeks,2016-11
-2016,12,2355.0,unemployed_less_than_5_weeks,2016-12
-2017,1,2417.0,unemployed_less_than_5_weeks,2017-1
-2017,2,2470.0,unemployed_less_than_5_weeks,2017-2
-2017,3,2265.0,unemployed_less_than_5_weeks,2017-3
-2017,4,2346.0,unemployed_less_than_5_weeks,2017-4
-2017,5,2166.0,unemployed_less_than_5_weeks,2017-5
-2017,6,2269.0,unemployed_less_than_5_weeks,2017-6
-2017,7,2184.0,unemployed_less_than_5_weeks,2017-7
-2017,8,2197.0,unemployed_less_than_5_weeks,2017-8
-2017,9,2274.0,unemployed_less_than_5_weeks,2017-9
-2017,10,2188.0,unemployed_less_than_5_weeks,2017-10
-2017,11,2253.0,unemployed_less_than_5_weeks,2017-11
-2017,12,2226.0,unemployed_less_than_5_weeks,2017-12
-2018,1,2255.0,unemployed_less_than_5_weeks,2018-1
-2018,2,2412.0,unemployed_less_than_5_weeks,2018-2
-2018,3,2257.0,unemployed_less_than_5_weeks,2018-3
-2018,4,2139.0,unemployed_less_than_5_weeks,2018-4
-2018,5,2021.0,unemployed_less_than_5_weeks,2018-5
-2018,6,2222.0,unemployed_less_than_5_weeks,2018-6
-2018,7,2093.0,unemployed_less_than_5_weeks,2018-7
-2018,8,2189.0,unemployed_less_than_5_weeks,2018-8
-2018,9,2088.0,unemployed_less_than_5_weeks,2018-9
-2018,10,2098.0,unemployed_less_than_5_weeks,2018-10
-2018,11,2133.0,unemployed_less_than_5_weeks,2018-11
-2018,12,2117.0,unemployed_less_than_5_weeks,2018-12
-2019,1,2319.0,unemployed_less_than_5_weeks,2019-1
-2019,2,2169.0,unemployed_less_than_5_weeks,2019-2
-2019,3,2116.0,unemployed_less_than_5_weeks,2019-3
-2019,4,1906.0,unemployed_less_than_5_weeks,2019-4
-2019,5,2158.0,unemployed_less_than_5_weeks,2019-5
-2019,6,1949.0,unemployed_less_than_5_weeks,2019-6
-2019,7,2222.0,unemployed_less_than_5_weeks,2019-7
-2019,8,2218.0,unemployed_less_than_5_weeks,2019-8
-2019,9,1869.0,unemployed_less_than_5_weeks,2019-9
-2019,10,1978.0,unemployed_less_than_5_weeks,2019-10
-2019,11,2026.0,unemployed_less_than_5_weeks,2019-11
-2019,12,2065.0,unemployed_less_than_5_weeks,2019-12
-2020,1,2059.0,unemployed_less_than_5_weeks,2020-1
-2020,2,2013.0,unemployed_less_than_5_weeks,2020-2
-2020,3,3542.0,unemployed_less_than_5_weeks,2020-3
-2020,4,14283.0,unemployed_less_than_5_weeks,2020-4
-2020,5,3875.0,unemployed_less_than_5_weeks,2020-5
-2015,1,4151.0,unemployed_15_weeks_and_over,2015-1
-2015,2,3991.0,unemployed_15_weeks_and_over,2015-2
-2015,3,3787.0,unemployed_15_weeks_and_over,2015-3
-2015,4,3651.0,unemployed_15_weeks_and_over,2015-4
-2015,5,3759.0,unemployed_15_weeks_and_over,2015-5
-2015,6,3560.0,unemployed_15_weeks_and_over,2015-6
-2015,7,3389.0,unemployed_15_weeks_and_over,2015-7
-2015,8,3454.0,unemployed_15_weeks_and_over,2015-8
-2015,9,3332.0,unemployed_15_weeks_and_over,2015-9
-2015,10,3342.0,unemployed_15_weeks_and_over,2015-10
-2015,11,3347.0,unemployed_15_weeks_and_over,2015-11
-2015,12,3359.0,unemployed_15_weeks_and_over,2015-12
-2016,1,3195.0,unemployed_15_weeks_and_over,2016-1
-2016,2,3283.0,unemployed_15_weeks_and_over,2016-2
-2016,3,3390.0,unemployed_15_weeks_and_over,2016-3
-2016,4,3355.0,unemployed_15_weeks_and_over,2016-4
-2016,5,3034.0,unemployed_15_weeks_and_over,2016-5
-2016,6,3166.0,unemployed_15_weeks_and_over,2016-6
-2016,7,3185.0,unemployed_15_weeks_and_over,2016-7
-2016,8,3062.0,unemployed_15_weeks_and_over,2016-8
-2016,9,3108.0,unemployed_15_weeks_and_over,2016-9
-2016,10,3130.0,unemployed_15_weeks_and_over,2016-10
-2016,11,2958.0,unemployed_15_weeks_and_over,2016-11
-2016,12,3065.0,unemployed_15_weeks_and_over,2016-12
-2017,1,3020.0,unemployed_15_weeks_and_over,2017-1
-2017,2,2815.0,unemployed_15_weeks_and_over,2017-2
-2017,3,2760.0,unemployed_15_weeks_and_over,2017-3
-2017,4,2726.0,unemployed_15_weeks_and_over,2017-4
-2017,5,2814.0,unemployed_15_weeks_and_over,2017-5
-2017,6,2639.0,unemployed_15_weeks_and_over,2017-6
-2017,7,2744.0,unemployed_15_weeks_and_over,2017-7
-2017,8,2790.0,unemployed_15_weeks_and_over,2017-8
-2017,9,2676.0,unemployed_15_weeks_and_over,2017-9
-2017,10,2481.0,unemployed_15_weeks_and_over,2017-10
-2017,11,2564.0,unemployed_15_weeks_and_over,2017-11
-2017,12,2406.0,unemployed_15_weeks_and_over,2017-12
-2018,1,2392.0,unemployed_15_weeks_and_over,2018-1
-2018,2,2327.0,unemployed_15_weeks_and_over,2018-2
-2018,3,2222.0,unemployed_15_weeks_and_over,2018-3
-2018,4,2343.0,unemployed_15_weeks_and_over,2018-4
-2018,5,2186.0,unemployed_15_weeks_and_over,2018-5
-2018,6,2322.0,unemployed_15_weeks_and_over,2018-6
-2018,7,2384.0,unemployed_15_weeks_and_over,2018-7
-2018,8,2254.0,unemployed_15_weeks_and_over,2018-8
-2018,9,2230.0,unemployed_15_weeks_and_over,2018-9
-2018,10,2211.0,unemployed_15_weeks_and_over,2018-10
-2018,11,2123.0,unemployed_15_weeks_and_over,2018-11
-2018,12,2210.0,unemployed_15_weeks_and_over,2018-12
-2019,1,2156.0,unemployed_15_weeks_and_over,2019-1
-2019,2,2207.0,unemployed_15_weeks_and_over,2019-2
-2019,3,2242.0,unemployed_15_weeks_and_over,2019-3
-2019,4,2087.0,unemployed_15_weeks_and_over,2019-4
-2019,5,2120.0,unemployed_15_weeks_and_over,2019-5
-2019,6,2189.0,unemployed_15_weeks_and_over,2019-6
-2019,7,2079.0,unemployed_15_weeks_and_over,2019-7
-2019,8,2082.0,unemployed_15_weeks_and_over,2019-8
-2019,9,2124.0,unemployed_15_weeks_and_over,2019-9
-2019,10,2144.0,unemployed_15_weeks_and_over,2019-10
-2019,11,2083.0,unemployed_15_weeks_and_over,2019-11
-2019,12,1998.0,unemployed_15_weeks_and_over,2019-12
-2020,1,2053.0,unemployed_15_weeks_and_over,2020-1
-2020,2,1927.0,unemployed_15_weeks_and_over,2020-2
-2020,3,1971.0,unemployed_15_weeks_and_over,2020-3
-2020,4,1772.0,unemployed_15_weeks_and_over,2020-4
-2020,5,2242.0,unemployed_15_weeks_and_over,2020-5
-2015,1,2774.0,unemployed_27_weeks_and_over,2015-1
-2015,2,2658.0,unemployed_27_weeks_and_over,2015-2
-2015,3,2542.0,unemployed_27_weeks_and_over,2015-3
-2015,4,2560.0,unemployed_27_weeks_and_over,2015-4
-2015,5,2503.0,unemployed_27_weeks_and_over,2015-5
-2015,6,2162.0,unemployed_27_weeks_and_over,2015-6
-2015,7,2127.0,unemployed_27_weeks_and_over,2015-7
-2015,8,2172.0,unemployed_27_weeks_and_over,2015-8
-2015,9,2097.0,unemployed_27_weeks_and_over,2015-9
-2015,10,2130.0,unemployed_27_weeks_and_over,2015-10
-2015,11,2074.0,unemployed_27_weeks_and_over,2015-11
-2015,12,2127.0,unemployed_27_weeks_and_over,2015-12
-2016,1,2081.0,unemployed_27_weeks_and_over,2016-1
-2016,2,2143.0,unemployed_27_weeks_and_over,2016-2
-2016,3,2215.0,unemployed_27_weeks_and_over,2016-3
-2016,4,2104.0,unemployed_27_weeks_and_over,2016-4
-2016,5,1901.0,unemployed_27_weeks_and_over,2016-5
-2016,6,2014.0,unemployed_27_weeks_and_over,2016-6
-2016,7,1962.0,unemployed_27_weeks_and_over,2016-7
-2016,8,1981.0,unemployed_27_weeks_and_over,2016-8
-2016,9,1944.0,unemployed_27_weeks_and_over,2016-9
-2016,10,1962.0,unemployed_27_weeks_and_over,2016-10
-2016,11,1869.0,unemployed_27_weeks_and_over,2016-11
-2016,12,1869.0,unemployed_27_weeks_and_over,2016-12
-2017,1,1842.0,unemployed_27_weeks_and_over,2017-1
-2017,2,1776.0,unemployed_27_weeks_and_over,2017-2
-2017,3,1673.0,unemployed_27_weeks_and_over,2017-3
-2017,4,1655.0,unemployed_27_weeks_and_over,2017-4
-2017,5,1677.0,unemployed_27_weeks_and_over,2017-5
-2017,6,1700.0,unemployed_27_weeks_and_over,2017-6
-2017,7,1738.0,unemployed_27_weeks_and_over,2017-7
-2017,8,1724.0,unemployed_27_weeks_and_over,2017-8
-2017,9,1714.0,unemployed_27_weeks_and_over,2017-9
-2017,10,1622.0,unemployed_27_weeks_and_over,2017-10
-2017,11,1601.0,unemployed_27_weeks_and_over,2017-11
-2017,12,1515.0,unemployed_27_weeks_and_over,2017-12
-2018,1,1437.0,unemployed_27_weeks_and_over,2018-1
-2018,2,1410.0,unemployed_27_weeks_and_over,2018-2
-2018,3,1333.0,unemployed_27_weeks_and_over,2018-3
-2018,4,1316.0,unemployed_27_weeks_and_over,2018-4
-2018,5,1193.0,unemployed_27_weeks_and_over,2018-5
-2018,6,1457.0,unemployed_27_weeks_and_over,2018-6
-2018,7,1417.0,unemployed_27_weeks_and_over,2018-7
-2018,8,1321.0,unemployed_27_weeks_and_over,2018-8
-2018,9,1372.0,unemployed_27_weeks_and_over,2018-9
-2018,10,1363.0,unemployed_27_weeks_and_over,2018-10
-2018,11,1263.0,unemployed_27_weeks_and_over,2018-11
-2018,12,1311.0,unemployed_27_weeks_and_over,2018-12
-2019,1,1259.0,unemployed_27_weeks_and_over,2019-1
-2019,2,1279.0,unemployed_27_weeks_and_over,2019-2
-2019,3,1305.0,unemployed_27_weeks_and_over,2019-3
-2019,4,1227.0,unemployed_27_weeks_and_over,2019-4
-2019,5,1298.0,unemployed_27_weeks_and_over,2019-5
-2019,6,1413.0,unemployed_27_weeks_and_over,2019-6
-2019,7,1170.0,unemployed_27_weeks_and_over,2019-7
-2019,8,1251.0,unemployed_27_weeks_and_over,2019-8
-2019,9,1318.0,unemployed_27_weeks_and_over,2019-9
-2019,10,1259.0,unemployed_27_weeks_and_over,2019-10
-2019,11,1219.0,unemployed_27_weeks_and_over,2019-11
-2019,12,1186.0,unemployed_27_weeks_and_over,2019-12
-2020,1,1166.0,unemployed_27_weeks_and_over,2020-1
-2020,2,1102.0,unemployed_27_weeks_and_over,2020-2
-2020,3,1164.0,unemployed_27_weeks_and_over,2020-3
-2020,4,939.0,unemployed_27_weeks_and_over,2020-4
-2020,5,1164.0,unemployed_27_weeks_and_over,2020-5
-2015,1,2319.0,unemployed_5-14_weeks,2015-1
-2015,2,2238.0,unemployed_5-14_weeks,2015-2
-2015,3,2304.0,unemployed_5-14_weeks,2015-3
-2015,4,2345.0,unemployed_5-14_weeks,2015-4
-2015,5,2510.0,unemployed_5-14_weeks,2015-5
-2015,6,2396.0,unemployed_5-14_weeks,2015-6
-2015,7,2222.0,unemployed_5-14_weeks,2015-7
-2015,8,2329.0,unemployed_5-14_weeks,2015-8
-2015,9,2274.0,unemployed_5-14_weeks,2015-9
-2015,10,2277.0,unemployed_5-14_weeks,2015-10
-2015,11,2296.0,unemployed_5-14_weeks,2015-11
-2015,12,2191.0,unemployed_5-14_weeks,2015-12
-2016,1,2288.0,unemployed_5-14_weeks,2016-1
-2016,2,2224.0,unemployed_5-14_weeks,2016-2
-2016,3,2168.0,unemployed_5-14_weeks,2016-3
-2016,4,2101.0,unemployed_5-14_weeks,2016-4
-2016,5,2275.0,unemployed_5-14_weeks,2016-5
-2016,6,2187.0,unemployed_5-14_weeks,2016-6
-2016,7,2260.0,unemployed_5-14_weeks,2016-7
-2016,8,2331.0,unemployed_5-14_weeks,2016-8
-2016,9,2296.0,unemployed_5-14_weeks,2016-9
-2016,10,2272.0,unemployed_5-14_weeks,2016-10
-2016,11,2162.0,unemployed_5-14_weeks,2016-11
-2016,12,2120.0,unemployed_5-14_weeks,2016-12
-2017,1,2068.0,unemployed_5-14_weeks,2017-1
-2017,2,2133.0,unemployed_5-14_weeks,2017-2
-2017,3,2054.0,unemployed_5-14_weeks,2017-3
-2017,4,2062.0,unemployed_5-14_weeks,2017-4
-2017,5,1960.0,unemployed_5-14_weeks,2017-5
-2017,6,1945.0,unemployed_5-14_weeks,2017-6
-2017,7,2014.0,unemployed_5-14_weeks,2017-7
-2017,8,2058.0,unemployed_5-14_weeks,2017-8
-2017,9,1928.0,unemployed_5-14_weeks,2017-9
-2017,10,1943.0,unemployed_5-14_weeks,2017-10
-2017,11,1902.0,unemployed_5-14_weeks,2017-11
-2017,12,1967.0,unemployed_5-14_weeks,2017-12
-2018,1,1913.0,unemployed_5-14_weeks,2018-1
-2018,2,1907.0,unemployed_5-14_weeks,2018-2
-2018,3,1987.0,unemployed_5-14_weeks,2018-3
-2018,4,1957.0,unemployed_5-14_weeks,2018-4
-2018,5,1943.0,unemployed_5-14_weeks,2018-5
-2018,6,1867.0,unemployed_5-14_weeks,2018-6
-2018,7,1810.0,unemployed_5-14_weeks,2018-7
-2018,8,1755.0,unemployed_5-14_weeks,2018-8
-2018,9,1747.0,unemployed_5-14_weeks,2018-9
-2018,10,1832.0,unemployed_5-14_weeks,2018-10
-2018,11,1820.0,unemployed_5-14_weeks,2018-11
-2018,12,2007.0,unemployed_5-14_weeks,2018-12
-2019,1,1999.0,unemployed_5-14_weeks,2019-1
-2019,2,1809.0,unemployed_5-14_weeks,2019-2
-2019,3,1812.0,unemployed_5-14_weeks,2019-3
-2019,4,1835.0,unemployed_5-14_weeks,2019-4
-2019,5,1572.0,unemployed_5-14_weeks,2019-5
-2019,6,1832.0,unemployed_5-14_weeks,2019-6
-2019,7,1795.0,unemployed_5-14_weeks,2019-7
-2019,8,1746.0,unemployed_5-14_weeks,2019-8
-2019,9,1778.0,unemployed_5-14_weeks,2019-9
-2019,10,1747.0,unemployed_5-14_weeks,2019-10
-2019,11,1753.0,unemployed_5-14_weeks,2019-11
-2019,12,1730.0,unemployed_5-14_weeks,2019-12
-2020,1,1755.0,unemployed_5-14_weeks,2020-1
-2020,2,1803.0,unemployed_5-14_weeks,2020-2
-2020,3,1794.0,unemployed_5-14_weeks,2020-3
-2020,4,7004.0,unemployed_5-14_weeks,2020-4
-2020,5,14814.0,unemployed_5-14_weeks,2020-5
-2015,1,1377.0,unemployed_15-26_weeks,2015-1
-2015,2,1333.0,unemployed_15-26_weeks,2015-2
-2015,3,1245.0,unemployed_15-26_weeks,2015-3
-2015,4,1091.0,unemployed_15-26_weeks,2015-4
-2015,5,1256.0,unemployed_15-26_weeks,2015-5
-2015,6,1398.0,unemployed_15-26_weeks,2015-6
-2015,7,1261.0,unemployed_15-26_weeks,2015-7
-2015,8,1283.0,unemployed_15-26_weeks,2015-8
-2015,9,1234.0,unemployed_15-26_weeks,2015-9
-2015,10,1212.0,unemployed_15-26_weeks,2015-10
-2015,11,1273.0,unemployed_15-26_weeks,2015-11
-2015,12,1232.0,unemployed_15-26_weeks,2015-12
-2016,1,1114.0,unemployed_15-26_weeks,2016-1
-2016,2,1140.0,unemployed_15-26_weeks,2016-2
-2016,3,1175.0,unemployed_15-26_weeks,2016-3
-2016,4,1251.0,unemployed_15-26_weeks,2016-4
-2016,5,1133.0,unemployed_15-26_weeks,2016-5
-2016,6,1152.0,unemployed_15-26_weeks,2016-6
-2016,7,1222.0,unemployed_15-26_weeks,2016-7
-2016,8,1081.0,unemployed_15-26_weeks,2016-8
-2016,9,1164.0,unemployed_15-26_weeks,2016-9
-2016,10,1168.0,unemployed_15-26_weeks,2016-10
-2016,11,1088.0,unemployed_15-26_weeks,2016-11
-2016,12,1195.0,unemployed_15-26_weeks,2016-12
-2017,1,1178.0,unemployed_15-26_weeks,2017-1
-2017,2,1039.0,unemployed_15-26_weeks,2017-2
-2017,3,1087.0,unemployed_15-26_weeks,2017-3
-2017,4,1071.0,unemployed_15-26_weeks,2017-4
-2017,5,1137.0,unemployed_15-26_weeks,2017-5
-2017,6,939.0,unemployed_15-26_weeks,2017-6
-2017,7,1006.0,unemployed_15-26_weeks,2017-7
-2017,8,1067.0,unemployed_15-26_weeks,2017-8
-2017,9,962.0,unemployed_15-26_weeks,2017-9
-2017,10,860.0,unemployed_15-26_weeks,2017-10
-2017,11,964.0,unemployed_15-26_weeks,2017-11
-2017,12,891.0,unemployed_15-26_weeks,2017-12
-2018,1,955.0,unemployed_15-26_weeks,2018-1
-2018,2,918.0,unemployed_15-26_weeks,2018-2
-2018,3,889.0,unemployed_15-26_weeks,2018-3
-2018,4,1026.0,unemployed_15-26_weeks,2018-4
-2018,5,993.0,unemployed_15-26_weeks,2018-5
-2018,6,865.0,unemployed_15-26_weeks,2018-6
-2018,7,967.0,unemployed_15-26_weeks,2018-7
-2018,8,933.0,unemployed_15-26_weeks,2018-8
-2018,9,859.0,unemployed_15-26_weeks,2018-9
-2018,10,847.0,unemployed_15-26_weeks,2018-10
-2018,11,860.0,unemployed_15-26_weeks,2018-11
-2018,12,899.0,unemployed_15-26_weeks,2018-12
-2019,1,898.0,unemployed_15-26_weeks,2019-1
-2019,2,928.0,unemployed_15-26_weeks,2019-2
-2019,3,936.0,unemployed_15-26_weeks,2019-3
-2019,4,860.0,unemployed_15-26_weeks,2019-4
-2019,5,822.0,unemployed_15-26_weeks,2019-5
-2019,6,776.0,unemployed_15-26_weeks,2019-6
-2019,7,909.0,unemployed_15-26_weeks,2019-7
-2019,8,831.0,unemployed_15-26_weeks,2019-8
-2019,9,806.0,unemployed_15-26_weeks,2019-9
-2019,10,884.0,unemployed_15-26_weeks,2019-10
-2019,11,865.0,unemployed_15-26_weeks,2019-11
-2019,12,812.0,unemployed_15-26_weeks,2019-12
-2020,1,887.0,unemployed_15-26_weeks,2020-1
-2020,2,825.0,unemployed_15-26_weeks,2020-2
-2020,3,808.0,unemployed_15-26_weeks,2020-3
-2020,4,833.0,unemployed_15-26_weeks,2020-4
-2020,5,1078.0,unemployed_15-26_weeks,2020-5
-2015,1,1009.0,new_entrants,2015-1
-2015,2,935.0,new_entrants,2015-2
-2015,3,812.0,new_entrants,2015-3
-2015,4,873.0,new_entrants,2015-4
-2015,5,978.0,new_entrants,2015-5
-2015,6,906.0,new_entrants,2015-6
-2015,7,834.0,new_entrants,2015-7
-2015,8,842.0,new_entrants,2015-8
-2015,9,840.0,new_entrants,2015-9
-2015,10,825.0,new_entrants,2015-10
-2015,11,871.0,new_entrants,2015-11
-2015,12,856.0,new_entrants,2015-12
-2016,1,799.0,new_entrants,2016-1
-2016,2,815.0,new_entrants,2016-2
-2016,3,769.0,new_entrants,2016-3
-2016,4,852.0,new_entrants,2016-4
-2016,5,898.0,new_entrants,2016-5
-2016,6,893.0,new_entrants,2016-6
-2016,7,819.0,new_entrants,2016-7
-2016,8,865.0,new_entrants,2016-8
-2016,9,803.0,new_entrants,2016-9
-2016,10,797.0,new_entrants,2016-10
-2016,11,745.0,new_entrants,2016-11
-2016,12,783.0,new_entrants,2016-12
-2017,1,782.0,new_entrants,2017-1
-2017,2,741.0,new_entrants,2017-2
-2017,3,775.0,new_entrants,2017-3
-2017,4,708.0,new_entrants,2017-4
-2017,5,677.0,new_entrants,2017-5
-2017,6,686.0,new_entrants,2017-6
-2017,7,696.0,new_entrants,2017-7
-2017,8,657.0,new_entrants,2017-8
-2017,9,660.0,new_entrants,2017-9
-2017,10,617.0,new_entrants,2017-10
-2017,11,719.0,new_entrants,2017-11
-2017,12,576.0,new_entrants,2017-12
-2018,1,634.0,new_entrants,2018-1
-2018,2,691.0,new_entrants,2018-2
-2018,3,599.0,new_entrants,2018-3
-2018,4,622.0,new_entrants,2018-4
-2018,5,571.0,new_entrants,2018-5
-2018,6,585.0,new_entrants,2018-6
-2018,7,591.0,new_entrants,2018-7
-2018,8,591.0,new_entrants,2018-8
-2018,9,582.0,new_entrants,2018-9
-2018,10,597.0,new_entrants,2018-10
-2018,11,585.0,new_entrants,2018-11
-2018,12,600.0,new_entrants,2018-12
-2019,1,607.0,new_entrants,2019-1
-2019,2,619.0,new_entrants,2019-2
-2019,3,605.0,new_entrants,2019-3
-2019,4,535.0,new_entrants,2019-4
-2019,5,602.0,new_entrants,2019-5
-2019,6,537.0,new_entrants,2019-6
-2019,7,597.0,new_entrants,2019-7
-2019,8,577.0,new_entrants,2019-8
-2019,9,673.0,new_entrants,2019-9
-2019,10,622.0,new_entrants,2019-10
-2019,11,581.0,new_entrants,2019-11
-2019,12,551.0,new_entrants,2019-12
-2020,1,557.0,new_entrants,2020-1
-2020,2,505.0,new_entrants,2020-2
-2020,3,509.0,new_entrants,2020-3
-2020,4,389.0,new_entrants,2020-4
-2020,5,536.0,new_entrants,2020-5
-2015,1,4219.0,job_losers,2015-1
-2015,2,4174.0,job_losers,2015-2
-2015,3,4150.0,job_losers,2015-3
-2015,4,4159.0,job_losers,2015-4
-2015,5,4403.0,job_losers,2015-5
-2015,6,4070.0,job_losers,2015-6
-2015,7,4071.0,job_losers,2015-7
-2015,8,3973.0,job_losers,2015-8
-2015,9,3877.0,job_losers,2015-9
-2015,10,3995.0,job_losers,2015-10
-2015,11,3903.0,job_losers,2015-11
-2015,12,3795.0,job_losers,2015-12
-2016,1,3618.0,job_losers,2016-1
-2016,2,3730.0,job_losers,2016-2
-2016,3,3817.0,job_losers,2016-3
-2016,4,3882.0,job_losers,2016-4
-2016,5,3717.0,job_losers,2016-5
-2016,6,3772.0,job_losers,2016-6
-2016,7,3697.0,job_losers,2016-7
-2016,8,3757.0,job_losers,2016-8
-2016,9,4017.0,job_losers,2016-9
-2016,10,3797.0,job_losers,2016-10
-2016,11,3538.0,job_losers,2016-11
-2016,12,3617.0,job_losers,2016-12
-2017,1,3621.0,job_losers,2017-1
-2017,2,3661.0,job_losers,2017-2
-2017,3,3491.0,job_losers,2017-3
-2017,4,3563.0,job_losers,2017-4
-2017,5,3414.0,job_losers,2017-5
-2017,6,3444.0,job_losers,2017-6
-2017,7,3313.0,job_losers,2017-7
-2017,8,3494.0,job_losers,2017-8
-2017,9,3417.0,job_losers,2017-9
-2017,10,3251.0,job_losers,2017-10
-2017,11,3183.0,job_losers,2017-11
-2017,12,3240.0,job_losers,2017-12
-2018,1,3199.0,job_losers,2018-1
-2018,2,3244.0,job_losers,2018-2
-2018,3,3091.0,job_losers,2018-3
-2018,4,2999.0,job_losers,2018-4
-2018,5,2865.0,job_losers,2018-5
-2018,6,3081.0,job_losers,2018-6
-2018,7,2978.0,job_losers,2018-7
-2018,8,2843.0,job_losers,2018-8
-2018,9,2864.0,job_losers,2018-9
-2018,10,2876.0,job_losers,2018-10
-2018,11,2849.0,job_losers,2018-11
-2018,12,2892.0,job_losers,2018-12
-2019,1,3060.0,job_losers,2019-1
-2019,2,2863.0,job_losers,2019-2
-2019,3,2826.0,job_losers,2019-3
-2019,4,2660.0,job_losers,2019-4
-2019,5,2674.0,job_losers,2019-5
-2019,6,2744.0,job_losers,2019-6
-2019,7,2796.0,job_losers,2019-7
-2019,8,2864.0,job_losers,2019-8
-2019,9,2575.0,job_losers,2019-9
-2019,10,2691.0,job_losers,2019-10
-2019,11,2804.0,job_losers,2019-11
-2019,12,2686.0,job_losers,2019-12
-2020,1,2665.0,job_losers,2020-1
-2020,2,2723.0,job_losers,2020-2
-2020,3,3946.0,job_losers,2020-3
-2020,4,20626.0,job_losers,2020-4
-2020,5,18291.0,job_losers,2020-5
-2015,1,911.0,job_losers_on_layoff,2015-1
-2015,2,1015.0,job_losers_on_layoff,2015-2
-2015,3,1015.0,job_losers_on_layoff,2015-3
-2015,4,1006.0,job_losers_on_layoff,2015-4
-2015,5,1129.0,job_losers_on_layoff,2015-5
-2015,6,1019.0,job_losers_on_layoff,2015-6
-2015,7,953.0,job_losers_on_layoff,2015-7
-2015,8,944.0,job_losers_on_layoff,2015-8
-2015,9,917.0,job_losers_on_layoff,2015-9
-2015,10,997.0,job_losers_on_layoff,2015-10
-2015,11,898.0,job_losers_on_layoff,2015-11
-2015,12,921.0,job_losers_on_layoff,2015-12
-2016,1,903.0,job_losers_on_layoff,2016-1
-2016,2,961.0,job_losers_on_layoff,2016-2
-2016,3,935.0,job_losers_on_layoff,2016-3
-2016,4,883.0,job_losers_on_layoff,2016-4
-2016,5,907.0,job_losers_on_layoff,2016-5
-2016,6,1091.0,job_losers_on_layoff,2016-6
-2016,7,956.0,job_losers_on_layoff,2016-7
-2016,8,970.0,job_losers_on_layoff,2016-8
-2016,9,1136.0,job_losers_on_layoff,2016-9
-2016,10,1056.0,job_losers_on_layoff,2016-10
-2016,11,846.0,job_losers_on_layoff,2016-11
-2016,12,1029.0,job_losers_on_layoff,2016-12
-2017,1,1033.0,job_losers_on_layoff,2017-1
-2017,2,979.0,job_losers_on_layoff,2017-2
-2017,3,951.0,job_losers_on_layoff,2017-3
-2017,4,963.0,job_losers_on_layoff,2017-4
-2017,5,822.0,job_losers_on_layoff,2017-5
-2017,6,893.0,job_losers_on_layoff,2017-6
-2017,7,991.0,job_losers_on_layoff,2017-7
-2017,8,1005.0,job_losers_on_layoff,2017-8
-2017,9,946.0,job_losers_on_layoff,2017-9
-2017,10,897.0,job_losers_on_layoff,2017-10
-2017,11,955.0,job_losers_on_layoff,2017-11
-2017,12,930.0,job_losers_on_layoff,2017-12
-2018,1,889.0,job_losers_on_layoff,2018-1
-2018,2,885.0,job_losers_on_layoff,2018-2
-2018,3,850.0,job_losers_on_layoff,2018-3
-2018,4,884.0,job_losers_on_layoff,2018-4
-2018,5,771.0,job_losers_on_layoff,2018-5
-2018,6,917.0,job_losers_on_layoff,2018-6
-2018,7,858.0,job_losers_on_layoff,2018-7
-2018,8,844.0,job_losers_on_layoff,2018-8
-2018,9,857.0,job_losers_on_layoff,2018-9
-2018,10,825.0,job_losers_on_layoff,2018-10
-2018,11,835.0,job_losers_on_layoff,2018-11
-2018,12,768.0,job_losers_on_layoff,2018-12
-2019,1,940.0,job_losers_on_layoff,2019-1
-2019,2,828.0,job_losers_on_layoff,2019-2
-2019,3,866.0,job_losers_on_layoff,2019-3
-2019,4,722.0,job_losers_on_layoff,2019-4
-2019,5,865.0,job_losers_on_layoff,2019-5
-2019,6,805.0,job_losers_on_layoff,2019-6
-2019,7,828.0,job_losers_on_layoff,2019-7
-2019,8,812.0,job_losers_on_layoff,2019-8
-2019,9,729.0,job_losers_on_layoff,2019-9
-2019,10,772.0,job_losers_on_layoff,2019-10
-2019,11,768.0,job_losers_on_layoff,2019-11
-2019,12,807.0,job_losers_on_layoff,2019-12
-2020,1,742.0,job_losers_on_layoff,2020-1
-2020,2,801.0,job_losers_on_layoff,2020-2
-2020,3,1848.0,job_losers_on_layoff,2020-3
-2020,4,18063.0,job_losers_on_layoff,2020-4
-2020,5,15343.0,job_losers_on_layoff,2020-5
-2015,1,868.0,job_leavers,2015-1
-2015,2,900.0,job_leavers,2015-2
-2015,3,864.0,job_leavers,2015-3
-2015,4,841.0,job_leavers,2015-4
-2015,5,819.0,job_leavers,2015-5
-2015,6,765.0,job_leavers,2015-6
-2015,7,841.0,job_leavers,2015-7
-2015,8,775.0,job_leavers,2015-8
-2015,9,779.0,job_leavers,2015-9
-2015,10,785.0,job_leavers,2015-10
-2015,11,783.0,job_leavers,2015-11
-2015,12,815.0,job_leavers,2015-12
-2016,1,778.0,job_leavers,2016-1
-2016,2,773.0,job_leavers,2016-2
-2016,3,840.0,job_leavers,2016-3
-2016,4,875.0,job_leavers,2016-4
-2016,5,786.0,job_leavers,2016-5
-2016,6,826.0,job_leavers,2016-6
-2016,7,827.0,job_leavers,2016-7
-2016,8,877.0,job_leavers,2016-8
-2016,9,916.0,job_leavers,2016-9
-2016,10,958.0,job_leavers,2016-10
-2016,11,931.0,job_leavers,2016-11
-2016,12,900.0,job_leavers,2016-12
-2017,1,875.0,job_leavers,2017-1
-2017,2,809.0,job_leavers,2017-2
-2017,3,789.0,job_leavers,2017-3
-2017,4,778.0,job_leavers,2017-4
-2017,5,780.0,job_leavers,2017-5
-2017,6,805.0,job_leavers,2017-6
-2017,7,740.0,job_leavers,2017-7
-2017,8,790.0,job_leavers,2017-8
-2017,9,751.0,job_leavers,2017-9
-2017,10,748.0,job_leavers,2017-10
-2017,11,760.0,job_leavers,2017-11
-2017,12,718.0,job_leavers,2017-12
-2018,1,725.0,job_leavers,2018-1
-2018,2,778.0,job_leavers,2018-2
-2018,3,867.0,job_leavers,2018-3
-2018,4,812.0,job_leavers,2018-4
-2018,5,841.0,job_leavers,2018-5
-2018,6,795.0,job_leavers,2018-6
-2018,7,829.0,job_leavers,2018-7
-2018,8,875.0,job_leavers,2018-8
-2018,9,742.0,job_leavers,2018-9
-2018,10,732.0,job_leavers,2018-10
-2018,11,709.0,job_leavers,2018-11
-2018,12,827.0,job_leavers,2018-12
-2019,1,816.0,job_leavers,2019-1
-2019,2,841.0,job_leavers,2019-2
-2019,3,780.0,job_leavers,2019-3
-2019,4,728.0,job_leavers,2019-4
-2019,5,809.0,job_leavers,2019-5
-2019,6,889.0,job_leavers,2019-6
-2019,7,832.0,job_leavers,2019-7
-2019,8,784.0,job_leavers,2019-8
-2019,9,840.0,job_leavers,2019-9
-2019,10,846.0,job_leavers,2019-10
-2019,11,776.0,job_leavers,2019-11
-2019,12,829.0,job_leavers,2019-12
-2020,1,836.0,job_leavers,2020-1
-2020,2,777.0,job_leavers,2020-2
-2020,3,727.0,job_leavers,2020-3
-2020,4,570.0,job_leavers,2020-4
-2020,5,554.0,job_leavers,2020-5
-2015,1,1425.0,55_and_over,2015-1
-2015,2,1448.0,55_and_over,2015-2
-2015,3,1337.0,55_and_over,2015-3
-2015,4,1385.0,55_and_over,2015-4
-2015,5,1315.0,55_and_over,2015-5
-2015,6,1279.0,55_and_over,2015-6
-2015,7,1272.0,55_and_over,2015-7
-2015,8,1319.0,55_and_over,2015-8
-2015,9,1334.0,55_and_over,2015-9
-2015,10,1220.0,55_and_over,2015-10
-2015,11,1312.0,55_and_over,2015-11
-2015,12,1111.0,55_and_over,2015-12
-2016,1,1304.0,55_and_over,2016-1
-2016,2,1338.0,55_and_over,2016-2
-2016,3,1388.0,55_and_over,2016-3
-2016,4,1315.0,55_and_over,2016-4
-2016,5,1208.0,55_and_over,2016-5
-2016,6,1262.0,55_and_over,2016-6
-2016,7,1313.0,55_and_over,2016-7
-2016,8,1259.0,55_and_over,2016-8
-2016,9,1281.0,55_and_over,2016-9
-2016,10,1340.0,55_and_over,2016-10
-2016,11,1269.0,55_and_over,2016-11
-2016,12,1269.0,55_and_over,2016-12
-2017,1,1265.0,55_and_over,2017-1
-2017,2,1229.0,55_and_over,2017-2
-2017,3,1216.0,55_and_over,2017-3
-2017,4,1169.0,55_and_over,2017-4
-2017,5,1132.0,55_and_over,2017-5
-2017,6,1146.0,55_and_over,2017-6
-2017,7,1148.0,55_and_over,2017-7
-2017,8,1154.0,55_and_over,2017-8
-2017,9,1182.0,55_and_over,2017-9
-2017,10,1134.0,55_and_over,2017-10
-2017,11,1137.0,55_and_over,2017-11
-2017,12,1203.0,55_and_over,2017-12
-2018,1,1102.0,55_and_over,2018-1
-2018,2,1197.0,55_and_over,2018-2
-2018,3,1178.0,55_and_over,2018-3
-2018,4,1112.0,55_and_over,2018-4
-2018,5,1032.0,55_and_over,2018-5
-2018,6,1156.0,55_and_over,2018-6
-2018,7,1144.0,55_and_over,2018-7
-2018,8,1144.0,55_and_over,2018-8
-2018,9,1062.0,55_and_over,2018-9
-2018,10,1069.0,55_and_over,2018-10
-2018,11,1075.0,55_and_over,2018-11
-2018,12,1096.0,55_and_over,2018-12
-2019,1,1212.0,55_and_over,2019-1
-2019,2,1035.0,55_and_over,2019-2
-2019,3,1016.0,55_and_over,2019-3
-2019,4,975.0,55_and_over,2019-4
-2019,5,1037.0,55_and_over,2019-5
-2019,6,1141.0,55_and_over,2019-6
-2019,7,1041.0,55_and_over,2019-7
-2019,8,1010.0,55_and_over,2019-8
-2019,9,923.0,55_and_over,2019-9
-2019,10,1000.0,55_and_over,2019-10
-2019,11,998.0,55_and_over,2019-11
-2019,12,911.0,55_and_over,2019-12
-2020,1,1000.0,55_and_over,2020-1
-2020,2,1003.0,55_and_over,2020-2
-2020,3,1276.0,55_and_over,2020-3
-2020,4,5071.0,55_and_over,2020-4
-2020,5,4398.0,55_and_over,2020-5
-2015,1,3308.0,job_losers_not_on_layoff,2015-1
-2015,2,3158.0,job_losers_not_on_layoff,2015-2
-2015,3,3134.0,job_losers_not_on_layoff,2015-3
-2015,4,3153.0,job_losers_not_on_layoff,2015-4
-2015,5,3274.0,job_losers_not_on_layoff,2015-5
-2015,6,3051.0,job_losers_not_on_layoff,2015-6
-2015,7,3117.0,job_losers_not_on_layoff,2015-7
-2015,8,3029.0,job_losers_not_on_layoff,2015-8
-2015,9,2960.0,job_losers_not_on_layoff,2015-9
-2015,10,2998.0,job_losers_not_on_layoff,2015-10
-2015,11,3005.0,job_losers_not_on_layoff,2015-11
-2015,12,2873.0,job_losers_not_on_layoff,2015-12
-2016,1,2715.0,job_losers_not_on_layoff,2016-1
-2016,2,2769.0,job_losers_not_on_layoff,2016-2
-2016,3,2882.0,job_losers_not_on_layoff,2016-3
-2016,4,2999.0,job_losers_not_on_layoff,2016-4
-2016,5,2810.0,job_losers_not_on_layoff,2016-5
-2016,6,2681.0,job_losers_not_on_layoff,2016-6
-2016,7,2741.0,job_losers_not_on_layoff,2016-7
-2016,8,2787.0,job_losers_not_on_layoff,2016-8
-2016,9,2881.0,job_losers_not_on_layoff,2016-9
-2016,10,2741.0,job_losers_not_on_layoff,2016-10
-2016,11,2692.0,job_losers_not_on_layoff,2016-11
-2016,12,2588.0,job_losers_not_on_layoff,2016-12
-2017,1,2588.0,job_losers_not_on_layoff,2017-1
-2017,2,2682.0,job_losers_not_on_layoff,2017-2
-2017,3,2540.0,job_losers_not_on_layoff,2017-3
-2017,4,2600.0,job_losers_not_on_layoff,2017-4
-2017,5,2592.0,job_losers_not_on_layoff,2017-5
-2017,6,2552.0,job_losers_not_on_layoff,2017-6
-2017,7,2323.0,job_losers_not_on_layoff,2017-7
-2017,8,2489.0,job_losers_not_on_layoff,2017-8
-2017,9,2471.0,job_losers_not_on_layoff,2017-9
-2017,10,2353.0,job_losers_not_on_layoff,2017-10
-2017,11,2228.0,job_losers_not_on_layoff,2017-11
-2017,12,2310.0,job_losers_not_on_layoff,2017-12
-2018,1,2309.0,job_losers_not_on_layoff,2018-1
-2018,2,2359.0,job_losers_not_on_layoff,2018-2
-2018,3,2241.0,job_losers_not_on_layoff,2018-3
-2018,4,2115.0,job_losers_not_on_layoff,2018-4
-2018,5,2094.0,job_losers_not_on_layoff,2018-5
-2018,6,2164.0,job_losers_not_on_layoff,2018-6
-2018,7,2119.0,job_losers_not_on_layoff,2018-7
-2018,8,1999.0,job_losers_not_on_layoff,2018-8
-2018,9,2007.0,job_losers_not_on_layoff,2018-9
-2018,10,2050.0,job_losers_not_on_layoff,2018-10
-2018,11,2014.0,job_losers_not_on_layoff,2018-11
-2018,12,2123.0,job_losers_not_on_layoff,2018-12
-2019,1,2120.0,job_losers_not_on_layoff,2019-1
-2019,2,2036.0,job_losers_not_on_layoff,2019-2
-2019,3,1959.0,job_losers_not_on_layoff,2019-3
-2019,4,1938.0,job_losers_not_on_layoff,2019-4
-2019,5,1810.0,job_losers_not_on_layoff,2019-5
-2019,6,1939.0,job_losers_not_on_layoff,2019-6
-2019,7,1968.0,job_losers_not_on_layoff,2019-7
-2019,8,2052.0,job_losers_not_on_layoff,2019-8
-2019,9,1846.0,job_losers_not_on_layoff,2019-9
-2019,10,1919.0,job_losers_not_on_layoff,2019-10
-2019,11,2036.0,job_losers_not_on_layoff,2019-11
-2019,12,1880.0,job_losers_not_on_layoff,2019-12
-2020,1,1923.0,job_losers_not_on_layoff,2020-1
-2020,2,1922.0,job_losers_not_on_layoff,2020-2
-2020,3,2099.0,job_losers_not_on_layoff,2020-3
-2020,4,2563.0,job_losers_not_on_layoff,2020-4
-2020,5,2948.0,job_losers_not_on_layoff,2020-5
-2015,1,970.0,persons_completed_temporary_jobs,2015-1
-2015,2,952.0,persons_completed_temporary_jobs,2015-2
-2015,3,951.0,persons_completed_temporary_jobs,2015-3
-2015,4,915.0,persons_completed_temporary_jobs,2015-4
-2015,5,1034.0,persons_completed_temporary_jobs,2015-5
-2015,6,905.0,persons_completed_temporary_jobs,2015-6
-2015,7,919.0,persons_completed_temporary_jobs,2015-7
-2015,8,906.0,persons_completed_temporary_jobs,2015-8
-2015,9,833.0,persons_completed_temporary_jobs,2015-9
-2015,10,869.0,persons_completed_temporary_jobs,2015-10
-2015,11,837.0,persons_completed_temporary_jobs,2015-11
-2015,12,826.0,persons_completed_temporary_jobs,2015-12
-2016,1,867.0,persons_completed_temporary_jobs,2016-1
-2016,2,829.0,persons_completed_temporary_jobs,2016-2
-2016,3,843.0,persons_completed_temporary_jobs,2016-3
-2016,4,920.0,persons_completed_temporary_jobs,2016-4
-2016,5,778.0,persons_completed_temporary_jobs,2016-5
-2016,6,754.0,persons_completed_temporary_jobs,2016-6
-2016,7,724.0,persons_completed_temporary_jobs,2016-7
-2016,8,796.0,persons_completed_temporary_jobs,2016-8
-2016,9,888.0,persons_completed_temporary_jobs,2016-9
-2016,10,831.0,persons_completed_temporary_jobs,2016-10
-2016,11,753.0,persons_completed_temporary_jobs,2016-11
-2016,12,699.0,persons_completed_temporary_jobs,2016-12
-2017,1,651.0,persons_completed_temporary_jobs,2017-1
-2017,2,693.0,persons_completed_temporary_jobs,2017-2
-2017,3,768.0,persons_completed_temporary_jobs,2017-3
-2017,4,786.0,persons_completed_temporary_jobs,2017-4
-2017,5,811.0,persons_completed_temporary_jobs,2017-5
-2017,6,785.0,persons_completed_temporary_jobs,2017-6
-2017,7,661.0,persons_completed_temporary_jobs,2017-7
-2017,8,700.0,persons_completed_temporary_jobs,2017-8
-2017,9,686.0,persons_completed_temporary_jobs,2017-9
-2017,10,652.0,persons_completed_temporary_jobs,2017-10
-2017,11,654.0,persons_completed_temporary_jobs,2017-11
-2017,12,694.0,persons_completed_temporary_jobs,2017-12
-2018,1,691.0,persons_completed_temporary_jobs,2018-1
-2018,2,681.0,persons_completed_temporary_jobs,2018-2
-2018,3,647.0,persons_completed_temporary_jobs,2018-3
-2018,4,679.0,persons_completed_temporary_jobs,2018-4
-2018,5,638.0,persons_completed_temporary_jobs,2018-5
-2018,6,692.0,persons_completed_temporary_jobs,2018-6
-2018,7,685.0,persons_completed_temporary_jobs,2018-7
-2018,8,663.0,persons_completed_temporary_jobs,2018-8
-2018,9,729.0,persons_completed_temporary_jobs,2018-9
-2018,10,688.0,persons_completed_temporary_jobs,2018-10
-2018,11,691.0,persons_completed_temporary_jobs,2018-11
-2018,12,704.0,persons_completed_temporary_jobs,2018-12
-2019,1,706.0,persons_completed_temporary_jobs,2019-1
-2019,2,732.0,persons_completed_temporary_jobs,2019-2
-2019,3,583.0,persons_completed_temporary_jobs,2019-3
-2019,4,625.0,persons_completed_temporary_jobs,2019-4
-2019,5,510.0,persons_completed_temporary_jobs,2019-5
-2019,6,585.0,persons_completed_temporary_jobs,2019-6
-2019,7,609.0,persons_completed_temporary_jobs,2019-7
-2019,8,664.0,persons_completed_temporary_jobs,2019-8
-2019,9,528.0,persons_completed_temporary_jobs,2019-9
-2019,10,659.0,persons_completed_temporary_jobs,2019-10
-2019,11,614.0,persons_completed_temporary_jobs,2019-11
-2019,12,585.0,persons_completed_temporary_jobs,2019-12
-2020,1,634.0,persons_completed_temporary_jobs,2020-1
-2020,2,644.0,persons_completed_temporary_jobs,2020-2
-2020,3,643.0,persons_completed_temporary_jobs,2020-3
-2020,4,563.0,persons_completed_temporary_jobs,2020-4
-2020,5,653.0,persons_completed_temporary_jobs,2020-5
-2015,1,2338.0,permanent_job_losers,2015-1
-2015,2,2207.0,permanent_job_losers,2015-2
-2015,3,2183.0,permanent_job_losers,2015-3
-2015,4,2238.0,permanent_job_losers,2015-4
-2015,5,2240.0,permanent_job_losers,2015-5
-2015,6,2146.0,permanent_job_losers,2015-6
-2015,7,2198.0,permanent_job_losers,2015-7
-2015,8,2123.0,permanent_job_losers,2015-8
-2015,9,2128.0,permanent_job_losers,2015-9
-2015,10,2129.0,permanent_job_losers,2015-10
-2015,11,2169.0,permanent_job_losers,2015-11
-2015,12,2047.0,permanent_job_losers,2015-12
-2016,1,1848.0,permanent_job_losers,2016-1
-2016,2,1940.0,permanent_job_losers,2016-2
-2016,3,2039.0,permanent_job_losers,2016-3
-2016,4,2079.0,permanent_job_losers,2016-4
-2016,5,2032.0,permanent_job_losers,2016-5
-2016,6,1927.0,permanent_job_losers,2016-6
-2016,7,2017.0,permanent_job_losers,2016-7
-2016,8,1991.0,permanent_job_losers,2016-8
-2016,9,1993.0,permanent_job_losers,2016-9
-2016,10,1909.0,permanent_job_losers,2016-10
-2016,11,1940.0,permanent_job_losers,2016-11
-2016,12,1890.0,permanent_job_losers,2016-12
-2017,1,1937.0,permanent_job_losers,2017-1
-2017,2,1989.0,permanent_job_losers,2017-2
-2017,3,1772.0,permanent_job_losers,2017-3
-2017,4,1813.0,permanent_job_losers,2017-4
-2017,5,1782.0,permanent_job_losers,2017-5
-2017,6,1767.0,permanent_job_losers,2017-6
-2017,7,1662.0,permanent_job_losers,2017-7
-2017,8,1789.0,permanent_job_losers,2017-8
-2017,9,1784.0,permanent_job_losers,2017-9
-2017,10,1701.0,permanent_job_losers,2017-10
-2017,11,1575.0,permanent_job_losers,2017-11
-2017,12,1616.0,permanent_job_losers,2017-12
-2018,1,1618.0,permanent_job_losers,2018-1
-2018,2,1677.0,permanent_job_losers,2018-2
-2018,3,1594.0,permanent_job_losers,2018-3
-2018,4,1436.0,permanent_job_losers,2018-4
-2018,5,1456.0,permanent_job_losers,2018-5
-2018,6,1472.0,permanent_job_losers,2018-6
-2018,7,1434.0,permanent_job_losers,2018-7
-2018,8,1336.0,permanent_job_losers,2018-8
-2018,9,1278.0,permanent_job_losers,2018-9
-2018,10,1362.0,permanent_job_losers,2018-10
-2018,11,1322.0,permanent_job_losers,2018-11
-2018,12,1419.0,permanent_job_losers,2018-12
-2019,1,1415.0,permanent_job_losers,2019-1
-2019,2,1304.0,permanent_job_losers,2019-2
-2019,3,1376.0,permanent_job_losers,2019-3
-2019,4,1314.0,permanent_job_losers,2019-4
-2019,5,1300.0,permanent_job_losers,2019-5
-2019,6,1355.0,permanent_job_losers,2019-6
-2019,7,1360.0,permanent_job_losers,2019-7
-2019,8,1388.0,permanent_job_losers,2019-8
-2019,9,1318.0,permanent_job_losers,2019-9
-2019,10,1260.0,permanent_job_losers,2019-10
-2019,11,1422.0,permanent_job_losers,2019-11
-2019,12,1295.0,permanent_job_losers,2019-12
-2020,1,1289.0,permanent_job_losers,2020-1
-2020,2,1279.0,permanent_job_losers,2020-2
-2020,3,1456.0,permanent_job_losers,2020-3
-2020,4,2000.0,permanent_job_losers,2020-4
-2020,5,2295.0,permanent_job_losers,2020-5
-2015,1,939.0,less_than_highschool_diploma,2015-1
-2015,2,919.0,less_than_highschool_diploma,2015-2
-2015,3,952.0,less_than_highschool_diploma,2015-3
-2015,4,956.0,less_than_highschool_diploma,2015-4
-2015,5,970.0,less_than_highschool_diploma,2015-5
-2015,6,907.0,less_than_highschool_diploma,2015-6
-2015,7,900.0,less_than_highschool_diploma,2015-7
-2015,8,839.0,less_than_highschool_diploma,2015-8
-2015,9,839.0,less_than_highschool_diploma,2015-9
-2015,10,811.0,less_than_highschool_diploma,2015-10
-2015,11,742.0,less_than_highschool_diploma,2015-11
-2015,12,695.0,less_than_highschool_diploma,2015-12
-2016,1,769.0,less_than_highschool_diploma,2016-1
-2016,2,754.0,less_than_highschool_diploma,2016-2
-2016,3,796.0,less_than_highschool_diploma,2016-3
-2016,4,819.0,less_than_highschool_diploma,2016-4
-2016,5,783.0,less_than_highschool_diploma,2016-5
-2016,6,807.0,less_than_highschool_diploma,2016-6
-2016,7,690.0,less_than_highschool_diploma,2016-7
-2016,8,793.0,less_than_highschool_diploma,2016-8
-2016,9,917.0,less_than_highschool_diploma,2016-9
-2016,10,793.0,less_than_highschool_diploma,2016-10
-2016,11,826.0,less_than_highschool_diploma,2016-11
-2016,12,785.0,less_than_highschool_diploma,2016-12
-2017,1,772.0,less_than_highschool_diploma,2017-1
-2017,2,792.0,less_than_highschool_diploma,2017-2
-2017,3,670.0,less_than_highschool_diploma,2017-3
-2017,4,648.0,less_than_highschool_diploma,2017-4
-2017,5,653.0,less_than_highschool_diploma,2017-5
-2017,6,673.0,less_than_highschool_diploma,2017-6
-2017,7,756.0,less_than_highschool_diploma,2017-7
-2017,8,644.0,less_than_highschool_diploma,2017-8
-2017,9,710.0,less_than_highschool_diploma,2017-9
-2017,10,611.0,less_than_highschool_diploma,2017-10
-2017,11,530.0,less_than_highschool_diploma,2017-11
-2017,12,630.0,less_than_highschool_diploma,2017-12
-2018,1,560.0,less_than_highschool_diploma,2018-1
-2018,2,589.0,less_than_highschool_diploma,2018-2
-2018,3,560.0,less_than_highschool_diploma,2018-3
-2018,4,602.0,less_than_highschool_diploma,2018-4
-2018,5,562.0,less_than_highschool_diploma,2018-5
-2018,6,583.0,less_than_highschool_diploma,2018-6
-2018,7,530.0,less_than_highschool_diploma,2018-7
-2018,8,584.0,less_than_highschool_diploma,2018-8
-2018,9,577.0,less_than_highschool_diploma,2018-9
-2018,10,602.0,less_than_highschool_diploma,2018-10
-2018,11,570.0,less_than_highschool_diploma,2018-11
-2018,12,592.0,less_than_highschool_diploma,2018-12
-2019,1,573.0,less_than_highschool_diploma,2019-1
-2019,2,546.0,less_than_highschool_diploma,2019-2
-2019,3,586.0,less_than_highschool_diploma,2019-3
-2019,4,532.0,less_than_highschool_diploma,2019-4
-2019,5,532.0,less_than_highschool_diploma,2019-5
-2019,6,535.0,less_than_highschool_diploma,2019-6
-2019,7,517.0,less_than_highschool_diploma,2019-7
-2019,8,542.0,less_than_highschool_diploma,2019-8
-2019,9,477.0,less_than_highschool_diploma,2019-9
-2019,10,543.0,less_than_highschool_diploma,2019-10
-2019,11,516.0,less_than_highschool_diploma,2019-11
-2019,12,516.0,less_than_highschool_diploma,2019-12
-2020,1,531.0,less_than_highschool_diploma,2020-1
-2020,2,550.0,less_than_highschool_diploma,2020-2
-2020,3,625.0,less_than_highschool_diploma,2020-3
-2020,4,1821.0,less_than_highschool_diploma,2020-4
-2020,5,1634.0,less_than_highschool_diploma,2020-5
-2015,1,1910.0,highschool_no_college,2015-1
-2015,2,1891.0,highschool_no_college,2015-2
-2015,3,1877.0,highschool_no_college,2015-3
-2015,4,1938.0,highschool_no_college,2015-4
-2015,5,2067.0,highschool_no_college,2015-5
-2015,6,1906.0,highschool_no_college,2015-6
-2015,7,1950.0,highschool_no_college,2015-7
-2015,8,1944.0,highschool_no_college,2015-8
-2015,9,1870.0,highschool_no_college,2015-9
-2015,10,1841.0,highschool_no_college,2015-10
-2015,11,1920.0,highschool_no_college,2015-11
-2015,12,1942.0,highschool_no_college,2015-12
-2016,1,1831.0,highschool_no_college,2016-1
-2016,2,1850.0,highschool_no_college,2016-2
-2016,3,1900.0,highschool_no_college,2016-3
-2016,4,1941.0,highschool_no_college,2016-4
-2016,5,1827.0,highschool_no_college,2016-5
-2016,6,1785.0,highschool_no_college,2016-6
-2016,7,1805.0,highschool_no_college,2016-7
-2016,8,1806.0,highschool_no_college,2016-8
-2016,9,1884.0,highschool_no_college,2016-9
-2016,10,1952.0,highschool_no_college,2016-10
-2016,11,1777.0,highschool_no_college,2016-11
-2016,12,1814.0,highschool_no_college,2016-12
-2017,1,1828.0,highschool_no_college,2017-1
-2017,2,1740.0,highschool_no_college,2017-2
-2017,3,1756.0,highschool_no_college,2017-3
-2017,4,1665.0,highschool_no_college,2017-4
-2017,5,1720.0,highschool_no_college,2017-5
-2017,6,1640.0,highschool_no_college,2017-6
-2017,7,1605.0,highschool_no_college,2017-7
-2017,8,1822.0,highschool_no_college,2017-8
-2017,9,1564.0,highschool_no_college,2017-9
-2017,10,1502.0,highschool_no_college,2017-10
-2017,11,1576.0,highschool_no_college,2017-11
-2017,12,1507.0,highschool_no_college,2017-12
-2018,1,1586.0,highschool_no_college,2018-1
-2018,2,1583.0,highschool_no_college,2018-2
-2018,3,1546.0,highschool_no_college,2018-3
-2018,4,1529.0,highschool_no_college,2018-4
-2018,5,1410.0,highschool_no_college,2018-5
-2018,6,1491.0,highschool_no_college,2018-6
-2018,7,1475.0,highschool_no_college,2018-7
-2018,8,1424.0,highschool_no_college,2018-8
-2018,9,1359.0,highschool_no_college,2018-9
-2018,10,1440.0,highschool_no_college,2018-10
-2018,11,1263.0,highschool_no_college,2018-11
-2018,12,1372.0,highschool_no_college,2018-12
-2019,1,1361.0,highschool_no_college,2019-1
-2019,2,1357.0,highschool_no_college,2019-2
-2019,3,1328.0,highschool_no_college,2019-3
-2019,4,1237.0,highschool_no_college,2019-4
-2019,5,1278.0,highschool_no_college,2019-5
-2019,6,1407.0,highschool_no_college,2019-6
-2019,7,1306.0,highschool_no_college,2019-7
-2019,8,1302.0,highschool_no_college,2019-8
-2019,9,1315.0,highschool_no_college,2019-9
-2019,10,1335.0,highschool_no_college,2019-10
-2019,11,1328.0,highschool_no_college,2019-11
-2019,12,1330.0,highschool_no_college,2019-12
-2020,1,1369.0,highschool_no_college,2020-1
-2020,2,1323.0,highschool_no_college,2020-2
-2020,3,1545.0,highschool_no_college,2020-3
-2020,4,5747.0,highschool_no_college,2020-4
-2020,5,5187.0,highschool_no_college,2020-5
-2015,1,1458.0,bachelors_degree_and_higher,2015-1
-2015,2,1408.0,bachelors_degree_and_higher,2015-2
-2015,3,1225.0,bachelors_degree_and_higher,2015-3
-2015,4,1404.0,bachelors_degree_and_higher,2015-4
-2015,5,1462.0,bachelors_degree_and_higher,2015-5
-2015,6,1292.0,bachelors_degree_and_higher,2015-6
-2015,7,1320.0,bachelors_degree_and_higher,2015-7
-2015,8,1244.0,bachelors_degree_and_higher,2015-8
-2015,9,1315.0,bachelors_degree_and_higher,2015-9
-2015,10,1339.0,bachelors_degree_and_higher,2015-10
-2015,11,1342.0,bachelors_degree_and_higher,2015-11
-2015,12,1319.0,bachelors_degree_and_higher,2015-12
-2016,1,1321.0,bachelors_degree_and_higher,2016-1
-2016,2,1317.0,bachelors_degree_and_higher,2016-2
-2016,3,1370.0,bachelors_degree_and_higher,2016-3
-2016,4,1306.0,bachelors_degree_and_higher,2016-4
-2016,5,1326.0,bachelors_degree_and_higher,2016-5
-2016,6,1371.0,bachelors_degree_and_higher,2016-6
-2016,7,1332.0,bachelors_degree_and_higher,2016-7
-2016,8,1413.0,bachelors_degree_and_higher,2016-8
-2016,9,1385.0,bachelors_degree_and_higher,2016-9
-2016,10,1422.0,bachelors_degree_and_higher,2016-10
-2016,11,1279.0,bachelors_degree_and_higher,2016-11
-2016,12,1344.0,bachelors_degree_and_higher,2016-12
-2017,1,1347.0,bachelors_degree_and_higher,2017-1
-2017,2,1301.0,bachelors_degree_and_higher,2017-2
-2017,3,1310.0,bachelors_degree_and_higher,2017-3
-2017,4,1350.0,bachelors_degree_and_higher,2017-4
-2017,5,1289.0,bachelors_degree_and_higher,2017-5
-2017,6,1289.0,bachelors_degree_and_higher,2017-6
-2017,7,1278.0,bachelors_degree_and_higher,2017-7
-2017,8,1315.0,bachelors_degree_and_higher,2017-8
-2017,9,1275.0,bachelors_degree_and_higher,2017-9
-2017,10,1167.0,bachelors_degree_and_higher,2017-10
-2017,11,1159.0,bachelors_degree_and_higher,2017-11
-2017,12,1205.0,bachelors_degree_and_higher,2017-12
-2018,1,1197.0,bachelors_degree_and_higher,2018-1
-2018,2,1270.0,bachelors_degree_and_higher,2018-2
-2018,3,1238.0,bachelors_degree_and_higher,2018-3
-2018,4,1193.0,bachelors_degree_and_higher,2018-4
-2018,5,1144.0,bachelors_degree_and_higher,2018-5
-2018,6,1314.0,bachelors_degree_and_higher,2018-6
-2018,7,1247.0,bachelors_degree_and_higher,2018-7
-2018,8,1166.0,bachelors_degree_and_higher,2018-8
-2018,9,1149.0,bachelors_degree_and_higher,2018-9
-2018,10,1182.0,bachelors_degree_and_higher,2018-10
-2018,11,1296.0,bachelors_degree_and_higher,2018-11
-2018,12,1271.0,bachelors_degree_and_higher,2018-12
-2019,1,1392.0,bachelors_degree_and_higher,2019-1
-2019,2,1262.0,bachelors_degree_and_higher,2019-2
-2019,3,1189.0,bachelors_degree_and_higher,2019-3
-2019,4,1211.0,bachelors_degree_and_higher,2019-4
-2019,5,1244.0,bachelors_degree_and_higher,2019-5
-2019,6,1235.0,bachelors_degree_and_higher,2019-6
-2019,7,1257.0,bachelors_degree_and_higher,2019-7
-2019,8,1236.0,bachelors_degree_and_higher,2019-8
-2019,9,1193.0,bachelors_degree_and_higher,2019-9
-2019,10,1235.0,bachelors_degree_and_higher,2019-10
-2019,11,1174.0,bachelors_degree_and_higher,2019-11
-2019,12,1160.0,bachelors_degree_and_higher,2019-12
-2020,1,1174.0,bachelors_degree_and_higher,2020-1
-2020,2,1158.0,bachelors_degree_and_higher,2020-2
-2020,3,1487.0,bachelors_degree_and_higher,2020-3
-2020,4,5043.0,bachelors_degree_and_higher,2020-4
-2020,5,4450.0,bachelors_degree_and_higher,2020-5
-2015,1,1945.0,some_college_or_associate_degree,2015-1
-2015,2,1858.0,some_college_or_associate_degree,2015-2
-2015,3,1801.0,some_college_or_associate_degree,2015-3
-2015,4,1764.0,some_college_or_associate_degree,2015-4
-2015,5,1669.0,some_college_or_associate_degree,2015-5
-2015,6,1595.0,some_college_or_associate_degree,2015-6
-2015,7,1637.0,some_college_or_associate_degree,2015-7
-2015,8,1603.0,some_college_or_associate_degree,2015-8
-2015,9,1586.0,some_college_or_associate_degree,2015-9
-2015,10,1642.0,some_college_or_associate_degree,2015-10
-2015,11,1654.0,some_college_or_associate_degree,2015-11
-2015,12,1566.0,some_college_or_associate_degree,2015-12
-2016,1,1607.0,some_college_or_associate_degree,2016-1
-2016,2,1591.0,some_college_or_associate_degree,2016-2
-2016,3,1574.0,some_college_or_associate_degree,2016-3
-2016,4,1575.0,some_college_or_associate_degree,2016-4
-2016,5,1474.0,some_college_or_associate_degree,2016-5
-2016,6,1576.0,some_college_or_associate_degree,2016-6
-2016,7,1606.0,some_college_or_associate_degree,2016-7
-2016,8,1568.0,some_college_or_associate_degree,2016-8
-2016,9,1590.0,some_college_or_associate_degree,2016-9
-2016,10,1471.0,some_college_or_associate_degree,2016-10
-2016,11,1473.0,some_college_or_associate_degree,2016-11
-2016,12,1455.0,some_college_or_associate_degree,2016-12
-2017,1,1439.0,some_college_or_associate_degree,2017-1
-2017,2,1497.0,some_college_or_associate_degree,2017-2
-2017,3,1389.0,some_college_or_associate_degree,2017-3
-2017,4,1394.0,some_college_or_associate_degree,2017-4
-2017,5,1533.0,some_college_or_associate_degree,2017-5
-2017,6,1423.0,some_college_or_associate_degree,2017-6
-2017,7,1404.0,some_college_or_associate_degree,2017-7
-2017,8,1386.0,some_college_or_associate_degree,2017-8
-2017,9,1360.0,some_college_or_associate_degree,2017-9
-2017,10,1411.0,some_college_or_associate_degree,2017-10
-2017,11,1370.0,some_college_or_associate_degree,2017-11
-2017,12,1359.0,some_college_or_associate_degree,2017-12
-2018,1,1285.0,some_college_or_associate_degree,2018-1
-2018,2,1310.0,some_college_or_associate_degree,2018-2
-2018,3,1322.0,some_college_or_associate_degree,2018-3
-2018,4,1307.0,some_college_or_associate_degree,2018-4
-2018,5,1247.0,some_college_or_associate_degree,2018-5
-2018,6,1256.0,some_college_or_associate_degree,2018-6
-2018,7,1189.0,some_college_or_associate_degree,2018-7
-2018,8,1303.0,some_college_or_associate_degree,2018-8
-2018,9,1190.0,some_college_or_associate_degree,2018-9
-2018,10,1153.0,some_college_or_associate_degree,2018-10
-2018,11,1165.0,some_college_or_associate_degree,2018-11
-2018,12,1224.0,some_college_or_associate_degree,2018-12
-2019,1,1277.0,some_college_or_associate_degree,2019-1
-2019,2,1172.0,some_college_or_associate_degree,2019-2
-2019,3,1253.0,some_college_or_associate_degree,2019-3
-2019,4,1149.0,some_college_or_associate_degree,2019-4
-2019,5,1042.0,some_college_or_associate_degree,2019-5
-2019,6,1131.0,some_college_or_associate_degree,2019-6
-2019,7,1192.0,some_college_or_associate_degree,2019-7
-2019,8,1143.0,some_college_or_associate_degree,2019-8
-2019,9,1085.0,some_college_or_associate_degree,2019-9
-2019,10,1069.0,some_college_or_associate_degree,2019-10
-2019,11,1085.0,some_college_or_associate_degree,2019-11
-2019,12,1018.0,some_college_or_associate_degree,2019-12
-2020,1,1040.0,some_college_or_associate_degree,2020-1
-2020,2,1116.0,some_college_or_associate_degree,2020-2
-2020,3,1368.0,some_college_or_associate_degree,2020-3
-2020,4,5376.0,some_college_or_associate_degree,2020-4
-2020,5,4821.0,some_college_or_associate_degree,2020-5
-2015,1,356.0,asian,2015-1
-2015,2,359.0,asian,2015-2
-2015,3,286.0,asian,2015-3
-2015,4,400.0,asian,2015-4
-2015,5,379.0,asian,2015-5
-2015,6,351.0,asian,2015-6
-2015,7,358.0,asian,2015-7
-2015,8,307.0,asian,2015-8
-2015,9,319.0,asian,2015-9
-2015,10,314.0,asian,2015-10
-2015,11,359.0,asian,2015-11
-2015,12,379.0,asian,2015-12
-2016,1,335.0,asian,2016-1
-2016,2,358.0,asian,2016-2
-2016,3,371.0,asian,2016-3
-2016,4,363.0,asian,2016-4
-2016,5,395.0,asian,2016-5
-2016,6,337.0,asian,2016-6
-2016,7,365.0,asian,2016-7
-2016,8,398.0,asian,2016-8
-2016,9,371.0,asian,2016-9
-2016,10,332.0,asian,2016-10
-2016,11,294.0,asian,2016-11
-2016,12,263.0,asian,2016-12
-2017,1,358.0,asian,2017-1
-2017,2,334.0,asian,2017-2
-2017,3,314.0,asian,2017-3
-2017,4,319.0,asian,2017-4
-2017,5,365.0,asian,2017-5
-2017,6,354.0,asian,2017-6
-2017,7,368.0,asian,2017-7
-2017,8,388.0,asian,2017-8
-2017,9,357.0,asian,2017-9
-2017,10,294.0,asian,2017-10
-2017,11,293.0,asian,2017-11
-2017,12,242.0,asian,2017-12
-2018,1,299.0,asian,2018-1
-2018,2,291.0,asian,2018-2
-2018,3,309.0,asian,2018-3
-2018,4,286.0,asian,2018-4
-2018,5,217.0,asian,2018-5
-2018,6,329.0,asian,2018-6
-2018,7,311.0,asian,2018-7
-2018,8,305.0,asian,2018-8
-2018,9,359.0,asian,2018-9
-2018,10,321.0,asian,2018-10
-2018,11,284.0,asian,2018-11
-2018,12,335.0,asian,2018-12
-2019,1,318.0,asian,2019-1
-2019,2,320.0,asian,2019-2
-2019,3,318.0,asian,2019-3
-2019,4,225.0,asian,2019-4
-2019,5,260.0,asian,2019-5
-2019,6,225.0,asian,2019-6
-2019,7,290.0,asian,2019-7
-2019,8,299.0,asian,2019-8
-2019,9,259.0,asian,2019-9
-2019,10,305.0,asian,2019-10
-2019,11,276.0,asian,2019-11
-2019,12,264.0,asian,2019-12
-2020,1,315.0,asian,2020-1
-2020,2,262.0,asian,2020-2
-2020,3,433.0,asian,2020-3
-2020,4,1438.0,asian,2020-4
-2020,5,1493.0,asian,2020-5
+2015,1,2393.0,Unemployed Less than 5 Weeks,2015-1
+2015,2,2392.0,Unemployed Less than 5 Weeks,2015-2
+2015,3,2444.0,Unemployed Less than 5 Weeks,2015-3
+2015,4,2716.0,Unemployed Less than 5 Weeks,2015-4
+2015,5,2471.0,Unemployed Less than 5 Weeks,2015-5
+2015,6,2309.0,Unemployed Less than 5 Weeks,2015-6
+2015,7,2574.0,Unemployed Less than 5 Weeks,2015-7
+2015,8,2073.0,Unemployed Less than 5 Weeks,2015-8
+2015,9,2364.0,Unemployed Less than 5 Weeks,2015-9
+2015,10,2372.0,Unemployed Less than 5 Weeks,2015-10
+2015,11,2382.0,Unemployed Less than 5 Weeks,2015-11
+2015,12,2399.0,Unemployed Less than 5 Weeks,2015-12
+2016,1,2208.0,Unemployed Less than 5 Weeks,2016-1
+2016,2,2214.0,Unemployed Less than 5 Weeks,2016-2
+2016,3,2388.0,Unemployed Less than 5 Weeks,2016-3
+2016,4,2612.0,Unemployed Less than 5 Weeks,2016-4
+2016,5,2273.0,Unemployed Less than 5 Weeks,2016-5
+2016,6,2385.0,Unemployed Less than 5 Weeks,2016-6
+2016,7,2255.0,Unemployed Less than 5 Weeks,2016-7
+2016,8,2295.0,Unemployed Less than 5 Weeks,2016-8
+2016,9,2606.0,Unemployed Less than 5 Weeks,2016-9
+2016,10,2458.0,Unemployed Less than 5 Weeks,2016-10
+2016,11,2390.0,Unemployed Less than 5 Weeks,2016-11
+2016,12,2355.0,Unemployed Less than 5 Weeks,2016-12
+2017,1,2417.0,Unemployed Less than 5 Weeks,2017-1
+2017,2,2470.0,Unemployed Less than 5 Weeks,2017-2
+2017,3,2265.0,Unemployed Less than 5 Weeks,2017-3
+2017,4,2346.0,Unemployed Less than 5 Weeks,2017-4
+2017,5,2166.0,Unemployed Less than 5 Weeks,2017-5
+2017,6,2269.0,Unemployed Less than 5 Weeks,2017-6
+2017,7,2184.0,Unemployed Less than 5 Weeks,2017-7
+2017,8,2197.0,Unemployed Less than 5 Weeks,2017-8
+2017,9,2274.0,Unemployed Less than 5 Weeks,2017-9
+2017,10,2188.0,Unemployed Less than 5 Weeks,2017-10
+2017,11,2253.0,Unemployed Less than 5 Weeks,2017-11
+2017,12,2226.0,Unemployed Less than 5 Weeks,2017-12
+2018,1,2255.0,Unemployed Less than 5 Weeks,2018-1
+2018,2,2412.0,Unemployed Less than 5 Weeks,2018-2
+2018,3,2257.0,Unemployed Less than 5 Weeks,2018-3
+2018,4,2139.0,Unemployed Less than 5 Weeks,2018-4
+2018,5,2021.0,Unemployed Less than 5 Weeks,2018-5
+2018,6,2222.0,Unemployed Less than 5 Weeks,2018-6
+2018,7,2093.0,Unemployed Less than 5 Weeks,2018-7
+2018,8,2189.0,Unemployed Less than 5 Weeks,2018-8
+2018,9,2088.0,Unemployed Less than 5 Weeks,2018-9
+2018,10,2098.0,Unemployed Less than 5 Weeks,2018-10
+2018,11,2133.0,Unemployed Less than 5 Weeks,2018-11
+2018,12,2117.0,Unemployed Less than 5 Weeks,2018-12
+2019,1,2319.0,Unemployed Less than 5 Weeks,2019-1
+2019,2,2169.0,Unemployed Less than 5 Weeks,2019-2
+2019,3,2116.0,Unemployed Less than 5 Weeks,2019-3
+2019,4,1906.0,Unemployed Less than 5 Weeks,2019-4
+2019,5,2158.0,Unemployed Less than 5 Weeks,2019-5
+2019,6,1949.0,Unemployed Less than 5 Weeks,2019-6
+2019,7,2222.0,Unemployed Less than 5 Weeks,2019-7
+2019,8,2218.0,Unemployed Less than 5 Weeks,2019-8
+2019,9,1869.0,Unemployed Less than 5 Weeks,2019-9
+2019,10,1978.0,Unemployed Less than 5 Weeks,2019-10
+2019,11,2026.0,Unemployed Less than 5 Weeks,2019-11
+2019,12,2065.0,Unemployed Less than 5 Weeks,2019-12
+2020,1,2059.0,Unemployed Less than 5 Weeks,2020-1
+2020,2,2013.0,Unemployed Less than 5 Weeks,2020-2
+2020,3,3542.0,Unemployed Less than 5 Weeks,2020-3
+2020,4,14283.0,Unemployed Less than 5 Weeks,2020-4
+2020,5,3875.0,Unemployed Less than 5 Weeks,2020-5
+2015,1,4151.0,Unemployed 15 Weeks & over,2015-1
+2015,2,3991.0,Unemployed 15 Weeks & over,2015-2
+2015,3,3787.0,Unemployed 15 Weeks & over,2015-3
+2015,4,3651.0,Unemployed 15 Weeks & over,2015-4
+2015,5,3759.0,Unemployed 15 Weeks & over,2015-5
+2015,6,3560.0,Unemployed 15 Weeks & over,2015-6
+2015,7,3389.0,Unemployed 15 Weeks & over,2015-7
+2015,8,3454.0,Unemployed 15 Weeks & over,2015-8
+2015,9,3332.0,Unemployed 15 Weeks & over,2015-9
+2015,10,3342.0,Unemployed 15 Weeks & over,2015-10
+2015,11,3347.0,Unemployed 15 Weeks & over,2015-11
+2015,12,3359.0,Unemployed 15 Weeks & over,2015-12
+2016,1,3195.0,Unemployed 15 Weeks & over,2016-1
+2016,2,3283.0,Unemployed 15 Weeks & over,2016-2
+2016,3,3390.0,Unemployed 15 Weeks & over,2016-3
+2016,4,3355.0,Unemployed 15 Weeks & over,2016-4
+2016,5,3034.0,Unemployed 15 Weeks & over,2016-5
+2016,6,3166.0,Unemployed 15 Weeks & over,2016-6
+2016,7,3185.0,Unemployed 15 Weeks & over,2016-7
+2016,8,3062.0,Unemployed 15 Weeks & over,2016-8
+2016,9,3108.0,Unemployed 15 Weeks & over,2016-9
+2016,10,3130.0,Unemployed 15 Weeks & over,2016-10
+2016,11,2958.0,Unemployed 15 Weeks & over,2016-11
+2016,12,3065.0,Unemployed 15 Weeks & over,2016-12
+2017,1,3020.0,Unemployed 15 Weeks & over,2017-1
+2017,2,2815.0,Unemployed 15 Weeks & over,2017-2
+2017,3,2760.0,Unemployed 15 Weeks & over,2017-3
+2017,4,2726.0,Unemployed 15 Weeks & over,2017-4
+2017,5,2814.0,Unemployed 15 Weeks & over,2017-5
+2017,6,2639.0,Unemployed 15 Weeks & over,2017-6
+2017,7,2744.0,Unemployed 15 Weeks & over,2017-7
+2017,8,2790.0,Unemployed 15 Weeks & over,2017-8
+2017,9,2676.0,Unemployed 15 Weeks & over,2017-9
+2017,10,2481.0,Unemployed 15 Weeks & over,2017-10
+2017,11,2564.0,Unemployed 15 Weeks & over,2017-11
+2017,12,2406.0,Unemployed 15 Weeks & over,2017-12
+2018,1,2392.0,Unemployed 15 Weeks & over,2018-1
+2018,2,2327.0,Unemployed 15 Weeks & over,2018-2
+2018,3,2222.0,Unemployed 15 Weeks & over,2018-3
+2018,4,2343.0,Unemployed 15 Weeks & over,2018-4
+2018,5,2186.0,Unemployed 15 Weeks & over,2018-5
+2018,6,2322.0,Unemployed 15 Weeks & over,2018-6
+2018,7,2384.0,Unemployed 15 Weeks & over,2018-7
+2018,8,2254.0,Unemployed 15 Weeks & over,2018-8
+2018,9,2230.0,Unemployed 15 Weeks & over,2018-9
+2018,10,2211.0,Unemployed 15 Weeks & over,2018-10
+2018,11,2123.0,Unemployed 15 Weeks & over,2018-11
+2018,12,2210.0,Unemployed 15 Weeks & over,2018-12
+2019,1,2156.0,Unemployed 15 Weeks & over,2019-1
+2019,2,2207.0,Unemployed 15 Weeks & over,2019-2
+2019,3,2242.0,Unemployed 15 Weeks & over,2019-3
+2019,4,2087.0,Unemployed 15 Weeks & over,2019-4
+2019,5,2120.0,Unemployed 15 Weeks & over,2019-5
+2019,6,2189.0,Unemployed 15 Weeks & over,2019-6
+2019,7,2079.0,Unemployed 15 Weeks & over,2019-7
+2019,8,2082.0,Unemployed 15 Weeks & over,2019-8
+2019,9,2124.0,Unemployed 15 Weeks & over,2019-9
+2019,10,2144.0,Unemployed 15 Weeks & over,2019-10
+2019,11,2083.0,Unemployed 15 Weeks & over,2019-11
+2019,12,1998.0,Unemployed 15 Weeks & over,2019-12
+2020,1,2053.0,Unemployed 15 Weeks & over,2020-1
+2020,2,1927.0,Unemployed 15 Weeks & over,2020-2
+2020,3,1971.0,Unemployed 15 Weeks & over,2020-3
+2020,4,1772.0,Unemployed 15 Weeks & over,2020-4
+2020,5,2242.0,Unemployed 15 Weeks & over,2020-5
+2015,1,2774.0,Unemployed 27 Weeks & over,2015-1
+2015,2,2658.0,Unemployed 27 Weeks & over,2015-2
+2015,3,2542.0,Unemployed 27 Weeks & over,2015-3
+2015,4,2560.0,Unemployed 27 Weeks & over,2015-4
+2015,5,2503.0,Unemployed 27 Weeks & over,2015-5
+2015,6,2162.0,Unemployed 27 Weeks & over,2015-6
+2015,7,2127.0,Unemployed 27 Weeks & over,2015-7
+2015,8,2172.0,Unemployed 27 Weeks & over,2015-8
+2015,9,2097.0,Unemployed 27 Weeks & over,2015-9
+2015,10,2130.0,Unemployed 27 Weeks & over,2015-10
+2015,11,2074.0,Unemployed 27 Weeks & over,2015-11
+2015,12,2127.0,Unemployed 27 Weeks & over,2015-12
+2016,1,2081.0,Unemployed 27 Weeks & over,2016-1
+2016,2,2143.0,Unemployed 27 Weeks & over,2016-2
+2016,3,2215.0,Unemployed 27 Weeks & over,2016-3
+2016,4,2104.0,Unemployed 27 Weeks & over,2016-4
+2016,5,1901.0,Unemployed 27 Weeks & over,2016-5
+2016,6,2014.0,Unemployed 27 Weeks & over,2016-6
+2016,7,1962.0,Unemployed 27 Weeks & over,2016-7
+2016,8,1981.0,Unemployed 27 Weeks & over,2016-8
+2016,9,1944.0,Unemployed 27 Weeks & over,2016-9
+2016,10,1962.0,Unemployed 27 Weeks & over,2016-10
+2016,11,1869.0,Unemployed 27 Weeks & over,2016-11
+2016,12,1869.0,Unemployed 27 Weeks & over,2016-12
+2017,1,1842.0,Unemployed 27 Weeks & over,2017-1
+2017,2,1776.0,Unemployed 27 Weeks & over,2017-2
+2017,3,1673.0,Unemployed 27 Weeks & over,2017-3
+2017,4,1655.0,Unemployed 27 Weeks & over,2017-4
+2017,5,1677.0,Unemployed 27 Weeks & over,2017-5
+2017,6,1700.0,Unemployed 27 Weeks & over,2017-6
+2017,7,1738.0,Unemployed 27 Weeks & over,2017-7
+2017,8,1724.0,Unemployed 27 Weeks & over,2017-8
+2017,9,1714.0,Unemployed 27 Weeks & over,2017-9
+2017,10,1622.0,Unemployed 27 Weeks & over,2017-10
+2017,11,1601.0,Unemployed 27 Weeks & over,2017-11
+2017,12,1515.0,Unemployed 27 Weeks & over,2017-12
+2018,1,1437.0,Unemployed 27 Weeks & over,2018-1
+2018,2,1410.0,Unemployed 27 Weeks & over,2018-2
+2018,3,1333.0,Unemployed 27 Weeks & over,2018-3
+2018,4,1316.0,Unemployed 27 Weeks & over,2018-4
+2018,5,1193.0,Unemployed 27 Weeks & over,2018-5
+2018,6,1457.0,Unemployed 27 Weeks & over,2018-6
+2018,7,1417.0,Unemployed 27 Weeks & over,2018-7
+2018,8,1321.0,Unemployed 27 Weeks & over,2018-8
+2018,9,1372.0,Unemployed 27 Weeks & over,2018-9
+2018,10,1363.0,Unemployed 27 Weeks & over,2018-10
+2018,11,1263.0,Unemployed 27 Weeks & over,2018-11
+2018,12,1311.0,Unemployed 27 Weeks & over,2018-12
+2019,1,1259.0,Unemployed 27 Weeks & over,2019-1
+2019,2,1279.0,Unemployed 27 Weeks & over,2019-2
+2019,3,1305.0,Unemployed 27 Weeks & over,2019-3
+2019,4,1227.0,Unemployed 27 Weeks & over,2019-4
+2019,5,1298.0,Unemployed 27 Weeks & over,2019-5
+2019,6,1413.0,Unemployed 27 Weeks & over,2019-6
+2019,7,1170.0,Unemployed 27 Weeks & over,2019-7
+2019,8,1251.0,Unemployed 27 Weeks & over,2019-8
+2019,9,1318.0,Unemployed 27 Weeks & over,2019-9
+2019,10,1259.0,Unemployed 27 Weeks & over,2019-10
+2019,11,1219.0,Unemployed 27 Weeks & over,2019-11
+2019,12,1186.0,Unemployed 27 Weeks & over,2019-12
+2020,1,1166.0,Unemployed 27 Weeks & over,2020-1
+2020,2,1102.0,Unemployed 27 Weeks & over,2020-2
+2020,3,1164.0,Unemployed 27 Weeks & over,2020-3
+2020,4,939.0,Unemployed 27 Weeks & over,2020-4
+2020,5,1164.0,Unemployed 27 Weeks & over,2020-5
+2015,1,2319.0,Unemployed 5-14 Weeks,2015-1
+2015,2,2238.0,Unemployed 5-14 Weeks,2015-2
+2015,3,2304.0,Unemployed 5-14 Weeks,2015-3
+2015,4,2345.0,Unemployed 5-14 Weeks,2015-4
+2015,5,2510.0,Unemployed 5-14 Weeks,2015-5
+2015,6,2396.0,Unemployed 5-14 Weeks,2015-6
+2015,7,2222.0,Unemployed 5-14 Weeks,2015-7
+2015,8,2329.0,Unemployed 5-14 Weeks,2015-8
+2015,9,2274.0,Unemployed 5-14 Weeks,2015-9
+2015,10,2277.0,Unemployed 5-14 Weeks,2015-10
+2015,11,2296.0,Unemployed 5-14 Weeks,2015-11
+2015,12,2191.0,Unemployed 5-14 Weeks,2015-12
+2016,1,2288.0,Unemployed 5-14 Weeks,2016-1
+2016,2,2224.0,Unemployed 5-14 Weeks,2016-2
+2016,3,2168.0,Unemployed 5-14 Weeks,2016-3
+2016,4,2101.0,Unemployed 5-14 Weeks,2016-4
+2016,5,2275.0,Unemployed 5-14 Weeks,2016-5
+2016,6,2187.0,Unemployed 5-14 Weeks,2016-6
+2016,7,2260.0,Unemployed 5-14 Weeks,2016-7
+2016,8,2331.0,Unemployed 5-14 Weeks,2016-8
+2016,9,2296.0,Unemployed 5-14 Weeks,2016-9
+2016,10,2272.0,Unemployed 5-14 Weeks,2016-10
+2016,11,2162.0,Unemployed 5-14 Weeks,2016-11
+2016,12,2120.0,Unemployed 5-14 Weeks,2016-12
+2017,1,2068.0,Unemployed 5-14 Weeks,2017-1
+2017,2,2133.0,Unemployed 5-14 Weeks,2017-2
+2017,3,2054.0,Unemployed 5-14 Weeks,2017-3
+2017,4,2062.0,Unemployed 5-14 Weeks,2017-4
+2017,5,1960.0,Unemployed 5-14 Weeks,2017-5
+2017,6,1945.0,Unemployed 5-14 Weeks,2017-6
+2017,7,2014.0,Unemployed 5-14 Weeks,2017-7
+2017,8,2058.0,Unemployed 5-14 Weeks,2017-8
+2017,9,1928.0,Unemployed 5-14 Weeks,2017-9
+2017,10,1943.0,Unemployed 5-14 Weeks,2017-10
+2017,11,1902.0,Unemployed 5-14 Weeks,2017-11
+2017,12,1967.0,Unemployed 5-14 Weeks,2017-12
+2018,1,1913.0,Unemployed 5-14 Weeks,2018-1
+2018,2,1907.0,Unemployed 5-14 Weeks,2018-2
+2018,3,1987.0,Unemployed 5-14 Weeks,2018-3
+2018,4,1957.0,Unemployed 5-14 Weeks,2018-4
+2018,5,1943.0,Unemployed 5-14 Weeks,2018-5
+2018,6,1867.0,Unemployed 5-14 Weeks,2018-6
+2018,7,1810.0,Unemployed 5-14 Weeks,2018-7
+2018,8,1755.0,Unemployed 5-14 Weeks,2018-8
+2018,9,1747.0,Unemployed 5-14 Weeks,2018-9
+2018,10,1832.0,Unemployed 5-14 Weeks,2018-10
+2018,11,1820.0,Unemployed 5-14 Weeks,2018-11
+2018,12,2007.0,Unemployed 5-14 Weeks,2018-12
+2019,1,1999.0,Unemployed 5-14 Weeks,2019-1
+2019,2,1809.0,Unemployed 5-14 Weeks,2019-2
+2019,3,1812.0,Unemployed 5-14 Weeks,2019-3
+2019,4,1835.0,Unemployed 5-14 Weeks,2019-4
+2019,5,1572.0,Unemployed 5-14 Weeks,2019-5
+2019,6,1832.0,Unemployed 5-14 Weeks,2019-6
+2019,7,1795.0,Unemployed 5-14 Weeks,2019-7
+2019,8,1746.0,Unemployed 5-14 Weeks,2019-8
+2019,9,1778.0,Unemployed 5-14 Weeks,2019-9
+2019,10,1747.0,Unemployed 5-14 Weeks,2019-10
+2019,11,1753.0,Unemployed 5-14 Weeks,2019-11
+2019,12,1730.0,Unemployed 5-14 Weeks,2019-12
+2020,1,1755.0,Unemployed 5-14 Weeks,2020-1
+2020,2,1803.0,Unemployed 5-14 Weeks,2020-2
+2020,3,1794.0,Unemployed 5-14 Weeks,2020-3
+2020,4,7004.0,Unemployed 5-14 Weeks,2020-4
+2020,5,14814.0,Unemployed 5-14 Weeks,2020-5
+2015,1,1377.0,Unemployed 15-26 Weeks,2015-1
+2015,2,1333.0,Unemployed 15-26 Weeks,2015-2
+2015,3,1245.0,Unemployed 15-26 Weeks,2015-3
+2015,4,1091.0,Unemployed 15-26 Weeks,2015-4
+2015,5,1256.0,Unemployed 15-26 Weeks,2015-5
+2015,6,1398.0,Unemployed 15-26 Weeks,2015-6
+2015,7,1261.0,Unemployed 15-26 Weeks,2015-7
+2015,8,1283.0,Unemployed 15-26 Weeks,2015-8
+2015,9,1234.0,Unemployed 15-26 Weeks,2015-9
+2015,10,1212.0,Unemployed 15-26 Weeks,2015-10
+2015,11,1273.0,Unemployed 15-26 Weeks,2015-11
+2015,12,1232.0,Unemployed 15-26 Weeks,2015-12
+2016,1,1114.0,Unemployed 15-26 Weeks,2016-1
+2016,2,1140.0,Unemployed 15-26 Weeks,2016-2
+2016,3,1175.0,Unemployed 15-26 Weeks,2016-3
+2016,4,1251.0,Unemployed 15-26 Weeks,2016-4
+2016,5,1133.0,Unemployed 15-26 Weeks,2016-5
+2016,6,1152.0,Unemployed 15-26 Weeks,2016-6
+2016,7,1222.0,Unemployed 15-26 Weeks,2016-7
+2016,8,1081.0,Unemployed 15-26 Weeks,2016-8
+2016,9,1164.0,Unemployed 15-26 Weeks,2016-9
+2016,10,1168.0,Unemployed 15-26 Weeks,2016-10
+2016,11,1088.0,Unemployed 15-26 Weeks,2016-11
+2016,12,1195.0,Unemployed 15-26 Weeks,2016-12
+2017,1,1178.0,Unemployed 15-26 Weeks,2017-1
+2017,2,1039.0,Unemployed 15-26 Weeks,2017-2
+2017,3,1087.0,Unemployed 15-26 Weeks,2017-3
+2017,4,1071.0,Unemployed 15-26 Weeks,2017-4
+2017,5,1137.0,Unemployed 15-26 Weeks,2017-5
+2017,6,939.0,Unemployed 15-26 Weeks,2017-6
+2017,7,1006.0,Unemployed 15-26 Weeks,2017-7
+2017,8,1067.0,Unemployed 15-26 Weeks,2017-8
+2017,9,962.0,Unemployed 15-26 Weeks,2017-9
+2017,10,860.0,Unemployed 15-26 Weeks,2017-10
+2017,11,964.0,Unemployed 15-26 Weeks,2017-11
+2017,12,891.0,Unemployed 15-26 Weeks,2017-12
+2018,1,955.0,Unemployed 15-26 Weeks,2018-1
+2018,2,918.0,Unemployed 15-26 Weeks,2018-2
+2018,3,889.0,Unemployed 15-26 Weeks,2018-3
+2018,4,1026.0,Unemployed 15-26 Weeks,2018-4
+2018,5,993.0,Unemployed 15-26 Weeks,2018-5
+2018,6,865.0,Unemployed 15-26 Weeks,2018-6
+2018,7,967.0,Unemployed 15-26 Weeks,2018-7
+2018,8,933.0,Unemployed 15-26 Weeks,2018-8
+2018,9,859.0,Unemployed 15-26 Weeks,2018-9
+2018,10,847.0,Unemployed 15-26 Weeks,2018-10
+2018,11,860.0,Unemployed 15-26 Weeks,2018-11
+2018,12,899.0,Unemployed 15-26 Weeks,2018-12
+2019,1,898.0,Unemployed 15-26 Weeks,2019-1
+2019,2,928.0,Unemployed 15-26 Weeks,2019-2
+2019,3,936.0,Unemployed 15-26 Weeks,2019-3
+2019,4,860.0,Unemployed 15-26 Weeks,2019-4
+2019,5,822.0,Unemployed 15-26 Weeks,2019-5
+2019,6,776.0,Unemployed 15-26 Weeks,2019-6
+2019,7,909.0,Unemployed 15-26 Weeks,2019-7
+2019,8,831.0,Unemployed 15-26 Weeks,2019-8
+2019,9,806.0,Unemployed 15-26 Weeks,2019-9
+2019,10,884.0,Unemployed 15-26 Weeks,2019-10
+2019,11,865.0,Unemployed 15-26 Weeks,2019-11
+2019,12,812.0,Unemployed 15-26 Weeks,2019-12
+2020,1,887.0,Unemployed 15-26 Weeks,2020-1
+2020,2,825.0,Unemployed 15-26 Weeks,2020-2
+2020,3,808.0,Unemployed 15-26 Weeks,2020-3
+2020,4,833.0,Unemployed 15-26 Weeks,2020-4
+2020,5,1078.0,Unemployed 15-26 Weeks,2020-5
+2015,1,1009.0,New Entrants,2015-1
+2015,2,935.0,New Entrants,2015-2
+2015,3,812.0,New Entrants,2015-3
+2015,4,873.0,New Entrants,2015-4
+2015,5,978.0,New Entrants,2015-5
+2015,6,906.0,New Entrants,2015-6
+2015,7,834.0,New Entrants,2015-7
+2015,8,842.0,New Entrants,2015-8
+2015,9,840.0,New Entrants,2015-9
+2015,10,825.0,New Entrants,2015-10
+2015,11,871.0,New Entrants,2015-11
+2015,12,856.0,New Entrants,2015-12
+2016,1,799.0,New Entrants,2016-1
+2016,2,815.0,New Entrants,2016-2
+2016,3,769.0,New Entrants,2016-3
+2016,4,852.0,New Entrants,2016-4
+2016,5,898.0,New Entrants,2016-5
+2016,6,893.0,New Entrants,2016-6
+2016,7,819.0,New Entrants,2016-7
+2016,8,865.0,New Entrants,2016-8
+2016,9,803.0,New Entrants,2016-9
+2016,10,797.0,New Entrants,2016-10
+2016,11,745.0,New Entrants,2016-11
+2016,12,783.0,New Entrants,2016-12
+2017,1,782.0,New Entrants,2017-1
+2017,2,741.0,New Entrants,2017-2
+2017,3,775.0,New Entrants,2017-3
+2017,4,708.0,New Entrants,2017-4
+2017,5,677.0,New Entrants,2017-5
+2017,6,686.0,New Entrants,2017-6
+2017,7,696.0,New Entrants,2017-7
+2017,8,657.0,New Entrants,2017-8
+2017,9,660.0,New Entrants,2017-9
+2017,10,617.0,New Entrants,2017-10
+2017,11,719.0,New Entrants,2017-11
+2017,12,576.0,New Entrants,2017-12
+2018,1,634.0,New Entrants,2018-1
+2018,2,691.0,New Entrants,2018-2
+2018,3,599.0,New Entrants,2018-3
+2018,4,622.0,New Entrants,2018-4
+2018,5,571.0,New Entrants,2018-5
+2018,6,585.0,New Entrants,2018-6
+2018,7,591.0,New Entrants,2018-7
+2018,8,591.0,New Entrants,2018-8
+2018,9,582.0,New Entrants,2018-9
+2018,10,597.0,New Entrants,2018-10
+2018,11,585.0,New Entrants,2018-11
+2018,12,600.0,New Entrants,2018-12
+2019,1,607.0,New Entrants,2019-1
+2019,2,619.0,New Entrants,2019-2
+2019,3,605.0,New Entrants,2019-3
+2019,4,535.0,New Entrants,2019-4
+2019,5,602.0,New Entrants,2019-5
+2019,6,537.0,New Entrants,2019-6
+2019,7,597.0,New Entrants,2019-7
+2019,8,577.0,New Entrants,2019-8
+2019,9,673.0,New Entrants,2019-9
+2019,10,622.0,New Entrants,2019-10
+2019,11,581.0,New Entrants,2019-11
+2019,12,551.0,New Entrants,2019-12
+2020,1,557.0,New Entrants,2020-1
+2020,2,505.0,New Entrants,2020-2
+2020,3,509.0,New Entrants,2020-3
+2020,4,389.0,New Entrants,2020-4
+2020,5,536.0,New Entrants,2020-5
+2015,1,4219.0,Job Losers,2015-1
+2015,2,4174.0,Job Losers,2015-2
+2015,3,4150.0,Job Losers,2015-3
+2015,4,4159.0,Job Losers,2015-4
+2015,5,4403.0,Job Losers,2015-5
+2015,6,4070.0,Job Losers,2015-6
+2015,7,4071.0,Job Losers,2015-7
+2015,8,3973.0,Job Losers,2015-8
+2015,9,3877.0,Job Losers,2015-9
+2015,10,3995.0,Job Losers,2015-10
+2015,11,3903.0,Job Losers,2015-11
+2015,12,3795.0,Job Losers,2015-12
+2016,1,3618.0,Job Losers,2016-1
+2016,2,3730.0,Job Losers,2016-2
+2016,3,3817.0,Job Losers,2016-3
+2016,4,3882.0,Job Losers,2016-4
+2016,5,3717.0,Job Losers,2016-5
+2016,6,3772.0,Job Losers,2016-6
+2016,7,3697.0,Job Losers,2016-7
+2016,8,3757.0,Job Losers,2016-8
+2016,9,4017.0,Job Losers,2016-9
+2016,10,3797.0,Job Losers,2016-10
+2016,11,3538.0,Job Losers,2016-11
+2016,12,3617.0,Job Losers,2016-12
+2017,1,3621.0,Job Losers,2017-1
+2017,2,3661.0,Job Losers,2017-2
+2017,3,3491.0,Job Losers,2017-3
+2017,4,3563.0,Job Losers,2017-4
+2017,5,3414.0,Job Losers,2017-5
+2017,6,3444.0,Job Losers,2017-6
+2017,7,3313.0,Job Losers,2017-7
+2017,8,3494.0,Job Losers,2017-8
+2017,9,3417.0,Job Losers,2017-9
+2017,10,3251.0,Job Losers,2017-10
+2017,11,3183.0,Job Losers,2017-11
+2017,12,3240.0,Job Losers,2017-12
+2018,1,3199.0,Job Losers,2018-1
+2018,2,3244.0,Job Losers,2018-2
+2018,3,3091.0,Job Losers,2018-3
+2018,4,2999.0,Job Losers,2018-4
+2018,5,2865.0,Job Losers,2018-5
+2018,6,3081.0,Job Losers,2018-6
+2018,7,2978.0,Job Losers,2018-7
+2018,8,2843.0,Job Losers,2018-8
+2018,9,2864.0,Job Losers,2018-9
+2018,10,2876.0,Job Losers,2018-10
+2018,11,2849.0,Job Losers,2018-11
+2018,12,2892.0,Job Losers,2018-12
+2019,1,3060.0,Job Losers,2019-1
+2019,2,2863.0,Job Losers,2019-2
+2019,3,2826.0,Job Losers,2019-3
+2019,4,2660.0,Job Losers,2019-4
+2019,5,2674.0,Job Losers,2019-5
+2019,6,2744.0,Job Losers,2019-6
+2019,7,2796.0,Job Losers,2019-7
+2019,8,2864.0,Job Losers,2019-8
+2019,9,2575.0,Job Losers,2019-9
+2019,10,2691.0,Job Losers,2019-10
+2019,11,2804.0,Job Losers,2019-11
+2019,12,2686.0,Job Losers,2019-12
+2020,1,2665.0,Job Losers,2020-1
+2020,2,2723.0,Job Losers,2020-2
+2020,3,3946.0,Job Losers,2020-3
+2020,4,20626.0,Job Losers,2020-4
+2020,5,18291.0,Job Losers,2020-5
+2015,1,911.0,Job Losers on Layoff,2015-1
+2015,2,1015.0,Job Losers on Layoff,2015-2
+2015,3,1015.0,Job Losers on Layoff,2015-3
+2015,4,1006.0,Job Losers on Layoff,2015-4
+2015,5,1129.0,Job Losers on Layoff,2015-5
+2015,6,1019.0,Job Losers on Layoff,2015-6
+2015,7,953.0,Job Losers on Layoff,2015-7
+2015,8,944.0,Job Losers on Layoff,2015-8
+2015,9,917.0,Job Losers on Layoff,2015-9
+2015,10,997.0,Job Losers on Layoff,2015-10
+2015,11,898.0,Job Losers on Layoff,2015-11
+2015,12,921.0,Job Losers on Layoff,2015-12
+2016,1,903.0,Job Losers on Layoff,2016-1
+2016,2,961.0,Job Losers on Layoff,2016-2
+2016,3,935.0,Job Losers on Layoff,2016-3
+2016,4,883.0,Job Losers on Layoff,2016-4
+2016,5,907.0,Job Losers on Layoff,2016-5
+2016,6,1091.0,Job Losers on Layoff,2016-6
+2016,7,956.0,Job Losers on Layoff,2016-7
+2016,8,970.0,Job Losers on Layoff,2016-8
+2016,9,1136.0,Job Losers on Layoff,2016-9
+2016,10,1056.0,Job Losers on Layoff,2016-10
+2016,11,846.0,Job Losers on Layoff,2016-11
+2016,12,1029.0,Job Losers on Layoff,2016-12
+2017,1,1033.0,Job Losers on Layoff,2017-1
+2017,2,979.0,Job Losers on Layoff,2017-2
+2017,3,951.0,Job Losers on Layoff,2017-3
+2017,4,963.0,Job Losers on Layoff,2017-4
+2017,5,822.0,Job Losers on Layoff,2017-5
+2017,6,893.0,Job Losers on Layoff,2017-6
+2017,7,991.0,Job Losers on Layoff,2017-7
+2017,8,1005.0,Job Losers on Layoff,2017-8
+2017,9,946.0,Job Losers on Layoff,2017-9
+2017,10,897.0,Job Losers on Layoff,2017-10
+2017,11,955.0,Job Losers on Layoff,2017-11
+2017,12,930.0,Job Losers on Layoff,2017-12
+2018,1,889.0,Job Losers on Layoff,2018-1
+2018,2,885.0,Job Losers on Layoff,2018-2
+2018,3,850.0,Job Losers on Layoff,2018-3
+2018,4,884.0,Job Losers on Layoff,2018-4
+2018,5,771.0,Job Losers on Layoff,2018-5
+2018,6,917.0,Job Losers on Layoff,2018-6
+2018,7,858.0,Job Losers on Layoff,2018-7
+2018,8,844.0,Job Losers on Layoff,2018-8
+2018,9,857.0,Job Losers on Layoff,2018-9
+2018,10,825.0,Job Losers on Layoff,2018-10
+2018,11,835.0,Job Losers on Layoff,2018-11
+2018,12,768.0,Job Losers on Layoff,2018-12
+2019,1,940.0,Job Losers on Layoff,2019-1
+2019,2,828.0,Job Losers on Layoff,2019-2
+2019,3,866.0,Job Losers on Layoff,2019-3
+2019,4,722.0,Job Losers on Layoff,2019-4
+2019,5,865.0,Job Losers on Layoff,2019-5
+2019,6,805.0,Job Losers on Layoff,2019-6
+2019,7,828.0,Job Losers on Layoff,2019-7
+2019,8,812.0,Job Losers on Layoff,2019-8
+2019,9,729.0,Job Losers on Layoff,2019-9
+2019,10,772.0,Job Losers on Layoff,2019-10
+2019,11,768.0,Job Losers on Layoff,2019-11
+2019,12,807.0,Job Losers on Layoff,2019-12
+2020,1,742.0,Job Losers on Layoff,2020-1
+2020,2,801.0,Job Losers on Layoff,2020-2
+2020,3,1848.0,Job Losers on Layoff,2020-3
+2020,4,18063.0,Job Losers on Layoff,2020-4
+2020,5,15343.0,Job Losers on Layoff,2020-5
+2015,1,868.0,Job Leavers,2015-1
+2015,2,900.0,Job Leavers,2015-2
+2015,3,864.0,Job Leavers,2015-3
+2015,4,841.0,Job Leavers,2015-4
+2015,5,819.0,Job Leavers,2015-5
+2015,6,765.0,Job Leavers,2015-6
+2015,7,841.0,Job Leavers,2015-7
+2015,8,775.0,Job Leavers,2015-8
+2015,9,779.0,Job Leavers,2015-9
+2015,10,785.0,Job Leavers,2015-10
+2015,11,783.0,Job Leavers,2015-11
+2015,12,815.0,Job Leavers,2015-12
+2016,1,778.0,Job Leavers,2016-1
+2016,2,773.0,Job Leavers,2016-2
+2016,3,840.0,Job Leavers,2016-3
+2016,4,875.0,Job Leavers,2016-4
+2016,5,786.0,Job Leavers,2016-5
+2016,6,826.0,Job Leavers,2016-6
+2016,7,827.0,Job Leavers,2016-7
+2016,8,877.0,Job Leavers,2016-8
+2016,9,916.0,Job Leavers,2016-9
+2016,10,958.0,Job Leavers,2016-10
+2016,11,931.0,Job Leavers,2016-11
+2016,12,900.0,Job Leavers,2016-12
+2017,1,875.0,Job Leavers,2017-1
+2017,2,809.0,Job Leavers,2017-2
+2017,3,789.0,Job Leavers,2017-3
+2017,4,778.0,Job Leavers,2017-4
+2017,5,780.0,Job Leavers,2017-5
+2017,6,805.0,Job Leavers,2017-6
+2017,7,740.0,Job Leavers,2017-7
+2017,8,790.0,Job Leavers,2017-8
+2017,9,751.0,Job Leavers,2017-9
+2017,10,748.0,Job Leavers,2017-10
+2017,11,760.0,Job Leavers,2017-11
+2017,12,718.0,Job Leavers,2017-12
+2018,1,725.0,Job Leavers,2018-1
+2018,2,778.0,Job Leavers,2018-2
+2018,3,867.0,Job Leavers,2018-3
+2018,4,812.0,Job Leavers,2018-4
+2018,5,841.0,Job Leavers,2018-5
+2018,6,795.0,Job Leavers,2018-6
+2018,7,829.0,Job Leavers,2018-7
+2018,8,875.0,Job Leavers,2018-8
+2018,9,742.0,Job Leavers,2018-9
+2018,10,732.0,Job Leavers,2018-10
+2018,11,709.0,Job Leavers,2018-11
+2018,12,827.0,Job Leavers,2018-12
+2019,1,816.0,Job Leavers,2019-1
+2019,2,841.0,Job Leavers,2019-2
+2019,3,780.0,Job Leavers,2019-3
+2019,4,728.0,Job Leavers,2019-4
+2019,5,809.0,Job Leavers,2019-5
+2019,6,889.0,Job Leavers,2019-6
+2019,7,832.0,Job Leavers,2019-7
+2019,8,784.0,Job Leavers,2019-8
+2019,9,840.0,Job Leavers,2019-9
+2019,10,846.0,Job Leavers,2019-10
+2019,11,776.0,Job Leavers,2019-11
+2019,12,829.0,Job Leavers,2019-12
+2020,1,836.0,Job Leavers,2020-1
+2020,2,777.0,Job Leavers,2020-2
+2020,3,727.0,Job Leavers,2020-3
+2020,4,570.0,Job Leavers,2020-4
+2020,5,554.0,Job Leavers,2020-5
+2015,1,1425.0,55 & Over,2015-1
+2015,2,1448.0,55 & Over,2015-2
+2015,3,1337.0,55 & Over,2015-3
+2015,4,1385.0,55 & Over,2015-4
+2015,5,1315.0,55 & Over,2015-5
+2015,6,1279.0,55 & Over,2015-6
+2015,7,1272.0,55 & Over,2015-7
+2015,8,1319.0,55 & Over,2015-8
+2015,9,1334.0,55 & Over,2015-9
+2015,10,1220.0,55 & Over,2015-10
+2015,11,1312.0,55 & Over,2015-11
+2015,12,1111.0,55 & Over,2015-12
+2016,1,1304.0,55 & Over,2016-1
+2016,2,1338.0,55 & Over,2016-2
+2016,3,1388.0,55 & Over,2016-3
+2016,4,1315.0,55 & Over,2016-4
+2016,5,1208.0,55 & Over,2016-5
+2016,6,1262.0,55 & Over,2016-6
+2016,7,1313.0,55 & Over,2016-7
+2016,8,1259.0,55 & Over,2016-8
+2016,9,1281.0,55 & Over,2016-9
+2016,10,1340.0,55 & Over,2016-10
+2016,11,1269.0,55 & Over,2016-11
+2016,12,1269.0,55 & Over,2016-12
+2017,1,1265.0,55 & Over,2017-1
+2017,2,1229.0,55 & Over,2017-2
+2017,3,1216.0,55 & Over,2017-3
+2017,4,1169.0,55 & Over,2017-4
+2017,5,1132.0,55 & Over,2017-5
+2017,6,1146.0,55 & Over,2017-6
+2017,7,1148.0,55 & Over,2017-7
+2017,8,1154.0,55 & Over,2017-8
+2017,9,1182.0,55 & Over,2017-9
+2017,10,1134.0,55 & Over,2017-10
+2017,11,1137.0,55 & Over,2017-11
+2017,12,1203.0,55 & Over,2017-12
+2018,1,1102.0,55 & Over,2018-1
+2018,2,1197.0,55 & Over,2018-2
+2018,3,1178.0,55 & Over,2018-3
+2018,4,1112.0,55 & Over,2018-4
+2018,5,1032.0,55 & Over,2018-5
+2018,6,1156.0,55 & Over,2018-6
+2018,7,1144.0,55 & Over,2018-7
+2018,8,1144.0,55 & Over,2018-8
+2018,9,1062.0,55 & Over,2018-9
+2018,10,1069.0,55 & Over,2018-10
+2018,11,1075.0,55 & Over,2018-11
+2018,12,1096.0,55 & Over,2018-12
+2019,1,1212.0,55 & Over,2019-1
+2019,2,1035.0,55 & Over,2019-2
+2019,3,1016.0,55 & Over,2019-3
+2019,4,975.0,55 & Over,2019-4
+2019,5,1037.0,55 & Over,2019-5
+2019,6,1141.0,55 & Over,2019-6
+2019,7,1041.0,55 & Over,2019-7
+2019,8,1010.0,55 & Over,2019-8
+2019,9,923.0,55 & Over,2019-9
+2019,10,1000.0,55 & Over,2019-10
+2019,11,998.0,55 & Over,2019-11
+2019,12,911.0,55 & Over,2019-12
+2020,1,1000.0,55 & Over,2020-1
+2020,2,1003.0,55 & Over,2020-2
+2020,3,1276.0,55 & Over,2020-3
+2020,4,5071.0,55 & Over,2020-4
+2020,5,4398.0,55 & Over,2020-5
+2015,1,3308.0,Job Losers not on Layoff,2015-1
+2015,2,3158.0,Job Losers not on Layoff,2015-2
+2015,3,3134.0,Job Losers not on Layoff,2015-3
+2015,4,3153.0,Job Losers not on Layoff,2015-4
+2015,5,3274.0,Job Losers not on Layoff,2015-5
+2015,6,3051.0,Job Losers not on Layoff,2015-6
+2015,7,3117.0,Job Losers not on Layoff,2015-7
+2015,8,3029.0,Job Losers not on Layoff,2015-8
+2015,9,2960.0,Job Losers not on Layoff,2015-9
+2015,10,2998.0,Job Losers not on Layoff,2015-10
+2015,11,3005.0,Job Losers not on Layoff,2015-11
+2015,12,2873.0,Job Losers not on Layoff,2015-12
+2016,1,2715.0,Job Losers not on Layoff,2016-1
+2016,2,2769.0,Job Losers not on Layoff,2016-2
+2016,3,2882.0,Job Losers not on Layoff,2016-3
+2016,4,2999.0,Job Losers not on Layoff,2016-4
+2016,5,2810.0,Job Losers not on Layoff,2016-5
+2016,6,2681.0,Job Losers not on Layoff,2016-6
+2016,7,2741.0,Job Losers not on Layoff,2016-7
+2016,8,2787.0,Job Losers not on Layoff,2016-8
+2016,9,2881.0,Job Losers not on Layoff,2016-9
+2016,10,2741.0,Job Losers not on Layoff,2016-10
+2016,11,2692.0,Job Losers not on Layoff,2016-11
+2016,12,2588.0,Job Losers not on Layoff,2016-12
+2017,1,2588.0,Job Losers not on Layoff,2017-1
+2017,2,2682.0,Job Losers not on Layoff,2017-2
+2017,3,2540.0,Job Losers not on Layoff,2017-3
+2017,4,2600.0,Job Losers not on Layoff,2017-4
+2017,5,2592.0,Job Losers not on Layoff,2017-5
+2017,6,2552.0,Job Losers not on Layoff,2017-6
+2017,7,2323.0,Job Losers not on Layoff,2017-7
+2017,8,2489.0,Job Losers not on Layoff,2017-8
+2017,9,2471.0,Job Losers not on Layoff,2017-9
+2017,10,2353.0,Job Losers not on Layoff,2017-10
+2017,11,2228.0,Job Losers not on Layoff,2017-11
+2017,12,2310.0,Job Losers not on Layoff,2017-12
+2018,1,2309.0,Job Losers not on Layoff,2018-1
+2018,2,2359.0,Job Losers not on Layoff,2018-2
+2018,3,2241.0,Job Losers not on Layoff,2018-3
+2018,4,2115.0,Job Losers not on Layoff,2018-4
+2018,5,2094.0,Job Losers not on Layoff,2018-5
+2018,6,2164.0,Job Losers not on Layoff,2018-6
+2018,7,2119.0,Job Losers not on Layoff,2018-7
+2018,8,1999.0,Job Losers not on Layoff,2018-8
+2018,9,2007.0,Job Losers not on Layoff,2018-9
+2018,10,2050.0,Job Losers not on Layoff,2018-10
+2018,11,2014.0,Job Losers not on Layoff,2018-11
+2018,12,2123.0,Job Losers not on Layoff,2018-12
+2019,1,2120.0,Job Losers not on Layoff,2019-1
+2019,2,2036.0,Job Losers not on Layoff,2019-2
+2019,3,1959.0,Job Losers not on Layoff,2019-3
+2019,4,1938.0,Job Losers not on Layoff,2019-4
+2019,5,1810.0,Job Losers not on Layoff,2019-5
+2019,6,1939.0,Job Losers not on Layoff,2019-6
+2019,7,1968.0,Job Losers not on Layoff,2019-7
+2019,8,2052.0,Job Losers not on Layoff,2019-8
+2019,9,1846.0,Job Losers not on Layoff,2019-9
+2019,10,1919.0,Job Losers not on Layoff,2019-10
+2019,11,2036.0,Job Losers not on Layoff,2019-11
+2019,12,1880.0,Job Losers not on Layoff,2019-12
+2020,1,1923.0,Job Losers not on Layoff,2020-1
+2020,2,1922.0,Job Losers not on Layoff,2020-2
+2020,3,2099.0,Job Losers not on Layoff,2020-3
+2020,4,2563.0,Job Losers not on Layoff,2020-4
+2020,5,2948.0,Job Losers not on Layoff,2020-5
+2015,1,970.0,Persons Completed Temp. Jobs,2015-1
+2015,2,952.0,Persons Completed Temp. Jobs,2015-2
+2015,3,951.0,Persons Completed Temp. Jobs,2015-3
+2015,4,915.0,Persons Completed Temp. Jobs,2015-4
+2015,5,1034.0,Persons Completed Temp. Jobs,2015-5
+2015,6,905.0,Persons Completed Temp. Jobs,2015-6
+2015,7,919.0,Persons Completed Temp. Jobs,2015-7
+2015,8,906.0,Persons Completed Temp. Jobs,2015-8
+2015,9,833.0,Persons Completed Temp. Jobs,2015-9
+2015,10,869.0,Persons Completed Temp. Jobs,2015-10
+2015,11,837.0,Persons Completed Temp. Jobs,2015-11
+2015,12,826.0,Persons Completed Temp. Jobs,2015-12
+2016,1,867.0,Persons Completed Temp. Jobs,2016-1
+2016,2,829.0,Persons Completed Temp. Jobs,2016-2
+2016,3,843.0,Persons Completed Temp. Jobs,2016-3
+2016,4,920.0,Persons Completed Temp. Jobs,2016-4
+2016,5,778.0,Persons Completed Temp. Jobs,2016-5
+2016,6,754.0,Persons Completed Temp. Jobs,2016-6
+2016,7,724.0,Persons Completed Temp. Jobs,2016-7
+2016,8,796.0,Persons Completed Temp. Jobs,2016-8
+2016,9,888.0,Persons Completed Temp. Jobs,2016-9
+2016,10,831.0,Persons Completed Temp. Jobs,2016-10
+2016,11,753.0,Persons Completed Temp. Jobs,2016-11
+2016,12,699.0,Persons Completed Temp. Jobs,2016-12
+2017,1,651.0,Persons Completed Temp. Jobs,2017-1
+2017,2,693.0,Persons Completed Temp. Jobs,2017-2
+2017,3,768.0,Persons Completed Temp. Jobs,2017-3
+2017,4,786.0,Persons Completed Temp. Jobs,2017-4
+2017,5,811.0,Persons Completed Temp. Jobs,2017-5
+2017,6,785.0,Persons Completed Temp. Jobs,2017-6
+2017,7,661.0,Persons Completed Temp. Jobs,2017-7
+2017,8,700.0,Persons Completed Temp. Jobs,2017-8
+2017,9,686.0,Persons Completed Temp. Jobs,2017-9
+2017,10,652.0,Persons Completed Temp. Jobs,2017-10
+2017,11,654.0,Persons Completed Temp. Jobs,2017-11
+2017,12,694.0,Persons Completed Temp. Jobs,2017-12
+2018,1,691.0,Persons Completed Temp. Jobs,2018-1
+2018,2,681.0,Persons Completed Temp. Jobs,2018-2
+2018,3,647.0,Persons Completed Temp. Jobs,2018-3
+2018,4,679.0,Persons Completed Temp. Jobs,2018-4
+2018,5,638.0,Persons Completed Temp. Jobs,2018-5
+2018,6,692.0,Persons Completed Temp. Jobs,2018-6
+2018,7,685.0,Persons Completed Temp. Jobs,2018-7
+2018,8,663.0,Persons Completed Temp. Jobs,2018-8
+2018,9,729.0,Persons Completed Temp. Jobs,2018-9
+2018,10,688.0,Persons Completed Temp. Jobs,2018-10
+2018,11,691.0,Persons Completed Temp. Jobs,2018-11
+2018,12,704.0,Persons Completed Temp. Jobs,2018-12
+2019,1,706.0,Persons Completed Temp. Jobs,2019-1
+2019,2,732.0,Persons Completed Temp. Jobs,2019-2
+2019,3,583.0,Persons Completed Temp. Jobs,2019-3
+2019,4,625.0,Persons Completed Temp. Jobs,2019-4
+2019,5,510.0,Persons Completed Temp. Jobs,2019-5
+2019,6,585.0,Persons Completed Temp. Jobs,2019-6
+2019,7,609.0,Persons Completed Temp. Jobs,2019-7
+2019,8,664.0,Persons Completed Temp. Jobs,2019-8
+2019,9,528.0,Persons Completed Temp. Jobs,2019-9
+2019,10,659.0,Persons Completed Temp. Jobs,2019-10
+2019,11,614.0,Persons Completed Temp. Jobs,2019-11
+2019,12,585.0,Persons Completed Temp. Jobs,2019-12
+2020,1,634.0,Persons Completed Temp. Jobs,2020-1
+2020,2,644.0,Persons Completed Temp. Jobs,2020-2
+2020,3,643.0,Persons Completed Temp. Jobs,2020-3
+2020,4,563.0,Persons Completed Temp. Jobs,2020-4
+2020,5,653.0,Persons Completed Temp. Jobs,2020-5
+2015,1,2338.0,Permanent Job Losers,2015-1
+2015,2,2207.0,Permanent Job Losers,2015-2
+2015,3,2183.0,Permanent Job Losers,2015-3
+2015,4,2238.0,Permanent Job Losers,2015-4
+2015,5,2240.0,Permanent Job Losers,2015-5
+2015,6,2146.0,Permanent Job Losers,2015-6
+2015,7,2198.0,Permanent Job Losers,2015-7
+2015,8,2123.0,Permanent Job Losers,2015-8
+2015,9,2128.0,Permanent Job Losers,2015-9
+2015,10,2129.0,Permanent Job Losers,2015-10
+2015,11,2169.0,Permanent Job Losers,2015-11
+2015,12,2047.0,Permanent Job Losers,2015-12
+2016,1,1848.0,Permanent Job Losers,2016-1
+2016,2,1940.0,Permanent Job Losers,2016-2
+2016,3,2039.0,Permanent Job Losers,2016-3
+2016,4,2079.0,Permanent Job Losers,2016-4
+2016,5,2032.0,Permanent Job Losers,2016-5
+2016,6,1927.0,Permanent Job Losers,2016-6
+2016,7,2017.0,Permanent Job Losers,2016-7
+2016,8,1991.0,Permanent Job Losers,2016-8
+2016,9,1993.0,Permanent Job Losers,2016-9
+2016,10,1909.0,Permanent Job Losers,2016-10
+2016,11,1940.0,Permanent Job Losers,2016-11
+2016,12,1890.0,Permanent Job Losers,2016-12
+2017,1,1937.0,Permanent Job Losers,2017-1
+2017,2,1989.0,Permanent Job Losers,2017-2
+2017,3,1772.0,Permanent Job Losers,2017-3
+2017,4,1813.0,Permanent Job Losers,2017-4
+2017,5,1782.0,Permanent Job Losers,2017-5
+2017,6,1767.0,Permanent Job Losers,2017-6
+2017,7,1662.0,Permanent Job Losers,2017-7
+2017,8,1789.0,Permanent Job Losers,2017-8
+2017,9,1784.0,Permanent Job Losers,2017-9
+2017,10,1701.0,Permanent Job Losers,2017-10
+2017,11,1575.0,Permanent Job Losers,2017-11
+2017,12,1616.0,Permanent Job Losers,2017-12
+2018,1,1618.0,Permanent Job Losers,2018-1
+2018,2,1677.0,Permanent Job Losers,2018-2
+2018,3,1594.0,Permanent Job Losers,2018-3
+2018,4,1436.0,Permanent Job Losers,2018-4
+2018,5,1456.0,Permanent Job Losers,2018-5
+2018,6,1472.0,Permanent Job Losers,2018-6
+2018,7,1434.0,Permanent Job Losers,2018-7
+2018,8,1336.0,Permanent Job Losers,2018-8
+2018,9,1278.0,Permanent Job Losers,2018-9
+2018,10,1362.0,Permanent Job Losers,2018-10
+2018,11,1322.0,Permanent Job Losers,2018-11
+2018,12,1419.0,Permanent Job Losers,2018-12
+2019,1,1415.0,Permanent Job Losers,2019-1
+2019,2,1304.0,Permanent Job Losers,2019-2
+2019,3,1376.0,Permanent Job Losers,2019-3
+2019,4,1314.0,Permanent Job Losers,2019-4
+2019,5,1300.0,Permanent Job Losers,2019-5
+2019,6,1355.0,Permanent Job Losers,2019-6
+2019,7,1360.0,Permanent Job Losers,2019-7
+2019,8,1388.0,Permanent Job Losers,2019-8
+2019,9,1318.0,Permanent Job Losers,2019-9
+2019,10,1260.0,Permanent Job Losers,2019-10
+2019,11,1422.0,Permanent Job Losers,2019-11
+2019,12,1295.0,Permanent Job Losers,2019-12
+2020,1,1289.0,Permanent Job Losers,2020-1
+2020,2,1279.0,Permanent Job Losers,2020-2
+2020,3,1456.0,Permanent Job Losers,2020-3
+2020,4,2000.0,Permanent Job Losers,2020-4
+2020,5,2295.0,Permanent Job Losers,2020-5
+2015,1,939.0,Less than HS Diploma,2015-1
+2015,2,919.0,Less than HS Diploma,2015-2
+2015,3,952.0,Less than HS Diploma,2015-3
+2015,4,956.0,Less than HS Diploma,2015-4
+2015,5,970.0,Less than HS Diploma,2015-5
+2015,6,907.0,Less than HS Diploma,2015-6
+2015,7,900.0,Less than HS Diploma,2015-7
+2015,8,839.0,Less than HS Diploma,2015-8
+2015,9,839.0,Less than HS Diploma,2015-9
+2015,10,811.0,Less than HS Diploma,2015-10
+2015,11,742.0,Less than HS Diploma,2015-11
+2015,12,695.0,Less than HS Diploma,2015-12
+2016,1,769.0,Less than HS Diploma,2016-1
+2016,2,754.0,Less than HS Diploma,2016-2
+2016,3,796.0,Less than HS Diploma,2016-3
+2016,4,819.0,Less than HS Diploma,2016-4
+2016,5,783.0,Less than HS Diploma,2016-5
+2016,6,807.0,Less than HS Diploma,2016-6
+2016,7,690.0,Less than HS Diploma,2016-7
+2016,8,793.0,Less than HS Diploma,2016-8
+2016,9,917.0,Less than HS Diploma,2016-9
+2016,10,793.0,Less than HS Diploma,2016-10
+2016,11,826.0,Less than HS Diploma,2016-11
+2016,12,785.0,Less than HS Diploma,2016-12
+2017,1,772.0,Less than HS Diploma,2017-1
+2017,2,792.0,Less than HS Diploma,2017-2
+2017,3,670.0,Less than HS Diploma,2017-3
+2017,4,648.0,Less than HS Diploma,2017-4
+2017,5,653.0,Less than HS Diploma,2017-5
+2017,6,673.0,Less than HS Diploma,2017-6
+2017,7,756.0,Less than HS Diploma,2017-7
+2017,8,644.0,Less than HS Diploma,2017-8
+2017,9,710.0,Less than HS Diploma,2017-9
+2017,10,611.0,Less than HS Diploma,2017-10
+2017,11,530.0,Less than HS Diploma,2017-11
+2017,12,630.0,Less than HS Diploma,2017-12
+2018,1,560.0,Less than HS Diploma,2018-1
+2018,2,589.0,Less than HS Diploma,2018-2
+2018,3,560.0,Less than HS Diploma,2018-3
+2018,4,602.0,Less than HS Diploma,2018-4
+2018,5,562.0,Less than HS Diploma,2018-5
+2018,6,583.0,Less than HS Diploma,2018-6
+2018,7,530.0,Less than HS Diploma,2018-7
+2018,8,584.0,Less than HS Diploma,2018-8
+2018,9,577.0,Less than HS Diploma,2018-9
+2018,10,602.0,Less than HS Diploma,2018-10
+2018,11,570.0,Less than HS Diploma,2018-11
+2018,12,592.0,Less than HS Diploma,2018-12
+2019,1,573.0,Less than HS Diploma,2019-1
+2019,2,546.0,Less than HS Diploma,2019-2
+2019,3,586.0,Less than HS Diploma,2019-3
+2019,4,532.0,Less than HS Diploma,2019-4
+2019,5,532.0,Less than HS Diploma,2019-5
+2019,6,535.0,Less than HS Diploma,2019-6
+2019,7,517.0,Less than HS Diploma,2019-7
+2019,8,542.0,Less than HS Diploma,2019-8
+2019,9,477.0,Less than HS Diploma,2019-9
+2019,10,543.0,Less than HS Diploma,2019-10
+2019,11,516.0,Less than HS Diploma,2019-11
+2019,12,516.0,Less than HS Diploma,2019-12
+2020,1,531.0,Less than HS Diploma,2020-1
+2020,2,550.0,Less than HS Diploma,2020-2
+2020,3,625.0,Less than HS Diploma,2020-3
+2020,4,1821.0,Less than HS Diploma,2020-4
+2020,5,1634.0,Less than HS Diploma,2020-5
+2015,1,1910.0,HS No College,2015-1
+2015,2,1891.0,HS No College,2015-2
+2015,3,1877.0,HS No College,2015-3
+2015,4,1938.0,HS No College,2015-4
+2015,5,2067.0,HS No College,2015-5
+2015,6,1906.0,HS No College,2015-6
+2015,7,1950.0,HS No College,2015-7
+2015,8,1944.0,HS No College,2015-8
+2015,9,1870.0,HS No College,2015-9
+2015,10,1841.0,HS No College,2015-10
+2015,11,1920.0,HS No College,2015-11
+2015,12,1942.0,HS No College,2015-12
+2016,1,1831.0,HS No College,2016-1
+2016,2,1850.0,HS No College,2016-2
+2016,3,1900.0,HS No College,2016-3
+2016,4,1941.0,HS No College,2016-4
+2016,5,1827.0,HS No College,2016-5
+2016,6,1785.0,HS No College,2016-6
+2016,7,1805.0,HS No College,2016-7
+2016,8,1806.0,HS No College,2016-8
+2016,9,1884.0,HS No College,2016-9
+2016,10,1952.0,HS No College,2016-10
+2016,11,1777.0,HS No College,2016-11
+2016,12,1814.0,HS No College,2016-12
+2017,1,1828.0,HS No College,2017-1
+2017,2,1740.0,HS No College,2017-2
+2017,3,1756.0,HS No College,2017-3
+2017,4,1665.0,HS No College,2017-4
+2017,5,1720.0,HS No College,2017-5
+2017,6,1640.0,HS No College,2017-6
+2017,7,1605.0,HS No College,2017-7
+2017,8,1822.0,HS No College,2017-8
+2017,9,1564.0,HS No College,2017-9
+2017,10,1502.0,HS No College,2017-10
+2017,11,1576.0,HS No College,2017-11
+2017,12,1507.0,HS No College,2017-12
+2018,1,1586.0,HS No College,2018-1
+2018,2,1583.0,HS No College,2018-2
+2018,3,1546.0,HS No College,2018-3
+2018,4,1529.0,HS No College,2018-4
+2018,5,1410.0,HS No College,2018-5
+2018,6,1491.0,HS No College,2018-6
+2018,7,1475.0,HS No College,2018-7
+2018,8,1424.0,HS No College,2018-8
+2018,9,1359.0,HS No College,2018-9
+2018,10,1440.0,HS No College,2018-10
+2018,11,1263.0,HS No College,2018-11
+2018,12,1372.0,HS No College,2018-12
+2019,1,1361.0,HS No College,2019-1
+2019,2,1357.0,HS No College,2019-2
+2019,3,1328.0,HS No College,2019-3
+2019,4,1237.0,HS No College,2019-4
+2019,5,1278.0,HS No College,2019-5
+2019,6,1407.0,HS No College,2019-6
+2019,7,1306.0,HS No College,2019-7
+2019,8,1302.0,HS No College,2019-8
+2019,9,1315.0,HS No College,2019-9
+2019,10,1335.0,HS No College,2019-10
+2019,11,1328.0,HS No College,2019-11
+2019,12,1330.0,HS No College,2019-12
+2020,1,1369.0,HS No College,2020-1
+2020,2,1323.0,HS No College,2020-2
+2020,3,1545.0,HS No College,2020-3
+2020,4,5747.0,HS No College,2020-4
+2020,5,5187.0,HS No College,2020-5
+2015,1,1458.0,Bachelor's degree and higher,2015-1
+2015,2,1408.0,Bachelor's degree and higher,2015-2
+2015,3,1225.0,Bachelor's degree and higher,2015-3
+2015,4,1404.0,Bachelor's degree and higher,2015-4
+2015,5,1462.0,Bachelor's degree and higher,2015-5
+2015,6,1292.0,Bachelor's degree and higher,2015-6
+2015,7,1320.0,Bachelor's degree and higher,2015-7
+2015,8,1244.0,Bachelor's degree and higher,2015-8
+2015,9,1315.0,Bachelor's degree and higher,2015-9
+2015,10,1339.0,Bachelor's degree and higher,2015-10
+2015,11,1342.0,Bachelor's degree and higher,2015-11
+2015,12,1319.0,Bachelor's degree and higher,2015-12
+2016,1,1321.0,Bachelor's degree and higher,2016-1
+2016,2,1317.0,Bachelor's degree and higher,2016-2
+2016,3,1370.0,Bachelor's degree and higher,2016-3
+2016,4,1306.0,Bachelor's degree and higher,2016-4
+2016,5,1326.0,Bachelor's degree and higher,2016-5
+2016,6,1371.0,Bachelor's degree and higher,2016-6
+2016,7,1332.0,Bachelor's degree and higher,2016-7
+2016,8,1413.0,Bachelor's degree and higher,2016-8
+2016,9,1385.0,Bachelor's degree and higher,2016-9
+2016,10,1422.0,Bachelor's degree and higher,2016-10
+2016,11,1279.0,Bachelor's degree and higher,2016-11
+2016,12,1344.0,Bachelor's degree and higher,2016-12
+2017,1,1347.0,Bachelor's degree and higher,2017-1
+2017,2,1301.0,Bachelor's degree and higher,2017-2
+2017,3,1310.0,Bachelor's degree and higher,2017-3
+2017,4,1350.0,Bachelor's degree and higher,2017-4
+2017,5,1289.0,Bachelor's degree and higher,2017-5
+2017,6,1289.0,Bachelor's degree and higher,2017-6
+2017,7,1278.0,Bachelor's degree and higher,2017-7
+2017,8,1315.0,Bachelor's degree and higher,2017-8
+2017,9,1275.0,Bachelor's degree and higher,2017-9
+2017,10,1167.0,Bachelor's degree and higher,2017-10
+2017,11,1159.0,Bachelor's degree and higher,2017-11
+2017,12,1205.0,Bachelor's degree and higher,2017-12
+2018,1,1197.0,Bachelor's degree and higher,2018-1
+2018,2,1270.0,Bachelor's degree and higher,2018-2
+2018,3,1238.0,Bachelor's degree and higher,2018-3
+2018,4,1193.0,Bachelor's degree and higher,2018-4
+2018,5,1144.0,Bachelor's degree and higher,2018-5
+2018,6,1314.0,Bachelor's degree and higher,2018-6
+2018,7,1247.0,Bachelor's degree and higher,2018-7
+2018,8,1166.0,Bachelor's degree and higher,2018-8
+2018,9,1149.0,Bachelor's degree and higher,2018-9
+2018,10,1182.0,Bachelor's degree and higher,2018-10
+2018,11,1296.0,Bachelor's degree and higher,2018-11
+2018,12,1271.0,Bachelor's degree and higher,2018-12
+2019,1,1392.0,Bachelor's degree and higher,2019-1
+2019,2,1262.0,Bachelor's degree and higher,2019-2
+2019,3,1189.0,Bachelor's degree and higher,2019-3
+2019,4,1211.0,Bachelor's degree and higher,2019-4
+2019,5,1244.0,Bachelor's degree and higher,2019-5
+2019,6,1235.0,Bachelor's degree and higher,2019-6
+2019,7,1257.0,Bachelor's degree and higher,2019-7
+2019,8,1236.0,Bachelor's degree and higher,2019-8
+2019,9,1193.0,Bachelor's degree and higher,2019-9
+2019,10,1235.0,Bachelor's degree and higher,2019-10
+2019,11,1174.0,Bachelor's degree and higher,2019-11
+2019,12,1160.0,Bachelor's degree and higher,2019-12
+2020,1,1174.0,Bachelor's degree and higher,2020-1
+2020,2,1158.0,Bachelor's degree and higher,2020-2
+2020,3,1487.0,Bachelor's degree and higher,2020-3
+2020,4,5043.0,Bachelor's degree and higher,2020-4
+2020,5,4450.0,Bachelor's degree and higher,2020-5
+2015,1,1945.0,Some College or Associate Degree,2015-1
+2015,2,1858.0,Some College or Associate Degree,2015-2
+2015,3,1801.0,Some College or Associate Degree,2015-3
+2015,4,1764.0,Some College or Associate Degree,2015-4
+2015,5,1669.0,Some College or Associate Degree,2015-5
+2015,6,1595.0,Some College or Associate Degree,2015-6
+2015,7,1637.0,Some College or Associate Degree,2015-7
+2015,8,1603.0,Some College or Associate Degree,2015-8
+2015,9,1586.0,Some College or Associate Degree,2015-9
+2015,10,1642.0,Some College or Associate Degree,2015-10
+2015,11,1654.0,Some College or Associate Degree,2015-11
+2015,12,1566.0,Some College or Associate Degree,2015-12
+2016,1,1607.0,Some College or Associate Degree,2016-1
+2016,2,1591.0,Some College or Associate Degree,2016-2
+2016,3,1574.0,Some College or Associate Degree,2016-3
+2016,4,1575.0,Some College or Associate Degree,2016-4
+2016,5,1474.0,Some College or Associate Degree,2016-5
+2016,6,1576.0,Some College or Associate Degree,2016-6
+2016,7,1606.0,Some College or Associate Degree,2016-7
+2016,8,1568.0,Some College or Associate Degree,2016-8
+2016,9,1590.0,Some College or Associate Degree,2016-9
+2016,10,1471.0,Some College or Associate Degree,2016-10
+2016,11,1473.0,Some College or Associate Degree,2016-11
+2016,12,1455.0,Some College or Associate Degree,2016-12
+2017,1,1439.0,Some College or Associate Degree,2017-1
+2017,2,1497.0,Some College or Associate Degree,2017-2
+2017,3,1389.0,Some College or Associate Degree,2017-3
+2017,4,1394.0,Some College or Associate Degree,2017-4
+2017,5,1533.0,Some College or Associate Degree,2017-5
+2017,6,1423.0,Some College or Associate Degree,2017-6
+2017,7,1404.0,Some College or Associate Degree,2017-7
+2017,8,1386.0,Some College or Associate Degree,2017-8
+2017,9,1360.0,Some College or Associate Degree,2017-9
+2017,10,1411.0,Some College or Associate Degree,2017-10
+2017,11,1370.0,Some College or Associate Degree,2017-11
+2017,12,1359.0,Some College or Associate Degree,2017-12
+2018,1,1285.0,Some College or Associate Degree,2018-1
+2018,2,1310.0,Some College or Associate Degree,2018-2
+2018,3,1322.0,Some College or Associate Degree,2018-3
+2018,4,1307.0,Some College or Associate Degree,2018-4
+2018,5,1247.0,Some College or Associate Degree,2018-5
+2018,6,1256.0,Some College or Associate Degree,2018-6
+2018,7,1189.0,Some College or Associate Degree,2018-7
+2018,8,1303.0,Some College or Associate Degree,2018-8
+2018,9,1190.0,Some College or Associate Degree,2018-9
+2018,10,1153.0,Some College or Associate Degree,2018-10
+2018,11,1165.0,Some College or Associate Degree,2018-11
+2018,12,1224.0,Some College or Associate Degree,2018-12
+2019,1,1277.0,Some College or Associate Degree,2019-1
+2019,2,1172.0,Some College or Associate Degree,2019-2
+2019,3,1253.0,Some College or Associate Degree,2019-3
+2019,4,1149.0,Some College or Associate Degree,2019-4
+2019,5,1042.0,Some College or Associate Degree,2019-5
+2019,6,1131.0,Some College or Associate Degree,2019-6
+2019,7,1192.0,Some College or Associate Degree,2019-7
+2019,8,1143.0,Some College or Associate Degree,2019-8
+2019,9,1085.0,Some College or Associate Degree,2019-9
+2019,10,1069.0,Some College or Associate Degree,2019-10
+2019,11,1085.0,Some College or Associate Degree,2019-11
+2019,12,1018.0,Some College or Associate Degree,2019-12
+2020,1,1040.0,Some College or Associate Degree,2020-1
+2020,2,1116.0,Some College or Associate Degree,2020-2
+2020,3,1368.0,Some College or Associate Degree,2020-3
+2020,4,5376.0,Some College or Associate Degree,2020-4
+2020,5,4821.0,Some College or Associate Degree,2020-5
+2015,1,356.0,Asian,2015-1
+2015,2,359.0,Asian,2015-2
+2015,3,286.0,Asian,2015-3
+2015,4,400.0,Asian,2015-4
+2015,5,379.0,Asian,2015-5
+2015,6,351.0,Asian,2015-6
+2015,7,358.0,Asian,2015-7
+2015,8,307.0,Asian,2015-8
+2015,9,319.0,Asian,2015-9
+2015,10,314.0,Asian,2015-10
+2015,11,359.0,Asian,2015-11
+2015,12,379.0,Asian,2015-12
+2016,1,335.0,Asian,2016-1
+2016,2,358.0,Asian,2016-2
+2016,3,371.0,Asian,2016-3
+2016,4,363.0,Asian,2016-4
+2016,5,395.0,Asian,2016-5
+2016,6,337.0,Asian,2016-6
+2016,7,365.0,Asian,2016-7
+2016,8,398.0,Asian,2016-8
+2016,9,371.0,Asian,2016-9
+2016,10,332.0,Asian,2016-10
+2016,11,294.0,Asian,2016-11
+2016,12,263.0,Asian,2016-12
+2017,1,358.0,Asian,2017-1
+2017,2,334.0,Asian,2017-2
+2017,3,314.0,Asian,2017-3
+2017,4,319.0,Asian,2017-4
+2017,5,365.0,Asian,2017-5
+2017,6,354.0,Asian,2017-6
+2017,7,368.0,Asian,2017-7
+2017,8,388.0,Asian,2017-8
+2017,9,357.0,Asian,2017-9
+2017,10,294.0,Asian,2017-10
+2017,11,293.0,Asian,2017-11
+2017,12,242.0,Asian,2017-12
+2018,1,299.0,Asian,2018-1
+2018,2,291.0,Asian,2018-2
+2018,3,309.0,Asian,2018-3
+2018,4,286.0,Asian,2018-4
+2018,5,217.0,Asian,2018-5
+2018,6,329.0,Asian,2018-6
+2018,7,311.0,Asian,2018-7
+2018,8,305.0,Asian,2018-8
+2018,9,359.0,Asian,2018-9
+2018,10,321.0,Asian,2018-10
+2018,11,284.0,Asian,2018-11
+2018,12,335.0,Asian,2018-12
+2019,1,318.0,Asian,2019-1
+2019,2,320.0,Asian,2019-2
+2019,3,318.0,Asian,2019-3
+2019,4,225.0,Asian,2019-4
+2019,5,260.0,Asian,2019-5
+2019,6,225.0,Asian,2019-6
+2019,7,290.0,Asian,2019-7
+2019,8,299.0,Asian,2019-8
+2019,9,259.0,Asian,2019-9
+2019,10,305.0,Asian,2019-10
+2019,11,276.0,Asian,2019-11
+2019,12,264.0,Asian,2019-12
+2020,1,315.0,Asian,2020-1
+2020,2,262.0,Asian,2020-2
+2020,3,433.0,Asian,2020-3
+2020,4,1438.0,Asian,2020-4
+2020,5,1493.0,Asian,2020-5
