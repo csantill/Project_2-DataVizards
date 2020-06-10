@@ -2,6 +2,7 @@ var censusdata;
 var claimsdata;
 var mapsPlaceholder = [];
 var layerReference = [];
+var GeoJSONlayerReference ;
 
 function buildFeaturePopup(feature) {
     selectedYear = d3.select("#selYear").node().value;
@@ -12,23 +13,23 @@ function buildFeaturePopup(feature) {
         census_string = "Population Estimate : " + census[0].value.toLocaleString() + "<br>";
     }
     // console.log(census.value)
-    return "<h3>" + feature.properties.name + "</h3><br>"
-        // + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 200px; height: 200px;"></div>'
-        +
-        '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 300px; height: 300px;"></div>' +
-        "Population Density: <b>" + feature.properties.density + "</b><br>" +
+    return "<h3>" + feature.properties.name + "</h3><br>" 
+    // + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 200px; height: 200px;"></div>'
+    + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 250px; height: 250px;"></div>'    
+    + "Population Density: <b>" + feature.properties.density + "</b><br>" +
         census_string +
         "Year : <b> " + selectedYear + "</b>"
 }
 
-function buildUnemploymentChart(e) {
+function buildUnemploymentChart(e)
+{
     let feature = e.target.feature;
 
-    selectedYear = d3.select("#selYear").node().value;
+    selectedYear = d3.select("#selYear").node( ).value;
     selectedState = feature.properties.name;
-
-    function filterstateyear(row) {
-        return (row.state == selectedState) && (row.year == selectedYear)
+    function filterstateyear(row)
+    {
+        return (row.state == selectedState) && (row.year ==selectedYear)
     }
     let filterdata = claimsdata.filter(filterstateyear);
     let trace = {
@@ -39,32 +40,33 @@ function buildUnemploymentChart(e) {
     var data = [trace];
     var layout = {
         'xaxis': {
-            'showgrid': true,
-            'visible': true,
+            'showgrid': true, 
+            'visible': true,  
             'showticklabels': false,
-            'nticks': 12
-        },
+            'nticks':12
+        }, 
         'yaxis': {
-            'showgrid': true,
-            'visible': true,
+            'showgrid': true, 
+            'visible': true,  
             'showticklabels': false
-        },
+        } 
+        ,    
         // width:500,
         // height:500,
-        //        autosize:true,
+//        autosize:true,
         title: "Unemployment Rate",
         showlegend: false
     }
 
 
-    Plotly.newPlot('unemp_rate_chart_' + selectedState, data, layout, { displayModeBar: false })
+    Plotly.newPlot('unemp_rate_chart_'+selectedState, data, layout,{displayModeBar: false})
 }
 
-function creategeoJSONLayer(data) {
+function creategeoJSONLayer(data){
     function onEachFeature(feature, layer) {
         layerReference.push(layer)
         layer.bindPopup(buildFeaturePopup(feature))
-        layer.on('popupopen', function(e) {
+        layer.on('popupopen', function (e) {
             buildUnemploymentChart(e)
         })
     }
@@ -78,57 +80,120 @@ function creategeoJSONLayer(data) {
 }
 
 
-function calculateYearlyClaim(feature) {
+function calculateYearlyClaim(feature){
     let selectedYear = d3.select("#selYear").node().value;
     let selectedState = feature.properties.name;
-
-    function filterstateyear(row) {
-        return (row.state == selectedState) && (row.year == selectedYear)
-    }
+    function filterstateyear(row)
+    {
+        return (row.state == selectedState) && (row.year ==selectedYear)
+    }            
     let filterdata = claimsdata.filter(filterstateyear);
     const reducer = (accumulator, item) => {
         return accumulator + item.initial_claim;
     };
-    const totalclaims = filterdata.reduce(reducer, 0)
-    return totalclaims
+    const totalclaims = filterdata.reduce(reducer,0)
+    return totalclaims     
 }
 
 
+function setSelectedIndex(s, v) {
+    for ( var i = 0; i < s.options.length; i++ ) {
+        if ( s.options[i].text == v ) {
+            s.options[i].selected = true;
+            return;
+        }
+    }
+}
 
-function choroplethJSONLayer(data) {
+
+function choroplethJSONLayer(data){
     function onEachFeature(feature, layer) {
         layerReference.push(layer)
         layer.bindPopup(buildFeaturePopup(feature))
-        layer.on('popupopen', function(e) {
+        layer.on('popupopen', function (e) {
             buildUnemploymentChart(e)
+        })
+        layer.on('click', function(e) {
+            let selectedState = feature.properties.name;
+//            let n=document.getElementById('#selState')//("#selState")
+            let n=d3.select("#selState").node()
+            setSelectedIndex(n,selectedState)
+            UpdateDisplayState();
+            UpdateDisplay();
+            console.log('Layer clicked!', e);
         })
     }
 
     // Create a GeoJSON layer containing the features array on the earthquakeData object
     // Run the onEachFeature function once for each piece of data in the array
-
     const stategeojson = L.choropleth(data, {
-        valueProperty: 'TotalClaims',
-        scale: ['white', 'red'],
-        steps: 5,
-        mode: 'q',
-        style: {
+        valueProperty: 'TotalClaims',  
+          scale: ['white', 'blue'],
+          steps: 7,
+          mode: 'q',
+          style: {
             color: '#fff',
             weight: 2,
             fillOpacity: 0.8
-        },
+          },
         onEachFeature: onEachFeature
     });
     return stategeojson;
 }
 
 function createFeatures(data) {
-    //    stategeojson=creategeoJSONLayer(data)
-    stategeojson = choroplethJSONLayer(data)
-        // Sending our earthquakes layer to the createMap function
+//    stategeojson=creategeoJSONLayer(data)
+    stategeojson=choroplethJSONLayer(data)
+    GeoJSONlayerReference=stategeojson;
+    // Sending our earthquakes layer to the createMap function
     createMap(stategeojson);
 }
+function legend_for_choropleth_layer(layer, name, units, id) {
+    // Generate a HTML legend for a Leaflet layer created using choropleth.js
+    //
+    // Arguments:
+    // layer: The leaflet Layer object referring to the layer - must be a layer using
+    //        choropleth.js
+    // name: The name to display in the layer control (will be displayed above the legend, and next
+    //       to the checkbox
+    // units: A suffix to put after each numerical range in the layer - for example to specify the
+    //        units of the values - but could be used for other purposes)
+    // id: The id to give the <ul> element that is used to create the legend. Useful to allow the legend
+    //     to be shown/hidden programmatically
+    //
+    // Returns:
+    // The HTML ready to be used in the specification of the layers control
+    var limits = layer.options.limits;
+    var colors = layer.options.colors;
+    var labels = [];
 
+    // Start with just the name that you want displayed in the layer selector
+    var HTML = name
+
+    // For each limit value, create a string of the form 'X-Y'
+    limits.forEach(function (limit, index) {
+        if (index === 0) {
+            var to = parseFloat(limits[index]).toFixed(0);
+            var range_str = "< " + to;
+        }
+        else {
+            var from = parseFloat(limits[index - 1]).toFixed(0);
+            var to = parseFloat(limits[index]).toFixed(0);
+            var range_str = from + "-" + to;
+        }
+        // Put together a <li> element with the relevant classes, and the right colour and text
+        // labels.push('<i class="sublegend-item"><div class="sublegend-color" style="background-color: ' +
+        //      colors[index] + '"> </div>' + range_str + units + '</i>');
+        labels.push('<i class="sublegend-item" style="background-color: ' +
+             colors[index] + '"></i>' + range_str + units + '<br>');
+
+    })
+
+    // Put all the <li> elements together in a <ul> element
+    HTML += '<ul id="' + id + '" class="sublegend">' + labels.join('') + '</ul>';
+
+    return HTML;
+}
 
 
 function createMap(stategeojson) {
@@ -161,12 +226,13 @@ function createMap(stategeojson) {
     const myMap = L.map("map", {
         center: [37.09, -95.71],
         zoom: 5,
+        // layers: [lightmap, stategeojson]
         layers: [lightmap, stategeojson]
     });
 
     // Create overlay object to hold our overlay layer
     const overlayMaps = {
-        States: stategeojson
+        [legend_for_choropleth_layer(stategeojson, 'Annual Claims', '', 'legend_IMD')]: stategeojson
     };
 
     // Create a layer control
@@ -206,35 +272,21 @@ function loadYears() {
     loadDropDown('#selYear', columns, columns[columns.length - 1])
 }
 
-function updateGEOJSON() {
-    statesData.features.forEach(element => {
+function updateGEOJSON(){
+    statesData.features.forEach(element =>{
         element.properties['TotalClaims'] = calculateYearlyClaim(element)
-    })
+    } )
 }
 
 function UpdateDisplay() {
     // reload the map tool tip data
     reloadlayers();
-
     selectedYear = d3.select("#selYear").node().value;
     selectedState = d3.select("#selState").node().value;
+    updateChart();
 }
 
-function reloadlayers() {
-    let map = mapsPlaceholder.pop();
-    layerReference.forEach(element => {
-        const newpopup = buildFeaturePopup(element.feature)
-        element.feature.properties
-        console.log(total)
-        element._popup.setContent(newpopup)
-    });
-}
-d3.select("#selState").on("change", updateChart);
-d3.select("#selYear").on("change.a", updateChart).on("change.b", UpdateDisplay);
-async function updateChart() {
-
-    const url2 = "/unemployment_claims/"
-    claimsdata = await d3.json(url2);
+function updateChart() {
 
     selectedState = d3.select("#selState").node().value;
     selectedYear = d3.select("#selYear").node().value;
@@ -259,22 +311,41 @@ async function updateChart() {
 
 }
 
-function createChart() {
 
-    var trace = {
+
+function UpdateDisplayState() {
+// reload the map tool tip data
+//    reloadlayers();
+    let mymap=    mapsPlaceholder[0];
+    updateChart()
+    selectedYear = d3.select("#selYear").node().value;
+    selectedState = d3.select("#selState").node().value;
+}
+
+
+function reloadlayers() {
+    layerReference.forEach(element => {
+        const newpopup = buildFeaturePopup(element.feature)
+        element.feature.properties
+        console.log(total)
+        element._popup.setContent(newpopup)
+    });
+}
+
+
+async function createChart() {
+
+    let trace = {
         type: "bar",
         x: claimsdata.map(val => val.year_month),
         y: claimsdata.map(val => val.initial_claim),
     }
     var data = [trace];
     var layout = {
-        title:
+        // title: ""
     }
     Plotly.newPlot("bar", data, layout);
-
-
 }
-
 
 
 async function init() {
@@ -282,14 +353,15 @@ async function init() {
     censusdata = await d3.json(url);
     const url2 = "/unemployment_claims/"
     claimsdata = await d3.json(url2);
-
+    
     loadStates(statesData.features);
     loadYears();
     updateGEOJSON();
     createFeatures(statesData);
-    createChart()
+    updateChart()
 }
 
 init();
 
 d3.selectAll("#selYear").on("change", UpdateDisplay)
+d3.selectAll("#selState").on("change", UpdateDisplayState)
