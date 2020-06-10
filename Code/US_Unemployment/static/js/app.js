@@ -57,8 +57,6 @@ function buildUnemploymentChart(e)
         title: "Unemployment Rate",
         showlegend: false
     }
-
-
     Plotly.newPlot('unemp_rate_chart_'+selectedState, data, layout,{displayModeBar: false})
 }
 
@@ -115,11 +113,9 @@ function choroplethJSONLayer(data){
         })
         layer.on('click', function(e) {
             let selectedState = feature.properties.name;
-//            let n=document.getElementById('#selState')//("#selState")
             let n=d3.select("#selState").node()
             setSelectedIndex(n,selectedState)
             UpdateDisplayState();
-            UpdateDisplay();
             console.log('Layer clicked!', e);
         })
     }
@@ -149,6 +145,9 @@ function createFeatures(data) {
     createMap(stategeojson);
 }
 function legend_for_choropleth_layer(layer, name, units, id) {
+// Code from 
+// http://blog.rtwilson.com/automatically-generating-a-legend-for-a-choropleth-layer-in-leaflet/
+
     // Generate a HTML legend for a Leaflet layer created using choropleth.js
     //
     // Arguments:
@@ -280,8 +279,6 @@ function updateGEOJSON(){
 function UpdateDisplay() {
     // reload the map tool tip data
     reloadlayers();
-    selectedYear = d3.select("#selYear").node().value;
-    selectedState = d3.select("#selState").node().value;
     updateChart();
 }
 
@@ -294,8 +291,6 @@ function updateChart() {
         return val.state === selectedState && val.year === selectedYear
 
     })
-    console.log(filteredData);
-
     var trace = {
         type: "bar",
         x: filteredData.map(val => val.year_month),
@@ -306,8 +301,6 @@ function updateChart() {
         title: selectedState
     }
     Plotly.newPlot("bar", data, layout);
-
-
 }
 
 
@@ -317,8 +310,6 @@ function UpdateDisplayState() {
 //    reloadlayers();
     let mymap=    mapsPlaceholder[0];
     updateChart()
-    selectedYear = d3.select("#selYear").node().value;
-    selectedState = d3.select("#selState").node().value;
 }
 
 
