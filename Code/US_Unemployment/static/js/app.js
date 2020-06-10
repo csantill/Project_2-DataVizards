@@ -237,7 +237,8 @@ function createMap(stategeojson) {
     // Pass in our baseMaps and overlayMaps
     // Add the layer control to the map
     L.control.layers(baseMaps, overlayMaps, {
-        collapsed: false
+        collapsed: false,
+        position: 'bottomright'
     }).addTo(myMap);
 }
 
