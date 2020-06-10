@@ -12,13 +12,17 @@ function buildFeaturePopup(feature) {
     if (Array.isArray(census) && census.length) {
         census_string = "Population Estimate : " + census[0].value.toLocaleString() + "<br>";
     }
+    yearly_claims = "Annual Claums : "+ calculateYearlyClaim(feature).toLocaleString()+ "<br>";;
+
+
     // console.log(census.value)
     return "<h3>" + feature.properties.name + "</h3><br>" 
     // + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 200px; height: 200px;"></div>'
     + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 250px; height: 250px;"></div>'    
-    + "Population Density: <b>" + feature.properties.density + "</b><br>" +
-        census_string +
-        "Year : <b> " + selectedYear + "</b>"
+    + "Population Density: <b>" + feature.properties.density + "</b><br>" 
+    + census_string 
+    + yearly_claims 
+    + "Year : <b> " + selectedYear + "</b>"
 }
 
 function buildUnemploymentChart(e)
