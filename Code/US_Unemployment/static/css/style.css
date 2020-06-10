@@ -48,6 +48,35 @@ body {
     text-align: center;
 }
 
+.sublegend-color {
+    width: 20px;
+    border: 1px solid #666666;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.sublegend-item {
+    padding-top: 0.2em;
+}
+
+.sublegend {
+    list-style: none;
+    padding-inline-start: 24px;
+    margin-top: 0px;
+}
+
+
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
 
 /* Media Queries */
 

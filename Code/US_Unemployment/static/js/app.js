@@ -128,7 +128,7 @@ function choroplethJSONLayer(data){
     // Run the onEachFeature function once for each piece of data in the array
     const stategeojson = L.choropleth(data, {
         valueProperty: 'TotalClaims',  
-          scale: ['white', 'blue'],
+          scale: ['SkyBlue', 'Navy'],
           steps: 7,
           mode: 'q',
           style: {
@@ -181,12 +181,10 @@ function legend_for_choropleth_layer(layer, name, units, id) {
             var to = parseFloat(limits[index]).toFixed(0);
             var range_str = from + "-" + to;
         }
-        // Put together a <li> element with the relevant classes, and the right colour and text
-        // labels.push('<i class="sublegend-item"><div class="sublegend-color" style="background-color: ' +
-        //      colors[index] + '"> </div>' + range_str + units + '</i>');
-        labels.push('<i class="sublegend-item" style="background-color: ' +
-             colors[index] + '"></i>' + range_str + units + '<br>');
 
+        // Put together a <li> element with the relevant classes, and the right colour and text
+        labels.push('<li class="sublegend-item"><div class="sublegend-color" style="background-color: ' +
+            colors[index] + '">&nbsp;</div> ' + range_str + units + '</li>');
     })
 
     // Put all the <li> elements together in a <ul> element
@@ -194,6 +192,7 @@ function legend_for_choropleth_layer(layer, name, units, id) {
 
     return HTML;
 }
+
 
 
 function createMap(stategeojson) {
@@ -327,7 +326,6 @@ function reloadlayers() {
     layerReference.forEach(element => {
         const newpopup = buildFeaturePopup(element.feature)
         element.feature.properties
-        console.log(total)
         element._popup.setContent(newpopup)
     });
 }
