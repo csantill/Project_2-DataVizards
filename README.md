@@ -1,5 +1,8 @@
 # US Unemployment Dashboard
 
+#### Presentation:https://docs.google.com/presentation/d/1eOtrxH34Pn-dGqCifs5KrQhsSAenC6q421O3bR2Po-Y/edit?usp=sharing
+#### App Link: http://datavizards-unemployment.herokuapp.com/
+
 ## Team
 Zen Acar, Gina Cameras, Harini Rao, Carlos Santillan
 
