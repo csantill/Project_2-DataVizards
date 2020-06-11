@@ -18,12 +18,10 @@ function buildFeaturePopup(feature) {
     // console.log(census.value)
     return "<h3>" + feature.properties.name + "</h3><br>"
         // + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 200px; height: 200px;"></div>'
-        +
-        '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 250px; height: 250px;"></div>' +
-        "Population Density: <b>" + feature.properties.density + "</b><br>" +
+        + '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 250px; height: 250px;"></div>' 
+        + "Population Density: <b>" + feature.properties.density + "</b><br>" +
         census_string +
-        yearly_claims +
-        "Year : <b> " + selectedYear + "</b>"
+        yearly_claims + "Year : <b> " + selectedYear + "</b>"
 }
 
 function buildUnemploymentChart(e) {
@@ -282,6 +280,8 @@ function updateGEOJSON() {
 
 function UpdateDisplay() {
     // reload the map tool tip data
+    let mymap = mapsPlaceholder[0];
+    mymap.closePopup();
     reloadlayers();
     updateChart();
 }
