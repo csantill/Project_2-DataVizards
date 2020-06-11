@@ -220,7 +220,7 @@ function createMap(stategeojson) {
     });
     // Define a baseMaps object to hold our base layers
     const baseMaps = {
-        "Street Map": lightmap,
+        "Light Map": lightmap,
         "Dark Map": darkmap
     };
     // Create our map, giving it the streetmap and earthquakes layers to display on load
