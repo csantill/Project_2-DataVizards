@@ -1,1 +1,1 @@
-web: gunicorn .Code.US_Unemployment.app:app
+web: gunicorn US_Unemployment.app:app
