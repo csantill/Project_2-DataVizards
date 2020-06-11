@@ -125,7 +125,9 @@ function choroplethJSONLayer(data) {
     // Run the onEachFeature function once for each piece of data in the array
     const stategeojson = L.choropleth(data, {
         valueProperty: 'TotalClaims',
-        scale: ['SkyBlue', 'Navy'],
+        // scale: ['SkyBlue', 'Navy'],
+        scale: ['#F1EEF6', '034E7B'],
+        
         steps: 7,
         mode: 'q',
         style: {
