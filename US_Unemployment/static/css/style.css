@@ -4,7 +4,8 @@
     margin-left: 100px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: large;
-    background-color: #4e5180;
+    color: white !important;
+    background-color: #034E7B;
 }
 
 .nav-item {
@@ -45,11 +46,9 @@ body {
     bottom: 0;
     left: 0;
     padding: 1rem;
-    background: linear-gradient( rgba(83, 132, 223, 0.45), #14113a98);
-}
-
-.footer {
     text-align: center;
+    color: #f1eef6;
+    background: linear-gradient(#a6bddb, #034e7b);
 }
 
 .footer ul {
@@ -95,7 +94,7 @@ body {
 
 @media(max-width: 992px) {
     .navbar {
-        background-color: #0BADA6 !important;
+        background-color: #034E7B !important;
     }
     .navbar-brand {
         padding: inherit;
