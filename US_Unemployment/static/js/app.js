@@ -18,8 +18,9 @@ function buildFeaturePopup(feature) {
     // console.log(census.value)
     return "<h3>" + feature.properties.name + "</h3>"
         // + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 200px; height: 200px;"></div>'
-        + '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 250px; height: 250px;"></div>' 
-        + "Population Density: <b>" + feature.properties.density + "</b><br>" +
+        +
+        '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 250px; height: 250px;"></div>' +
+        "Population Density: <b>" + feature.properties.density + "</b><br>" +
         census_string +
         yearly_claims + "Year : <b> " + selectedYear + "</b>"
 }
@@ -127,7 +128,7 @@ function choroplethJSONLayer(data) {
         valueProperty: 'TotalClaims',
         // scale: ['SkyBlue', 'Navy'],
         scale: ['#F1EEF6', '034E7B'],
-        
+
         steps: 7,
         mode: 'q',
         style: {
@@ -302,16 +303,17 @@ function updateChart() {
         x: filteredData.map(val => val.year_month),
         y: filteredData.map(val => val.initial_claim),
         marker: {
-            color: ["navy", "navy", "navy", "navy", "navy", "navy", "navy", "navy", "navy", "navy", "navy", "navy"]
+            color: ["#034E7B", "#034E7B", "#034E7B", "#034E7B", "#034E7B", "#034E7B", "#034E7B", "#034E7B", "#034E7B", "#034E7B", "#034E7B", "#034E7B"]
         },
     }
     var data = [trace];
     var layout = {
-        title: `${selectedState} ${selectedYear} Monthly Claim`,
+        title: `<b>${selectedState} ${selectedYear} Monthly Initial Claims</b>`,
         plot_bgcolor: "#e8e8e8",
+        fontsize: 20,
         width: 800,
         height: 500,
-        margin: { t: 100, b: 80 },
+        margin: { t: 80, b: 80 },
         xaxis: {
             tickangle: -45,
         },
