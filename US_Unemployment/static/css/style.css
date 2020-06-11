@@ -2,7 +2,7 @@
     font-weight: bold;
     padding: inherit;
     margin-left: 100px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: large;
     color: white !important;
     background-color: #034E7B;
@@ -11,7 +11,7 @@
 .nav-item {
     font-weight: bold;
     font-size: 16;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 html {
