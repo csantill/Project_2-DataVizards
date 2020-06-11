@@ -28,7 +28,11 @@ app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "s
 db = SQLAlchemy(app)
 
 # from .models import census
-from .models import *
+try:
+    # Assume we're a sub-module in a package.
+    from .models import *
+except ImportError:
+     from models import *
 
 
 @app.route("/")
