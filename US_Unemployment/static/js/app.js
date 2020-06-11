@@ -12,11 +12,11 @@ function buildFeaturePopup(feature) {
     if (Array.isArray(census) && census.length) {
         census_string = "Population Estimate : " + census[0].value.toLocaleString() + "<br>";
     }
-    yearly_claims = "Annual Claums : " + calculateYearlyClaim(feature).toLocaleString() + "<br>";;
+    yearly_claims = "Annual Inital Claims : " + calculateYearlyClaim(feature).toLocaleString() + "<br>";;
 
 
     // console.log(census.value)
-    return "<h3>" + feature.properties.name + "</h3><br>"
+    return "<h3>" + feature.properties.name + "</h3>"
         // + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 200px; height: 200px;"></div>'
         + '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 250px; height: 250px;"></div>' 
         + "Population Density: <b>" + feature.properties.density + "</b><br>" +
@@ -233,7 +233,7 @@ function createMap(stategeojson) {
 
     // Create overlay object to hold our overlay layer
     const overlayMaps = {
-        [legend_for_choropleth_layer(stategeojson, 'Annual Claims', '', 'legend_IMD')]: stategeojson
+        [legend_for_choropleth_layer(stategeojson, 'Annual Initial Claims', '', 'legend_IMD')]: stategeojson
     };
 
     // Create a layer control
