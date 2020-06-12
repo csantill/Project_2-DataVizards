@@ -343,7 +343,7 @@ function updateChart() {
         title: `<b>${selectedState} ${selectedYear} - Initial Unemployment Claims </b>`,
         plot_bgcolor: "#e8e8e8",
         fontsize: 18,
-        family: 'Helvetica',
+        family: 'Arial',
         width: 550,
         height: 450,
         margin: { t: 80, b: 80, r: 2 },
