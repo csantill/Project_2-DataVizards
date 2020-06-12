@@ -51,13 +51,13 @@ function buildUnemploymentChart(e) {
             'showgrid': true,
             'visible': true,
             'showticklabels': false,
-            'gridwidth':2,
+            'gridwidth': 2,
             'nticks': 12
         },
         'yaxis': {
             'showgrid': true,
             'visible': true,
-            'gridwidth':2,  
+            'gridwidth': 2,
             'showticklabels': false
         },
         // width:500,
@@ -288,8 +288,7 @@ function updateGEOJSON() {
     })
 }
 
-function recreateMap()
-{
+function recreateMap() {
     let mymap = mapsPlaceholder[0];
     mymap.closePopup();
     mymap.removeLayer(GeoJSONlayerReference);
@@ -297,13 +296,13 @@ function recreateMap()
     controlLayers.removeLayer(lightmap);
     controlLayers.removeLayer(GeoJSONlayerReference);
     controlLayers.remove(mymap);
-    layerReference =[];
+    layerReference = [];
     updateGEOJSON();
     stategeojson = choroplethJSONLayer(statesData)
     GeoJSONlayerReference = stategeojson;
-      // Create overlay object to hold our overlay layer
-     const overlayMaps = {
-         [legend_for_choropleth_layer(stategeojson, 'Annual Initial Claims', '', 'legend_IMD')]: stategeojson
+    // Create overlay object to hold our overlay layer
+    const overlayMaps = {
+        [legend_for_choropleth_layer(stategeojson, 'Annual Initial Claims', '', 'legend_IMD')]: stategeojson
     };
     GeoJSONlayerReference.addTo(mymap);
     controlLayers = L.control.layers(baseMaps, overlayMaps, {
@@ -342,8 +341,8 @@ function updateChart() {
         title: `<b>${selectedState} ${selectedYear} Monthly Initial Claims</b>`,
         plot_bgcolor: "#e8e8e8",
         fontsize: 20,
-        width: 800,
-        height: 500,
+        width: 600,
+        height: 450,
         margin: { t: 80, b: 80 },
         xaxis: {
             tickangle: -45,
