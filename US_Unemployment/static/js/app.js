@@ -19,12 +19,12 @@ function buildFeaturePopup(feature) {
     if (Array.isArray(census) && census.length) {
         census_string = "Population Estimate : " + census[0].value.toLocaleString() + "<br>";
     }
-    yearly_claims = "Annual Inital Claims : " + calculateYearlyClaim(feature).toLocaleString() + "<br>";;
+    yearly_claims = "Annual Inital Claims : <b>" + calculateYearlyClaim(feature).toLocaleString() + "</b><br>";
     // console.log(census.value)
     return "<h3>" + feature.properties.name + "</h3>"
         // + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 200px; height: 200px;"></div>'
         +
-        '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 250px; height: 250px;"></div>' +
+        '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 300px; height: 300px;"></div>' +
         "Population Density: <b>" + feature.properties.density + "</b><br>" +
         census_string +
         yearly_claims + "Year : <b> " + selectedYear + "</b>"
@@ -47,6 +47,7 @@ function buildUnemploymentChart(e) {
     }
     var data = [trace];
     var layout = {
+        plot_bgcolor: "#e8e8e8",
         'xaxis': {
             'showgrid': true,
             'visible': true,
@@ -64,6 +65,7 @@ function buildUnemploymentChart(e) {
         // height:500,
         //        autosize:true,
         title: "Unemployment Rate",
+        family: "Arial",
         showlegend: false
     }
     Plotly.newPlot('unemp_rate_chart_' + selectedState, data, layout, { displayModeBar: false })
