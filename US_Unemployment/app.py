@@ -47,6 +47,10 @@ def demographics():
 def industry_stats():
     return render_template("industry_stats.html")
 
+@app.route("/references/")
+def datasources():
+    return render_template("references.html")
+
 @app.route("/census_data/")
 def census_data():
     results = db.session.query(census.state, census.variable, census.value).order_by(census.state,census.variable).all()

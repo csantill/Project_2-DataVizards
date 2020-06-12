@@ -338,9 +338,10 @@ function updateChart() {
     }
     var data = [trace];
     var layout = {
-        title: `<b>${selectedState} ${selectedYear} Monthly Initial Claims</b>`,
+        title: `<b>${selectedState} ${selectedYear} - Initial Unemployment Claims </b>`,
         plot_bgcolor: "#e8e8e8",
-        fontsize: 20,
+        fontsize: 18,
+        family: 'Arial',
         width: 600,
         height: 450,
         margin: { t: 80, b: 80 },

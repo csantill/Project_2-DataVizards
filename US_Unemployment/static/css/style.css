@@ -1,16 +1,15 @@
 .navbar-brand {
     font-weight: bold;
     padding: inherit;
-    margin-left: 100px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
+    font-size: x-large;
     color: white !important;
     background-color: #034E7B;
 }
 
 .nav-item {
     font-weight: bold;
-    font-size: 16;
+    font-size: large;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -25,6 +24,23 @@ body {
     margin: 0;
     padding-bottom: 6rem;
     min-height: 100%;
+}
+
+.zoom {
+    transition: transform .2s;
+    /*transition-duration: 1s;*/
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    transform: scale(1.2);
+}
+
+.right_posit {
+    padding-left: 50px;
+    float: right;
 }
 
 #tableauPlaceholder::-webkit-scrollbar {

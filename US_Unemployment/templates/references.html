@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>US Unemployment</title>
+    <title>DataSources</title>
     <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> -->
 
     <!-- Leaflet CSS & JS -->
@@ -46,54 +46,38 @@
                     <a class="nav-link" style="color: white" href="/industry_stats/">Industry</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" style="color: white" href="/references/">References</a>
+                    <a class="nav-link" style="color: white" href="/references/">References<span class="sr-only">(current)</span></a>
                 </li>
             </ul>
         </div>
     </nav>
 
-    <div class="container-fluid">
-        <div class="row" style="margin: 20px;">
-            <div class="col-md-12 row" style="height: fit-content; width:fit-content">
-                <div class="states">
-                    <h5>State:</h5>
-                    <select id="selState"></select>
-                </div>
-                <div class="years">
-                    <h5>Year:</h5>
-                    <select id="selYear"></select>
-                </div>
-            </div>
+    <div class="container" style="font-family: Arial, Helvetica, sans-serif;">
+        <div class="row">
+            <p>The goal of this project is to develop an interactive, web-based visual application showcasing a real-world dataset, namely US unemployment through the ongoing COVID pandemic.The primary sources of data are the unemployment insurance weekly
+                claims data from the US Department of Labor and labor force statistics from the current population survey (CPS) of the U.S. Bureau of Labor Statistics as listed below.</p>
+            <ul>
+                <li>State level unemployment data from 2015 - Present (Weekly) - https://oui.doleta.gov/unemploy/claims.asp
+                    <a href="https://oui.doleta.gov/unemploy/claims.asp"></a>
+                </li>
+                <li>Demographic level unemployment data (Monthly) - https://oui.doleta.gov/unemploy/claims.asp
+                    <a href="https://download.bls.gov/pub/time.series/ln/"></a>
+                </li>
+                <li>Industry level employment data (Monthly) - https://oui.doleta.gov/unemploy/claims.asp
+                    <a href="https://download.bls.gov/pub/time.series/ce/"></a>
+                </li>
+            </ul>
         </div>
         <div class="row">
-            <div class="col-md-8">
-                <div id="map" style="width: 100%; height: 800px; "></div>
-            </div>
-            <div class="col-md-4">
-                <div id="bar" style="width: 60%; height: 60%;"></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- <div class="col-md-2">
-                    <div class="well">
-                        <h5>State:</h5>
-                        <select id="selDataset" onchange="optionChanged(this.value)"></select>
-                    </div>
-                </div> -->
-
-
-    <!-- </div> -->
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4" style="text-align: justify;">
-                <p>
-                    <h6>U.S. Bureau of Labor Statistics - Latest News </h6>
-                </p>
-                <!-- RSS feed -->
-                <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=https%3A%2F%2Fwww.bls.gov%2Ffeed%2Flaus.rss&num=5&date=y&utf=y" charset="UTF-8" type="text/javascript"></script>
-            </div>
+            <p>
+                <h6>Who is counted as unemployed?</h6>
+            </p>
+            <ul>
+                <li>All those who did not have a job at all during the survey reference week, made at least one specific active effort to find a job during the prior 4 weeks, and were available for work (unless temporarily ill)</li>
+                <li>All those who were not working and were waiting to be called back to a job from which they had been laid off. (They need not be looking for work to be classified as unemployed)</li>
+                <li>The official unemployment rate for the nation is the number of unemployed as a percentage of the labor force (the sum of the employed and unemployed)</li>
+            </ul>
+            <p style="font-size: small;">Source: https://www.bls.gov/cps/cps_htgm.htm</p>
         </div>
     </div>
 </body>
@@ -109,30 +93,8 @@
         </ul>
     </div>
 </footer>
-
-<!-- Leaflet plotly -->
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<!-- Leaflet JavaScript -->
-<script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.js"></script>
-
-<!-- <script src="{{ url_for('static', filename='js/us-states.js') }}"></script> -->
-
-<!-- 
-    <script type="text/javascript" src="static/js/config.js"></script>
-  <script type="text/javascript" src="static/js/logic.js"></script> -->
-<!-- Bootstrap JS -->
-
-
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<!-- Our JavaScript -->
-<script src="{{ url_for('static', filename='js/choropleth.js') }}"></script>
-<script src="{{ url_for('static', filename='js/config.js') }}"></script>
-<script src="{{ url_for('static', filename='js/us-states.js') }}"></script>
-<script src="{{ url_for('static', filename='js/app.js') }}"></script>
-
 
 </html>
