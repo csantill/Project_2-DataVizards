@@ -3,6 +3,13 @@ var claimsdata;
 var mapsPlaceholder = [];
 var layerReference = [];
 var GeoJSONlayerReference;
+var controlLayers;
+
+var darkmap;
+var ligthmap;
+
+var overlayMaps;
+var baseMaps;
 
 function buildFeaturePopup(feature) {
     selectedYear = d3.select("#selYear").node().value;
@@ -13,8 +20,6 @@ function buildFeaturePopup(feature) {
         census_string = "Population Estimate : " + census[0].value.toLocaleString() + "<br>";
     }
     yearly_claims = "Annual Inital Claims : " + calculateYearlyClaim(feature).toLocaleString() + "<br>";;
-
-
     // console.log(census.value)
     return "<h3>" + feature.properties.name + "</h3>"
         // + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 200px; height: 200px;"></div>'
@@ -46,11 +51,13 @@ function buildUnemploymentChart(e) {
             'showgrid': true,
             'visible': true,
             'showticklabels': false,
+            'gridwidth':2,
             'nticks': 12
         },
         'yaxis': {
             'showgrid': true,
             'visible': true,
+            'gridwidth':2,  
             'showticklabels': false
         },
         // width:500,
@@ -200,7 +207,7 @@ function legend_for_choropleth_layer(layer, name, units, id) {
 
 function createMap(stategeojson) {
     // Define tileLayers
-    const lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{tileSize}/{z}/{x}/{y}?access_token={accessToken}", {
+    lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{tileSize}/{z}/{x}/{y}?access_token={accessToken}", {
         attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors," +
             "<a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>," +
             " Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
@@ -208,7 +215,7 @@ function createMap(stategeojson) {
         id: "mapbox/light-v10", // https://docs.mapbox.com/api/maps/#static-tiles
         accessToken: API_KEY
     });
-    const darkmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{tileSize}/{z}/{x}/{y}?access_token={accessToken}", {
+    darkmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{tileSize}/{z}/{x}/{y}?access_token={accessToken}", {
         attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors," +
             "<a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>," +
             " Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
@@ -220,7 +227,7 @@ function createMap(stategeojson) {
         mapsPlaceholder.push(this); // Use whatever global scope variable you like.
     });
     // Define a baseMaps object to hold our base layers
-    const baseMaps = {
+    baseMaps = {
         "Light Map": lightmap,
         "Dark Map": darkmap
     };
@@ -233,14 +240,14 @@ function createMap(stategeojson) {
     });
 
     // Create overlay object to hold our overlay layer
-    const overlayMaps = {
+    overlayMaps = {
         [legend_for_choropleth_layer(stategeojson, 'Annual Initial Claims', '', 'legend_IMD')]: stategeojson
     };
 
     // Create a layer control
     // Pass in our baseMaps and overlayMaps
     // Add the layer control to the map
-    L.control.layers(baseMaps, overlayMaps, {
+    controlLayers = L.control.layers(baseMaps, overlayMaps, {
         collapsed: false,
         position: 'bottomright'
     }).addTo(myMap);
@@ -281,10 +288,34 @@ function updateGEOJSON() {
     })
 }
 
-function UpdateDisplay() {
-    // reload the map tool tip data
+function recreateMap()
+{
     let mymap = mapsPlaceholder[0];
     mymap.closePopup();
+    mymap.removeLayer(GeoJSONlayerReference);
+    controlLayers.removeLayer(darkmap);
+    controlLayers.removeLayer(lightmap);
+    controlLayers.removeLayer(GeoJSONlayerReference);
+    controlLayers.remove(mymap);
+    layerReference =[];
+    updateGEOJSON();
+    stategeojson = choroplethJSONLayer(statesData)
+    GeoJSONlayerReference = stategeojson;
+      // Create overlay object to hold our overlay layer
+     const overlayMaps = {
+         [legend_for_choropleth_layer(stategeojson, 'Annual Initial Claims', '', 'legend_IMD')]: stategeojson
+    };
+    GeoJSONlayerReference.addTo(mymap);
+    controlLayers = L.control.layers(baseMaps, overlayMaps, {
+        collapsed: false,
+        position: 'bottomright'
+    }).addTo(mymap);
+
+}
+// Called when the year changes
+function UpdateDisplay() {
+
+    recreateMap();
     reloadlayers();
     updateChart();
 }
@@ -332,11 +363,11 @@ function updateChart() {
 }
 
 
-
+//. Called when the state changes
 function UpdateDisplayState() {
     // reload the map tool tip data
     //    reloadlayers();
-    let mymap = mapsPlaceholder[0];
+
     updateChart()
 }
 
