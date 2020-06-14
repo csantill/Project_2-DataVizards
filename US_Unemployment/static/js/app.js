@@ -1,9 +1,9 @@
-var censusdata;
+var censusdata;       
 var claimsdata;
-var mapsPlaceholder = [];
-var layerReference = [];
-var GeoJSONlayerReference;
-var controlLayers;
+var mapsPlaceholder = []; // Handle on map
+var layerReference = [];  // Handle on popup maps
+var GeoJSONlayerReference; // Handle on GEOJSON Layer
+var controlLayers; // Handle on the contorl layer
 
 var darkmap;
 var ligthmap;
@@ -12,6 +12,7 @@ var overlayMaps;
 var baseMaps;
 
 function buildFeaturePopup(feature) {
+    // Generate Feature Popup 
     selectedYear = d3.select("#selYear").node().value;
     selectedState = feature.properties.name;
     let census = censusdata.filter(rec => (rec.state == selectedState) && (rec.year == selectedYear))
@@ -20,19 +21,17 @@ function buildFeaturePopup(feature) {
         census_string = "Population Estimate : " + census[0].value.toLocaleString() + "<br>";
     }
     yearly_claims = "Annual Inital Claims : <b>" + calculateYearlyClaim(feature).toLocaleString() + "</b><br>";
-    // console.log(census.value)
     return "<h3>" + feature.properties.name + "</h3>"
-        // + '<div id="unemp_rate_chart_'+selectedState+'"  style="width: 200px; height: 200px;"></div>'
-        +
-        '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 300px; height: 300px;"></div>' +
-        "Population Density: <b>" + feature.properties.density + "</b><br>" +
-        census_string +
-        yearly_claims + "Year : <b> " + selectedYear + "</b>"
+        + '<div id="unemp_rate_chart_' + selectedState + '"  style="width: 300px; height: 300px;"></div>'   // Tag for mini chart
+        + "Population Density: <b>" + feature.properties.density + "</b><br>" 
+        + census_string 
+        + yearly_claims + "Year : <b> " + selectedYear + "</b>"
 }
 
 function buildUnemploymentChart(e) {
+    // Generate mini chart that displays in popup
+    // added dynamically on click
     let feature = e.target.feature;
-
     selectedYear = d3.select("#selYear").node().value;
     selectedState = feature.properties.name;
 
@@ -61,9 +60,6 @@ function buildUnemploymentChart(e) {
             'gridwidth': 2,
             'showticklabels': false
         },
-        // width:500,
-        // height:500,
-        //        autosize:true,
         title: "Unemployment Rate",
         family: "Arial",
         showlegend: false
@@ -76,11 +72,11 @@ function creategeoJSONLayer(data) {
         layerReference.push(layer)
         layer.bindPopup(buildFeaturePopup(feature))
         layer.on('popupopen', function(e) {
-            buildUnemploymentChart(e)
+            buildUnemploymentChart(e) // Add the mini chart on popup
         })
     }
 
-    // Create a GeoJSON layer containing the features array on the earthquakeData object
+    // Create a GeoJSON layer
     // Run the onEachFeature function once for each piece of data in the array
     const stategeojson = L.geoJSON(data, {
         onEachFeature: onEachFeature
@@ -88,7 +84,7 @@ function creategeoJSONLayer(data) {
     return stategeojson;
 }
 
-
+// Add all claims for the selected State/Year
 function calculateYearlyClaim(feature) {
     let selectedYear = d3.select("#selYear").node().value;
     let selectedState = feature.properties.name;
@@ -106,6 +102,7 @@ function calculateYearlyClaim(feature) {
 
 
 function setSelectedIndex(s, v) {
+    // support function that sets the selected value on a popup based on value
     for (var i = 0; i < s.options.length; i++) {
         if (s.options[i].text == v) {
             s.options[i].selected = true;
@@ -117,27 +114,24 @@ function setSelectedIndex(s, v) {
 
 function choroplethJSONLayer(data) {
     function onEachFeature(feature, layer) {
-        layerReference.push(layer)
+        layerReference.push(layer)  // store handle on layer
         layer.bindPopup(buildFeaturePopup(feature))
         layer.on('popupopen', function(e) {
-            buildUnemploymentChart(e)
+            buildUnemploymentChart(e)  // Add the mini chart on popup
         })
         layer.on('click', function(e) {
             let selectedState = feature.properties.name;
             let n = d3.select("#selState").node()
-            setSelectedIndex(n, selectedState)
-            UpdateDisplayState();
-            console.log('Layer clicked!', e);
+            setSelectedIndex(n, selectedState); // Updated Popup to match selected state
+            UpdateDisplayState();    // Update state charts            
         })
     }
-
-    // Create a GeoJSON layer containing the features array on the earthquakeData object
+    // Create a GeoJSON layer 
     // Run the onEachFeature function once for each piece of data in the array
     const stategeojson = L.choropleth(data, {
         valueProperty: 'TotalClaims',
         // scale: ['SkyBlue', 'Navy'],
         scale: ['#F1EEF6', '034E7B'],
-
         steps: 7,
         mode: 'q',
         style: {
@@ -226,18 +220,17 @@ function createMap(stategeojson) {
         accessToken: API_KEY
     });
     L.Map.addInitHook(function() {
-        mapsPlaceholder.push(this); // Use whatever global scope variable you like.
+        mapsPlaceholder.push(this); // keep a handle on the map on global
     });
     // Define a baseMaps object to hold our base layers
     baseMaps = {
         "Light Map": lightmap,
         "Dark Map": darkmap
     };
-    // Create our map, giving it the streetmap and earthquakes layers to display on load
+    // Create our map, giving it the streetmap and our state date layers to display on load
     const myMap = L.map("map", {
         center: [37.09, -95.71],
         zoom: 4,
-        // layers: [lightmap, stategeojson]
         layers: [lightmap, stategeojson]
     });
 
@@ -256,6 +249,7 @@ function createMap(stategeojson) {
 }
 
 function loadDropDown(dropPick, columns, defaultOptionName) {
+    // Support function to used to load drop down 
     let selectOpt = d3.select(dropPick);
     let options = selectOpt.selectAll("option")
         .data(columns)
@@ -272,6 +266,7 @@ function loadDropDown(dropPick, columns, defaultOptionName) {
 }
 
 function loadStates(data) {
+    // Load state dropdown
     let columns = []
     data.forEach(element => {
         columns.push(element.properties.name)
@@ -280,17 +275,22 @@ function loadStates(data) {
 }
 
 function loadYears() {
+    // Load theYears dropdown
     let columns = ['2015', '2016', '2017', '2018', '2019', '2020']
     loadDropDown('#selYear', columns, columns[columns.length - 1])
 }
 
 function updateGEOJSON() {
+    // Calculate Yearly claims for each state and add to GeoJSON
     statesData.features.forEach(element => {
         element.properties['TotalClaims'] = calculateYearlyClaim(element)
     })
 }
 
 function recreateMap() {
+    // Rebuild Choropleth 
+    // When the year changes need to delete layers and recreate
+    
     let mymap = mapsPlaceholder[0];
     mymap.closePopup();
     mymap.removeLayer(GeoJSONlayerReference);
@@ -311,17 +311,11 @@ function recreateMap() {
         collapsed: false,
         position: 'bottomright'
     }).addTo(mymap);
-
-}
-// Called when the year changes
-function UpdateDisplay() {
-
-    recreateMap();
-    reloadlayers();
-    updateChart();
 }
 
 function updateChart() {
+    // Update Ploty chart 
+    // based on selected state and year
 
     selectedState = d3.select("#selState").node().value;
     selectedYear = d3.select("#selYear").node().value;
@@ -365,16 +359,24 @@ function updateChart() {
 }
 
 
-//. Called when the state changes
-function UpdateDisplayState() {
-    // reload the map tool tip data
-    //    reloadlayers();
 
+function UpdateDisplay() {
+    // Called when the year changes
+    recreateMap();
+    //    reloadlayers();  No longer needed since map is reloaded
+    updateChart();
+}
+
+
+function UpdateDisplayState() {
+    // Called when the state changes
     updateChart()
 }
 
 
 function reloadlayers() {
+    // Rebuild the layer when layer is updated
+    // change of year
     layerReference.forEach(element => {
         const newpopup = buildFeaturePopup(element.feature)
         element.feature.properties
@@ -383,14 +385,15 @@ function reloadlayers() {
 }
 
 async function init() {
+    // Load the Census and Unemployement data
+
     const url = "/census_data/"
     censusdata = await d3.json(url);
     const url2 = "/unemployment_claims/"
     claimsdata = await d3.json(url2);
-
-    loadStates(statesData.features);
-    loadYears();
-    updateGEOJSON();
+    loadStates(statesData.features); // Load the state dropdown
+    loadYears();                     // Load years dropdown
+    updateGEOJSON();      // Calculate annual claims and save on geojson
     createFeatures(statesData);
     updateChart()
 }
