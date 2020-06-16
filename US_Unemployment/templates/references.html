@@ -6,28 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>DataSources</title>
-    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> -->
-
-    <!-- Leaflet CSS & JS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
-    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q==" crossorigin=""></script>
-    <!-- <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script> -->
-
-    <!--D3 cdn-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.js"></script>
-
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <!-- Load an icon library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <!--CSS Link-->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-    </script>
-    <!-- <link rel="stylesheet" href="static/css/style.css"> -->
-
-
 </head>
 
 <body>
@@ -53,22 +40,24 @@
     </nav>
 
     <div class="container" style="font-family: Arial, Helvetica, sans-serif;">
-        <div class="row">
+        <div class="row" style="margin: 20px;">
+            <h6>Objective:</h6>
             <p>The goal of this project is to develop an interactive, web-based visual application showcasing a real-world dataset, namely US unemployment through the ongoing COVID pandemic.The primary sources of data are the unemployment insurance weekly
                 claims data from the US Department of Labor and labor force statistics from the current population survey (CPS) of the U.S. Bureau of Labor Statistics as listed below.</p>
+            <h6>Sources:</h6>
             <ul>
-                <li>State level unemployment data from 2015 - Present (Weekly) - 
+                <li>State level unemployment data from 2015 - Present (Weekly) -
                     <a href="https://oui.doleta.gov/unemploy/claims.asp">https://oui.doleta.gov/unemploy/claims.asp</a>
                 </li>
-                <li>Demographic level unemployment data (Monthly) - 
+                <li>Demographic level unemployment data (Monthly) -
                     <a href="https://download.bls.gov/pub/time.series/ln/">https://download.bls.gov/pub/time.series/ln/</a>
                 </li>
-                <li>Industry level employment data (Monthly) - 
+                <li>Industry level employment data (Monthly) -
                     <a href="https://download.bls.gov/pub/time.series/ce/">https://download.bls.gov/pub/time.series/ce/</a>
                 </li>
             </ul>
         </div>
-        <div class="row">
+        <div class="row" style="margin: 20px;">
             <p>
                 <h6>Who is counted as unemployed?</h6>
             </p>
@@ -77,12 +66,12 @@
                 <li>All those who were not working and were waiting to be called back to a job from which they had been laid off. (They need not be looking for work to be classified as unemployed)</li>
                 <li>The official unemployment rate for the nation is the number of unemployed as a percentage of the labor force (the sum of the employed and unemployed)</li>
             </ul>
-            <p style="font-size: small;">Source: https://www.bls.gov/cps/cps_htgm.htm</p>
+            <p style=" font-size: small; ">Source: https://www.bls.gov/cps/cps_htgm.htm</p>
         </div>
     </div>
 </body>
 <!-- Footer -->
-<footer class="footer">
+<footer class="footer ">
     <div>
         <h6> © Team Data Vizards</h6>
         <ul>
@@ -93,8 +82,9 @@
         </ul>
     </div>
 </footer>
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<!-- Bootstrap JavaScript -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js " integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n " crossorigin="anonymous "></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js " integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo " crossorigin="anonymous "></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js " integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6 " crossorigin="anonymous "></script>
 
 </html>
